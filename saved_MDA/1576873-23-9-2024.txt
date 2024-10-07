@@ -1,0 +1,162 @@
+\. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITIONS AND RESULTS OF OPERATIONS.
+
+Forward-Looking Statements
+
+You should read the following discussion of our financial condition and results of operations in conjunction with the consolidated financial statements and the notes thereto included elsewhere in this Form 10-K. The information in this discussion contains forward-looking statements and information within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act. These forward-looking statements include, but are not limited to, statements concerning our strategy, future operations, future financial position, future revenues, projected costs, prospects and plans and objectives of management. The words “anticipates,” “believes,” “estimates,” “expects,” “intends,” “may,” “plans,” “projects,” “will,” “would” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. We may not actually achieve the plans, intentions, or expectations disclosed in our forward-looking statements and you should not place undue reliance on our forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements that we make. These forward-looking statements involve risks and uncertainties that could cause our actual results to differ materially from those in the forward-looking statements, including, without limitation, the risks set forth in our filings with the SEC. The forward-looking statements are applicable only as of the date on which they are made, and we do not assume any obligation to update any forward-looking statements except as required by applicable securities laws.
+
+Overview
+
+American Battery Technology Company (the “Company”) is a relatively new entrant in the lithium–ion battery industry that is working to increase the domestic U.S. production of battery materials, such as lithium, nickel, cobalt, and manganese through its exploration of new domestic-United States primary resources of battery metals, development and commercialization of new technologies for the extraction of these battery metals from primary resources, and commercialization of an internally developed integrated process for the recycling of lithium–ion batteries. Through this three–pronged approach the Company is working to both increase the domestic production of these battery materials, and to ensure spent batteries have their elemental battery metals returned to the domestic manufacturing supply chain in an economical, environmentally-conscious, closed–loop fashion.
+
+To implement this business strategy, the Company has constructed its first integrated lithium–ion battery recycling facility, which takes in waste and end–of–life battery materials from the electric vehicle, stationary storage, and consumer electronics industries. The ramp-up and operations of this facility are of the highest priority to the Company, and as such it has significantly increased the resources devoted to its execution including the further internal hiring of technical staff, expansion of laboratory facilities, and purchasing of equipment which led to the Company’s first revenue generation in the fourth quarter of fiscal 2024. The Company has been awarded a competitively bid grant from the U.S. Advanced Battery Consortium to support a $2 million project to accelerate the development and demonstration of the technologies within this integrated lithium–ion battery recycling facility. The Company has also been awarded an additional grant from the U.S. Department of Energy (“DOE”) to support a $20 million project under the Bipartisan Infrastructure Law to validate, test, and deploy three next-generation disruptive advanced separation and processing recycling technologies.
+
+Additionally, the Company is accelerating the demonstration and commercialization of its internally developed low–cost and low–environmental impact processing train for the manufacturing of battery grade lithium hydroxide from Nevada–based sedimentary claystone resources. The Company has been awarded a grant cooperative agreement from the DOE’s Advanced Manufacturing and Materials Technologies Office through the Critical Materials Innovation program to support a $4.5 million project for the construction and operation of a multi–ton per day integrated continuous demonstration system to support the scale–up and commercialization of these technologies. The Company has also been awarded an additional grant award under the Bipartisan Infrastructure Law to support a $115 million project to design, construct, and commission a first-of-kind commercial-scale refinery to produce 30,000 MT of battery-grade lithium hydroxide per year from this resource.
+
+The Company has completed the construction and commissioning of its lithium hydroxide (LiOH) pilot plant, marking a significant milestone in the commercialization of its internally-developed processes to access an unrealized domestic primary lithium resource. The construction and commissioning of this pilot plant enables the Company to demonstrate its technologies for accessing the lithium housed in its unconventional resource, Tonopah Lithium Flats Project (“TLFP”), in an integrated and continuous system, and to generate large amounts of battery grade lithium hydroxide for delivery to customers for qualifications and evaluation. The construction and operation of this pilot demonstration plant are supported by a competitively awarded grant from the DOE for this $4.5 million effort. Product from the pilot plant is being sent for analysis to confirm and validate the resource.
+
+The Company has filed an Amended IA for its TFLP. The TFLP is one of the largest identified lithium resources in the United States, and while initial pit designs and economic analyses in previous assessments evaluated the full resource, this updated Initial Assessment utilizes a commercialization pathway with a more rigorous mine plan that contemplates utilization of only Measured and Indicated Mineral Resources, and excludes Inferred Mineral Resources, to supply the planned commercial-scale lithium hydroxide monohydrate (“LHM”) refinery. This commercialization pathway allows for an engineered phased development, with improved access to the higher quality portions of the resource, and improved project economics.
+
+On March 28, 2024, the Company was selected for an approximately $19.5 million tax credit through the Qualifying Advanced Energy Project Credits program (the “48C program”). This tax credit was granted by the U.S. Department of Treasury Internal Revenue Service following a highly competitive technical and economic review process performed by the DOE, which evaluated the feasibility of applicant facilities to advance America’s buildout of globally competitive critical material recycling, processing, and refining infrastructure. This $19.5 million tax credit can be utilized both for the reimbursement of capital expenditures spent to date, and also for equipment and infrastructure for additional value-add operations at the Company’s battery recycling facility in the Tahoe-Reno Industrial Center (TRIC) near Reno, Nevada. As of June 30, 2024, the Company has incurred qualifying expenditures for this tax credit but will not recognize any amounts until it has reasonable assurance of compliance with the relevant standards.
+
+Also on March 28, 2024, the Company has been selected for an additional $40.5 million tax credit through the 48C program to support the design and construction of a new, next-generation, commercial battery recycling facility to be located in the United States. As with the Company’s initial $19.5 million tax credit under the 48C program supporting the construction and buildout of its battery recycling facility in Nevada, this additional award was granted by the U.S. Department of Treasury Internal Revenue Service following a highly competitive technical and economic review process performed by the DOE, which evaluated the feasibility of applicant facilities to advance America’s buildout of globally competitive critical material recycling, processing, and refining infrastructure. As of June 30, 2024, the Company has not incurred any qualifying expenditures towards this tax credit.
+
+2024 Financial Highlights:
+
+| ● | In the 4th quarter, the Company generated its first revenue from the sale of Black Mass produced by its first integrated lithium-ion battery recycling facility. Once fully ramped, this facility has the capacity to process approximately 20,000 MT/year of battery materials and to produce multiple streams of battery grade metals and other byproducts. 
+---|---|--- 
+| ● | The prime agreement contract with the DOE for the Company’s grant to support its $115 million project for its commercial-scale lithium hydroxide refinery was issued with a project start date of September 1, 2023. The Company began receiving funds related to this award during the period ended December 31, 2023. 
+| ● | The prime agreement contract with the DOE for the Company’s grant to support its $20 million project for its next-generation advanced battery recycling technologies was issued with a project start date of October 1, 2023. The Company began receiving funds related to this award during the period ended December 31, 2023. 
+| ● | Government grant funding increased to $3.3 million for the fiscal year ended June 30, 2024, compared to $0.9 million during the prior year. Out of the current period’s $3.3 million in grant funding, $1.0 million was recorded as an offset to fixed assets, as reimbursements related to equipment purchases, and $2.3 million was recorded as an offset to research and development costs within the consolidated statement of operations. 
+| ● | As of June 30, 2024, the Company had total cash on hand of $7.0 million. 
+| ● | Cash used in investing activities was $12.9 million for the acquisition of property, construction, equipment, mineral rights and water rights for the fiscal year ended June 30, 2024. Cash used in the same period of the prior year totaled $36.7 million primarily for acquisition of the Peru facility, water rights and equipment. 
+| ● | Cash used in operations for the fiscal year ended June 30, 2024 was $16.9 million, compared to $13.4 million use of cash during the fiscal year ended June 30, 2023. 
+| ● | On August 29, 2023, the Company entered into a Securities Purchase Agreement for up to $51.0 million of a new series of senior secured convertible notes. To date, $25.0 million of these notes have been issued and the Company has no plans to use the remaining facility. 
+| ● | On April 3, 2024, the Company entered into an At-the-Market Sales Agreement (“ATM”) with Virtu Americas LLC having an aggregate offering price of up to $50.0 million which may be used to fund operations. During the fiscal year ended June 30, 2024, the Company sold 9,109,573 common shares and received proceeds of $12.1 million under the ATM. 
+
+Components of Statements of Operations
+
+Revenue
+
+During the year ended June 30, 2024, our net sales were $0.3 million. These sales related to our Black Mass product resulting from recycling operations and were the initial revenue generated by the Company. The materials were sold to a customer who took delivery at our plant and the materials will remain at our plant to be further processed when phase two of the plant is complete.
+
+Cost of Goods Sold
+
+Cost of goods sold during the year ended June 30, 2024 was $3.3 million, well above the value of the related revenue. The high cost of goods sold is related to the in-service date and depreciation of the recycling facility fixed assets, which is time based, and the finalization of the production process. We expect these costs to continue to rise but will be reduced as a percentage of revenue as we scale our production and gain efficiencies in the process.
+
+Operating Expenses
+
+During the fiscal year ended June 30, 2024, the Company incurred $44.8 million of operating expenses compared to $22.4 million of operating expenses during the fiscal year ended June 30, 2023. The increase is primarily due to the items described below:
+
+General and administrative expenses consist of personnel, legal, finance, recruiting, business development, public relations, and general facility expenses. For the fiscal year ended June 30, 2024 and 2023, general and administrative expenses were $16.1 million and $12.8 million, respectively. The increase of $3.3 million is primarily related to increases in employee stock-based compensation, compliance and insurance costs.
+
+Research and development expenses consist primarily of personnel, laboratory leases, and supplies. Research and development expenses for the fiscal year ended June 30, 2024, and 2023, were $14.3 million and $7.6 million, respectively. The increase of $6.8 million is primarily due to increased employee headcount, stock-based compensation, insurance and facility costs. These costs are partially offset by federal grant funds for awards that the Company has contracted with various United States federal agencies. The Company recognized an offset to its research and development costs of $3.3 million and $0.9 million related to these awards for the fiscal year ended June 30, 2024, and 2023, respectively.
+
+Exploration costs consist primarily of personnel, drilling, assay, claim fees, office and warehouse costs, travel, and other costs related to exploration of claims in central Nevada. Exploration expenses totaled $4.1 million for the fiscal year ended June 30, 2024, compared to $2.0 million during the prior year. The increase year-over-year resulted principally from increased drilling, assaying and engineering costs to further define and potentially upgrade the geological classification of the mineral rights.
+
+An impairment loss on assets held-for-sale was recorded in the year ended June 30, 2024 and is related to certain assets, primarily to land and a building, at the Fernley, Nevada location the Company has decided to sell. Upon this decision, the Company performed a valuation analysis to determine the potential realizable value of these and that estimated amount was $10.2 million less than the carrying value of the assets. These assets have a carrying value of $8.4 million at June 30, 2024 and are subject to further impairment, if warranted, until the assets are sold.
+
+Other (Expense) Income
+
+Other expense was $4.7 million in the year ended June 30, 2024 versus other income of $0.2 million in the prior year. The increase of $4.9 million is primarily due to the accretion of financing costs of $4.2 million and the change in fair value of derivative liability of $0.3 million. During the fiscal year ended June 30, 2024, the Company reported a correction of prior periods related to the derivative liability (see Note 3 of the consolidated financial statements for further detail).
+
+Net Loss
+
+During the fiscal year ended June 30, 2024, the Company incurred a net loss of $52.5 million or $1.02 loss per share compared to a net loss of $22.2 million or $0.51 loss per share during the fiscal year ended June 30, 2023.
+
+Liquidity and Capital Resources
+
+At June 30, 2024, the Company had cash of $7.0 million and total assets of $77.7 million compared to cash of $2.3 million and total assets of $74.7 million at June 30, 2023. The increase in cash is primarily due to utilization of the common stock purchase agreement with Tysadco and ATM agreement with Virtu offset by many uses of cash for the continued build out of our production process during the year.
+
+The Company had total current liabilities of $15.8 million at June 30, 2024, compared to $13.7 million at June 30, 2023. The increase is primarily related to an increase in accounts payable and accrued liabilities which include the full amount of $1.8 million related to the settlement of Mercuria Marketing Agreement.
+
+As of June 30, 2024 the Company had positive working capital of $2.2 million compared to a working capital deficiency of $9.0 million at June 30, 2023. The positive working capital is related to the current classification of $8.4 million of held-for-sale assets at June 30, 2024. Absent this classification, we would have a working capital deficiency of $5.8 million compared to a deficiency of $9.0 million in the prior year. The working capital deficiency is largely attributed to the current classification of all of the convertible notes, as well as acquisitions of property and equipment and cash used in operating activities.
+
+Going Concern
+
+The continuation of the Company as a going concern is dependent upon generating profit from its operations and its ability to obtain debt or equity financing. There is no assurance that the Company will be able to generate sufficient profits, obtain such financings, or obtain them on favorable terms, which could limit its operations. Any such financing activities are subject to market conditions. These uncertainties cause substantial doubt about the Company’s ability to continue as a going concern for 12 months from issuance of these financial statements. These consolidated financial statements do not include any adjustments to the recoverability and classification of recorded asset amounts and classification of liabilities that might be necessary should the Company be unable to continue as a going concern. These adjustments could be material.
+
+The going concern assessment excludes the Company’s at-the-market (“ATM”) offering, which could provide a source of liquidity.
+
+On April 3, 2024, the Company entered into an ATM sales agreement with Virtu Americas LLC, pursuant to which the Company may offer and sell, from time to time through the sales agent, shares (the “Shares”) of the Company’s common stock, par value $0.001 per share, having an aggregate offering price of up to $50,000,000, subject to the terms and conditions of the Sales Agreement. During the period, the Company sold 9,109,573 common shares for total proceeds of $12.1 million.
+
+Based on our current operating plan, unless we generate income from the operations of our facilities and receipt of cash from United States Government grant awards, raise additional capital (debt or equity), it is possible that we will be unable to maintain our financial covenants under our existing Note agreement, which, if such violation is not waived, could result in an event of default, causing an acceleration of the outstanding balances. If we do raise additional capital through public or private equity offerings, as opposed to debt or additional Note issuances, the ownership interest of our existing stockholders may be diluted.
+
+Grant Awards
+
+On January 20, 2021, the US DOE announced that the Company had been selected for award negotiation for a three-year project with a total budget of $4.5 million for the field demonstration of its selective leaching, targeted purification, and electro-chemical production of battery grade lithium hydroxide from domestic claystone resources technology. Through this grant award the Company is eligible to receive reimbursement of up to 50% of eligible expenditures, or up to $2.3 million. The prime agreement contract for this grant (“AMO grant”) was issued with a project start date of October 1, 2021. The Company began receiving funds related to this award during the fiscal year ended June 30, 2022. As of June 30, 2024, the cumulative funds invoiced for this grant totaled $1.7 million, which represents 73% of the total eligible reimbursements.
+
+On August 16, 2021, the Company received a contract award for a 30-month project with a total budget of $2.0 million from the US Advanced Battery Consortium (the “USABC grant”) as part of a competitively bid project, through which the Company will receive reimbursement for up to $500,000 of eligible expenditures. The objective of the contract award is for the commercial-scale development and demonstration of an integrated lithium-ion battery recycling system, the production of battery cathode grade metal products, the synthesis of high energy density active cathode material from these recycled battery metals, and the fabrication of large format automotive battery cells from these recycled materials and the testing of these cells against otherwise identical cells made from virgin sourced metals. The Company began receiving funds related to this award during the fiscal year ended June 30, 2022. As of June 30, 2024, the cumulative funds invoiced for this grant totaled $0.5 million, which represents 97% of the total eligible reimbursements.
+
+On October 21, 2022, the US DOE announced that the Company has been selected for award negotiation for a five-year project with a total budget of $115.5 million to expand domestic manufacturing of battery grade lithium hydroxide for lithium-ion batteries for electric vehicles, a focus on domestic processing of materials and components that are currently imported from foreign countries. Through this grant award the Company is eligible to receive reimbursement of up to 50% of eligible expenditures, or up to $57.7 million. The prime agreement contract for this grant was issued with a project start date of September 1, 2023. The Company began receiving funds related to this award in fiscal 2024. As of June 30, 2024, the cumulative funds invoiced for this grant totaled $1.7 million, which represents 3% of the total eligible reimbursements.
+
+On November 17, 2022, the US DOE announced that the Company has been selected for award negotiation for a three-year project with a total budget of $20.0 million to demonstrate and commercialize next generation techniques for its lithium-ion battery recycling processes to produce low-cost and low-environmental impact domestic battery materials. Through this grant award the Company is eligible to receive reimbursement of up to 50% of eligible expenditures, or up to $10.0 million. The Company is expected to begin receiving funds associated with this during the fiscal year ended June 30, 2024. As of June 30, 2024, the cumulative funds invoiced for this grant totaled $0.6 million, which represents 6% of the total eligible reimbursements.
+
+Cash Flows
+
+For the fiscal years ended June 30:
+
+Cash from Operating Activities.
+
+During the fiscal year ended June 30, 2024, the Company used $16.7 million of cash for operating activities as compared to $13.4 million used during the fiscal year ended June 30, 2023. The increase is mainly due to non-cash items related to the write down loss on held-for-sale assets of $10.3 million, stock-based compensation expense of $14.6 million, and accretion of financing costs of $4.2 million. The change in operating assets was mainly driven by costs for engineering and research and development as well as increased exploration expenses. Increased engineering and research and development costs were to support the development of the Company’s process for the recycling of lithium-ion batteries and for the extraction of lithium from the Company’s lithium claystone mining claims. The Company has also incurred a steady increase in exploration activity expenses as it continues to evaluate its claims in the Tonopah, Nevada region. General and administrative expenses have increased to further support the Company’s business objectives.
+
+Cash from Investing Activities
+
+During the fiscal year ended June 30, 2024, the Company used cash for investing activities of $12.9 million, consisting primarily of $11.4 million related to property and equipment for its recycling facilities. This is in comparison to cash used for investing activities of $36.7 million for the fiscal year ended June 30, 2023, including $28.6 million of acquisition costs associated with property and equipment for its recycling facilities and $8.1 million for mineral rights acquired in Tonopah, Nevada.
+
+As of June 30, 2024, the Company had total non-current assets of $59.3 million compared to $69.9 million at June 30, 2023. The Company will continue to see an increase in investing activities as it continues to invest heavily in its recycling and primary resource extraction activities.
+
+Cash from Financing Activities
+
+During the year ended June 30, 2024, the Company had net cash provided by financing activities of $34.4 million compared to $23.4 million for the fiscal year ended June 30, 2023. The increase is due to the use of share purchase agreements.
+
+During the period, the Company issued 17.3 million shares of common stock pursuant to purchase agreements for net proceeds of $38.1 million and the Company issued convertible notes for net proceeds of $20.3 million. These were partially offset by repayment of notes payable during the period totaling $24 million.
+
+Off-Balance Sheet Arrangements
+
+As of June 30, 2024 and 2023, we had no off-balance sheet arrangements.
+
+Working Capital
+
+Future Financings
+
+We will continue to rely on sales of our common shares, debt, or other financing to fund our business operations. Issuance of additional shares will result in dilution to existing stockholders. There is no assurance that we will achieve any additional sales of the securities or arrange for debt or other financing to fund planned operating activities, acquisitions and exploration activities.
+
+Critical Accounting Estimates and Judgments
+
+Our consolidated financial statements and accompanying notes are prepared in accordance with accounting principles generally accepted in the United States of America. These accounting principles require us to make estimates, judgments and assumptions that affect the reported amounts of revenues, expenses, assets, liabilities, and contingencies. All significant estimates, judgments and assumptions are developed based on the best information available to us at the time made and are regularly reviewed and updated when necessary. Actual results could differ from these estimates. Changes in estimates are reflected in our financial statements in the period of change based upon on-going actual experience, trends, or subsequent realization depending on the nature and predictability of the estimates and contingencies.
+
+Certain accounting estimates, including those concerning revenue recognition, share based compensation, impairments of long-lived assets, assets held-for-sale, and accounting for income taxes, are considered to be critical in evaluating and understanding our financial results because they involve inherently uncertain matters and their application requires the most difficult and complex judgments and estimates. These are described below. For further information on our accounting policies, see Note 3 to our consolidated financial statements.
+
+Fair Value Measurements
+
+Recurring Valuations. The Company’s recurring fair value measurements include the valuation of the derivative liability for the bifurcated notes payable freestanding call option. In making these fair value determinations, we were required to make assumptions that affected the recorded amounts, including volatility, risk free rates, and duration of time. Our estimates of fair value are based upon assumptions we believe to be reasonable, but which are inherently uncertain.
+
+Nonrecurring Valuations. The Company’s nonrecurring fair value measurements include the valuation of assets held-for-sale. In making these fair value determinations, we were required to make assumptions that affected the recorded amounts, including estimates related to construction work, comparable market listings for similar assets and current market conditions. Our estimates of fair value are based upon assumptions we believe to be reasonable, but which are inherently uncertain.
+
+Revenue Recognition
+
+Revenue recognition requires judgment and the use of estimates, especially in identifying and evaluating the various non-standard terms and conditions in our contracts with customers as to their effect on reported revenue.
+
+We account for revenue in accordance with Accounting Standards Codification 606, Revenue from Contracts with Customers (“ASC 606”). The core principle of ASC 606 is to recognize revenue upon the transfer of services or products to customers in an amount that reflects the consideration we expect to be entitled to in exchange for those services or products. We apply a five-step framework to recognize revenue as described in our Revenue Recognition policy included in Note 3 of our consolidated financial statements included in this Annual Report on Form 10-K.
+
+Generally, we recognize revenue related to sales of our products upon shipment, when persuasive evidence of an arrangement exists, delivery has occurred or services have been rendered, the fee is fixed or determinable, and collectability is reasonably assured. The Company has limited revenue recognition history. There are no provisions for payment discounts, product return allowances and uncollectable accounts at this time.
+
+Bill and Hold Transactions
+
+The majority of revenue is derived from a bill and hold arrangement. In this case, at the customer’s request, we enter into bill-and-hold transaction whereby title transfers to the customer, but the product does not ship until a specified later date. We recognize revenue associated with bill-and-hold arrangements when the product is complete and ready to ship, hold criteria have been met, the amount due from the customer is fixed, and collectability of the related receivable is reasonably assured. All of the foregoing requires us to apply our judgment. Bill-and-hold arrangements most often occur when the customer requests us to hold the product for potential future processing or until they provide us further instructions at a later date to ship the product to a different location.
+
+Assets Held-for-Sale
+
+Management considers whether events and circumstances such as a change in strategic direction and changes in business climate would impact the fair value of long-lived assets. The Company used critical judgements in analyzing certain market data and estimates to calculate the value of the assets held-for-sale. Significant assumptions that form the basis of fair value include market comparison of similar properties, construction cost estimates and using certain dollar per square foot amounts to derive fair value. Our estimates of fair value are based upon assumptions we believe to be reasonable, but which are inherently uncertain.
+
+Stock-Based Compensation
+
+The fair value of share-based payments are subject to the limitations of the Black-Scholes option pricing model that incorporates market data and involves uncertainty in estimates used by management in the assumptions. Because the Black-Scholes option pricing model requires the inputs of highly subjective assumptions, including the volatility of share prices, changes in subjective input assumptions can materially affect the estimate.
+
+Accounting for Income Taxes
+
+Tax interpretations, regulations and legislation in the various jurisdictions in which the Company operates are subject to change and interpretation. As such, income taxes are subject to measurement uncertainty. Assessing the recoverability of deferred tax assets requires the Company to make estimates related to the expectations of future taxable income and the application of existing tax laws. To the extent that future taxable income differs significantly from estimates, the ability of the Company to realize deferred tax assets could be impacted.
+
+New Accounting Pronouncements
+
+New accounting pronouncements are issued by the Financial Accounting Standards Board or other standard setting bodies that are adopted by us as of the specified effective date. Unless otherwise discussed, we believe that the impact of recently issued standards that are not yet effective will not have a material impact on our financial position or results of operations upon adoption. For further discussion on recent accounting pronouncements, please see Note 3, “Accounting Pronouncements,” to our consolidated financial statements included in this Annual Report on Form 10-K for additional information.

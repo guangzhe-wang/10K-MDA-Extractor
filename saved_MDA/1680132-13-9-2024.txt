@@ -1,0 +1,81 @@
+. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Background
+
+Since June 2022, the Company has focused its efforts on real estate operations. We have no involvement in any aspect of the cannabis industry. In February 2023, we leased a commercial building from a company controlled by our CEO and subleased a portion of the building to a third party. The term of the sublease was one year and the annual rent was $30,000. Effective March of 2024, the sublease became a month-to-month lease for $2,500 per month.
+
+The following discussion should be read in conjunction with our financial statements, including the notes thereto, appearing elsewhere in this Annual Report. The following discussion contains forward-looking statements that reflect our plans, estimates and beliefs. Our actual results could differ materially from those discussed in the forward-looking statements. Our audited financial statements are stated in United States Dollars and are prepared in accordance with United States Generally Accepted Accounting Principles.
+
+Results of Operations for the years ended May 31, 2024 and 2023
+
+Revenue and Cost of Sales
+
+For the year ended May 31, 2024, the Company generated total revenue of $30,000 from renting. The cost of sales for the year ended May 31, 2024, was $30,067.
+
+For the year ended May 31, 2023, the Company generated total revenue of $10,000. The cost of sales for the year ended May 31, 2023, was $9,166.
+
+The increase in revenues and cost of sale is due to the fact that the Company started its renting business in February 2023. In other words, there were twelve months’ revenue for the year ended May 31, 2024, but four months’ revenue for the year ended May 31, 2023. The cost of sales increase aligns with the increase in revenue.
+
+Operating Expenses
+
+Total operating expenses for the year ended May 31, 2024, were $256,870. The operating expenses for the year ended May 31, 2024, included professional fees of $77,940; depreciation expense of $4,244 and general and administrative expenses of $174,686.
+
+Total operating expenses for the year ended May 31, 2023, were $343,516. The operating expenses for the year ended May 31, 2023, included professional fees of $278,570 which included $78,420 of legal fees, $36,200 in accounting, other consulting fees of $128,700 and $35,250 in audit fees; depreciation expense of $4,244 and general and administrative expenses of $60,702.
+
+The decrease in operating expenses is related to the decrease of the professional fees due to significance of business activities and SEC filings in the year ended May 31, 2023.
+
+Other Income (Expense)
+
+The total other income (expense) for the years ended May 31, 2024 and 2023 were $(1,007,692) and $(8,865), respectively. The other expenses for the year ended May 31, 2024, contained interest expenses of $26,802, loss of $1,808,573 on the settlement of debt, gain of $93,926 on lease extension, and amortization of debt premium of $733,757, while for the year ended May 31, 2023, the other expenses contained only interest expenses of $8,865. The significant increase in other expenses is due to the loss on settlement of debt resulting from the Company prepaying for its lease liabilities with convertible notes that were recorded at their fair value, which were recorded at a premium, during the year ended May 31, 2024.
+
+Net Loss
+
+The net loss for the years ended May 31, 2024 and 2023 was $1,264,629 and $351,547, respectively.
+
+Liquidity and Capital Resources and Cash Requirements
+
+As of May 31, 2024, the Company had cash of $28,562. Furthermore, the Company had a working capital deficit of $212,098 and $329,092 on May 31, 2024 and 2023, respectively.
+
+During the year ended May 31, 2024, the Company used $45,637 of cash in operating activities due to its net loss of $1,264,629 plus its gain on lease extension of $93,926, its amortization of debt premium of $733,757, and a decrease in accounts payable of $4,217; offset by stock issued for services of $20,000, depreciation of $4,244, lease cost, net of repayments of $170,698, loss on settlement of debt of $1,808,574, decrease in prepaid expenses of $20,574, and an increase in accrued expenses of $26,802.
+
+During the year ended May 31, 2023, the Company used $163,960 of cash in operating activities due to its net loss of $351,547 plus an increase in prepaid expenses of $4,500; offset by depreciation of $4,244, stock payment for services of $124,000, increase in accounts payable of $10,770, and an increase in accrued interest of $8,865.
+
+During the years ended May 31, 2024 and 2023 the Company did not have cash in investing activities.
+
+During the year ended May 31, 2024, the Company generated $74,000 of cash in financing activities, which came from advances from related parties of $76,500 and proceeds from stock issuance of $20,000, offset by repayments of related party advances of $22,500.
+
+During the year ended May 31, 2023, the Company generated $164,159 of cash in financing activities, which came from advances of $29,159 from related parties and proceeds from convertible notes of $135,000.
+
+In its audited financial statements as of May 31, 2024, the Company was issued a “going concern” opinion, meaning that there is substantial doubt we can continue as an on-going business for the next twelve months unless we obtain additional capital. Our sources for cash at this time are investments by others, loans and advances from our CEO who is our sole director, and very limited revenue from renting. We must raise cash to implement our plan and stay in business.
+
+Off-Balance Sheet Arrangements
+
+The Company does not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on the Company’s financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources.
+
+Critical Accounting Policies
+
+Use of Estimates
+
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date the financial statements and the reported amount of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+
+Leases
+
+The Company follows the accounting for leases under Accounting Standards Codification (“ASC”) 842 Lease Accounting and determines if an arrangement is a lease or contains a lease at inception. Operating leases result in operating lease right-of-use (“ROU”) assets and operating lease liabilities (short term and long term) being recorded on the Company’s balance sheets.
+
+ROU assets represent the right to use an underlying asset for the lease term and lease liabilities represent the obligation to make lease payments arising from the lease. Operating lease ROU assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term. The Company uses the incremental borrowing rate based on the estimated rate of interest for collateralized borrowings over a similar term of the lease payments at commencement date. The operating lease ROU asset also includes any lease payments made and excludes lease incentives. The Company’s lease terms may include options to extend or terminate the lease when 
+
+it is reasonably certain that the Company will exercise that option. Lease expense for lease payments is recognized on a straight-line basis over the lease term.
+
+Rent Revenue Recognition
+
+The Company recognizes rent revenue from the lease of its sub-leased properties in accordance with ASC 842, Leases. The sub-lease is categorized as an operating lease according to ASC criteria for the lease definitions. Rent revenue is recognized on a straight-line basis over the lease term, reflecting the pattern of the economic benefits derived from the lease.
+
+The Company’s leases generally have fixed rental payments over the lease term, with occasional escalations based on predetermined factors. Rent revenue is recognized monthly as the lessor fulfills its obligations under the lease agreement.
+
+Any lease incentives or concessions provided to lessees, such as rent-free periods or tenant improvement allowances, are recognized as a reduction of rent revenue over the lease term.
+
+For the years ended May 31, 2024 and 2023, the Company recognized rent revenue of $30,000 and $10,000, respectively, from its lease agreements.
+
+Recent Accounting Pronouncements
+
+There have been no recent accounting pronouncements or changes in accounting pronouncements during the year ended May 31, 2024, that are of significance or potential significance to the Company.

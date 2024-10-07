@@ -1,0 +1,289 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion of our financial condition and results of operations should be read together with our financial statements and the notes thereto and other information included elsewhere in this Annual Report. Unless the context requires otherwise, references in this Report to “iBio,” the “Company,” “we,” “us,” or “our” and similar terms mean iBio, Inc.
+
+Overview 
+
+We are a pioneering biotechnology company at the intersection of AI and biologics, committed to reshaping the landscape of discovery. Our core mission is to harness the potential of AI and machine learning to unveil elusive biologics that stand out and have evaded other scientists. Through our innovative platform, we champion a culture of innovation by swiftly identifying novel targets, forging strategic collaborations with the goal of to enhancing efficiency, diversifying pipelines, and accelerating preclinical processes.
+
+Additionally, our groundbreaking EngageTx technology enables us to target bi-specific molecules, while ShieldTx is designed to reduce or eliminate adverse effects stemming from off-target tissue effects. With the ability to navigate sequence diversity and promote Human-Cyno cross reactivity while mitigating cytokine release, our goal is to enhance agility and bolster preclinical safety assessments.
+
+Our strategic approach to fulfilling our mission is outlined as follows:
+
+In essence, we are sculpting a future where cutting-edge AI-driven biotechnology propels the discovery of intricate biologics, fostering partnerships, accelerating innovation, and propelling the advancement of science.
+
+​
+
+AI-Technology Platform 
+
+Overview
+
+Our platform comprises five key components, each playing a crucial role in the discovery and optimization of precision antibodies.
+
+The first layer, epitope engineering, leverages the patented AI-engine to target specific regions of proteins, allowing us to engineer antibodies with high specificity and efficacy. The second layer involves the proprietary antibody library, which is built on clinically validated frameworks and offers a rich diversity of human antibodies. The third layer of the technology stack is the antibody optimizing StableHu AI technology, coupled with mammalian display technology. Next, our EngageTx platform forms the fourth layer. Lastly, our ShieldTx antibody masking technology enables the creation of conditionally activated antibodies. Each layer of the tech stack is designed to work synergistically, enabling us to rapidly advance antibodies from concept to in vivo proof-of-concept (POC).
+
+​
+
+AI Epitope Steering Technology
+
+Our epitope steering technology is designed to address these issues by guiding antibodies exclusively against the desired regions of the target protein. By focusing on these specific regions, we can overcome the limitations of traditional methods and significantly improve the efficiency and effectiveness of our antibody discovery process. Our AI engine creates engineered epitopes, which are small embodiments of epitopes on the target protein. The engine is trained to match the epitope structure as closely as possible and refine the designs for greater stability and water solubility, which are critically important factors. The optimized engineered epitope is then used to identify antibodies from naïve or immunized libraries.
+
+Naïve Human Antibody Library
+
+The fully human antibody library is built upon clinically validated, entirely human antibody frameworks. By leveraging public databases, we have extracted a diverse array of Complementarity-Determining Region (CDR) sequences. Subsequently, we have meticulously eliminated a range of sequence liabilities. Such careful curation process could potentially significantly reduce the development risk for antibodies identified from our library.
+
+StableHuTM AI Antibody-Optimizing Technology
+
+Our proprietary StableHu technology is instrumental in the optimization process. StableHu is an AI-powered tool designed to predict a library of antibodies with fully human CDR variants based on an input antibody. This input can range from an early, unoptimized molecule to an approved drug. The model has been trained utilizing a set of over 1 billion human antibodies, progressively masking known amino acids within CDRs until the algorithm could predict the correct human sequence.
+
+While phage display libraries are often used in antibody optimization due to their vast diversity, they can increase developability risks such as low expression, instability, or aggregation of antibodies. Mammalian display libraries, on the other hand, offer significantly improved developability but reduced diversity due to the smaller library size they can handle. StableHu overcomes this limitation by utilizing a machine learning algorithm generating focused library diversity within the capacity of mammalian display.
+
+Mammalian display is a technology that presents antibodies on the surface of mammalian cells, allowing for the direct screening and selection of antibodies in a mammalian cell environment. This approach is advantageous as antibodies that express well on the mammalian cells used in the display are more likely to express well in the production cell line. Moreover, single-cell sorting of antibody-displaying cells allows rapid selection of desired antibodies based on multiple dimensions, such as potency, selectivity, and cross-species selectivity.
+
+When paired with mammalian display technology, StableHu enables antibody optimization with fewer iterative optimization steps, lower immunogenicity risk, and improved developability.
+
+EngageTx CD3-Based T-Cell Engager Panel
+
+We have used antibodies from an epitope steering campaign as well as a first-generation T-cell engager as input and utilized our StableHu technology to identify a next-generation CD3 antibody panel. The sequence diversity generated by StableHu led to an antibody panel with a wide range of potencies, which allows us to pair the panel with a wide variety of tumor-targeting antibodies. Importantly, we were able to retain T-cell activation and tumor cell killing capacity with significantly reduced cytokine release. This reduction is believed to lower the risk of cytokine release syndrome. Additionally, the increased humanness of the predicted antibodies, thanks to our StableHu technology, reduces the risk of immunogenicity.
+
+Furthermore, our StableHu technology enabled us to engineer NHP cross-reactivity into EngageTx. This allows for advanced safety assessment in NHP ahead of clinical trials, providing another layer of safety assurance.
+
+ShieldTx Antibody Masking Technology
+
+Our ShieldTx technology enables the creation of conditionally activated antibodies and stands out because it is deeply integrated into our technology stack, providing multiple advantages. Identifying a fitting mask is challenging, however, ShieldTx is designed to increase the probability of success. This increased success rate is due to our epitope engineering engine, which creates small embodiments of the drug target epitope to raise antibodies. These engineered epitopes, by definition, bind to the raised antibody and can be deployed as masks. Thus, the mask design process is inherently built into the antibody discovery process.
+
+Additionally, multi-dimensional optimization with our StableHu antibody optimization technology allows for the simultaneous optimization of the three components of conditionally activated antibodies: the antibody, mask, and linker. This approach, we believe, will significantly reduce development time compared to the typically sequential optimization of the individual components.
+
+Pre-Clinical Pipeline
+
+We are currently in the process of building and advancing our preclinical pipeline by leveraging our technology stack focused on hard-to-drug targets and molecules offering differentiation in both in obesity and cardiometabolic disease space, as well as immune-oncology. As we continue to leverage our technology stack and develop our existing immune-oncology pre-clinical pipeline, we are also seeking strategic partners with the capabilities to more rapidly advance these programs towards the clinic. Finally, we continue to assess the the optional time whether to trigger our options rights to license three of the four assets under the AstralBio collaboration to add obesity and cardiometabolic programs into our 
+
+pre-clinical pipeline. Under this strategic collaboration with AstraBio, it affords us the opportunity to expand our pipeline and build a presence in the cardiometabolic disease space.
+
+Recent Developments
+
+On May 31, 2024, pursuant to that certain Purchase and Sale Agreement, dated as of May 17, 2024 (the “Purchase and Sale Agreement”), by and between iBio CDMO and The Board of Regents of the Texas A&M University System (“The Board of Regents”), we terminated the Ground Lease Agreement with The Board of Regents, dated March 8, 2010, as amended by an Estoppel Certificate and Amendment to Ground Lease Agreement, dated as of December 22, 2015 (collectively, the “Ground Lease”), related to 21.401 acres in Brazos County, Texas (the “Land”) and completed the sale to The Board of Regents of: (i) the buildings, parking areas, improvements, and fixtures situated on the Land (the “Improvements”); (iii) all of our right, title, and interest in and to furniture, personal property, machinery, apparatus, and equipment owned and currently used in the operation, repair and maintenance of the Land and Improvements and situated thereon (collectively, the “Personal Property”); (iii) all of our rights under the contracts and agreements relating to the operation or maintenance of the Land, Improvements or Personal Property which extend beyond the closing date (the “Contracts”); and (iv) all of our rights in intangible assets of any nature relating to any or all of the Land, the Improvements and the Personal Property (the “Intangibles”; and together with the Ground Lease, Improvements and Personal Property, collectively, the “Property”). The purchase price was $8,500,000.
+
+On May 31, 2024, in accordance with the terms of the Settlement Agreement entered into on May 17, 2024 with Woodforest in consideration of the payment in full of all Obligations (as such term is defined under the Credit Agreement (a) we paid to Woodforest (i) $8,500,000, which it received from the sale of the Property under the Purchase and Sale Agreement, and (ii) approximately $915,000 from restricted cash which had previously been held by Woodforest, and (b) we issued a Pre-Funded Warrant to purchase 1,560,570 shares of its common stock to Woodforest. The Pre-Funded Warrant expires upon full exercise thereof and is exercisable at a nominal exercise price equal to $0.0001 per share.
+
+Pursuant to the Settlement Agreement, the Credit Agreement, the Guaranty dated November 1, 2021 and the other Loan Documents (as defined in the Credit Agreement) were terminated and Woodforest released us from any and all claims, debts, liabilities or causes of action it may have against them prior to May 31, 2024, and we released Woodforest and its related parties from any and all claims, debts, liabilities or causes of action it may have against them prior to May 31, 2024.
+
+​
+
+Results of Operations
+
+Revenue
+
+Revenue from the CDMO operations is now included in discontinued operations and not broken out separately on the financial statements. Our ongoing business is primarily focused on i) development of our pipeline for which we do not expect revenue for many years, if at all, and ii) on our AI-driven discovery platform for which to date we have not generated any material revenue. We may have revenue with the AI-driven discovery platform in the future. During the year ended June 30, 2024, we reported revenue in the amount of $0.2 million related to research activities performed and license fees. During the year ended June 30, 2023 we reported no revenue.
+
+Research and Development Expenses (“R&D”)
+
+R&D expenses for 2024 and 2023 were approximately $5.2 million and $10.3 million, respectively, a decrease of approximately ($5.1) million or approximately %. The decrease is primarily related to reduced spend on consulting and contracted services ($2.3) million, decreased spend on consumable supplies ($1.7) million, and a reduction in personnel costs ($1.5) million, all driven by the re-prioritization of pipeline projects and reorganization of the research and development team. This decrease was partially offset by an increase of depreciation of ($0.2) million due to the San Diego assets being in service for a full year. 
+
+R&D expenses relating to CDMO operations are captured separately under discontinued operations.
+
+General and Administrative Expenses (“G&A”)
+
+G&A expenses for fiscal year ended June 30, 2024 and 2023 were approximately $11.7 million and $19.0 million, respectively, a decrease of ($7.3) million or %. The decrease is primarily attributable to a reduction in personnel costs of ($5.2) million due to the transformation of the Company into an antibody discovery and development company announced in November 2022, profession/consulting fees and outside services of ($1.0) million, an in tangible asset impairment charge that did not reoccur in fiscal year 2024 ($0.6) million, lower insurance premiums due to negotiated rates ($0.5) million and lower IT related spend ($0.2) million. The decrease was partially offset by an increase in legal costs ($0.3) million mainly driven by capital fundraising efforts. 
+
+​
+
+G&A expenses relating to CDMO operations are captured separately under discontinued operations.
+
+Total Operating Expenses
+
+Total operating expenses, consisting primarily of R&D and G&A expenses, for fiscal year ended June 30, 2024 were approximately $16.9 million, compared to approximately $29.3 million for fiscal year ended June 30, 2023.
+
+Other Income (Expense)
+
+Other income for the fiscal years ended June 30, 2024 and 2023 were $1.2 million and $0.03 million, an increase of approximately $1.2 million. The increase is mainly attributable to the sale of an intangible asset and an increase in interest income, partially offset by interest expenses. 
+
+​
+
+Net Loss from Continuing Operations
+
+Net loss from continuing operations for fiscal year ended June 30, 2024 was ($15.4) million, or ($4.03) per share, compared to approximately ($29.3) million, or ($47.88) per share, in 2023.
+
+Net Loss from Discontinued Operations
+
+​
+
+On November 2, 2022, we announced our plans to divest our contract development and manufacturing organization (iBio CDMO) in order to complete our transformation into an AI-driven, precision antibody drug discovery and development company. In conjunction with the restructuring, we completed a workforce reduction of approximately 60% and discontinued the CDMO operations. CDMO operations are reported as discontinued operations on our financial statements. Losses for Discontinued Operations for 2024 and 2023 were approximately ($9.5) million and ($35.7) million, respectively, a decrease of ($26.2) million, or 73%. This decrease was primarily due to ($14.8) million less impairments of fixed assets, lower personnel related charges of ($7.6) million including severance, benefits and the acceleration of stock compensation awards, a ($4.9) million impairment of consumables inventory that did not reoccur in fiscal year 2024, and approximately ($4.3) million lower site related costs. This decrease was offset by the $4.8 million loss on sale of the Facility, an approximate $0.8 million gain on sale of equipment that did not reoccur in fiscal year 2024, approximately $0.3 million of revenue that did not reoccur in fiscal year 2024 and an increase of approximately $0.2 million of interest expense.
+
+​
+
+Net Loss Available to iBio, Inc. Stockholders
+
+Net loss available to iBio, Inc. stockholders from both continuing and discontinued operations for fiscal year ended June 30, 2024 was approximately ($24.9) million, or ($6.50) per share, compared to approximately ($65.0) million, or ($106.19) per share, in fiscal year ended June 30, 2023.
+
+Liquidity and Capital Resources 
+
+The history of significant losses, the negative cash flow from operations, the limited cash resources on hand and the dependence by the Company on its ability to obtain additional financing to fund its operations after the current cash resources are exhausted raise substantial doubt about the Company's ability to continue as a going concern. Our management concluded that our recurring losses from operations and the fact that we have not generated significant revenue or positive cash flows from operations raise substantial doubt about our ability to continue as a going concern for the next 12 months from the date of filing this Annual Report for the year ended June 30, 2024. Our auditors also included an explanatory paragraph in its report on our consolidated financial statements as of and for the year ended June 30, 2024 with respect to this uncertainty.
+
+In an effort to mitigate the substantial doubt about continuing as a going concern and increase cash reserves, we consummated the sale of our Facility, reduced our work force, signed a collaboration with AstralBio with to discover and develop novel antibodies for obesity and other cardiometabolic diseases, entered into a securities purchase agreement for a PIPE financing resulting in gross proceeds of approximately $15.0 million. Potential options being considered to further increase liquidity, focusing product development on a select number of product candidates, the sale or out-licensing of certain product candidates, raising money from the capital markets, grant revenue or collaborations, or a combination thereof. However, we anticipate that our expenses will increase as we continue our research and development activities and conduct clinical trials.
+
+​
+
+Facility Purchase from Eastern Capital Limited
+
+On November 1, 2021, we purchased the Facility previously operated under a lease from two affiliates of Eastern Affiliates. We also acquired the approximate 30% equity interest (after conversion) in iBio CDMO held by the Eastern Affiliates, who became the lessee under the ground lease agreement with the Board of Regents of the Texas A&M University System (the “Ground Lease Agreement”) for the land upon which the Facility is located and terminated the Sublease iBio had entered into with the Eastern Affiliates. As a result, iBio CDMO and its intellectual property are now wholly owned by iBio. The total purchase price for the Facility, the termination of the Sublease and other agreements among the parties, and the equity described below was $28,750,000, which was paid $28,000,000 in cash and by the issuance to Bryan Capital Investors LLC, an affiliate of the Eastern Affiliates a five-year warrant to purchase 2,579 shares of our Common Stock at an exercise price of $665 per share. 
+
+​
+
+In connection with the purchase of the Facility, iBio CDMO entered into the Credit Agreement with Woodforest pursuant to which Woodforest provided iBio CDMO a $22,375,000 Term Loan to purchase the Facility, which Term Loan was evidenced by the Term Note. The Term Loan originally bore interest at a rate of 3.25%, with higher interest rates upon an event of default, which interest was payable monthly beginning November 5, 2021. Principal on the Term Loan was originally payable on November 1, 2023, subject to early termination upon events of default. The Term Loan provided that it could be prepaid by iBio CDMO at any time and provided for mandatory prepayment upon certain circumstances. The Term Loan was secured by a lien on all of the assets of iBio CDMO and we guaranteed payments of the obligations owed under the Term Loan. Various provisions of the Credit Agreement were amended subsequent to the effective date of the Credit Agreement. For a summary of such amendments, please refer to Item 1. Business under the heading “Facility Purchase from Eastern Capital Limited.”
+
+​
+
+On May 31, 2024, pursuant to the Purchase and Sale Agreement iBio CDMO terminated the Ground Lease Agreement, related to the Land and completed the sale to The Board of Regents of: (i) the Improvements; (iii) all iBio CDMO’s right, title, and interest in and to the Personal Property; (iii) all iBio CDMO’s rights under the Contracts; and (iv) all iBio CDMO’s rights in the Intangibles and the Property. The purchase price was $8,500,000.
+
+On May 31, 2024, in accordance with the terms of the Settlement Agreement entered into on May 17, 2024 with Woodforest in consideration of the payment in full of all Obligations (as such term was defined under the Credit Agreement (a) iBio CDMO paid to Woodforest (i) $8,500,000, which it received from the sale of the Property under the Purchase and Sale Agreement, and (ii) approximately $915,000 from restricted cash which had previously been held by Woodforest, and (b) the Company issued a Pre-Funded Warrant to purchase 1,560,570 shares of its common stock to Woodforest. The Pre-Funded Warrant expires upon full exercise thereof and is exercisable at a nominal exercise price equal to $0.0001 per share.
+
+Pursuant to the Settlement Agreement, the Credit Agreement, the Guaranty dated November 1, 2021 and the other Loan Documents (as defined in the Credit Agreement) were terminated and Woodforest released the Company and iBio CDMO from any and all claims, debts, liabilities or causes of action it may have against them prior to May 31, 2024, and the Company and iBio CDMO released Woodforest and its related parties from any and all claims, debts, liabilities or causes of action it may have against them prior to May 31, 2024.
+
+​
+
+Cantor Fitzgerald Underwriting
+
+On November 25, 2020, we entered into a Controlled Equity Offering SM Sales Agreement (the “Sales Agreement”) with Cantor Fitzgerald & Co. (“Cantor Fitzgerald”) to sell shares of Common Stock, from time to time, through an “at the market offering” program having an aggregate offering price of up to $100,000,000 through which Cantor Fitzgerald would act as sales agent. In the fiscal year ended June 30, 2024, Cantor Fitzgerald sold as sales agent pursuant to the Sales Agreement 170,989 shares of Common Stock. We received net proceeds of approximately $1.7 million.
+
+​
+
+In the fiscal year ended June 30, 2023, Cantor Fitzgerald sold as sales agent pursuant to the Sales Agreement 289,144 shares of Common Stock. We received net proceeds of approximately $6.4 million during the fiscal year ended June 30, 2023 and held a subscription receivable for $204,000 at June 30, 2023 for proceeds received on July 6, 2023.
+
+​
+
+Wainwright Underwriting
+
+​
+
+On December 6, 2022, we entered into an underwriting agreement with H.C. Wainwright & Co., LLC (“Wainwright”), pursuant to which we agreed to sell to Wainwright, in a firm commitment underwritten offering (the “Offering”) (i) 76,538 shares of Common Stock, (ii) pre-funded warrants (the “2022 Pre-Funded Warrants”) to purchase up to 91,730 shares of Common Stock, (iii) Series A Common Stock purchase warrants (the “Series A Warrants”) to purchase up to 168,267 shares of Common Stock and (iv) Series B Common Stock purchase warrants (the “Series B Warrants” and together with the Series A Warrants, the “2022 Warrants”) to purchase up to 168,267 shares of Common Stock. The offering closed on December 9, 2022. 
+
+​
+
+Wainwright acted as the sole book-running manager for the Offering. We paid Wainwright an underwriting discount equal to 7.0% of the gross proceeds of the offering, and reimbursed Wainwright for the legal fees and certain expenses. Pursuant 
+
+to the Underwriting Agreement, we granted Wainwright a 30-day option to purchase up to an additional 25,240 shares of Common Stock and/or Common Warrants to purchase up to an additional 50,480 shares of Common Stock at the public offering price, less the underwriting discounts and commissions, solely to cover over-allotments. Wainwright elected to purchase 25,240 Series A Warrants and 25,240 Series B Warrants.
+
+​
+
+We also agreed to issue to Wainwright, as the representative of the underwriters, warrants (the “Representative’s Warrants”) to purchase a number of shares of Common Stock equal to 6.0% of the aggregate number of shares of Common Stock and 2022 Pre-Funded Warrants being offered in the offering. Wainwright received warrants to purchase up to 10,094 shares of Common Stock.
+
+​
+
+We received net proceeds of approximately $2,864,000 after deducting underwriting discounts, commissions and other issuance costs.
+
+​
+
+Lincoln Park Stock Purchase Agreement
+
+On August 4, 2023, iBio entered into a purchase agreement, dated as of August 4, 2023 (the “Purchase Agreement”), with Lincoln Park Capital Fund, LLC (“Lincoln Park”), pursuant to which, under the terms and subject to the satisfaction of specified conditions set forth therein, we may sell to Lincoln Park up to $10.0 million (subject to certain limitations) of Common Stock, from time to time during the term of the Purchase Agreement. Additionally, on August 4, 2023, we entered into a registration rights agreement, dated as of August 4, 2023 (the “Registration Rights Agreement”), with Lincoln Park, pursuant to which we agreed to file a registration statement with the SEC, to register under the Securities Act of 1933, as amended (the “Securities Act”), the resale by Lincoln Park of shares of Common Stock that have been or may be issued and sold by us to Lincoln Park under the Purchase Agreement. 
+
+During fiscal year 2024, we sold 202,595 shares of Common Stock under the Purchase Agreement and received approximately $1.3 million in proceeds. No shares remain available for sale under the Purchase Agreement at June 30, 2024.
+
+​
+
+Alliance Global Partners Securities Purchase Agreement
+
+​
+
+On December 7, 2023, the Company closed a public offering (the “2023 Offering”) pursuant to which we sold in the 2023 Offering, (i) 600,000 shares (the “Shares”) of our Common Stock, (ii) 1,650,000 pre-funded warrants (the “2023 Pre-Funded Warrants”) exercisable for an aggregate of 1,650,000 shares of Common Stock, (iii) 2,250,000 Series C common warrants (the “Series C Common Warrants”) exercisable for an aggregate of 2,250,000 shares of Common Stock, and (iv) 2,250,000 Series D common warrants (the “Series D Common Warrants,” and together with the Series C Common Warrants, the “Common Warrants”) exercisable for an aggregate of 2,250,000 shares of Common Stock. A.G.P./Alliance Global Partners (“A.G.P.”) acted as lead placement agent, and Brookline Capital Markets, a division of Arcadia Securities, LLC (“Brookline”), acted as co-placement agent (A.G.P. and Brookline are referred to herein, collectively, as the “Placement Agents”) for the 2023 Offering. We received approximately $4.5 million in gross proceeds from the 2023 Offering, including the exercise of all 2023 Pre-Funded Warrants and prior to deducting placement agent fees and other estimated offering expenses payable by the Company and excluding the net proceeds, if any, from the exercise of the Common Warrants.
+
+​
+
+During fiscal year 2024, 1,650,000 of the 2023 Pre-Funded Warrants, 1,178,500 Series C Common Warrants and 1,053,500 Series D Common Warrants were exercised for proceeds of $4,464,000. In August 2024, 1,000 Series C Common Warrants and 1,000 Series D Common Warrants were exercised for proceeds of $4,000.
+
+​
+
+Otsuka Asset Purchase Agreement
+
+​
+
+On February 25, 2024, we entered into an Asset Purchase Agreement (the “PD-1 Purchase Agreement”) with Otsuka Pharmaceutical Co., Ltd.(“Otsuka”) pursuant to which we sold and assigned to Otsuka, and Otsuka purchased and assumed, all intellectual property rights directly related to our early-stage programmed cell death protein 1 (“PD-1” ) (the “PD-1 Assets”) developed or held for development in consideration of $1,000,000 paid at closing. The PD-1 Purchase Agreement also provides for a potential contingent payment of $2,500,000 upon the achievement of specified 
+
+developmental milestones and a second potential contingent payment of $50,000,000 upon the achievement of specified milestones following commercialization. The sale of the PD-1 Assets closed on February 25, 2024. 
+
+​
+
+Chardan Private Placement
+
+​
+
+On March 26, 2024, we entered into a securities purchase agreement (the “2024 Purchase Agreement”) with several institutional investors and an accredited investor (the “Purchasers”) for the issuance and sale in a private placement (the “Private Placement”) of the following securities for gross proceeds of approximately $15.1 million: (i) 2,701,315 shares (the “Shares”) of Common Stock, (ii) pre-funded warrants (the “2024 Pre-Funded Warrants”) to purchase up to 2,585,963 shares of Common Stock at an exercise price of $0.0001 per share, and (iii) Series E Common Stock purchase warrants (the “Series E Warrants”) to purchase up to 5,287,278 shares of Common Stock at an exercise price of $2.64 per share. The Series E Warrants are exercisable at any time after the six-month anniversary of their issuance (the “Initial Exercise Date”) at an exercise price of $2.64 per share and have a term of exercise equal to five years from the date of issuance. The combined purchase price for one share of common stock and the accompanying Series E Warrant was $2.85 and the purchase price for one pre-funded warrant and the accompanying Series E Warrant was $2.849. The 2024 Private Placement closed on April 1, 2024. We received net proceeds of approximately $14.1 million from the Private Placement, after deducting estimated offering expenses payable by us, including placement agent fees and expenses.
+
+​
+
+Our cash, cash equivalents and restricted cash of $14.4 million as of June 30, 2024, is not anticipated to be sufficient to support operations through the first quarter of fiscal year 2026, unless we reduce our burn rate further, or increase our capital as described above. Our cash burn for the fiscal year 2024 was ($18.6) million or approximately ($1.5) million per month. This rate fluctuates month to month depending on our internal and external research development projects. We will continue to review operational expenses to reduce cash burn and extend our runway. Regardless of whether we are able to reduce our burn rate or sell or out-license certain assets or parts of the business, we will need to raise additional capital through either non-dilutive partnership deals or through the capital markets in order to fully execute our longer-term business plan. It is our goal to implement one or more potential options described herein to allow us to have a cash runway for at least 12 months from the date of the filing of this Annual Report. However, there can be no assurance that we will be successful in implementing any of the options that we are evaluating. 
+
+​
+
+Net Cash Used in Operating Activities
+
+In fiscal year 2024, net cash used in operating activities was ($18.6) million, compared to net cash used in operating activities of ($30.4) million in 2023. The decrease in net cash was primarily used to support our ongoing operations.
+
+​
+
+Net Cash Provided by Investing Activities
+
+In 2024, net cash provided by investing activities was $0.9 million, which primarily consisted of proceeds from the sale of intellectual property rights to Otsuka of $1 million and proceeds from the sale of fixed assets of $0.1 million, offset by the purchase of fixed assets of $0.2 million. In 2023, our net cash used in investing activities was $7.0 million, which primarily consisted of redemption and sales of debt securities of $10.8 million and the sale of fixed asset of $2.6 million, partially offset by the purchase of ($5.7) million of fixed assets and ($0.7) million for certain assets acquired from RubrYc.
+
+​
+
+Net Cash Provided by Financing Activities
+
+In 2024, net cash provided by financing activities was $24.5 million, compared to net cash used in financing activities of $2.3 million in 2023. Net cash generated from financing activities in 2024 primarily related to proceeds from sales of common stock offset by payments made to settle all obligations related to the term note payable while the net cash spent in 2023 related to proceeds from sales of common stock offset by payments made towards term note payable. 
+
+Funding Requirements
+
+We have incurred significant losses and negative cash flows from operations since our spin-off from Integrated BioPharma in August 2008. As of June 30, 2024, our accumulated deficit was approximately ($313.8) million, and we used approximately $6.8 million of net cash in fiscal year 2024.
+
+We plan to fund our future business operations using cash on hand, through proceeds realized in connection with the commercialization of our technologies, through potential proceeds from the sale or out-licensing of assets, and through proceeds from the sale of additional equity or other securities. However, there can be no assurance that we will be successful in implementing these plans, many of which will take several years before we realize proceeds. We cannot be certain that such funding will be available on favorable terms or available at all. If we are unable to raise funds when required or on favorable terms, this assumption may no longer be operative, and we may have to: a) significantly delay, scale back, or discontinue the product application and/or commercialization of our proprietary technologies; b) seek collaborators for our technology and product candidates on terms that are less favorable than might otherwise be available; c) relinquish or otherwise dispose of rights to technologies, product candidates, or products that we would otherwise seek to develop or commercialize; or d) possibly cease operations.
+
+Off-Balance Sheet Arrangements
+
+As part of our ongoing business, we do not participate in transactions that generate relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities (SPEs), which would have been established for the purpose of facilitating off-balance sheet arrangements or other contractually limited purposes. As of June 30, 2024, we were not involved in any SPE transactions.
+
+Critical Accounting Estimates
+
+A critical accounting policy is one that is both important to the portrayal of a company’s financial condition and results of operations and requires management’s most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain.
+
+Our consolidated financial statements are presented in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”). All applicable U.S. GAAP accounting standards effective as of June 30, 2024, have been taken into consideration in preparing the consolidated financial statements. The preparation of consolidated financial statements requires estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, expenses and related disclosures. Some of those estimates are subjective and complex, and, consequently, actual results could differ from those estimates. We base our estimates, to the extent possible, on historical experience. Historical information is modified as appropriate based on current business factors and various assumptions that we believe are necessary to form a basis for making judgments about the carrying value of assets and liabilities. We evaluate our estimates on an ongoing basis and make changes when necessary. Actual results could differ from our estimates.
+
+Critical accounting estimates are those estimates made in accordance with U.S. GAAP that involve a significant level of estimation uncertainty and have had or are reasonably likely to have a material impact on the financial condition or results of operations of the Company. The following accounting estimate had a material impact on the results of operations of the Company for the year ended June 30, 2024.
+
+Impairment of Fixed Assets 
+
+​
+
+We monitor fixed assets for impairment indicators throughout the year. When necessary, charges for impairments of long-lived assets are recorded for the amount by which the fair value is less than the carrying value of these assets. Changes in the Company’s business strategy or adverse changes in market conditions could impact impairment analyses and require the recognition of an impairment charge. Although we base our estimates on historical experience and various other assumptions that are believed to be reasonable under the circumstances, actual results could differ from these estimates.
+
+On November 3, 2022, we announced we are seeking to divest our contract development and manufacturing organization (iBio CDMO) in order to complete our transformation into an antibody discovery and development company. Through the process of seeking to divest our contract development and manufacturing organization, we entered into a Purchase and Sale Agreement for the Facility. The decision to divest triggered a quantitative impairment analysis of our CDMO fixed assets of the Facility totaling $22.65 million and machinery and equipment totaling $13.4 million.
+
+We utilized a market approach in the second quarter of fiscal year 2023, using independent third-party appraisals, including comparable assets, in addition to bids received from prospective buyers, to estimate the fair value of the Facility, the machinery and equipment. We recorded an impairment charge of $6.3 million for the facility and $11.3 million for the machinery and equipment in the second quarter of fiscal year 2023. The key assumption in the valuation analysis was the expected sale price of $21.1 million for the Facility and the associated machinery and equipment less approximate costs to sell of $2.7 million. In the first quarter of fiscal year 2024, we entered into an agreement for the sale of the Facility for $17.25 million, and an additional impairment of $0.3 million was recorded in fiscal year 2023 to reflect the agreed upon sales price less estimated costs to sell. The CDMO Equipment was sold during fiscal year 2023. 
+
+After receiving written notice terminating the sale of the Facility, we continued to reassess the Facility for impairment each quarter utilizing a market approach. The assessments included obtaining independent third-party appraisals based on comparable assets, in addition to bids received from prospective buyers, to estimate the fair value of the Facility. During such timeframe, an additional $3.1 million fixed asset impairment was recorded in discontinued operations to write down the carrying value of the Facility to its estimated fair value, as a result of the expected sale price of $13.8 million for the Facility less approximate costs to sell of $0.7 million. During the fourth quarter of fiscal year 2024, the Facility was sold for $8.5 million which resulted in an approximate $4.8 million loss on the disposal of the held-for-sale assets. (See Note 3 – Discontinued Operation and Note 5 – Financial Instruments for further information.)
+
+Impairment of Indefinite-Lived Intangible Assets
+
+​
+
+For indefinite life intangible assets, we perform an impairment test annually and whenever events or changes in circumstances indicate the carrying value of an asset may not be recoverable. 
+
+Evaluating for impairment requires judgment, including the estimation of future cash flows, future growth rates and profitability and the expected life over which cash flows will occur. Changes in our business strategy or adverse changes in market conditions could impact impairment analyses and require the recognition of an impairment charge. Although we base our estimates on historical experience and various other assumptions that are believed to be reasonable under the circumstances, actual results could differ from these estimates.
+
+During the fourth quarter of fiscal year 2024, we performed our annual impairment testing of the IBIO-101 therapeutic technology (or “IP”), classified as an indefinite-lived intangible asset, which had a carrying amount of $5 million at June 30, 2024. We engaged a third party to perform valuation assistance with estimating the fair value of IBIO-101 and preparing a market capitalization reconciliation. The Multi-Period Excess Earnings Method (“MPEEM”) under the income approach was utilized to value the indefinite-lived asset. The MPEEM determines the value of a specified asset by calculating the present value of future earnings attributed to the asset. Since IBIO-101 is currently in its pre-clinical development phase, a probability of success was applied to the cash flows to account for the probability of reaching each step of development. The MPEEM requires that charges for the use of other contributory assets be subtracted under the theory that the owner of the subject asset does not own the other contributory assets and would have to rent/lease them in order to earn the cash flows related to the subject asset.
+
+The resulting probability of success adjusted “excess earnings” were discounted to the present value using a 16% discount rate, which was based on iBio’s weighted average cost of capital. The sum of the discounted excess earnings and the present value of the tax benefit related to amortization of the IBIO-101 indefinite-lived intangible indicated that the fair value was $5.9 million as of the June 30, 2024, valuation date. Given that the carrying amount of the asset was $5 million at June 30, 2024, it was concluded that no impairment existed.
+
+We will continue to monitor the value of the IP as part of our annual accounting policy for impairment of long-live assets. The primary impairment indicators that may arise in the near future are any sustained decline in our common stock market price and FDA decisions on similar competing technologies that are applying for Phase 1 approval.
+
+We continue to operate in a highly competitive environment, rising interest rates (and cost of capital) and experience liquidity challenges. Accordingly, we may have to adjust our cash flow projections and valuation assumptions in the near future to account for market trends and any changes to our research and development plans. Any such future adjustments may lead to material future impairments in the IP and other related assets.
+
+Our remaining critical accounting estimates remain consistent with the information disclosed in the same section in our last annual report on Form 10-K for the year ended June 30, 2023.
+
+In addition to the aforementioned critical accounting estimates, the following accounting policies and estimates have been highlighted as significant because changes to certain judgments and assumptions inherent in these policies could affect our consolidated financial statements:
+
+​
+
+We base our estimates, to the extent possible, on historical experience. Historical information is modified as appropriate based on current business factors and various assumptions that we believe are necessary to form a basis for making judgments about the carrying value of assets and liabilities. We evaluate our estimates on an ongoing basis and make changes when necessary. Actual results could differ from our estimates. See Note 4 – Summary of Significant Accounting Policies - for a complete discussion of our significant accounting policies and estimates.
+
+Item 7A. Quantitative and Qualitative

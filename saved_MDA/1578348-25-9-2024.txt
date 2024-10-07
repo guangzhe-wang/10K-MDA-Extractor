@@ -1,0 +1,479 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Some of the statements in this annual report on Form 10-K constitute forward-looking statements, which relate to future events or our future performance or financial condition. These statements are not guarantees of future performance and are subject to risks, uncertainties, and other factors, some of which are beyond our control and difficult to predict and could cause actual results to differ materially from those expressed or forecasted in the forward-looking statements, including without limitation the risks, uncertainties and other factors we identify in “Risk Factors” in this Annual Report on Form 10-K under Part I, Item 1A, and in our other filings with the SEC that we make from time to time. The forward-looking statements contained in this annual report on Form 10-K involve risks and uncertainties, and include statements regarding the following, without limitation:
+
+•
+
+our, or our portfolio companies’, future business, operations, operating results or prospects; 
+
+•
+
+our business prospects and the prospects of our portfolio companies; 
+
+•
+
+the return or impact of current and future investments; 
+
+•
+
+the impact of global health pandemics, such as the coronavirus pandemic or other large scale events, on our or our portfolio companies’ business and the global economy; 
+
+•
+
+our contractual arrangements and relationships with Investcorp and its affiliates; 
+
+•
+
+our contractual arrangements and relationships with lenders and other third parties; 
+
+•
+
+actual and potential conflicts of interest with the Adviser (as defined below); 
+
+•
+
+the dependence of our future success on the general economy, interest rates and the effects of each on the industries in which we invest; 
+
+•
+
+the impact of fluctuations in interest rates on our business; 
+
+•
+
+the elevating levels of inflation and its impact on our investment activities and the industries in which we invest; 
+
+•
+
+the ability of our portfolio companies to achieve their objectives or service their debt obligations to us; 
+
+•
+
+the use of borrowed money to finance a portion of our investments; 
+
+•
+
+the adequacy of our financing sources and working capital; 
+
+•
+
+the timing of cash flows, if any, from the operations of our portfolio companies; 
+
+•
+
+the ability of the Adviser to locate suitable investments for us and to monitor and administer our investments; 
+
+•
+
+the ability of the Adviser to attract and retain highly talented professionals; 
+
+•
+
+our ability to qualify and maintain our qualification as a regulated investment company (“RIC”) under Subchapter M of the Internal Revenue Code (the “Code”) and as a business development company (“BDC");
+
+•
+
+our ability to obtain exemptive relief from the Securities and Exchange Commission (“SEC”); 
+
+•
+
+the effect of changes to tax legislation and our tax position and other legislative and regulatory changes; and 
+
+•
+
+the effect of new or modified laws or regulations governing our operations. 
+
+Such forward-looking statements may include statements preceded by, followed by or that otherwise include the words “may,” “might,” “will,” “intend,” “should,” “could,” “can,” “would,” “expect,” “believe,” “estimate,” “anticipate,” “predict,” “potential,” “plan” or similar words.
+
+We have based the forward-looking statements included in this annual report on Form 10-K on information available to us on the date of this report on Form 10-K. Although we believe that the assumptions on which these forward-looking statements are based are reasonable, any of those assumptions could prove to be inaccurate, and as a result, actual results and/or events could differ materially from those anticipated in our forward-looking statements, and future results could differ materially from historical performance. Important assumptions include, without limitation, our ability to originate new loans and investments, borrowing costs and levels of profitability and the availability of additional capital. In light of these and other uncertainties, the inclusion of a projection or forward-looking statement in this Annual Report on Form 10-K should not be regarded as a representation by us that our plans and objectives will be achieved. You should not place undue reliance on these forward-looking statements, which apply only as of the date of this Annual Report on Form 10-K.
+
+We undertake no obligation to revise or update any forward-looking statements, whether as a result of new information, future events or otherwise, unless required by law or SEC rule or regulation. You are advised to consult any additional disclosures that we may make directly to you or through reports that we in the future may file with the SEC, including annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K.
+
+Overview
+
+Investcorp Credit Management BDC, Inc. (“ICMB,” the “Company”, “us”, “we” or “our”), a Maryland corporation formed in May 2013, is a closed-end, externally managed, non-diversified management investment company that has elected to be regulated as a BDC under the Investment Company Act of 1940, as amended (the “1940 Act”). In addition, for U.S. federal income tax purposes, we have elected to be treated and intend to continue to qualify as a RIC under Subchapter M of the Code. On August 30, 2019, we changed our name from CM Finance Inc. to Investcorp Credit Management BDC, Inc.
+
+Our primary investment objective is to maximize total return to stockholders in the form of current income and capital appreciation by investing directly in debt and related equity of privately held middle-market companies to help these companies fund acquisitions, growth or refinancing. We invest primarily in middle-market companies in the form of standalone first and second lien loans, unitranche loans, and mezzanine loans. We may also invest in unsecured debt, bonds and in the equity of portfolio companies through warrants and other instruments.
+
+CM Investment Partners LLC (the “Adviser”) serves as our investment adviser. On August 30, 2019, Investcorp Credit Management US LLC (“Investcorp”) acquired an approximate 76% ownership interest in the Adviser through the acquisition of the interests held by Stifel Venture Corp. (“Stifel”) and certain funds managed by Cyrus Capital and through a direct purchase of equity from the Adviser. Investcorp is a leading global credit investment platform with assets under management of $21.5 billion as of June 30, 2024. Investcorp manages funds which invest primarily in senior secured corporate debt issued by mid and large-cap corporations in Western Europe and the United States. The business has a strong track record of consistent performance and growth, employing approximately 45 investment professionals in London and New York. Investcorp is a subsidiary of Investcorp Holdings B.S.C. (“Investcorp Holdings”). Investcorp Holdings and its consolidated subsidiaries, including Investcorp, are referred to as “Investcorp Group”. Investcorp Group is a global provider and manager of alternative investments, offering such investments to its high-net-worth private and institutional clients on a global basis.
+
+In connection with the Investcorp Transaction, on June 26, 2019, our board of directors, including all of the directors who are not “interested persons” of the Company, as defined in Section 2(a) of the 1940 Act (each, an “Independent Director”), unanimously approved a new investment advisory agreement (the “Advisory Agreement”) and recommended that the Advisory Agreement be submitted to our stockholders for approval, which our stockholders approved at the Special Meeting of Stockholders held on August 28, 2019.
+
+In addition, on June 26, 2019, we entered into a definitive stock purchase and transaction agreement with Investcorp BDC Holdings Limited (“Investcorp BDC”), an affiliate of Investcorp (the “Stock Purchase Agreement”), pursuant to which, following the initial closing under the Stock Purchase Agreement on August 30, 2019 (the “Closing”) and prior to the second anniversary of the date of the Closing, Investcorp BDC was required to purchase (i) 680,985 newly issued shares of our common stock, par value $0.001 per share, at the most recently determined net asset value per share of our common stock at the time of such purchase, as adjusted as necessary to comply with Section 23 of the 1940 Act, and (ii) 680,985 shares of our common stock in open-market or secondary transactions. Investcorp BDC has completed all required purchases under the Stock Purchase Agreement.
+
+At the Closing, we entered into the Advisory Agreement with the Adviser, pursuant to which we have agreed to pay the Adviser a fee for investment advisory and management services consisting of two components — a base management fee (the “Base Management Fee”) and an incentive fee (the “Incentive Fee”). The Base Management Fee is equal to 1.75% of our gross assets, payable in arrears on a quarterly basis. The Incentive Fee, which provides the Adviser with a share of the income that it generates for the Company, has two components, ordinary income (the “Income-Based Fee”) and capital gains (the “Capital Gains Fee”). The Income-Based Fee is equal to 20.0% of pre-incentive fee net investment income, subject to an annualized hurdle rate of 8.0% with a “catch up” fee for returns between the 8.0% hurdle and 10.0%. The Capital Gains Fee is determined and payable in arrears as of the end of each fiscal year (or upon termination of the Advisory Agreement, as of the termination date), commencing with the fiscal year ended June 30, 2021, and is equal to 20.0% of the Company’s cumulative aggregate realized capital gains from the Commencement Date through the end of each fiscal year, computed net of the Company’s aggregate cumulative realized capital losses and the Company’s aggregate cumulative unrealized capital depreciation through the end of such year, less the aggregate amount of any previously paid Capital Gains Fees.
+
+We have entered into an investment advisory agreement (the “Advisory Agreement”) and an administration agreement (the “Administration Agreement”) with the Adviser, pursuant to which the Adviser provides us with investment advisory and administrative services necessary for our operations. See “Note 7. Agreements and Related Party Transactions” in the notes to our
+
+consolidated financial statements in this Annual Report on Form 10-K for more information regarding the Advisory Agreement and Administration Agreement and the fees and expenses paid or reimbursed by us thereunder.
+
+From time to time, we may form taxable subsidiaries (the “Taxable Subsidiaries”), which are taxed as corporations for U.S. federal income tax purposes, to allow the Company to hold equity securities of portfolio companies organized as pass-through entities while continuing to satisfy the requirements applicable to a RIC under the Code. As of June 30, 2024 and June 30, 2023, we had no Taxable Subsidiaries.
+
+We are generally permitted, under specified conditions, to issue multiple classes of indebtedness and one class of stock senior to our common stock if our asset coverage, as defined in the 1940 Act, is at least equal to 150% immediately after each such issuance.
+
+On July 20, 2021, the SEC issued an order, which superseded a prior order issued on March 19, 2019, granting our application for exemptive relief to co-invest, subject to the satisfaction of certain conditions, in certain private placement transactions with other funds managed by the Adviser or its affiliates and any future funds that are advised by the Adviser or its affiliated investment advisers (the “Exemptive Relief”). Under the terms of the Exemptive Relief, in order for us to participate in a co-investment transaction a “required majority” (as defined in Section 57(o) of the 1940 Act) of our independent directors must conclude that (i) the terms of the proposed transaction, including the consideration to be paid, are reasonable and fair to us and our shareholders and do not involve overreaching in respect of us or our shareholders on the part of any person concerned, and (ii) the proposed transaction is consistent with the interests of our shareholders and is consistent with our investment objectives and strategies.
+
+Market Developments
+
+The current inflationary environment and uncertainty as to the probability of, and length and depth of a global recession could affect our portfolio companies. Government spending, government policies, including recent increases in certain interest rates by the U.S. Federal Reserve and other global central banks, the failures of certain regional banks earlier this year and the potential for disruptions in the availability of credit in the United States and elsewhere, in conjunction with other factors, including those described elsewhere in this Annual Report and in other filings we have made with the SEC, could affect our portfolio companies, our financial condition and our results of operations. We will continue to monitor the evolving market environment. In these circumstances, developments outside our control could require us to adjust our plan of operations and could impact our financial condition, results of operations or cash flows in the future. Despite these factors, we believe we and our portfolio are well positioned to manage the current environment. For additional information, see Part I, Item 1A. Risk Factors in this Annual Report on Form 10-K, as well as the risk factors listed in our subsequently filed Quarterly Reports on Form 10-Q.
+
+Critical accounting policies
+
+Our discussion and analysis of our financial condition and results of operations are based upon our financial statements, which have been prepared in accordance with U.S. generally accepted accounting principles (“GAAP”). The preparation of these financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses. Changes in the economic environment, financial markets and any other parameters used in determining such estimates could cause actual results to differ. Management considers the following critical accounting policies important to understanding the financial statements. In addition to the discussion below, our critical accounting policies are further described in the notes to our consolidated financial statements.
+
+Valuation of portfolio investments
+
+We value our portfolio investments at fair value based upon the principles and methods of valuation set forth in policies adopted by our board of directors. Fair value is defined as the price that would be received to sell an asset in an orderly transaction between market participants at the measurement date. Market participants are buyers and sellers in the principal (or most advantageous) market for the asset that (a) are independent of us, (b) are knowledgeable, having a reasonable understanding about the asset based on all available information (including information that might be obtained through due diligence efforts that are usual and customary), (c) are able to transact for the asset, and (d) are willing to transact for the asset or liability (that is, they are motivated but not forced or otherwise compelled to do so).
+
+Investments for which market quotations are readily available are valued at such market quotations unless the quotations are deemed not to represent fair value. We generally obtain market quotations from recognized exchanges, market quotation systems, independent pricing services or one or more broker dealers or market makers.
+
+Debt and equity securities for which market quotations are not readily available or for which market quotations are deemed not to represent fair value are valued at fair value as determined in good faith by our board of directors. Because a readily available market value for many of the investments in our portfolio is often not available, we value many of our portfolio investments at fair value as
+
+determined in good faith by our board of directors using a consistently applied valuation process in accordance with a documented valuation policy that has been reviewed and approved by our board of directors. Due to the inherent uncertainty and subjectivity of determining the fair value of investments that do not have a readily available market revalue, the fair value of our investments may differ significantly from the values that would have been used had a readily available market value existed for such investments and may differ materially from the values that we may ultimately realize. In addition, changes in the market environment and other events may have differing impacts on the market quotations used to value some of our investments than on the fair values of our investments for which market quotations are not readily available. Market quotations may also be deemed not to represent fair value in certain circumstances where we believe that facts and circumstances applicable to an issuer, a seller or purchaser, or the market for a particular security causes current market quotations not to reflect the fair value of the security. Examples of these events could include cases where a security trades infrequently, causing a quoted purchase or sale price to become stale, where there is a “forced” sale by a distressed seller, where market quotations vary substantially among market makers, or where there is a wide bid- ask spread or significant increase in the bid ask spread.
+
+Those investments for which market quotations are not readily available or for which market quotations are deemed not to represent fair value are valued utilizing a market approach, an income approach, or both approaches, as appropriate. The market approach uses prices and other relevant information generated by market transactions involving identical or comparable assets or liabilities (including a business). The income approach uses valuation techniques to convert future amounts (for example, cash flows or earnings) to a single present amount (discounted). The measurement is based on the value indicated by current market expectations about those future amounts. In following these approaches, the types of factors that we may take into account in determining the fair value of our investments include, as relevant and among other factors: available current market data, including relevant and applicable market trading and transaction comparables, applicable market yields and multiples, security covenants, call protection provisions, information rights, the nature and realizable value of any collateral, the portfolio company’s ability to make payments, its earnings and discounted cash flows, the markets in which the portfolio company does business, comparisons of financial ratios of peer companies that are public, merger and acquisition comparables, our principal market (as the reporting entity) and enterprise values.
+
+With respect to investments for which market quotations are not readily available, our board of directors undertakes a multi-step valuation process each quarter, as described below:
+
+•
+
+our quarterly valuation process begins with each portfolio company or investment being initially valued by the members of the Adviser’s investment team responsible for the portfolio investment; 
+
+•
+
+preliminary valuation conclusions are then documented and discussed by senior management and the Adviser; 
+
+•
+
+on a periodic basis, at least once annually, the valuation for each portfolio investment is reviewed by an independent valuation firm engaged by our board of directors; 
+
+•
+
+the valuation committee of our board of directors then reviews these preliminary valuations and makes a recommendation to our board of directors regarding the fair value of each investment; and 
+
+•
+
+the board of directors then reviews and discusses these preliminary valuations and determines the fair value of each investment in our portfolio in good faith, based on the input of the Adviser, the independent valuation firm and the valuation committee. 
+
+When valuing all of our investments, we strive to maximize the use of observable inputs and minimize the use of unobservable inputs. Inputs refer broadly to the assumptions that market participants would use in pricing an asset, including assumptions about risk. Inputs may be observable or unobservable. Observable inputs are inputs that reflect the assumptions market participants would use in pricing an asset or liability developed based on market data obtained from sources independent of us. Unobservable inputs are inputs that reflect our assumptions about the assumptions market participants would use in pricing an asset or liability developed based on the best information available under the circumstances. The availability of observable inputs can vary depending on the financial instrument and is affected by a variety of factors. To the extent the valuation is based on models or inputs that are less observable, the determination of fair value requires more judgment. As markets change, new types of investments are made, or pricing for certain investments becomes more or less observable, our board of directors may refine our valuation methodologies to best reflect the fair value of our investments appropriately.
+
+Our investments are categorized based on the types of inputs used in their valuation. The level in the GAAP valuation hierarchy in which an investment falls is based on the lowest level input that is significant to the valuation of the investment in its entirety. Investments are classified by GAAP into the three broad levels as follows:
+
+Level 1 — valuation is based on unadjusted quoted prices in active markets for identical assets or liabilities that the Company has the ability to access at the measurement date.
+
+Level 2 — valuation is based on inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly, such as (a) quoted prices for similar assets or liabilities in active markets; (b) quoted prices for identical or similar assets or liabilities in markets that are not active, that is, markets in which there are few transactions for the asset or liability, the prices are not current, or price quotations vary substantially either over time or among market makers, or in which little information is released publicly; (c) inputs other than quoted prices that are observable for the asset or liability; or (d) inputs that are derived principally from or corroborated by observable market data by correlation or other means.
+
+Level 3 — valuation is based on unobservable inputs for the asset or liability. Unobservable inputs are used to measure fair value to the extent that observable inputs are not available, thereby allowing for situations in which there is little, if any, market activity for the asset or liability at the measurement date. However, the fair value measurement objective remains the same, that is, an exit price from the perspective of a market participant that holds the asset or owes the liability. Therefore, unobservable inputs reflect the Company’s own assumptions about the assumptions that market participants would use in pricing the asset or liability, including assumptions about risk. Unobservable inputs are developed based on the best information available under the circumstances, which might include the Company’s own data. The Company’s own data used to develop unobservable inputs is adjusted if information is reasonably available without undue cost and effort that indicates that market participants would use different assumptions.
+
+As of June 30, 2024, and June 30, 2023 all of our investments were classified as Level 3 investments, determined based on valuations by our board of directors.
+
+Determination of fair value involves subjective judgments and estimates. Accordingly, the notes to our financial statements express the uncertainty with respect to the possible effect of such valuations, and any change in such valuations, on the consolidated financial statements.
+
+Rule 2a-5 under the 1940 Act was adopted in December 2020 by the SEC and establishes requirements for determining fair value in good faith for purposes of the 1940 Act. Our board of directors has adopted valuation policies and procedures that are intended to comply with Rule 2a-5.
+
+Revenue recognition
+
+Our revenue recognition policies are as follows:
+
+Net realized gains (losses) on investments: Gains or losses on the sale of investments are calculated using the specific identification method.
+
+Interest Income: Interest income, adjusted for amortization of premium and accretion of discount, is recorded on an accrual basis. Origination, closing, commitment, and amendment fees, purchase and original issue discounts associated with loans to portfolio companies are accreted into interest income over the respective terms of the applicable loans. Accretion of discounts or premiums is calculated by the effective interest or straight-line method, as applicable, as of the purchase date and adjusted only for material amendments or prepayments. Upon the prepayment of a loan or debt security, any prepayment penalties and unamortized fees and discounts are recorded as interest income and are non-recurring in nature.
+
+Structuring fees and similar fees are recognized as income as earned, usually when received. Structuring fees, excess deal deposits, net profits interests and overriding royalty interests are included in other fee income.
+
+We may hold debt investments in our portfolio that contain a PIK interest provision. The PIK interest, which represents contractually deferred interest added to the investment balance that is generally due at maturity, is recorded on the accrual basis to the extent such amounts are expected to be collected.
+
+Non-accrual: Loans are placed on non-accrual status when principal or interest payments are past due 90 days or more or when there is reasonable doubt that principal or interest will be collected. Accrued interest is generally reversed when a loan is placed on non-accrual status. Interest payments received on non-accrual loans may be recognized as income or applied to principal depending upon management’s judgment about ultimate collectability of principal. Non-accrual loans are restored to accrual status when past due principal and interest is paid and, in management’s judgment, are likely to remain current. PIK interest is not accrued if we do not expect the issuer to be able to pay all principal and interest when due. As of June 30, 2024, we had four investments on non-accrual status, which represented approximately 5.00% of our portfolio at fair value. As of June 30, 2023, we had six investments on non-accrual, which represented approximately 4.08% of our portfolio at fair value.
+
+Financing Facility
+
+We previously, through CM Finance SPV Ltd. (“CM SPV”), our wholly owned subsidiary, entered into a $102.0 million term secured financing facility (the “Term Financing”), due December 5, 2021 with UBS AG, London Branch (together with its affiliates “UBS”). The Term Financing was collateralized by a portion of the debt investments in our portfolio. On June 21, 2019, we amended the Term Financing to increase the Term Financing by $20.0 million from $102.0 million to $122.0 million. We subsequently repaid $20.0 million of the Term Financing on April 15, 2020. Borrowings under the Term Financing, as amended, bore interest with respect to the $102.0 million (i) at a rate per annum equal to one-month London Interbank Offered Rate (“LIBOR”) plus 3.55% from December 5, 2019 through December 4, 2020, and (ii) at a rate per annum equal to one-month LIBOR plus 3.15% from December 5, 2020 through December 4, 2021. On November 19, 2021, the Company repaid the Term Financing in full in accordance with the terms of the Term Financing and the agreement was terminated.
+
+As of June 30, 2024 and June 30, 2023, there were no borrowings outstanding under the Term Financing, respectively.
+
+On November 20, 2017, as subsequently amended, we entered into a $50 million revolving financing facility with UBS, which was subsequently amended on June 21, 2019 to reduce the size to $30.0 million and extend the maturity date (as amended, the “Revolving Financing”). On September 30, 2020, we amended the Revolving Financing to reduce the size of the Revolving Financing to $20.0 million and extend the maturity date to December 5, 2021. We paid a fee on any undrawn amounts of 0.75% per annum. On November 19, 2021, we satisfied all obligations under the Revolving Financing and the agreement was terminated.
+
+As of June 30, 2024 and June 30, 2023, there were no borrowings outstanding under the Revolving Financing.
+
+On August 23, 2021, we, through Investcorp Credit Management BDC SPV, LLC, our wholly-owned subsidiary, entered into a five-year, $115 million senior secured revolving credit facility (the “Capital One Revolving Financing”) with Capital One, N.A. (“Capital One”), which is secured by collateral consisting primarily of loans in our investment portfolio. On June 14, 2023, we amended the Capital One Revolving Financing to decrease the facility size from $115 million to $100 million. On January 17, 2024, we amended the Capital One Revolving Financing to (i) extend the maturity date to January 17, 2029, (ii) increase the applicable interest spreads under the Capital One Revolving Financing and (iii) extend the Scheduled Revolving Period End Date (as defined in the Capital One Revolving Financing) to January 17, 2027. The Capital One Revolving Financing, which will expire on January 17, 2029 (the “Maturity Date”), features a three-year reinvestment period and a two-year amortization period.
+
+Effective January 17, 2024, borrowings under the Capital One Revolving Financing generally bear interest at a rate per annum equal to Secured Overnight Financing Rate ("SOFR") plus 3.10%. The default interest rate will be equal to the interest rate then in effect plus 2.00%. The Capital One Revolving Financing required the payment of an upfront fee of 1.125% ($1.3 million) of the available borrowings under the Capital One Revolving Financing at the closing, and requires the payment of an unused fee of (i) 0.75% annually for any undrawn amounts below 50% of the Capital One Revolving Financing, (ii) 0.50% annually for any undrawn amounts between 50% and 75% of the Capital One Revolving Financing, and (iii) 0.25% annually for any undrawn amounts above 75% of the Capital One Revolving Financing. Borrowings under the Capital One Revolving Financing are based on a borrowing base. The Capital One Revolving Financing generally requires payment of interest and fees on a quarterly basis. All outstanding principal is due on the Maturity Date. The Capital One Revolving Financing also requires mandatory prepayment of interest and principal upon certain events.
+
+As of June 30, 2024 and June 30, 2023, there were $43.0 million and $71.9 million in borrowings outstanding under the Capital One Revolving Financing, respectively.
+
+For more information, see "Recent Developments."
+
+Notes due 2026
+
+On March 31, 2021, we closed the public offering of $65 million in aggregate principal amount of 4.875% notes due 2026 (the “2026 Notes”). The total net proceeds to us from the 2026 Notes after deducting underwriting discounts and commissions of approximately $1.3 million and estimated offering expenses of approximately $215,000, were approximately $63.1 million.
+
+The 2026 Notes will mature on April 1, 2026, unless previously redeemed or repurchased in accordance with their terms, and bear interest at a rate of 4.875%. The 2026 Notes are our direct unsecured obligations and rank pari passu, which means equal in right of payment, with all of our outstanding and future unsecured, unsubordinated indebtedness. Because the 2026 Notes are not secured by any of our assets, they are effectively subordinated to all of our existing and future secured indebtedness (including indebtedness that is initially unsecured as to which we subsequently grant a security interest), to the extent of the value of the assets securing such indebtedness. The 2026 Notes are structurally subordinated to all existing and future indebtedness and other obligations of any of our existing and future subsidiaries and financing vehicles, including, without limitation, borrowings under the Capital One Financing.
+
+The 2026 Notes are exclusively our obligations and not of any of our subsidiaries. None of our subsidiaries is a guarantor of the 2026 Notes and the 2026 Notes will not be required to be guaranteed by any subsidiary we may acquire or create in the future.
+
+The 2026 Notes may be redeemed in whole or in part at any time or from time to time at our option, upon not less than 30 days nor more than 60 days written notice by mail prior to the date fixed for redemption thereof, at a redemption price (as determined by us) equal to the greater of the following amounts, plus, in each case, accrued and unpaid interest to, but excluding, the redemption date: 100% of the principal amount of the 2026 Notes to be redeemed or the sum of the present values of the remaining scheduled payments of principal and interest (exclusive of accrued and unpaid interest to the date of redemption) on the 2026 Notes to be redeemed, discounted to the redemption date on a semi-annual basis (assuming a 360-day year consisting of twelve 30-day months) using the applicable Treasury Rate (as defined in the 2026 Notes Indenture (as defined below)) plus 50 basis points; provided, however, that if we redeem any 2026 Notes on or after January 1, 2026 (the date falling three months prior to the maturity date of the 2026 Notes), the redemption price for the 2026 Notes will be equal to 100% of the principal amount of the 2026 Notes to be redeemed, plus accrued and unpaid interest, if any, to, but excluding, the date of redemption; provided, further, that no such partial redemption shall reduce the portion of the principal amount of a 2026 Note not redeemed to less than $2,000. Interest on the 2026 Notes is payable semi-annually on April 1 and October 1 of each year, commencing October 1, 2021. We may from time to time repurchase 2026 Notes in accordance with the 1940 Act and the rules promulgated thereunder. As of June 30, 2024 and June 30, 2023, the outstanding principal balance of the 2026 Notes was approximately $65.0 million and $65.0 million, respectively.
+
+The indenture under which the 2026 Notes are issued (the “2026 Notes Indenture”) contains certain covenants, including covenants requiring us to comply with Section 18(a)(A) as modified by Section 61(a) of 1940 Act, or any successor provisions, to comply with Section 18(a)(B) as modified by Section 61(a) of the 1940 Act, or any successor provisions but giving effect to any no-action relief granted by the SEC to another BDC and upon which we may reasonably rely (or to us if we determine to seek such similar no-action or other relief), and to provide financial information to the holders of the 2026 Notes and the trustee if we should no longer be subject to the reporting requirements under the Securities Exchange Act of 1934, as amended (the “Exchange Act”). These covenants are subject to important limitations and exceptions that are set forth in the 2026 Notes Indenture.
+
+Investments
+
+Our level of investment activity can and does vary substantially from period to period depending on many factors, including the amount we have available to invest as well as the amount of debt and equity capital available to middle-market companies, the level of merger and acquisition activity, the general economic environment and the competitive environment for the types of investments we make.
+
+As a BDC, we are required to comply with certain regulatory requirements. For instance, as a BDC, we may not acquire any assets other than “qualifying assets” specified in the 1940 Act unless, at the time the acquisition is made, at least 70% of our total assets are qualifying assets (with certain limited exceptions). Qualifying assets include investments in “eligible portfolio companies.” Under the relevant SEC rules, the term “eligible portfolio company” includes all private companies, companies whose securities are not listed on a national securities exchange, and certain public companies that have listed their securities on a national securities exchange and have a market capitalization of less than $250 million. In each case, the company must be organized in the United States. As of June 30, 2024, approximately 1.68% of our total assets were non-qualifying assets.
+
+To qualify as a RIC, we must, among other things, meet certain source-of-income, asset diversification and annual distribution requirements. As a RIC, we generally will not have to pay corporate-level U.S. federal income taxes on any income we distribute to our stockholders.
+
+Revenues
+
+We generate revenues primarily in the form of interest on the debt we hold. We also generate revenue from royalty income, dividends on our equity interests and capital gains on the sale of warrants and other debt or equity interests that we acquire. Our investments in fixed income instruments generally have an expected maturity of three to five years, although we have no lower or upper constraint on maturity. Interest on our debt investments is generally payable quarterly or semi-annually. Payments of principal of our debt investments may be amortized over the stated term of the investment, deferred for several years or due entirely at maturity. In some cases, our debt investments and preferred stock investments may defer payments of cash interest or dividends or PIK interest. Any outstanding principal amount of our debt investments and any accrued but unpaid interest will generally become due at the maturity date. In addition, we may generate revenue in the form of prepayment fees, commitment, origination, structuring or due diligence fees, fees for providing significant managerial assistance, consulting fees and other investment related income.
+
+Expenses
+
+Our primary operating expenses include the payment of the base management fee (the “Base Management Fee”) and, depending on our operating results, the incentive fees (the “Incentive Fee”) under the Advisory Agreement, as well as the payment of reimbursable expenses to the Adviser for the costs and expenses incurred by the Adviser in performing its obligations and providing personnel and facilities under the Administration Agreement, such as our allocable portion of overhead expenses, including rent and the allocable portion of the cost of our chief financial officer and chief compliance officer and their respective staffs. The Base Management Fee and Incentive Fee compensation under the Advisory Agreement remunerates the Adviser for work in identifying, evaluating, negotiating, closing and monitoring our investments. We bear all other out-of-pocket costs and expenses of our operations and transactions, including, without limitation, those relating to:
+
+•
+
+our organization and our offering; 
+
+•
+
+valuing our assets and calculating our net asset value per share (including the cost and expenses of any independent valuation firm(s)); 
+
+•
+
+fees and expenses incurred by the Adviser or payable to third parties, including agents, consultants or other advisors, in monitoring financial and legal affairs for us and in monitoring our investments and performing due diligence on our prospective portfolio companies or otherwise relating to, or associated with, evaluating and making investments; 
+
+•
+
+interest payable on debt, if any, incurred to finance our investments and expenses related to unsuccessful portfolio acquisition efforts; 
+
+•
+
+offerings of our common stock and other securities; 
+
+•
+
+administration fees and expenses, if any, payable under the Administration Agreement (including our allocable portion of the Adviser’s overhead in performing its obligations under the Administration Agreement, including rent, equipment and the allocable portion of the cost of our chief compliance officer, chief financial officer and his staffs’ compensation and compensation-related expenses);
+
+•
+
+transfer agent and custody fees and expenses; 
+
+•
+
+federal and state registration fees; 
+
+•
+
+costs of registration and listing our shares on any securities exchange; 
+
+•
+
+federal, state and local taxes; 
+
+•
+
+independent directors’ fees and expenses; 
+
+•
+
+costs of preparing and filing reports or other documents required by the SEC or other regulators; 
+
+•
+
+costs of any reports, proxy statements or other notices to stockholders including printing costs; 
+
+•
+
+costs associated with individual or group stockholders; 
+
+•
+
+our allocable portion of the costs and fees associated with any fidelity bond, directors and officers/errors and omissions liability insurance, and any other insurance premiums; 
+
+•
+
+direct costs and expenses of administration and operation, including printing, mailing, long distance telephone, copying, secretarial and other staff, independent auditors and outside legal costs; and 
+
+•
+
+all other non-investment advisory expenses incurred by us or the Adviser in connection with administering our business. 
+
+Portfolio and Investment activity
+
+Portfolio composition
+
+We invest primarily in middle-market companies in the form of standalone first and second lien loans and unitranche loans. We may also invest in unsecured debt, bonds and in the equity of portfolio companies through warrants and other instruments.
+
+As of June 30, 2024, our investment portfolio of $184.6 million (at fair value) consisted of debt and equity investments in 41 portfolio companies, of which 85.02% were first lien investments, 0% were second lien investments, and 14.98% were in equities, warrants and other positions. At June 30, 2024, our average and largest portfolio company investment at fair value was $4.6 million and $13.5 million, respectively.
+
+As of June 30, 2023, our investment portfolio of 220.1 million (at fair value) consisted of debt and equity investments in 36 portfolio companies, of which 89.21% were first lien investments, 0% were second lien investments, and 10.79% were in equities, warrants and other positions. At June 30, 2023, our average and largest portfolio company investment at fair value was $6.1 million and $13.0 million, respectively.
+
+As of June 30, 2024, and June 30, 2023, our weighted average total yield of debt and income producing securities at amortized cost (which includes interest income and amortization of fees and discounts) was 12.47% and 12.46%, respectively. As of June 30, 2024, and June 30, 2023, our weighted average total yield on the total portfolio at amortized cost (which includes interest income and amortization of fees and discounts) was 10.60% and 11.32%, respectively. The weighted average total yield was computed using an internal rate of return calculation of our debt investments based on contractual cash flows, including interest and amortization payments, and, for floating rate investments, the spot SOFR, as applicable, as of June 30, 2024 of all of our debt investments. The weighted average total yield of our debt investments is not the same as a return on investment for our stockholders but, rather, relates to a portion of our investment portfolio and is calculated before payment of all of our fees and expenses, including any sales load paid in connection with an offering of our securities. There can be no assurance that the weighted average total yield will remain at its current level.
+
+We use Global Industry Classification Standard (“GICS”) codes to identify the industry groupings of our portfolio companies. At June 30, 2024 and June 30, 2023, respectively, the industry composition of our portfolio in accordance with GICS at fair value, as a percentage of our total portfolio, was as follows:
+
+During the year ended June 30, 2024, we made investments in eleven new portfolio companies and four existing portfolio companies. These investments totaled approximately $60.4 million. Of these new investments, 93.23% consisted of first lien investments and 6.77% were in equity, warrants, and other investments.
+
+During the year ended June 30, 2023, we made investments in eight new portfolio companies and four existing portfolio companies. These investments totaled approximately $41.3 million. Of these new investments, 98.25% consisted of first lien investments and 1.75% were in equity, warrants, and other investments.
+
+At June 30, 2024, 97.4% of our debt investments bore interest based on floating rates based on indices such as SOFR, the Euro Interbank Offered Rate, the Federal Funds Rate or the Prime Rate (in certain cases, subject to interest rate floors), and 2.6% bore interest at fixed rates. At June 30, 2023, 99.6% of our debt investments bore interest based on floating rates based on indices such as LIBOR, SOFR, the Euro Interbank Offered Rate, the Federal Funds Rate or the Prime Rate (in certain cases, subject to interest rate floors), and 0.4% bore interest at fixed rates.
+
+Our investment portfolio may contain loans that are in the form of lines of credit or revolving credit facilities, which require us to provide funding when requested by portfolio companies in accordance with the terms of the underlying loan agreements. As of June 30, 2024, we had three investments with aggregate unfunded commitments of $1.8 million, and as of June 30, 2023, we had nine investments with aggregate unfunded commitments of $5.7 million. As of June 30, 2024 we had sufficient liquidity (through cash on hand and available borrowings under our Capital One Revolving Financing) to fund such unfunded loan commitments should the need arise.
+
+Asset Quality
+
+In addition to various risk management and monitoring tools, we use the Adviser’s investment rating system to characterize and monitor the credit profile and expected level of returns on each investment in our portfolio. This investment rating system uses a five-level numeric rating scale. The following is a description of the conditions associated with each investment rating:
+
+If the Adviser determines that an investment is underperforming, or circumstances suggest that the risk associated with a particular investment has significantly increased, the Adviser will increase its monitoring intensity and prepare regular updates for the Investment Committee, summarizing current operating results and material impending events and suggesting recommended actions. While the investment rating system identifies the relative risk for each investment, the rating alone does not dictate the scope and/or frequency of any monitoring that will be performed. The frequency of the Adviser’s monitoring of an investment will be determined by a number of factors, including, but not limited to, the trends in the financial performance of the portfolio company, the investment structure and the type of collateral securing the investment.
+
+The following table shows the investment rankings of the investments in our portfolio, according to the Adviser’s investment rating system:
+
+Results of Operations
+
+Comparison of the years ended June 30, 2024 and June 30, 2023
+
+Investment income
+
+Investment income, attributable primarily to dividends, interest and fees on our debt investments, for the year ended June 30, 2024 decreased to $23.9 million from $26.7 million for the year ended June 30, 2023, primarily due to a decrease in interest income related to the sale of two portfolio companies and the repayment of twelve portfolio companies, and portfolio companies on non-accrual status, partially offset by an increase in payment in-kind interest income earned on Crafty Apes, LLC and American Nuts Holdings, LLC - Term Loan A, which were removed from non-accrual status during the quarter ended December 31, 2023.
+
+Expenses
+
+Total expenses for the year ended June 30, 2024 of $17.3 million were flat compared to $17.3 million for the year ended June 30, 2023.
+
+Net investment income
+
+Net investment income decreased to $6.6 million for the year ended June 30, 2024 from $9.4 million for the year ended June 30, 2023, primarily due to a decrease in interest income related to the sale of two portfolio companies and the repayment of twelve portfolio companies, and portfolio companies on non-accrual status, partially offset by an increase in payment in-kind interest income earned on Crafty Apes, LLC and American Nuts Holdings, LLC - Term Loan A, which were removed from non-accrual status during the quarter ended December 31, 2023.
+
+Net realized gain or loss
+
+The net realized loss on investments totaled $14.0 million for the year ended June 30, 2024, primarily due to the realization of losses from restructurings and loan modifications of our investments in American Nuts Holdings, LLC, Arborworks Acquisition LLC, ArborWorks, LLC, Crafty Apes, LLC, Sandvine Corporation, and Xenon Arc, Inc. and the realization of losses associated with the sale and write off of our investments in 1888 Industrial Services, LLC.
+
+The net realized loss on investments totaled $26.9 million for the year ended June 30, 2023, primarily due to the write off of our investments in the American Teleconferencing Services, Ltd. (d/b/a Premiere Global Services, Inc.) 1st and 2nd lien term loans.
+
+Net change in unrealized (depreciation) appreciation on investments
+
+We recorded a net change in unrealized appreciation of $3.3 million for the year ended June 30, 2024, primarily due to the decrease in fair value of our investments in ArborWorks, LLC A-1 Preferred, Klein Hersh, LLC, and Techniplas Foreign Holdco LP, partially offset by the increase in fair value of our investment in Discovery Behavioral Health and due to the realization of previously unrealized losses resulting from the sale and write off of our investments in 1888 Industrial Services, LLC and the restructuring or Arborworks Acquisition LLC.
+
+We recorded a net change in unrealized appreciation of $20.7 million for the year ended June 30, 2023, primarily due to the reversal of depreciation related to the write off of our investments in the American Teleconferencing Services, Ltd. (d/b/a Premiere Global Services, Inc.) 1st and 2nd lien term loans.
+
+Comparison of the years ended June 30, 2023 and June 30, 2022
+
+Investment income
+
+Investment income, attributable primarily to dividends, interest and fees on our debt investments, for the year ended June 30, 2023 increased to $26.7 million from $24.4 million for the year ended June 30, 2022, primarily due to an increase in the SOFR and LIBOR rates and payment-in-kind income.
+
+Expenses
+
+Total expenses for the year ended June 30, 2023 increased to $17.3 million from $15.5 million for the year ended June 30, 2022, primarily due to the increase in SOFR and LIBOR Rates.
+
+Net investment income
+
+Net investment income increased to $9.4 million for the year ended June 30, 2023 from $8.9 million for the year ended June 30, 2022, primarily due to an increase in interest and payment-in-kind income offset by an increase in expenses related to an increase in borrowing costs.
+
+Net realized gain or loss
+
+The net realized loss on investments totaled $26.9 million for the year ended June 30, 2023, primarily due to the write off of our investments in the American Teleconferencing Services, Ltd. (d/b/a Premiere Global Services, Inc.) 1st and 2nd lien term loans.
+
+The net realized loss on investments totaled $14.4 million for the year ended June 30, 2022, primarily due to the restructure of 1888 Industrial Services, LLC –Term B and Fusion Connect Inc. –Take-Back Term Loan.
+
+Net change in unrealized (depreciation) appreciation on investments
+
+We recorded a net change in unrealized appreciation of $20.7 million for the year ended June 30, 2023, primarily due to the reversal of depreciation related to the write off of our investments in the American Teleconferencing Services, Ltd. (d/b/a Premiere Global Services, Inc.) 1st and 2nd lien term loans.
+
+We recorded a net change in unrealized depreciation of $8.1 million for the year ended June 30, 2022, primarily due to the restructure of 1888 Industrial Services, LLC –Term B and Fusion Connect Inc. –Take-Back Term Loan offset by the decrease in fair value of Techniplas Foreign Holdco LP common stock.
+
+Liquidity and capital resources
+
+Cash flows
+
+For the year ended June 30, 2024, our cash balance decreased by $4.0 million. During that period, $37.1 million in cash was provided by operating activities, primarily due to investments of $62.5 million in portfolio companies, offset by proceeds from repayment and sale of investments in portfolio companies of $92.3 million. During the same period, cash from financing activities decreased by $41.1 million, resulting primarily from proceeds of $37.1 million from borrowings under the Capital One Revolving Financing, offset by repayments of $66.0 million of borrowings under the Capital One Revolving Financing, distributions of $11.2 million to our stockholders, and payments of $1.0 million for deferred financing costs.
+
+Capital Resources
+
+As of June 30, 2024, we had $0.2 million of cash as well as $5.0 million in restricted cash and $57.0 million of capacity under the Capital One Revolving Financing. As of June 30, 2024, we had approximately $106.3 million of senior securities outstanding and our asset coverage ratio was 169.5%. We intend to generate additional cash primarily from future offerings of securities, future borrowings under our Capital One Revolving Financing as well as cash flows from operations, including income earned from investments in our portfolio companies and, to a lesser extent, from the temporary investment of cash in U.S. government securities and other high-quality debt investments that mature in one year or less. Our primary liquidity needs include interest and principal repayments on our Capital One Revolving Financing, interest payments on the 2026 Notes, our unfunded loan commitments (if any), investments in portfolio companies, dividend distributions to our stockholders and operating expenses.
+
+As discussed below in further detail, we have elected to be treated as a RIC under the Code. To maintain our RIC status, we generally must distribute substantially all of our net taxable income to stockholders in the form of dividends. Our net taxable income does not necessarily equal our net income as calculated in accordance with U.S. GAAP.
+
+Senior Securities
+
+Information about our senior securities is shown in the following table as of each of the fiscal years ended June 30, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016 and 2015, respectively.
+
+Total amount of senior securities outstanding at the end of the period presented.
+
+Asset coverage per unit is the ratio of the carrying value of our total assets, less all liabilities and indebtedness not represented by senior securities, in relation to the aggregate amount of senior securities representing indebtedness. Asset coverage per unit is expressed in terms of dollar amounts per $1,000 of indebtedness.
+
+The amount to which such class of senior security would be entitled upon the involuntary liquidation of the issuer in preference to any security junior to it. The “—” indicates information which the SEC expressly does not require to be disclosed for certain types of senior securities. 
+
+Not applicable, except for the 6.125% notes due 2023 (the “2023 Notes”), which were publicly traded. The Average Market Value Per Unit is calculated by taking the daily average closing price during the period and dividing it by twenty-five dollars per share and multiplying the result by one thousand to determine a unit price per thousand consistent with Asset Coverage Per Unit.
+
+Includes senior securities outstanding under the Capital One Revolving Financing.
+
+On November 19, 2021, we satisfied all obligations under the 2017 UBS Revolving Financing and the agreement was terminated. On November 19, 2021, we repaid the Term Financing in full in accordance with the terms of the Term Financing.
+
+Includes senior securities under the 2013 UBS Revolving Financing and the Term Financing. In connection with the expiration of the 2013 UBS Revolving Financing in accordance with its terms on December 5, 2016, we repaid in full all indebtedness, liabilities and other obligations thereunder.
+
+On December 8, 2017, we repaid in full all indebtedness, liabilities and other obligations under, and terminated, the Citi Revolving Financing.
+
+On March 26, 2021, we caused notice to be issued to the holders of the 2023 Notes regarding our exercise of the option to redeem in full all $51,375,000 in aggregate principal amount of the 2023 Notes at 100% of their principal amount ($25 per 
+
+Note), plus the accrued and unpaid interest thereon from April 1, 2021, through, but excluding, the redemption date, April 25, 2021. The 2023 Notes were redeemed on April 25, 2021.
+
+On March 31, 2021, we closed the public offering of $65,000,000 in aggregate principal amount of 4.875% notes due 2026 (the “2026 Notes”). The total net proceeds to us from the 2026 Notes after deducting underwriting discounts and commissions of approximately $1.3 million and estimated offering expenses of approximately $215,000, were approximately $63.1 million.
+
+Regulated Investment Company Status and Distributions
+
+We have elected to be treated as a RIC under Subchapter M of the Code. If we continue to qualify as a RIC for a taxable year, we will not be subject to corporate-level U.S. federal income tax on our investment company taxable income or realized net capital gains, to the extent that such taxable income or gains are distributed, or deemed to be distributed, to stockholders on a timely basis.
+
+Taxable income generally differs from net income for financial reporting purposes due to temporary and permanent differences in the recognition of income and expenses, and generally excludes net unrealized appreciation or depreciation until realized. Dividends declared and paid by us in a year may differ from taxable income for that year as such dividends may include the distribution of current year taxable income or the distribution of prior year taxable income carried forward into and distributed in the current year. Distributions also may include returns of capital.
+
+To continue to qualify for RIC tax treatment, we must, among other things, distribute to our stockholders, with respect to each taxable year, at least 90% of our investment company net taxable income (i.e., our net ordinary income and our realized net short-term capital gains in excess of realized net long-term capital losses, if any). We will also be subject to a federal excise tax, based on distributive requirements of our taxable income on a calendar year basis.
+
+We intend to distribute to our stockholders between 90% and 100% of our annual taxable income (which includes our taxable interest and fee income). However, the covenants contained in the Capital One Revolving Financing and any other borrowing or financing arrangement we or our subsidiaries may have may prohibit us from making distributions to our stockholders, and, as a result, could hinder our ability to satisfy the distribution requirement. In addition, we may retain for investment some or all of our net taxable capital gains (i.e., realized net long-term capital gains in excess of realized net short-term capital losses) and treat such amounts as deemed distributions to our stockholders. If we do this, our stockholders will be treated as if they received actual distributions of the capital gains we retained and then reinvested the net after-tax proceeds in our common stock. Our stockholders also may be eligible to claim tax credits (or, in certain circumstances, tax refunds) equal to their allocable share of the tax we paid on the capital gains deemed distributed to them. To the extent our taxable earnings for a fiscal taxable year fall below the total amount of our dividends for that fiscal year, a portion of those dividend distributions may be deemed a return of capital to our stockholders.
+
+We may not be able to achieve operating results that will allow us to make distributions at a specific level or to increase the amount of these distributions from time to time. In addition, we may be limited in our ability to make distributions due to the asset coverage test for borrowings applicable to us as a BDC under the 1940 Act and due to provisions in the agreements governing our borrowing or financial arrangements. We cannot assure stockholders that they will receive any distributions or distributions at a particular level.
+
+In accordance with certain applicable U.S. Department of the Treasury (“Treasury”) regulations and a revenue procedure issued by the Internal Revenue Service, a RIC may treat a distribution of its own stock as fulfilling its RIC distribution requirements if each stockholder elects to receive his or her entire distribution in either cash or stock of the RIC, subject to a limitation that the aggregate amount of cash to be distributed to all stockholders must be at least 20% of the aggregate declared distribution. If too many stockholders elect to receive cash, each stockholder electing to receive cash must receive a pro rata amount of cash (with the balance of the distribution paid in stock). In no event will any stockholder, electing to receive cash, receive less than 20% of his or her entire distribution in cash. If these and certain other requirements are met, for U.S. federal income tax purposes, the amount of the dividend paid in stock will be equal to the amount of cash that could have been received instead of stock. We have no current intention of paying dividends in shares of our stock in accordance with these Treasury regulations or private letter rulings.
+
+Advisory Agreement
+
+The Company is party to the Advisory Agreement with the Adviser. Under the Advisory Agreement, the Base Management Fee is calculated at an annual rate of 1.75% of the Company’s gross assets, including assets purchased with borrowed funds or other forms of leverage and excluding cash and cash equivalents (such amount, “Gross Assets”).
+
+For the year ended June 30, 2024, $3,800,693 in Base Management Fees were earned by the Adviser, of which $365,225 was waived and $816,777 was payable at June 30, 2024. For the year ended June 30, 2023, $4,201,394 in Base Management Fees were earned by the Adviser, of which $387,311 was waived and $906,218 was payable at June 30, 2023. For the year ended June 30, 2022,
+
+$4,594,588 in Base Management Fees were earned by the Adviser, of which $480,032 was waived and $1,054,063 was payable at June 30, 2022.
+
+The Base Management Fee is calculated based on the average value of the Company’s Gross Assets at the end of the two most recently completed fiscal quarters. The Base Management Fee is payable quarterly in arrears and the Base Management Fees for any partial month or quarter will be appropriately pro-rated.
+
+Under the Advisory Agreement, the Income-Based Fee is calculated and payable quarterly in arrears based on our Pre-Incentive Fee Net Investment Income (as defined below) for the immediately preceding fiscal quarter, subject to a total return requirement (the “Total Return Requirement”) and deferral of non-cash amounts, and is 20.0% of the amount, if any, by which our Pre-Incentive Fee Net Investment Income, expressed as a rate of return on the value of our net assets attributable to its common stock, for the immediately preceding fiscal quarter, exceeds a 2.0% (which is 8.0% annualized) hurdle rate and a “catch-up” provision measured as of the end of each fiscal quarter. Under this provision, in any fiscal quarter, the Adviser receives no Incentive Fee until our Pre-Incentive Fee Net Investment Income equals the hurdle rate of 2.0%, but then receives, as a “catch-up,” 100% of our Pre-Incentive Fee Net Investment Income with respect to that portion of such Pre-Incentive Fee Net Investment Income, if any, that exceeds the hurdle rate but is less than 2.5% (which is 10.0% annualized). The effect of the “catch-up” provision is that, subject to the Total Return Requirement and deferral provisions discussed below, if Pre-Incentive Fee Net Investment Income exceeds 2.5% in any fiscal quarter, the Adviser receives 20.0% of our Pre-Incentive Fee Net Investment Income as if a hurdle rate did not apply.
+
+“Pre-Incentive Fee Net Investment Income” means interest income, dividend income and any other income (including any other fees, such as commitment, origination, structuring, diligence, managerial assistance and consulting fees or other fees that we receive from portfolio companies) accrued during the fiscal quarter, minus our operating expenses for the quarter (including the Base Management Fee, expenses payable under the Administration Agreement and any interest expense and any distributions paid on any issued and outstanding preferred stock, but excluding the Incentive Fee). Pre-incentive fee net investment income includes, in the case of investments with a deferred interest feature (such as original issue discount (“OID”), debt instruments with payment-in-kind (“PIK”) interest and zero coupon securities), accrued income that we have not yet received in cash.
+
+Pre-Incentive Fee Net Investment Income does not include any realized capital gains, realized capital losses or unrealized capital appreciation or depreciation.
+
+No Income-Based Fee is payable under the Advisory Agreement except to the extent 20.0% of the cumulative net increase in net assets resulting from operations over the fiscal quarter for which fees are being calculated and the Lookback Period exceeds the cumulative Incentive Fees accrued and/or paid for the Lookback Period. For the foregoing purpose, the “cumulative net increase in net assets resulting from operations” is the amount, if positive, of the sum of Pre-Incentive Fee Net Investment Income, realized gains and losses and unrealized appreciation and depreciation of the Company for the then current fiscal quarter and the Lookback Period. The “Lookback Period” means through June 30, 2024, the period that commences on the last day of the fiscal quarter in which the Commencement Date occurs and ends on the last day of the fiscal quarter immediately preceding the fiscal quarter for which the Income-Based Fee is being calculated, and after June 30, 2024, the eleven fiscal quarters immediately preceding the fiscal quarter for which the Income-Based Fee is being calculated.
+
+For the year ended June 30, 2024, the Company wrote off $72,942 in previously deferred Income-Based Fees and incurred no Income-Based Fees. As of June 30, 2024, $128,876 in incentive fees related to Income-Based Fees incurred by the Company were payable to the Adviser, of which fees of $16,929 are payable and fees of $111,947generated from deferred interest (i.e. PIK and certain discount accretion) are not payable until such amounts are received in cash. For the year ended June 30, 2023, the Company incurred $401,597 of Income-Based Fees. As of June 30, 2023, $201,817 of Income-Based Fees are currently payable to the Adviser and $201,817 in incentive fees related to Income-Based Fees incurred by the Company were generated from deferred interest (i.e. PIK and certain discount accretion) and are not payable until such amounts are received in cash. For the year ended June 30, 2022, the Company wrote off $348,670 in previously deferred Income-Based incentive fees and incurred no Income-Based Fees. As of June 30, 2022, $182,095 of Income-Based Fees are currently payable to the Adviser and were generated from deferred interest (i.e. PIK and certain discount accretion) and are not payable until such amounts are received in cash. Any voluntary waivers of the incentive fee in no way implies that the Adviser will agree to waive any incentive fee in any future period. Any portion of the incentive fees waived are not subject to recapture.
+
+Under the Advisory Agreement, the Capital Gains Fee is determined and payable in arrears as of the end of each fiscal year (or upon termination of the Advisory Agreement, as of the termination date), commencing with the fiscal year ended June 30, 2021, and is equal to 20.0% of our cumulative aggregate realized capital gains from the Commencement Date through the end of each fiscal year, computed net of our aggregate cumulative realized capital losses and our aggregate cumulative unrealized capital depreciation through the end of such year, less the aggregate amount of any previously paid Capital Gains Fees. If such amount is negative, then no Capital Gains Fee will be payable for such year. Additionally, if the Advisory Agreement is terminated as of a date that is not a fiscal year
+
+end, the termination date will be treated as though it were a fiscal year end for purposes of calculating and paying the Capital Gains Fee.
+
+As required by U.S. GAAP, we accrue the Capital Gains Fee on unrealized gains. This accrual reflects the Incentive Fees that would be payable to the Adviser if our entire investment portfolio was liquidated at its fair value as of the balance sheet date even though the Adviser is not entitled to an Incentive Fee with respect to unrealized gains unless and until such gains are actually realized. There can be no assurance that such unrealized capital appreciation will be realized in the future. Accordingly, the amount of the accrued Capital Gains Fee at a reporting date may vary from the Capital Gains Fee that is ultimately realized, and the differences could be material.
+
+As of June 30, 2024, June 30, 2023 and June 30, 2022, there was no Capital Gains Fee accrued, earned or payable to the Adviser under the Advisory Agreement.
+
+The Advisory Agreement provides that, absent willful misfeasance, bad faith or gross negligence in the performance of its duties or by reason of the reckless disregard of its duties and obligations under the Advisory Agreement, the Adviser and its officers, managers, partners, agents, employees, controlling persons and members, and any other person or entity affiliated with it, are entitled to indemnification from us for any damages, liabilities, costs and expenses (including reasonable attorneys’ fees and amounts reasonably paid in settlement) arising from the rendering of the Adviser’s services under the Advisory Agreement or otherwise as the Adviser.
+
+Off-Balance Sheet Arrangements
+
+We may be a party to financial instruments with off-balance sheet risk in the normal course of business to meet the financial needs of our portfolio companies. As of June 30, 2024, our off-balance sheet arrangements consisted of $1.8 million in unfunded commitments to three of our portfolio companies. As of June 30, 2023, our off-balance sheet arrangements consisted of $5.7 million in unfunded commitments to nine of our portfolio companies. We maintain sufficient liquidity (through cash on hand and available borrowings under our Capital One Revolving Financing) to fund such unfunded loan commitments should the need arise.
+
+Recent Developments
+
+The Company has evaluated the need for disclosures and/or adjustments resulting from subsequent events through the date the consolidated financial statements were issued.
+
+Subsequent to June 30, 2024 and through September 25, 2024, the Company invested a total of $12.9 million, which included investments in three new portfolio companies and two existing portfolio companies. As of September 25, 2024, the Company had investments in 44 portfolio companies.
+
+On September 18, 2024, the Company’s board of directors declared a distribution for the quarter ended September 30, 2024 of $0.12 per share payable on November 6, 2024 to stockholders of record as of October 16, 2024.
+
+Item 7A. Quantitative and Qualitative

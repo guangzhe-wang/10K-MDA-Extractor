@@ -1,0 +1,203 @@
+Item 7.Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Management’s discussion and analysis of financial condition and results of operations (“MD&A”) is intended to convey management’s perspective regarding the Company’s operational and financial performance and should be read in conjunction with the consolidated financial statements and related notes contained in this Annual Report. The discussion in this Annual Report generally focuses on fiscal 2024 compared to fiscal 2023. A discussion of our results of operations and changes in financial condition for fiscal 2023 compared to fiscal 2022 has been excluded from this report, but can be found in Part II, Item 7. Management’s Discussion and Analysis of Financial Conditions and Results of Operations of the Annual Report on Form 10-K filed by Ferguson plc with the SEC on September 26, 2023 for fiscal 2023.
+
+The following discussion contains trend information and forward-looking statements. Actual results could differ materially from those discussed in these forward-looking statements, as well as from our historical performance, due to various factors, including, but not limited to, those discussed in the “Risk Factors” and “Forward-Looking Statements and Risk Factor Summary” sections and elsewhere in this Annual Report.
+
+Overview
+
+Ferguson is a value-added distributor serving the specialized professional in the residential and non-residential North American construction market. We help make our customers’ complex projects simple, successful and sustainable by providing expertise and a wide range of products and services from plumbing, HVAC, appliances, and lighting to PVF, water and wastewater solutions, and more. Ferguson is headquartered and managed in Newport News, Virginia with its operations and associates solely focused on North America. 
+
+The following table presents highlights of our annual performance:
+
+The Company uses certain non-GAAP measures, which are not defined or specified under accounting principles generally accepted in the United States (“U.S. GAAP”). See the section titled “Non-GAAP Reconciliations and Supplementary Information.”
+
+For fiscal 2024, net sales decreased by 0.3%, primarily driven by price deflation of approximately 2%, mainly within certain commodity categories, and to a lesser extent, lower sales volume. These decreases were partially offset by incremental sales from acquisitions and the benefit of one additional sales day in fiscal 2024 compared with fiscal 2023.
+
+For fiscal 2024, operating profit decreased 0.3% (adjusted operating profit decreased 3.2%) compared to fiscal 2023. The year-over-year decline was primarily due to higher operating costs driven by inflation, partially offset by not having the software impairment and other charges recorded in fiscal 2023.
+
+For fiscal 2024, diluted earnings per share was $8.53 (adjusted diluted earnings per share: $9.69), decreasing 6.5% compared with the prior year due to lower net income and the impact of one-time, non-cash deferred tax charges of $137 million in fiscal 2024 in connection with the Merger, partially offset by not having the software impairment and other charges recorded in fiscal 2023, as well as the impact of share repurchases. Adjusted diluted earnings per share decreased 1.5%, primarily due to the lower adjusted operating profit, partially offset by the impact of the Company’s share repurchases.
+
+Net cash provided by operating activities decreased to $1.9 billion for fiscal 2024 compared with $2.7 billion for fiscal 2023, primarily reflecting lower net income after adjusting for non-cash items, as well as higher working capital with inventory levels stabilizing in line with customer demand. During fiscal 2024, the Company invested $260 million in acquisitions and $372 million in capital expenditures to meet the Company’s strategic objectives.
+
+Results of Operations
+
+The table below summarizes the Company’s consolidated statements of earnings for the periods indicated.
+
+Net sales
+
+Net sales were $29.6 billion in fiscal 2024, a decrease of $0.1 billion, or 0.3%, compared with the same period in 2023. The decrease in net sales was primarily driven by price deflation of approximately 2%, mainly within certain commodity categories, and to a lesser extent, lower sales volume, as well as the impact of foreign currency exchange rates of 0.1%. These decreases were partially offset by incremental sales from acquisitions of 1.8% and the benefit of an additional sales day of 0.4% in the year-over-year comparison. The Company’s decrease in sales was primarily driven by lower year-over-year sales in the United States residential markets.
+
+Gross profit
+
+Gross profit was $9.1 billion in fiscal 2024 and approximately flat compared with fiscal 2023. Gross profit as a percent of sales was 30.5% in fiscal 2024 compared with 30.4% in the prior year with the increase reflecting favorable product mix, partially offset by price deflation in net sales within certain commodity categories.
+
+Selling, general and administrative expenses (“SG&A”)
+
+SG&A expenses in fiscal 2024 increased $146 million, or 2.5%, compared with fiscal 2023. SG&A as a percentage of sales was 20.5% and 19.9% in fiscal 2024 and fiscal 2023, respectively. The increase in SG&A as a percent of sales primarily reflects the impact of wage and infrastructure cost inflation, corporate restructuring costs and the impact of acquisitions.
+
+Net interest expense
+
+Net interest expense was $179 million in fiscal 2024 compared with $184 million in fiscal 2023. The decrease in net interest expense was primarily due to lower average borrowings in fiscal 2024.
+
+Income tax expense
+
+Income tax expense was $729 million for fiscal 2024, an increase of $154 million compared with fiscal 2023. The Company’s effective tax rate was 29.6% for fiscal 2024 compared with 23.3% for fiscal 2023. The increase in income tax expense and the increase in the effective tax rate were primarily driven by one-time, non-cash deferred tax charges of $137 million due to the elimination of certain pre-existing U.K. tax attributes of the Company as part of the Merger. 
+
+Net income
+
+Net income for fiscal 2024 was $1.7 billion, a decrease of $154 million, or 8.2%, compared with fiscal 2023 due to the elements described in the sections above.
+
+Segment results of operations for fiscal 2024 and fiscal 2023
+
+The Company’s reportable segments are the United States and Canada based on how the Company manages its business and allocates resources, which is on a geographical basis. The Company’s measure of segment profit is adjusted operating profit which is defined as profit before tax, excluding central and other costs, restructuring costs, amortization of acquired intangible assets, net interest expenses, as well as other items typically recorded in net other (expense) income such as (loss)/gain on disposal of businesses, pension plan changes/closure costs and amounts recorded in connection with the Company’s interests in investees. For further segment information, see Note 2, Revenue and segment information of the Notes to the Consolidated Financial Statements. 
+
+United States
+
+Net sales for the United States segment were $28.2 billion in fiscal 2024, a decrease of $0.1 billion, or 0.3%, compared with the prior year. The decrease in net sales was primarily driven by price deflation of approximately 2%, mainly within certain commodity categories, and to a lesser extent, lower sales volume. These decreases were partially offset by incremental sales from acquisitions of 1.7% and the benefit of one additional sales day of 0.4% in the year-over-year comparison. Net sales in the residential markets decreased by 2.4%, driven by lower sales in new construction reflecting housing starts and permit activity that were below prior year levels, as well as lower sales in RMI. Net sales growth in the non-residential markets, was 1.9%, with growth in the civil/infrastructure and commercial markets. 
+
+Adjusted operating profit in the United States was $2.8 billion, a decrease of $0.1 billion, or 2.5%, compared with the prior year, primarily reflecting the impact of wage and infrastructure cost inflation.
+
+Canada
+
+Net sales for the Canada segment were $1,440 million in fiscal 2024, a decrease of $3 million, or 0.2%, compared with the prior year. This decrease in net sales was primarily due to lower sales volumes, as well as a 1.3% unfavorable impact from foreign currency exchange rates. These impacts were partially offset by incremental sales from acquisitions of 2.7%, price inflation of approximately 1% and the benefit of one additional sales day of 0.5%.
+
+Adjusted operating profit for the Canada segment decreased compared with the prior year, primarily due to higher operating costs compared with the same period of prior year.
+
+Non-GAAP Reconciliations and Supplementary Information
+
+The Company reports its financial results in accordance with U.S. GAAP. However, the Company believes certain non-GAAP financial measures provide users of the Company’s financial information with additional meaningful information to assist in understanding financial results and assessing the Company’s performance from period to period. These non-GAAP financial measures include adjusted operating profit, adjusted net income and adjusted earnings per share (“adjusted EPS”) - diluted. Management believes these measures are important indicators of operations because they exclude items that may not be indicative of our core operating results and provide a better baseline for analyzing trends in our underlying businesses, and they are consistent with how business performance is planned, reported and assessed internally by management and the Company’s Board of Directors. Such non-GAAP adjustments include amortization of acquired intangible assets, discrete tax items, and any other items that are non-recurring. Non-recurring items may include various restructuring charges, gains or losses on the disposals of businesses which by their nature do not reflect primary operations, as well as certain other items deemed non-recurring in nature and/or that are not a result of the Company’s primary operations. Because non-GAAP financial measures are not standardized, it may not be possible to compare these financial measures with other companies’ non-GAAP financial measures having the same or similar names. These non-GAAP financial measures should not be considered in isolation or as a substitute for results reported under U.S. GAAP. These non-GAAP financial measures reflect an additional way of viewing aspects of operations that, when viewed with U.S. GAAP results, provide a more complete understanding of the business. The Company strongly encourages investors and shareholders to review the Company’s financial statements and publicly filed reports in their entirety and not to rely on any single financial measure.
+
+Reconciliation of net income to adjusted operating profit
+
+The following table reconciles net income (U.S. GAAP) to adjusted operating profit (non-GAAP):
+
+For fiscal 2024, corporate restructuring costs related to incremental costs in connection with the Merger. 
+
+For fiscal 2023, impairments and other charges related to the $107 million in software impairment charges and $18 million in charges associated with the closure of certain smaller, underperforming branches in the United States.
+
+Reconciliation of net income to adjusted net income and adjusted EPS - diluted
+
+The following table reconciles net income (U.S. GAAP) to adjusted net income and adjusted EPS - diluted (non-GAAP):
+
+Per share on a dilutive basis.
+
+For fiscal 2024, corporate restructuring costs related to incremental costs in connection with the Merger. 
+
+For fiscal 2023, impairments and other charges related to the $107 million in software impairment charges and $18 million in charges associated with the closure of certain smaller, underperforming branches in the United States.
+
+For fiscal 2024, discrete tax adjustments primarily related to one-time, non-cash deferred tax charges of $137 million, resulting from the elimination of certain pre-existing U.K. tax attributes as part of the Merger, partially offset by the release of uncertain tax positions, as well as the tax treatment of certain compensation items that were not individually significant. For fiscal 2023, discrete tax adjustments primarily related to the release of uncertain tax positions following the lapse of statute of limitations, as well as adjustments in connection with amended returns. 
+
+For fiscal 2024, the tax impact of non-GAAP adjustments primarily related to the amortization of acquired intangibles. For fiscal 2023, the tax impact on non-GAAP adjustments primarily related to the impairments and other charges and amortization of acquired intangibles.
+
+Liquidity and Capital Resources
+
+The Company believes its current cash position coupled with cash flow anticipated to be generated from operations and access to capital should be sufficient to meet its operating cash requirements for the next 12 months and will also enable the Company to invest and fund acquisitions, capital expenditures, dividend payments, share repurchases, required debt payments and other contractual obligations through the next several fiscal years. The Company also anticipates that it has the ability to obtain alternative sources of financing, if necessary.
+
+Cash flows
+
+As of July 31, 2024 and 2023, the Company had cash and cash equivalents of $571 million and $601 million, respectively. In addition to cash, the Company had $2.2 billion of available liquidity from undrawn debt facilities as of July 31, 2024.
+
+As of July 31, 2024, the Company’s total debt was $3.9 billion. The Company anticipates that it will be able to meet its debt obligations as they become due.
+
+Cash flows from operating activities
+
+Net cash provided by operating activities was $1.9 billion in fiscal 2024 and $2.7 billion in fiscal 2023. This decrease was primarily driven by changes in inventory, along with the timing of receivables collections and lower net income in fiscal 2024 after adjusting for non-cash charges. In fiscal 2024, inventory levels have stabilized in line with customer demand compared to fiscal 2023 where inventory was decreasing to normalized levels following periods of supply chain disruption. These decreases in cash flow were partially offset by a net increase in payables, due to the timing of vendor payments.
+
+Cash flows from investing activities 
+
+Net cash used in investing activities was $0.6 billion in fiscal 2024 compared with $1.1 billion in fiscal 2023.
+
+Capital expenditure totaled $372 million and $441 million in fiscal 2024 and fiscal 2023, respectively. These investments were primarily for strategic projects to support future growth, such as new market distribution centers, our branch network and new technology. In addition, the Company invested $260 million and $616 million in new acquisitions in fiscal 2024 and fiscal 2023, respectively.
+
+Cash flows from financing activities 
+
+Net cash used in financing activities was $1.3 billion and $1.8 billion in fiscal 2024 and 2023, respectively. 
+
+Dividends paid to shareholders were $784 million and $711 million in fiscal 2024 and 2023, respectively.
+
+Share repurchases under the Company’s announced share repurchase program were $634 million and $908 million in fiscal 2024 and 2023, respectively. 
+
+Net proceeds from debt were $145 million compared to net repayments of debt of $155 million in fiscal 2024 and 2023, respectively. In fiscal 2024, the Company had net borrowings of $200 million under the Receivables Facility (as defined below), partially offset by the repayment of $55 million in connection with the maturity of certain Private Placement Notes (as defined below). In fiscal 2023, the Company made $405 million in net repayments on the Receivables Facility and repaid $250 million due to the maturity of certain Private Placement Notes, partially offset by borrowings of $500 million in term loans.
+
+Reinvestment of unremitted earnings
+
+We consider foreign earnings of specific subsidiaries to be indefinitely reinvested. As of July 31, 2024 and 2023, these permanently reinvested earnings of foreign subsidiaries amounted to $795 million and $725 million, respectively. If at some future date, the Company ceases to be permanently reinvested in these specific foreign subsidiaries, the Company may be subject to foreign withholding and other taxes on these undistributed earnings and may need to record a deferred tax liability for any outside basis difference on these specific foreign subsidiaries. In addition, interest payments made between the U.S. and U.K. are anticipated to be exempt from withholding taxes, however, if Ferguson should fail to meet treaty requirements, withholding taxes may apply to these payments.
+
+Debt facilities
+
+The following section summarizes certain material provisions of our long-term debt facilities and current obligations. The following description is only a summary, does not purport to be complete and is qualified in its entirety by reference to the documents governing such indebtedness. 
+
+Private Placement Notes
+
+In June 2015 and November 2017, Wolseley Capital, Inc. (“Wolseley Capital”), a wholly-owned subsidiary of the Company, privately placed fixed rate notes in an aggregate principal amount of $800 million and $355 million, respectively (collectively, the “Private Placement Notes”). In September 2022 and November 2023, the Company repaid $250 million and $55 million, respectively, due to the maturing of certain Private Placement Notes. In November 2024, an additional $150 million of such notes will mature.
+
+Unsecured Senior Notes
+
+Ferguson Finance plc (“Ferguson Finance”) has issued $2.35 billion in various issuances of unsecured senior notes (collectively, the “Unsecured Senior Notes”).
+
+The Unsecured Senior Notes are fully and unconditionally guaranteed on a direct, unsubordinated and unsecured senior basis by the Company and generally carry the same terms and conditions with interest paid semi-annually. The Unsecured Senior Notes may be redeemed, in whole or in part, (i) at 100% of the principal amount on the notes being redeemed plus a “make-whole” prepayment premium at any time prior to three months before the maturity date (the “Notes Par Call Date”) or (ii) after the Notes Par Call Date at 100% of the principal amount of the notes being redeemed plus accrued and unpaid interest on the principal being redeemed. The Unsecured Senior Notes include covenants, subject to certain exceptions, which include limitations on the granting of liens and on mergers and acquisitions.
+
+Term Loan
+
+In October 2022, the Company and Ferguson UK Holdings Limited (“Ferguson UK”) entered into, and Ferguson UK borrowed in full, the $500 million of term loans available under the Term Loan Agreement (as defined below). The proceeds of the term loans may be used for general corporate purposes. The Term Loan Agreement will mature on October 7, 2025. The benchmark rate is Term SOFR (as defined in the Term Loan Agreement) plus a credit spread adjustment of 10 basis points plus a margin ranging from 100 to 150 basis points, determined on the basis of the Company’s corporate credit ratings (or if public credit ratings are not published, senior unsecured debt ratings).
+
+Revolving Credit Facility
+
+The Company maintains a revolving credit facility (the “Revolving Facility”) under the Revolving Facility Agreement (as defined below) with aggregate total available credit commitments of $1.35 billion. The benchmark rate applicable to U.S. dollar denominated loans is Term SOFR (as defined in the Revolving Facility Agreement) plus a credit spread adjustment of 10 basis points plus a margin ranging from 20 to 75 basis points, determined on the basis of the Company’s corporate credit ratings (or if public credit ratings are not published, senior unsecured debt ratings).
+
+As of July 31, 2024, no borrowings were outstanding under the Revolving Facility.
+
+Receivables Securitization Facility
+
+The Company maintains a Receivables Securitization Facility (as amended from time to time, the “Receivables Facility”) with an aggregate total available amount of $1.1 billion, including a swingline for up to $100 million in same day funding. The Company has the ability to increase the aggregate total available amount under the Receivables Facility up to a total of $1.5 billion from time to time, subject to lender participation. The benchmark rate is Term SOFR (as defined in the Receivables Facility) plus a credit spread adjustment of 10 basis points.
+
+As of July 31, 2024, $250 million in borrowings were outstanding under the Receivables Facility.
+
+The Company was in compliance with all debt covenants for all facilities as of July 31, 2024.
+
+See Note 9, Debt to the Consolidated Financial Statements for further details regarding the Company’s debt.
+
+There have been no significant changes during the fiscal year to the Company’s policies on accounting for, valuing and managing the risk of financial instruments. 
+
+Contractual obligations
+
+The table below sets forth the Company’s anticipated contractual cash outflows on an undiscounted basis as of July 31, 2024:
+
+(a)See Note 9, Debt to the Consolidated Financial Statements for further details.
+
+(b)Interest on debt is calculated using the prevailing spot interest rate as of the balance sheet date.
+
+(c)As required by United Kingdom pensions regulation, the United Kingdom Plan completed its triennial actuarial valuation exercise, which is measured on a technical provisions basis, based on the United Kingdom Plan’s financial position as of April 30, 2022. The triennial valuation resulted in a need for deficit reduction contributions by the Company of £133 million spread over the period to January 31, 2026, of which the Company has paid £50 million as of July 31, 2024. The related obligations in the table above have been converted to U.S. dollars using a year-end spot rate, which may be different when amounts are actually paid.
+
+(d)Other purchase obligations primarily include commitments to purchase inventory and other goods and services and uncompleted additions to property, buildings and equipment that are expected to be satisfied within the next 12 months. Purchase obligations are made in the normal course of business to meet operating needs. While purchase orders for both inventory purchases and non-inventory purchases are generally cancellable without penalty, certain vendor agreements provide for cancellation fees or penalties depending on the terms of the contract.
+
+Tax obligations
+
+At July 31, 2024, the Company had aggregate liabilities for unrecognized tax benefits totaling $151 million, none of which are expected to be paid in the next 12 months. The timing of payment, if any, associated with our long-term unrecognized tax benefit liabilities is unknown. See Note 4, Income Tax to the Consolidated Financial Statements for further discussion of our unrecognized tax benefits.
+
+Critical Accounting Estimates
+
+In applying the Company’s accounting policies, various transactions and balances are valued using estimates or assumptions. Should these estimates or assumptions prove incorrect, there may be an impact on the following year’s financial statements. Management believes that the estimates and assumptions that have been applied would not give rise to a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next fiscal year. 
+
+The Company’s significant accounting policies that require estimates include the allowance for doubtful accounts, inventories, considerations around goodwill impairment, leases and revenue recognition. These policies and related estimates are described in Note 1, Summary of significant accounting policies to the Consolidated Financial Statements. Some of these accounting policies may require management to make difficult, subjective or complex judgments about the Company’s estimates. 
+
+The Company considers an accounting policy to be a critical estimate if: it involves assumptions that are uncertain when judgment was applied, and changes in the estimate assumptions, or selection of a different estimate methodology, could have a significant impact on the Company’s consolidated financial position and results. The Company has determined that its estimates around inventories and pension obligations represent its most critical accounting estimates.
+
+Inventories
+
+Inventory reserves are recorded against slow‐moving, obsolete and damaged inventories for which the net realizable value is estimated to be less than the cost. The reserve is estimated based on the Company’s current knowledge and judgment with respect to inventory levels, sales trends and historical experience.
+
+Pensions
+
+The Company considers that the most sensitive assumptions are the discount rate on the benefit obligation, the wage inflation growth rate and life expectancy in connection with the Company’s pension plan in the U.K. Changes in the assumption related to the pension plan in Canada do not result in significant changes.
+
+The Company measures discount rates by reference to corporate bond yields, which can also vary significantly between reporting periods, particularly in light of macroeconomic factors that can impact corporate bond yields. The most sensitive assumption used for the Company’s U.K. pension plan were as follows:
+
+The sensitivity analyses below show the (increase)/decrease in the Company’s defined benefit plan net asset/liability of reasonably possible changes of the respective assumptions occurring at the end of the reporting period, while holding all other assumptions constant. 
+
+Accounting developments and changes 
+
+Refer to Note 1, Summary of significant accounting policies to the Consolidated Financial Statements for a discussion of new accounting pronouncements.
+
+Item 7A.Quantitative and Qualitative

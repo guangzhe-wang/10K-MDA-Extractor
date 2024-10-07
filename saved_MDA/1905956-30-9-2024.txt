@@ -1,0 +1,293 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion and analysis of our results of operations and financial condition should be read together with our consolidated financial statements and the notes thereto and other financial information, which are included elsewhere in this Report. This discussion contains forward-looking statements that involve risks and uncertainties. Factors that could cause or contribute to such differences include those identified below and those discussed in other sections of this Annual Report on Form 10-K. Our historical results are not necessarily indicative of the results that may be expected for any period in the future. Our financial statements have been prepared in accordance with U.S. GAAP. In addition, our financial statements and the financial information included in this Report reflect our organizational transactions and have been prepared as if our current corporate structure had been in place throughout the relevant periods.
+
+Overview
+
+Treasure Global Inc is a holding company incorporated on March 20, 2020, under the laws of the State of Delaware. TGL has no substantive operations other than holding all of the outstanding shares of ZCity Sdn Bhd (“ZCITY”), (formerly known as Gem Reward Sdn. Bhd, underwent a name change on July 20, 2023). It was originally established under the laws of the Malaysia on June 6, 2017, through a reverse recapitalization.
+
+Prior to March 11, 2021, TGL and ZCITY were separate companies under the common control of Kok Pin “Darren,” Tan which resulted from Mr. Tan’s prior 100% ownership of TGL and his prior 100% voting and investment control over ZCITY pursuant to the Beneficial Shareholding Agreements. For a more detailed description of the Beneficial Shareholding Agreements and Mr. Tan’s common control over TGL and ZCITY see Part I, Item 1. “Business – Corporate Structure.”
+
+On March 11, 2021, TGL and ZCITY were reorganized into a parent subsidiary structure pursuant to the Share Swap Agreement in which TGL exchanged the swap shares for all of the issued and outstanding equity of ZCITY. Pursuant to the Share Swap Agreement, the purchase and sale of the swap shares was completed on March 11, 2021, but the issuance of the swap shares did not occur until October 27, 2021 when TGL amended its certificate of incorporation to increase the number of its authorized common stock to a number that was sufficient to issue the swap shares. As a result of the Share Swap Agreement, (i) ZCITY became the 100% subsidiary of TGL and Kok Pin “Darren” Tan no longer had any control over the ZCITY ordinary shares and (ii) Kok Pin “Darren” Tan the Initial ZCITY Stockholders and Chong Chan “Sam” Teo owned 100% of the shares of TGL common stock (Kok Pin “Darren” Tan owning approximately 97%). Subsequent to the date of the Share Swap Agreement, Kok Pin “Darren” Tan transferred 9,529,002 of his 10,000,000 shares of TGL common stock to 16 individuals and entities and currently owns less than 5% of our common stock.
+
+-ZCITY Operation 
+
+We have created an innovative online-to-offline e-commerce platform business model offering consumers and merchants instant rebates and affiliate cashback programs, while providing a seamless e-payment solution with rebates in both e-commerce (i.e., online) and physical retailers/merchant (i.e., offline) settings.
+
+Our proprietary product is an application branded “ZCITY App,” which was developed through ZCITY. The ZCITY App was successfully launched in Malaysia on June 2020. ZCITY is equipped with the know-how and expertise to develop additional/add-on technology-based products and services to complement the ZCITY App, thereby growing its reach and user base. 
+
+Through simplifying a user’s e-payment gateway experience, as well as by providing great deals, rewards and promotions with every use, we aim to make the ZCITY App Malaysia’s top reward and loyalty platform. Our longer-term goal is for the ZCITY App and its ever-developing technology to become one of the most well-known commercialized applications more broadly in Southeast Asia and Japan. As of September 25, 2024, we had 2,704,306 registered users and 2,027 registered merchants.
+
+
+Southeast Asia (“SEA”) consumers have access to a plethora of smart ordering, delivery and “loyalty” websites and apps, but in our experience, SEA consumers very rarely receive personalized deals based on their purchases and behavior.
+
+The ZCITY App targets consumer through the provision of personalized deals based on consumers’ purchase history, location and preferences. Our technology platform allows us to identify the spending trends of our customers (the when, where, why, and how much). We are able to offer these personalized deals through the application of our proprietary artificial intelligence (or “AI”) technology that scours the available database to identify and create opportunities to extrapolate the greatest value from the data, analyze consumer behavior and roll out attractive rewards-based campaigns for targeted audiences. We believe this AI technology is currently a unique market differentiator for the ZCITY App.
+
+We operate our ZCITY App on the hashtag: “#RewardsOnRewards.” We believe this branding demonstrates to users the ability to spend ZCITY App-based Reward Points (or “RP”) and “ZCITY Cash Vouchers” with discount benefits at checkout. Additionally, users can earn rewards from selected e-Wallet or other payment methods.
+
+ZCITY App users do not require any on-going credit top-up or need to provide bank card number with their binding obligations. We have partnered with Malaysia’s leading payment gateway, iPay88, for secure and convenient transactions. Users can use our secure platform and enjoy cashless shopping experiences with rebates when they shop with e-commerce and retail merchants through trusted and leading e-wallet providers such as Touch’n Go eWallet, Boost eWallet, GrabPay eWallet and credit card/online banking like the “FPX” (the Malaysian Financial Process Exchange) as well as more traditional providers such as Visa and Mastercard.
+
+-Food Distribution Operation 
+
+On April 12, 2023, we have acquired 100% equity interest in Foodlink Global Sdn. Bhd. (“Foodlink”), along with its two wholly-owned subsidiaries, Morgan Global Sdn. Bhd (“Morgan”) and AY Food Ventures Sdn. Bhd. (“AY Food”), for a consideration of approximately $3,000 from DBH. Through Foodlink, Morgan, and AY Food, we have been engaged in the operation of sub-licensing restaurant branding and the selling and trading of food and beverage products.
+
+On May 24, 2024, we had disposed Foodlink and its subsidiaries along with the food distribution operation to a third party for a consideration of $148,500. The disposal of Foodlink and its subsidiaries did not have material impact to our operation.
+
+Recent Development
+
+-Financing Development
+
+On August 15, 2022, we had closed our initial underwritten public offering of 32,858 (2,300,000 pre reverse split) shares of common stock, par value $0.00001 per share, at $280 ($4.00 pre reverse split) per share. Meanwhile we received net proceeds of approximately $8.2 million, net of underwriting discounts and commissions and fees, and other estimated offering expenses amounted to approximately $1.0 million.
+
+On November 30, 2023, we closed our underwritten public offering (the “November 2023 Offering”) of (i) 371,629 (26,014,000 pre reverse split) shares of common stock, at a public offering price of $7 ($0.10 pre reverse split) per share of Common Stock and (ii) 14,000,000 pre-funded warrants (the “Pre-Funded Warrants”), each with the right to purchase 0.01 (one share pre reverse split) of Common Stock, at a public offering price of $0.0999 per Pre-Funded Warrant. Upon closing of the November 2023 Offering, we received aggregate net proceed of approximately $3.5 million, after deducting underwriting discounts and commission, and non-accountable expense.
+
+On March 22, 2024, we have entered into a marketing offering agreement (“Marketing Offering Agreement”) with H.C. Wainwright & Co., LLC, (the “Manager”). Pursuant to the Marketing Offering Agreement, the Company intends to issue and sell through or to the Manager, as sales agent and / or principal from time to time of the Company’s common stock at the Market Offering. For the year ended June 30, 2024, we have received an aggregated net proceed of $431,811, net of broker fee from issuance of 94,889 shares of common stock which sell through or to the Manager. 
+
+
+-Business Development
+
+Since December 2022, we have been developing the TAZTE Smart F&B system (“TAZTE”), a comprehensive solution designed to facilitate digital transformation for registered food and beverage (“F&B”) outlets across Malaysia. TAZTE was conceived as a merchant-centric program, intended to leverage user data to drive substantial business growth for our merchant clientele. We initially offered a complimentary trial period to merchants, which was scheduled to conclude on December 31, 2023. This trial period was later extended until June 2024. However, due to insufficient participation from merchant clients, management has decided to discontinue the program as of June 2024.
+
+Key Factors that Affect Operating Results
+
+We believe the key factors affecting our financial condition and results of operations include the following:
+
+Our Ability to Create Value for Our Users and Generate Revenue
+
+Our ability to create value for our users and generate our revenues from merchants is driven by the factors described below:
+
+Number and volume of transactions completed by our consumers.
+
+Consumers are attracted to ZCITY by the breadth of personalized deals/rewards and the interactive user experience our platform offers. The number and volume of transaction completed by our member consumers is affected by our ability to continue to enhance and expand our product and service offerings and improve the user experience.
+
+Empowering data and technology.
+
+Our ability to engage our member consumers and empower our merchants and their brands is affected by the breadth and depth of our data insights, such as the accuracy of our members’ shopping preferences, and our technology capabilities and infrastructure, and our continued ability to develop scalable services and upgrade our platform user experience to adapt to the quickly evolving industry trends and consumer preferences.
+
+Our Investment in User Base, Technology, People and Infrastructure
+
+We have made, and will continue to make, significant investments in our platform to attract consumers and merchants, enhance user experience and expand the capabilities and scope of our platform. We expect to continue to invest in our research and development team as well as in our technology capabilities and infrastructure, which will lower our margins but deliver overall long-term growth.
+
+Inflation
+
+Although Malaysia is experiencing a high inflation rate, we do not believe that inflation has had a material adverse effect on our business as June 30, 2024, but we will continue to monitor the effects of inflation on our business in future periods.
+
+Supply Chain Disruptions
+
+Although there have been Russia’s February 2022 invasion of Ukraine and the 2023 Middle East conflicts that may have affected the operations of some of our online and offline merchants, these disruptions have not had a material adverse effect on our business as of June 30, 2024, but we will continue to monitor the effects of above mentioned disruptions on our business in future periods.
+
+
+Key Operating Metrics
+
+Our management regularly reviews a number of metrics to evaluate our business, measures our performance, identifies trends, formulates financial projections and makes strategic decisions. The main metrics we consider, and our results for last five quarters, are set forth in the table below:
+
+We have experienced a decrease in growth rate in registered users, and a decline of active users over our last five quarters as of June 30, 2024. As of June 30, 2024, we recorded 2,701,189 registered users and 26,819 active users on the ZCITY platform. On average, our registered user base has grown by approximately 2.0% over the past five quarters, while our active user numbers have experienced an average decline of 38.3%.
+
+The decline in growth of registered users and active users over the past five quarters, as of June 30, 2024, is primarily attributed to reduced E-voucher purchases from our vendor, resulting in fewer E-vouchers available for sale. Additionally, we’ve implemented reductions in marketing spending and customer rewards to enhance cost-effectiveness and operational profitability. Consequently, this has led to a decrease in new user registrations and lower retention rates among active users on our ZCITY platform.
+
+We continuously monitor the development and participation of active users as a proportion of its total registered user base to ensure the effectiveness of our marketing and feature implantation strategies. Accordingly, the proportion of total registered users that we consider active users at the end last five quarters as of June 30, 2024 is as follows:
+
+
+We continuously monitor the development of the churn and retention rates of the active user base. Active users churn rate is the percentage of customers who had stop subscribing in our platform while retention rate is the percentage of customers who is retained in our platform. Accordingly, our churn and retention rates of the active user base at the end of last five quarters as of June 30, 2024 is as follows:
+
+The retention rate and churn rate for our active users are calculated as follows:
+
+We have used different strategies to build and maintain our users and increase their engagement. Initially, we focused on mass marketing strategies to attract registered users. Subsequently, we have shifted to a more targeted approach focused on increasing user engagement and user spending.
+
+Results of Operation
+
+For the Years ended June 30, 2024 and 2023
+
+Revenue
+
+Our breakdown of revenues by categories for the years ended June 30, 2024 and 2023, respectively, is summarized below:
+
+Total revenues decreased by approximately $47.3 million or 68.2% to approximately $22.1 million for the year ended June 30, 2024 from approximately $69.4 million for the year ended June 30, 2023. The decrease was mainly attributable to the decrease in product and loyalty program revenue.
+
+
+Product and loyalty program revenue
+
+Product revenue was generated through sales of our e-voucher, health care products and other products through our ZCITY platform while loyalty program revenue was recognized when our customers redeem their previously earned reward points from our loyalty program or upon expiration of the reward point. In addition, we also engage in sales of food and beverage products through our subsidiaries, Morgan and AY Food, despite they were disposed in May 2024. The product and loyalty program revenue decrease by approximately $47.4 million or 68.9% to approximately $21.5 million for the year ended June 30, 2024 from approximately $68.9 million for the same period in 2023. The decrease in revenue was primarily attributable to our strategic decision to reduce spending on customer rewards and marketing campaigns in order to enhance cost-effectiveness and profitability in our operations. This reduction in customer incentives and marketing expenditures resulted in a decrease in the platform’s appeal to both existing and potential customers, ultimately leading to a decline in revenue for the current period.
+
+Transaction revenue
+
+The transaction revenue primarily consists of fees charged to merchants for participating in our ZCITY platform upon successful sales transaction and payment service taken place between the merchants and their customers online. Our transaction revenue decreased by 18.6% to approximately $61,000 for the year ended June 30, 2024 from approximately $75,000 for the same period in 2023 due to lack of new enrolment of merchant client. Our average percentage of growth of new merchants was approximately 0.2% throughout the quarters as of June 30, 2024.
+
+Member subscription revenue
+
+Member subscription revenue primarily consists of fees charged to customers who sign up for Zmember, our membership program that offers exclusive savings, bonuses, and referral rewards. For the year ended June 30, 2024, member subscription revenue decreased by 2.0% to approximately $376,000, from approximately $384,000 for the same period in 2023. The decrease was primarily due to we experienced slowdown in acquiring new customers to participate in our Zmember program. As of June 30, 2024 and 2023, we had 28,927 and 22,861 customers who subscribed to our Zmember program, respectively.
+
+Sublicense revenue
+
+As we acquired exclusive worldwide license for right of use in Morganfield’s Trademark, and Abe Yus’s Trademark on May 1, 2023, and June 6, 2023, respectively, for a period of five years, we have generated sublicense revenue consisting of fee charged to the customers who sublicensed the right of use of the Trademark from us. For the years ended June 30, 2024 and 2023, sublicense revenue was amounted to approximately $174,000 and $50,000, respectively. As we had disposed Foodlink and its subsidiaries along with the food distribution and sublicensing operation in May 2024, we would no longer generate revenue from sublicense going forward.
+
+
+Cost of revenue
+
+Our breakdown of cost of revenue by categories for the years ended June 30, 2024, and 2023, respectively, is summarized below:
+
+Cost of revenue mainly consists of the purchases of the gift card or “E-voucher” pin code, health care product and food and beverage products which is directly attributable to our product revenue. Cost of revenue also consists of monthly license payment made to our licensor to maintain our good standing for the right of use the Trademark which is attributable to our sublicense revenue. Total cost of revenue decreased by approximately $47.6 million or 69.2% for the year ended June 30, 2024 compared with the same period in 2023. The decrease was in line with our decrease in revenue.
+
+Gross profit
+
+Our gross profit from our major revenue categories is summarized as follows:
+
+
+Our gross profit for the year ended June 30, 2024, amounted to approximately $0.8 million as compared to approximately $0.5 million for the same period in 2023, reflecting an increase of approximately $0.3 million or 56.0%. Our gross margin improved from 0.8% for the year ended June 30, 2023 from 3.7% for the same period in 2024, representing an enhancement of 2.9% in our gross margin percentage.
+
+The increase in both gross profit and gross margin were mainly attributed to our decision to reduce spending on customer rewards within our ZCITY platform, resulting in a decrease in deferred revenue and consequently leading to higher gross profit and gross margin in the current period.
+
+Operating expenses
+
+Our operating expenses consist of selling expenses, general and administrative expenses, research and development expenses and stock-based compensation expenses.
+
+Selling expenses
+
+Selling expenses amounted to approximately $1.8 million and $4.7 million for the years ended June 30, 2024 and 2023, respectively, representing a decrease of approximately $3.0 million or 62.7%. The decrease was mainly attributable to a decrease in marketing and promotion expense of approximately $2.8 million related to promoting our ZCITY platform. Marketing and promotion expense consists of redemptions of reward points which is generated from non-spending related activities (registration as a new user, referral of a new user and Spin & Win eligibility to receive reward points) in exchange for discounted credit of purchasing our products upon conversion of using the reward points. For the years ended June 30, 2024 and 2023, we incurred approximately $0.4 million and $1.8 million, respectively, in marketing and promotion expense, and recognized the same amount of product revenue at the time of redemption of the non-spending related activities reward points by our customers. The decrease in marketing and promotion expenses was primarily driven by our strategic goal to optimize the promotional activities, enhance our cost effectiveness, and increase profitability in our operations.
+
+General and administrative expenses
+
+General and administrative expenses amounted to approximately $4.5 million and $4.7 million for the years ended June 30, 2024 and 2023, respectively, representing a decrease of approximately $0.2 million or 3.4%. The decrease was primarily attributed to decrease in salary expenses and professional fee expense of approximately $0.6 million and $0.7 million, respectively, to promote our operation effectiveness, offset by the increase in depreciation and amortization expense of approximately $0.6 million as we acquired more intangible assets during the year ended June 30, 2024, and incurred more bad debts expense of approximately $0.4 million due to increase of allowance for credit loss against accounts receivable and other receivables.
+
+Research and development expenses
+
+Research and development expense amounted to approximately $0.5 million for the years ended June 30, 2024 and 2023, representing 6.5% decrease as we incurred less spending in mobile application or website development.
+
+Stock-based compensation expenses
+
+Stock-based compensation expenses amounted to approximately $0.1 million and $0.8 million for the years ended June 30, 2024, and 2023, respectively. The stock-based compensation incurred for the years ended June 30, 2024, was related to compensation paid to our executive officer as part of their compensation plan and third party for professional service.
+
+Other expense, net
+
+Other expense, net, amounted to approximately $0.5 million and $1.4 million for the years ended June 30, 2024 and 2023, respectively, representing a decrease of approximately $0.9 million which was primarily attributable to we incurred other income from software developing service, net of cost of approximately $0.7 million, other income of approximately $0.2 million from disposal of Foodlink and its subsidiaries, and a decrease of amortization of debt discount of approximately $0.9 million related to our convertible note payable as we had fewer convertible notes containing debt discount that needed to be amortized for the year ended June 30, 2024 compare to the same period in 2023, offset by an unrealized loss approximately $0.8 million from marketable securities we received as service consideration in development of an artificial intelligence powered travel platform, redemption premium of approximately $0.3 million remit to our convertible note holder as a result of floor price triggering event.
+
+
+Provision for income taxes
+
+Provision for income taxes amounted to approximately $40,000 and $98,000 for the years ended June 30, 2024 and 2023, respectively. The amount was mainly attributable to tax imposed on us from the State of Delaware, as we are required to remit franchise tax to the State of Delaware on an annual basis. We also were subject to controlled foreign corporations Subpart F income (“Subpart F”) tax, which is a tax primarily on passive income from controlled foreign corporations with a tax rate of 35%. In addition, the Tax Cuts and Jobs Act imposed a global intangible low-taxed income (“GILTI”) tax, which is a tax on certain off-shore earnings at an effective rate of 10.5% for tax years (50% deduction of the current enacted tax rate of 21%) with a partial offset for 80% foreign tax credits. If the foreign tax rate is 13.125% or higher, there will be no U.S. corporate tax after the 80% foreign tax credits are applied. For the years ended June 30, 2024 and 2023, our foreign subsidiaries did not generate any income that are subject to Subpart F tax and GILTI tax.
+
+Net losses
+
+Our net losses decreased by approximately $5.1 million predominately due to the reasons as discussed above.
+
+Liquidity and Capital Resources
+
+In assessing liquidity, we monitor and analyze cash on-hand and operating expenditure commitments. Our liquidity needs are to meet working capital requirements and operating expense obligations. To date, we financed our operations primarily through cash flows from contribution from stockholders, issuance of convertible notes, related party loans and our completion of initial underwritten public offering.
+
+As of June 30, 2024 and 2023, we had approximately $0.2 million and $4.6 million, respectively, in cash and cash equivalent which primarily consists of bank deposits, which are unrestricted as to withdrawal and use.
+
+On August 15, 2022, we had closed our initial underwritten public offering of 2,300,000 shares of common stock, par value $0.00001 per share, at $4.00 per share. We received aggregate net proceeds from the closing of approximately $8.2 million, after deducting underwriting discounts and commissions and fees, and other estimated offering expenses which amounted to approximately $1.0 million.
+
+From February to June 2023, we issued two convertible notes to a third party in an aggregate principal amount of $5,500,000. We received $5,060,000 in proceeds from the third-party net of discount. The convertible notes accrued interest at 4% per annum and had a 12-month term. On December 6, 2023, we paid a total of $2,102,909.59 which represented the outstanding balance of one of the convertible notes issued pursuant to the securities purchase agreement. The other convertible note had already been fully converted into shares of our common stock prior to December 6, 2023.
+
+On November 30, 2023, we closed our November 2023 Offering of (i) 26,014,000 shares of common stock, at a public offering price of $0.10 per share, and (ii) 14,000,000 Pre-Funded Warrants, each with the right to purchase one share of Common Stock, at a public offering price of $0.0999 per Pre-Funded Warrant. Upon closing of the November 2023 Offering, we received aggregate net proceed of approximately $3.5 million, after deducting underwriting discounts, and non-accountable expense.
+
+On March 22, 2024, we have entered into a marketing offering agreement (“Marketing Offering Agreement”) with H.C. Wainwright & Co., LLC, (the “Manager”). Pursuant to the Marketing Offering Agreement, the Company intends to issue and sell through or to the Manager, as sales agent and / or principal from time to time of the Company’s common stock at the Market Offering. For the year ended June 30, 2024, we have received an aggregated net proceed of $431,811, net of broker fee from issuance of 94,889 shares of common stock which sell through or to the Manager. 
+
+From July to September 2024, the Company received net proceed of $2,457,456, net of broker fee from issuance of 1,583,418 shares of common stock which sell through or to the Manager related to the Marketing Offering Agreement.
+
+
+Despite receiving the proceeds from offerings, and issuance of convertible notes, management is of the opinion that we will not have sufficient funds to meet the working capital requirements and debt obligations as they become due starting from one year from the date of this report due to our recurring loss. Therefore, management has determined there is substantial doubt about our ability to continue as a going concern. If we are unable to generate significant revenue, we may be required to curtail or cease our operations. Management is trying to alleviate the going concern risk through the following sources:
+
+| ● | Equity financing to support our working capital; 
+---|---|--- 
+| | 
+| ● | Financial support and credit guarantee commitments from our related parties. 
+
+However, there is no guarantee that the substantial doubt about our ability to continue as a going concern will be alleviated.
+
+The following summarizes the key components of our cash flows for the years ended June 30, 2024 and 2023: 
+
+Operating Activities
+
+Net cash used in operating activities for the year ended June 30, 2024 was approximately $4.7 million and was mainly comprised of the net loss of approximately $6.6 million, non-cash other incomes of approximately $1.0 million from software developing service related to VCI’s project, and approximately $0.2 million from disposal of Foodlink and its subsidiaries as mentioned above in other expense, net, increase of prepayments of approximately $0.1 million as our vendors required us to make deposit to secure the purchase, decrease of customer deposit of approximately $0.1 million as we realized more membership subscription revenue from the customer deposit collected from prior period, and decrease of other payables and accrued liabilities of approximately $0.1 million as made timely payment to our service providers, offset by non-cash items of depreciation, amortization, allowance for credit losses, stock-based compensation and unrealized loss on marketable securities amounted to approximately $2.4 million, decrease of inventories of approximately $0.3 million as we reduced our purchase and intended to maintain a more effective inventory level, decrease of approximately $0.4 million in other receivables and other current assets is attributed to the utilization of prepaid information technology and insurance expenses from previous periods in the current period, and increase of approximately $0.3 million in accounts payable as we made more purchases on account.
+
+Net cash used in operating activities for the years ended June 30, 2023 was approximately $9.6 million and were mainly comprised of the net loss of approximately $11.7 million, increase of prepayments of approximately $0.1 million as our vendors required us to make deposit to secure the purchase, increase of accounts receivable of approximately $0.2 million as a result of offering credit terms to our corporate customers engaged in the sales of nutrition products, and food and beverage products, increase in inventory of approximately $0.2 million as we increase our inventory level on June 30, 2023 to meet with the demand of our product, and increase of approximately $0.4 million in other receivables and other current assets as we prepaid IT maintenance fee to a third party service provider, offset by amortization of debt discount of approximately $1.3 million, stock-based compensation of approximately $0.8 million, increase of approximately $0.1 million in customer deposits as we incurred deferred revenue related to member subscription revenue for the remaining subscribed period as of June 30, 2023, increase of approximately $0.1 million in contract liability as we deferred more revenue due to increase of our customer’s redemption rate in spending related reward point, and increase of approximately $0.5 million in other payables and accrued liabilities mainly related to the accrued professional expenses.
+
+
+Investing Activities
+
+Net cash used in investing activities for the year ended June 30, 2024 was approximately $0.3 million, which was mainly due to purchase of equipment and intangible assets of approximately $17,000, and $0.2 million, respectively, for our operations used, and approximately $45,000 of cash released, net of cash received from disposal of Foodlink and its subsidiaries.
+
+Net cash used in investing activities for the year ended June 30, 2023 was approximately $61,000, which mainly due to purchase of equipment of approximately $87,000 for our operations used, and offset with proceeds of approximately $26,000 received from disposal of our office equipment.
+
+Financing Activities
+
+Net cash provided financing activities for the year ended June 30, 2024 was approximately $0.4 million, which mainly comprised of repayment to convertible notes, insurance loan and related party loan of approximately $3.6 million, offset by approximately $3.5 million net proceeds received from issuance of common stock and Pre-Funded Warrants related to the November 2023 Offering, approximately $0.4 million net proceeds received from issuance of common stock related to the Marketing Offering, and approximately $16,000 capital contribution.
+
+Net cash provided by financing activities for the year ended June 30, 2023 was approximately $12.7 million, which mainly comprised of proceeds received from the issuance of convertible notes to third parties of approximately $7.7 million, proceeds received from our initial public offering of approximately $8.2 million, and proceeds received from third parties loans of approximately $0.6 million, offset by repayment to related parties, third parties loans, and insurance loan of approximately $3.8 million, repayment of senior note of $65,000, and $15,000 payment of deferred offering costs.
+
+Off-Balance Sheet Arrangements
+
+We have no off-balance sheet arrangements including arrangements that would affect our liquidity, capital resources, market risk support and credit risk support or other benefits. 
+
+Critical Accounting Estimate
+
+Our consolidated financial statements and accompanying notes have been prepared in accordance with U.S. GAAP. The preparation of these consolidated financial statements and accompanying notes requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis of making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. We have identified certain accounting estimates that are significant to the preparation of our financial statements. These estimates are important for an understanding of our financial condition and results of operation. Certain accounting estimates are particularly sensitive because of their significance to financial statements and because of the possibility that future events affecting the estimate may differ significantly from management’s current judgments. We believe the following critical accounting estimates involve the most significant estimates and judgments used in the preparation of our financial statements.
+
+The preparation of these consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities as of the date of the consolidated financial statements and the reported amounts of revenues and expenses during the periods presented. Significant accounting estimates reflected in our consolidated financial statements include the estimated retail price per point and estimated breakage to calculate the revenue recognized in our loyalty program revenue, the useful lives of property and equipment, impairment of long-lived assets, provision for estimated credit losses, write-down for estimated obsolescence or unmarketable inventories, realization of deferred tax assets and uncertain tax position, fair value of our stock price to determine the beneficial conversion feature (“BCF”) within the convertible note, fair value of the stock-based compensation, fair value of the marketable securities and fair value of the warrants issued. Actual results could differ from these estimates.
+
+
+Accounts receivable, net
+
+Accounts receivable are recorded at the invoiced amount, net of an allowance for uncollectible accounts and do not accrue interest. We offer various payments terms to customers from cash due on delivery to 90 days based on their credit history. Accounts receivable encompass amounts due from sales of healthcare products on our ZCITY platform, sublicensing revenue and sales of food and beverage products. Starting from July 1, 2023, we adopted ASU No.2016-13 “Financial Instruments – Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments” (“ASC Topic 326”). We used a modified retrospective approach, and the adoption does not have an impact on our unaudited condensed consolidated financial statements. Management also periodically evaluates individual customer’s financial condition, credit history and the current economic conditions to make adjustments in the allowance when it is considered necessary. Account balances are charged off against the allowance when all collection efforts have been exhausted, and recovery potential is deemed remote. Our management reviews historical accounts receivable collection rates across all aging brackets and has made 100% provision of credit loss for customer balances aged above 120 days for sales of healthcare products on our ZCITY platform and 100% provision for customer balances aged above 60 days for sublicensing revenue and sales of food and beverage products. Our management continuously assesses the reasonableness of the credit loss allowance policy and updates it as needed. As of June 30, 2024 and 2023, we recorded $1,100 and $214 of provision for estimated credit losses, respectively.
+
+Inventories
+
+Our inventories are recorded at the lower of cost or net realizable value, with cost determined using the first-in-first-out (FIFO) method. These costs encompass gift cards or ‘E-voucher’ pin codes, which are acquired from our suppliers as merchandise goods or store credit, as well as healthcare products. Management conducts regular comparisons between the cost of inventories and their net realizable value. If the net realizable value is lower than the cost, an allowance is made for inventory write-down. Ongoing assessments of inventories are carried out to identify potential write-downs due to estimated obsolescence or unmarketability. This determination is based on the difference between the inventory costs and the estimated net realizable value, considering forecasts for future demand and market conditions. Once inventories are written down to the lower of cost or net realizable value, they are not subsequently marked up based on changes in underlying facts and circumstances. Our management has reviewed the aforementioned factors and has applied a 100% write-down for inventories aged above 180 days related to our E-voucher and health care products. For the years ended June 30, 2024 and 2023, $483 and $0 write down for inventories were recorded, respectively...
+
+Other receivables and other current assets, net
+
+Other receivables and other current assets consist of prepayment to third parties for cyber security service, director & officer liability insurance (“D&O Insurance”), and other professional fee. Other receivables and other current assets also include refundable advance to third party service provider, and other deposits. Starting from July 1, 2023, we had adopted ASC Topic 326 on our other receivables using the modified retrospective approach. The new credit loss guidance replaces the old model for measuring the allowance for credit losses with a model that is based on the expected losses rather than incurred losses. Under the new accounting guidance, we measure credit losses on its other receivables using the current expected credit loss model under ASC 326. As of June 30, 2024 and 2023, we have provided allowance for credit loss of $212,759 and $0, respectively. 
+
+Prepayments
+
+Prepayments and deposits are mainly cash deposited or advanced to suppliers for future inventory purchases. This amount is refundable and bears no interest. For any prepayments determined by management that such advances will not be in receipt of inventories, services or refundable, we will recognize an allowance account to reserve such balances. Management reviews our prepayments on a regular basis to determine if the allowance is adequate, and adjusts the allowance when necessary. Delinquent account balances are written-off against allowance for doubtful accounts after management has determined that the likelihood of collection is not probable. Our management continues to evaluate the reasonableness of the valuation allowance policy and updates it if necessary. No allowance of prepayments was recorded as of June 30, 2024 and June 30, 2023.
+
+
+Impairment for long-lived assets
+
+Long-lived assets, including property and equipment with finite lives are reviewed for impairment whenever events or changes in circumstances (such as a significant adverse change to market conditions that will impact the future use of the assets) indicate that the carrying value of an asset may not be recoverable. We assessed the recoverability of the assets based on the undiscounted future cash flows the assets are expected to generate and recognize an impairment loss when estimated undiscounted future cash flows expected to result from the use of the asset plus net proceeds expected from disposition of the asset, if any, are less than the carrying value of the asset. If an impairment is identified, we would reduce the carrying amount of the asset to its estimated fair value based on a discounted cash flows approach or, when available and appropriate, to comparable market values. No impairment for long-lived assets were recorded as of June 30, 2024 and 2023.
+
+Investment in marketable securities
+
+Investments in marketable securities, net, consist of investments in listed shares, which are listed on Nasdaq. Marketable securities are accounted for under ASC 321 and reported at their readily determinable fair values as quoted by market exchanges with changes in fair value recorded in other (expense) income in the consolidated statements of operations and comprehensive loss. All changes in a marketable security’s fair value are reported in earnings as they occur, as such, the sale of a marketable security does not necessarily give rise to a significant gain or loss. Unrealized gains/(losses) due to fluctuations in fair value are recorded in the consolidated statements of operations and comprehensive loss. Declines in fair value below cost deemed to be other-than-temporary are recognized as impairments in the consolidated statements of comprehensive income. For the years ended June 30, 2024 and 2023, we incurred unrealized holding loss on marketable securities amounted to approximately $828,367 and $0, respectively.
+
+Revenue recognition
+
+Loyalty program
+
+Our ZCITY reward loyalty program allows members to earn points on purchases that can be redeemed for rewards that include discounts on future purchases. When members purchase our product or make purchase with our participated vendor through ZCITY, we allocate the transaction price between the product or service, and the reward points earned based on the relative stand-alone selling prices and expected point redemption. The portion allocated to the reward points is initially recorded as contract liability and subsequently recognized as revenue upon redemption or expiration. 
+
+The two primary estimates utilized to record the contract liability for reward points earned by members are the estimated retail price per point and estimated breakage. The estimated retail price per point is based on the actual historical retail prices of product purchased or service obtained through the redemption of reward points. We estimate breakage of reward points based on historical redemption rates. We continually evaluate our methodology and assumptions based on developments in retail price per point redeemed, redemption patterns and other factors. Changes in the retail price per point and redemption rates have the effect of either increasing or decreasing the contract liability through current period revenue by an amount estimated to represent the retail value of all points previously earned but not yet redeemed by loyalty program members as of the end of the reporting period.
+
+Income taxes
+
+Deferred taxes are accounted for using the asset and liability method in respect of temporary differences arising from differences between the carrying amount of assets and liabilities in the consolidated financial statements and the corresponding tax basis used in the computation of assessable tax profit. In principle, deferred tax liabilities are recognized for all taxable temporary differences. Deferred tax assets are recognized to the extent that it is probable that taxable profit will be available against which deductible temporary differences can be utilized. Deferred tax is calculated using tax rates that are expected to apply to the period when the asset is realized or the liability is settled. Deferred tax is charged or credited in the income statement, except when it is related to items credited or charged directly to equity, in which case the deferred tax is also dealt with in equity. Deferred tax assets are reduced by a valuation allowance when, in the opinion of management, it is more likely than not that some portion or all of the deferred tax assets will not be realized. Current income taxes are provided for in accordance with the laws of the relevant taxing authorities.
+
+An uncertain tax position is recognized as a benefit only if it is “more likely than not” that the tax position would be sustained in a tax examination, with a tax examination being presumed to occur. The amount recognized is the largest amount of tax benefit that is greater than 50% likely of being realized on examination. For tax positions not meeting the “more likely than not” test, no tax benefit is recorded.
+
+
+Stock-based compensation
+
+We recognize compensation costs resulting from the issuance of stock-based awards to third party consultant and former director as an expense in the statements of operations over the requisite service period based on a measurement of fair value for each stock-based award. The fair value of each warrants granted are estimated as of the grant date using the Black-Scholes-Merton option-pricing model while the fair value of each common stock granted are estimated using the Company’s closing stock price on the grant date. The fair value is amortized as compensation cost on a straight-line basis over the requisite service period of the awards. The Black-Scholes-Merton option-pricing model includes various assumptions, including the fair market value of the common stock of the Company, expected life of stock options, the expected volatility and the expected risk-free interest rate, among others. These assumptions reflect the Company’s best estimates, but they involve inherent uncertainties based on market conditions generally outside the control of the Company. The fair value of the stock-based compensation which included warrants and common stock issued were estimated to be $11,111 and $819,332 for the years ended June 30, 2024 and 2023, respectively.
+
+Convertible notes
+
+We evaluate our convertible notes to determine if those contracts or embedded components of those contracts qualify as derivatives. The result of this accounting treatment is that the fair value of the embedded derivative is recorded at fair value each reporting period and recorded as a liability. In the event that the fair value is recorded as a liability, the change in fair value is recorded in the statements of operations as other income or expense.
+
+In circumstances where the embedded conversion option in a convertible instrument is required to be bifurcated and there are also other embedded derivative instruments in the convertible instrument that are required to be bifurcated, the bifurcated derivative instruments are accounted for as a single, compound derivative instrument. 
+
+If the conversion features of conventional convertible debt provide for a rate of conversion that is below market value at issuance, this feature is characterized as a beneficial conversion feature. A BCF is recorded by us as a debt discount pursuant to ASC Topic 470-20 “Debt with Conversion and Other Options.” In those circumstances, the convertible debt is recorded net of the discount related to the BCF, and we amortize the discount to interest expense, over the life of the debt.
+
+Warrants
+
+We account for warrants as equity-classified instruments in accordance with ASC 480 and ASC 815. The fair value of each warrant granted is estimated as of the date of grant using the Black-Scholes-Merton option-pricing model. The fair value is amortized as compensation cost on a straight-line basis over the requisite service period of the awards. The Black-Scholes-Merton option-pricing model includes various assumptions, including the fair market value of our common stock, expected life of stock options, the expected volatility and the expected risk-free interest rate, among others. These assumptions reflect our best estimates, but they involve inherent uncertainties based on market conditions generally outside our control. Based on the above assumption, the fair value of the warrants issued during the years ended June 30, 2024 and 2023 were estimated to be $0 and $175,349, respectively.
+
+For the year ended June 30, 2024, 14,000,000 Pre-Funded Warrants were issued in connection with the November 2023 Offering. The Pre-Funded Warrants are classified as a component of permanent stockholders’ equity within additional paid-in capital and were recorded at the issuance date using a relative fair value allocation method. We valued the Pre-Funded Warrants at issuance concluding the purchase price approximated the fair value and allocated net proceeds from the purchase proportionately to the common stock and Pre-Funded Warrants, of which $1,398,600 was allocated to the Pre-Funded Warrants and recorded as a component of additional paid in capital.
+
+Recent Accounting Pronouncements
+
+See Note 2 of the notes to the consolidated financial statements included elsewhere in this report for a discussion of recently issued accounting standards.
+
+Item 7A. Quantitative and Qualitative

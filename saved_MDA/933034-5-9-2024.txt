@@ -1,0 +1,251 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following Discussion and Analysis should be read in conjunction with STRATTEC SECURITY CORPORATION’s accompanying Financial Statements and Notes thereto included in this Form 10-K. Unless otherwise indicated, all references to years or quarters refer to fiscal years or fiscal quarters of STRATTEC.
+
+Executive Overview
+
+Historically, traditional domestic automotive OEMs (General Motors, Ford and Stellantis) have comprised a majority of our total net sales. During the past two decades, these customers have lost North American market share to New Domestic automotive manufacturers (primarily Japanese and Korean automotive manufacturers). In addition, our financial performance depends in large part on conditions in the North American automotive industry, which in turn, are largely dependent upon the U.S. economy. During fiscal years 2024 and 2023, the traditional domestic automotive OEMs represented 66 percent of our total net sales.
+
+Fiscal 2024 net sales were $537.8 million compared to $492.9 million in fiscal 2023. $32.7 million of the $44.9 million net sales increase was driven by net price increases to our major OEM customers. When excluding this pricing effect, underlying sales increased by $12.2 million, up 2.5% over the prior year, largely reflecting the launch of new customer programs in the latter half of the fiscal year. The $32.7 million of aforementioned net price increase was composed of $9.7 million one-time retroactive pricing that is not expected to recur, and $23.0 million in ongoing increases in current part prices to our customers. In addition, we settled negotiations with certain key suppliers and paid $5.7 million in higher prices during the year, of which $1.7 million relates to one-time retroactive pricing with the remaining $4.0 million attributable to higher supplier prices on an ongoing basis. The net margin result of both customer and supplier changes in price represented a $27.0 million net margin improvement in fiscal 2024, comprised of $8.0 million of nonrecurring one-time pricing and $19.0 million of ongoing pricing. These net margin improvements surpassed the higher end of our target ranges of $6.0 million and $15.0 million for one-time and ongoing net pricing respectively, which were provided in the fiscal 2024 Outlook in our 2023 Form 10-K.
+
+During fiscal 2024, our cost of sales performance proved challenging. Despite favorability in our raw materials costs, which recovered from elevated levels in fiscal 2023, and improved efficiency of our Mexican operations through a salaried staff reduction in the first quarter and production efficiencies implemented throughout the year, our overall cost of sales performance deteriorated. Factors driving higher costs in our manufacturing operations were primarily:
+
+•
+
+a weakened U.S. dollar against the Mexican peso, raising the cost of our Mexican operations
+
+•
+
+higher Mexican labor wages due to government-mandated minimum wage increases
+
+•
+
+higher shipping costs primarily due to expedited shipments related to the launch of new product programs 
+
+Sales, engineering and administrative expenses decreased in fiscal 2024, primarily due to historically high engineering cost reimbursements from our customers, offset by expenses related to the company bonus plan and the transition of our Chief Executive Officer position. Our improved operating performance enabled us to achieve net income attributable to STRATTEC of $16.3 million in fiscal 2024 compared with a net loss attributable to STRATTEC of $6.7 million in fiscal 2023.
+
+Based on July 2024 projections from our third-party forecasting service, S&P Global, North American light vehicle production is forecasted to grow modestly between 2024 and 2028. Model year 2024 preliminary North American vehicle build was 15.8 million. S&P Global currently expects 2025 model year vehicle build to remain at 15.8 million vehicles, growing to 16.2 million vehicles in 2026 and then to 16.4 million vehicles for 2027 and 2028. The North American vehicle build forecasts for our primary customers (Ford, General Motors and Stellantis) project a modest decline from 6.7 million vehicles in 2024 to 6.5 million vehicles in 2025 and then an increase to 6.9 million vehicles in model year 2026, stabilizing at that level for model years 2027 and 2028. In an effort to increase our sales, we will continue pursuing opportunities to expand our offerings with existing and new customers. These forecasts are subject to variability based upon a number of factors, including the overall North American economy, current employment levels, availability and cost of consumer credit, home equity values, fuel prices, changes in customer vehicle and option preferences, product quality issues, including those related to recall and product warranty coverage issues, and other key factors that we believe could determine whether consumers can or will purchase new vehicles or particular brands.
+
+Results of Operations
+
+2024 Compared to 2023
+
+Net Sales to each of our customers or customer groups in the current year and prior year were as follows (millions of dollars):
+
+The year-over-year sales increase of $44.9 million reflects net price increases from our major OEM customers of $32.7 million of which $23.0 million is attributable to ongoing increases in current part prices and $9.7 million relates to one-time retroactive price increases for parts shipped in the prior year for which the net price increase was agreed to during the current year. In addition to the net price increases, the following items specifically impacted sales to the noted customer groups between years:
+
+-
+
+Sales to General Motors Company were favorably impacted by new door handle business supplied on the Chevrolet Equinox EV.
+
+-
+
+Sales to Ford Motor Company were positively impacted by added power end gate content we supply on the F-Series Super Duty Pickup and by new tailgate latch content supplied on the F-Series Pickups.
+
+-
+
+Sales to Stellantis were negatively impacted by reduced customer vehicle production volumes as well as reduced content we supply for the Dodge Ram Pickup and several passenger car programs ending.
+
+-
+
+Sales to Tier 1 Customers improved in the current year compared to the prior year due to new door hardware content on the F-Series Super Duty Pickup, which is sold to a Tier 1 customer.
+
+-
+
+Sales to Commercial and Other OEM Customers, which are comprised of aftermarket products and vehicle access control products, such as latches, fobs, driver controls and door handles, were positively impacted by sales for new business awarded from Aston Martin.
+
+-
+
+Sales to Hyundai / Kia were positively impacted by an overall increase in customer vehicle production volumes between years.
+
+Cost of goods sold in the current year and prior year were as follows (millions of dollars):
+
+Prior year reclassifications have been made for consistency with current year presentation.
+
+Total cost of goods sold increased $21.5 million between years. The year-over-year increase in direct material costs of $6.1 million was the result of increases in sales volumes and content we supply, as discussed above, and $5.7 million of negotiated material price increases paid to key suppliers. Price increases paid to suppliers attributed to ongoing operations totaled $4.0 million while the remaining $1.7 million related to one-time retroactive price increases. The impact of content and material price increases was partially offset by reduced zinc costs of approximately $3.1 million in the current year as compared to the prior year. The year-over-year increase in labor and overhead costs of $15.4 million was impacted by the following:
+
+Cost Increases:
+
+-
+
+The U.S. dollar value of our Mexican operations was negatively impacted by approximately $8.5 million in the current year as compared to the prior year due to an unfavorable Mexican peso to U.S. dollar exchange rate between years. The 
+
+average U.S. dollar / Mexican peso exchange rate decreased to approximately 17.13 pesos to the dollar for the year from approximately 18.98 pesos to the dollar in the prior year.
+
+-
+
+Mexico wages and benefits increased $6.6 million in the current year as compared to the prior year as a result of annual wage increases, including January 1, 2024 and January 1, 2023 government mandated minimum wage increases.
+
+-
+
+Freight costs increased $4.1 million between years due to an increase in shipments from foreign vendors, a change in shipping terms with a major supplier that occurred in June 2023, and an increase in expedited shipments.
+
+-
+
+The current year includes expense provisions of $2.7 million under our incentive bonus plan. The prior year includes no bonus expense.
+
+-
+
+The current year includes severance costs of $220,000 related to a realignment of our Mexican workforce.
+
+Cost Decreases:
+
+-
+
+Mexico wages and benefits decreased by $1.5 million due to a September 1, 2023 salaried staff reduction in Mexico and current year production efficiencies that controlled headcount and hours worked.
+
+-
+
+Royalty costs paid on sales of certain aftermarket products decreased $0.9 million in the year as compared to the prior year due to lower volumes in these aftermarket products.
+
+The net unfavorable impact of specific labor and overhead costs noted above was partially offset by more favorable absorption of our fixed overhead costs in the current year as compared to the prior year due to higher production volumes driven by an increase in finished goods inventory during the year and increased sales volumes.
+
+Gross profit margin improvement between years was driven by pricing relief achieved during the current year as discussed above. The impact of one-time retroactive pricing in the current year increased the gross profit margin percentage by 1.3 percentage points. Additionally, favorable impacts of ongoing customer price increases, reduced zinc costs, favorable absorption, production efficiencies in Mexico and reduced royalty costs were partially offset by an unfavorable U.S. dollar to Mexican peso exchange rate, wage increases in Mexico, and increased freight, bonus, and severance costs, all as discussed above.
+
+Engineering, Selling and Administrative Expenses in the current year and prior year were as follows:
+
+Engineering, selling and administrative expenses were impacted by the following:
+
+Cost Decrease:
+
+-
+
+Current year costs decreased $3.2 million in comparison to the prior year due to an increase in customer billings for the reimbursement of engineering development costs.
+
+Cost Increase:
+
+-
+
+The current year includes one-time charges of $1.0 million associated with the transition of our Chief Executive Officer position.
+
+-
+
+The current year includes expense provisions of $1.9 million under our incentive bonus plan. The prior year includes no bonus expense.
+
+Income from operations in the current year was $17.8 million compared to loss from operations of $6.1 million in the prior year. This change between years was the result of an increase in sales in the current year as compared to the prior year along with a reduction in engineering, selling and administrative expenses partially offset by an increase in cost of goods sold, all as discussed above.
+
+Effective June 30, 2023, STRATTEC sold its one-third interest in VAST LLC to WITTE. Refer to the discussion of the Equity Restructuring Agreement within Joint Ventures and Majority Owned Subsidiaries included in the Notes to Financial Statements within this Form 10-K for additional information regarding the sale. The equity loss of joint ventures was $331,000 in the current year compared to equity earnings of joint ventures of $1.6 million in the prior year. The current year loss was the result of additional professional fees incurred related to the sale of STRATTEC's investment in VAST LLC. The $331,000 loss is an adjustment to the gain on sale of VAST LLC, which was recorded in the prior year. Our adjusted loss to date on the sale of VAST LLC totals $221,000. Prior year equity earnings includes STRATTEC's one-third of a loss on disposal of VAST LLC's investment in Brazil of $531,000 and a gain on sale of STRATTEC's one-third share of VAST LLC of $110,000.
+
+Included in other income (expense), net in the current year and prior year were the following items (thousands of dollars):
+
+-
+
+Foreign currency transaction gains and losses resulted from activity associated with foreign denominated assets and liabilities held by our Mexican subsidiaries. 
+
+-
+
+The Rabbi Trust assets fund our amended and restated supplemental executive retirement plan. The investments held in the Trust are considered trading securities. 
+
+-
+
+We entered into the Mexican peso currency forward contracts during fiscal 2024 and 2023 to reduce earnings volatility resulting from changes in exchange rates affecting the U.S. dollar cost of our Mexican operations. No peso forward currency contracts are outstanding as of June 30, 2024. 
+
+-
+
+Pension and postretirement plan costs include net periodic benefit cost other than the service cost component. 
+
+Our effective income tax rate for 2024 was 18.7 percent compared to (16.7) percent in 2023. Our 2024 effective tax rate was reduced by $1.2 million due to changes in the estimate of our 2023 foreign tax credits associated with the sale of our interest in VAST LLC. Our 2023 effective tax rate was impacted by $2.2 million in China non-resident capital gain tax resulting from the sale of our interest in VAST LLC, a valuation allowance of $1.4 million related to our assessment of the future realization of capital loss carryforwards generated from the sale of our interest in VAST LLC, a net Global Intangible Low Tax Income (GILTI) cost of $613,000 and the impact of available R&D and foreign tax credits on pre-tax book losses. Our income tax provision for each year 2024 and 2023 was affected by the non-controlling interest portion of our pre-tax income and R&D tax credit. The non-controlling interest impacts the effective tax rate as our ADAC-STRATTEC LLC entity was taxed as a partnership for U.S. tax purposes in 2024 and our ADAC-STRATTEC LLC and STRATTEC POWER ACCESS LLC entities were taxed as partnerships for U.S. tax purposes in 2023.
+
+Liquidity and Capital Resources
+
+Working Capital (millions of dollars)
+
+Outstanding Receivable Balances from Major Customers
+
+Our primary source of cash flow is from our major customers, which include Stellantis, General Motors Company and Ford Motor Company. As of the date of filing this Annual Report with the Securities and Exchange Commission, all of our customers are making payments on their outstanding accounts receivable in accordance with the payment terms included on their purchase orders. A summary of our outstanding receivable balances from our major customers as of June 30, 2024 and July 2, 2023 was as follows (millions of dollars):
+
+Cash Balances in Mexico
+
+We earn a portion of our operating income in Mexico. As of June 30, 2024, $1.4 million of our $25.4 million cash and cash equivalents balance was held in Mexico. These funds are available for repatriation as deemed necessary.
+
+Cash Flow Analysis
+
+Cash flow from operating activities increased $2.2 million between years as the impact of increased profitability between years, as previously discussed, was offset by a net increase in working capital. The net increase in our working capital included the following working capital changes (millions of dollars):
+
+-
+
+Accounts receivable balances increased in both the current and prior year periods. The increase in the accounts receivable balance during 2024 reflects increased sales as of the end of our fiscal 2024 as compared to the end of our fiscal 2023 as well as an increase of $6.4 million in open customer billings for the reimbursement of customer tooling costs and engineering development costs. The increase in accounts receivable balances during 2023 reflects increased sales as of the end of our fiscal 2023 as compared to the end of our fiscal 2022.
+
+-
+
+The change in inventory levels reflected an increase during the current year and a decrease during the prior year. The current year increase was driven by an increase in finished product inventory balances resulting from our long-term inventory reduction plan that looks to shift the composition of our inventory from purchased materials to finished production, improving responsiveness while reducing overall inventories. The prior year decrease was due to a reduction in inventory balances to align with historical customer production patterns, mostly offset by a change in inventory management and shipping terms with a significant vendor.
+
+-
+
+The change in customer tooling balances, which consisted of costs incurred for the development of tooling that will be directly reimbursed by the customer whose parts are produced from the tool, was the result of the timing of tooling development spending required to meet customer production requirements and related billings for customer reimbursements. 
+
+-
+
+The current year increase in other assets is due to an $11.8 million increase in value added tax ("VAT") recoverable balances related to our Mexican operations. VAT recoverable balances increased due to a temporary issue with our Mexican tax certification. Although the certification issue was resolved during our December 2023 quarter, we were required to pay VAT on all parts temporarily imported into Mexico before seeking reimbursement for periods in which the certification issue was outstanding, which periods are now open to audit with the Mexican tax authority along with all periods subsequent to resolution of the certification issue. We believe temporary increases in the VAT recoverable balance will remain elevated until the periods under audit are closed.
+
+-
+
+Accounts payable balances increased in both the current and prior year periods. The current year increase was due to the following:
+
+\- Accrued salaries and benefits increased $6.3 million due to the accrual of $4.5 million under our incentive bonus plan as well as increased benefit accruals for our Mexican associates, which resulted from annual wage increases, including January 1, 2024 government mandated increases. There was no bonus accrual as of June 2023.
+
+\- VAT payable balances increased $3.5 million due to periods from 2024 being open to audit. Refer to the discussion of VAT recoverable balances and the VAT certification issue above.
+
+\- Income tax payable balances increased $2.5 million in 2024 based on the required income tax provision, the timing and amounts of federal, state and foreign tax payments made, and the timing of utilization of tax credits.
+
+The prior year increase was due to the following:
+
+\- Accounts payable increased $14.0 million primarily due to a change in inventory management, shipping terms, and payment terms with a significant vendor and the temporary suspension of ADAC-STRATTEC LLC's payment of engineering, research and design fees and sales fees to ADAC in order to comply with ADAC-STRATTEC debt covenants.
+
+\- Accrued salaries and benefits increased $4.7 million due to increased salaries and benefits for our Mexican associates.
+
+\- Income taxes payable increased $2.4 million primarily due to the accrual of a China non-resident capital gain tax as a result of the sale of our interest in VAST LLC.
+
+\- Value added tax payable balances increased $3.0 million due to several periods being open to audit in Mexico.
+
+Net cash used in investing activities of $7.8 million during 2024 included capital expenditures of $9.8 million in support of requirements for new product programs and the upgrade and replacement of existing equipment partially offset by additional proceeds from the sale of our interest in VAST LLC of $2.0. Net cash provided by investing activities of $8.9 million during 2023 included proceeds from the sale of our interest in VAST LLC of $26.2 million and a net increase in cash of $354,000 resulting from STRATTEC's purchase of the net assets of VAST Korea. The cash inflows were partially offset by capital expenditures of $17.4 million in support of requirements for new product programs and the upgrade and replacement of existing equipment and a $278,000 investment in VAST LLC for the purpose of funding general operating expenses for Sistema de Acesso Veicular Ltda, VAST LLC's Brazilian joint venture.
+
+Net cash provided by financing activities of $72,000 during 2024 included additional borrowings under our credit facilities of $2.0 million and $72,000 received for purchases under our employee stock purchase plan. These cash inflows were partially offset by the repayment of borrowings under credit facilities of $2.0 million. Net cash used in financing activities of $7.4 million during 2023 included a payment of $9.0 million related to STRATTEC's purchase of the remaining non-controlling interest of STRATTEC POWER ACCESS LLC from WITTE Automotive, the repayment of borrowings under credit facilities of $15.0 million, and $600,000 of dividend payments to non-controlling interests in our subsidiaries. These cash outflows were partially offset by additional borrowings under our credit facilities of $17.0 million and $183,000 received for the exercise of stock options under our stock incentive plan and purchases under our employee stock purchase plan.
+
+Cash Requirements
+
+Dividends
+
+On May 13, 2020, our Board of Directors took action to temporarily suspend payment of our quarterly dividend for the foreseeable future in order to conserve cash as a result of the economic downturn that began with COVID-19. No dividends were paid to shareholders during fiscal 2024 or fiscal 2023.
+
+Future Capital Expenditures
+
+We anticipate capital expenditures will be approximately $15.0 million in fiscal 2025 in support of requirements for new product programs and the upgrade and replacement of existing equipment.
+
+Stock Repurchase Program
+
+Our Board of Directors has authorized a stock repurchase program to buy back outstanding shares of our common stock. Shares authorized for buy back under the program totaled 3,839,395 at June 30, 2024. A total of 3,655,322 shares have been repurchased over the life of the program through June 30, 2024, at a cost of approximately $136.4 million. No shares were repurchased during fiscal 2024 or 2023. Additional repurchases may occur from time to time and are expected to continue to be funded by cash flow from operations and current cash balances.
+
+Other Cash Requirements
+
+In connection with the June 30, 2023 sale of our interest in VAST LLC to WITTE Automotive, we will be required to pay nonresident capital gain tax in China. The payment, which is expected to be made during our fiscal 2025, is expected to total approximately $1.9 million.
+
+We anticipate payments of approximately $4.5 million to associates in connection with our incentive bonus plan during the first quarter of our fiscal 2025 related to bonuses earned in our fiscal 2024.
+
+We also have an operating lease for our El Paso, Texas finished goods and service parts distribution warehouse, which has a term in excess of one year. We also have purchase commitments related to zinc and other purchased parts. Refer to required future payments under the lease and purchase commitments in the discussion of Leases under Organization and Summary of Significant Accounting Policies and in the discussion of Commitments and Contingencies included in the Notes to Financial Statements included as part of Item 8 within this Form 10-K.
+
+Credit Facilities
+
+STRATTEC has a $40 million secured revolving credit facility (the “STRATTEC Credit Facility”) with BMO Harris Bank N.A. ADAC-STRATTEC LLC has a $20 million secured revolving credit facility (the “ADAC-STRATTEC Credit Facility”) with BMO Harris Bank N.A., which is guaranteed by STRATTEC. The ADAC-STRATTEC Credit Facility borrowing limit decreases to $18 million on August 1, 2025. The credit facilities both expire August 1, 2026. Borrowings under either credit facility are secured by our U.S. cash balances, accounts receivable, inventory, and fixed assets located in the U.S. Interest on borrowings under the STRATTEC Credit Facility were at varying rates based, at our option, on LIBOR plus 1.25 percent or the bank’s prime rate through February 22, 2023, SOFR plus 1.35 percent for the period February 23, 2023 through September 5, 2023, and SOFR plus 1.85 percent subsequent to September 5, 2023. Interest on borrowings under the ADAC-STRATTEC Credit Facility were at varying rates based, at our option, on the bank's prime rate with no interest rate margin through May 30, 2024 and a 2 percent interest rate margin subsequent to May 30, 2024 or LIBOR plus 1.25 percent through February 6, 2023, SOFR plus 1.35 percent for the period February 7, 2023 through May 30, 2024, and SOFR plus 3.10 percent subsequent to May 30, 2024. Both credit facilities contain a restrictive financial covenant that requires the applicable borrower to maintain a minimum net worth level. The ADAC-STRATTEC Credit Facility includes an additional restrictive financial covenant that requires the maintenance of a minimum fixed charge coverage ratio. As of June 30, 2024, we were in compliance with all financial covenants required by these credit facilities. There were no outstanding borrowings under the STRATTEC Credit Facility as of June 30, 2024 or July 2, 2023. The average outstanding borrowings and weighted average interest rate on the STRATTEC Credit Facility loans were approximately $33,000 and 8.5 percent, respectively, during 2024. The average outstanding borrowings and weighted average interest rate on the STRATTEC Credit Facility loans were approximately $15.4 million and 5.7 percent, respectively, during 2023. Outstanding borrowings under the ADAC-STRATTEC Credit Facility totaled $13 million at both June 30, 2024 and July 2, 2023. The average outstanding borrowings and weighted average interest rate on the ADAC-STRATTEC Credit Facility loans were approximately $13.0 million and 6.8 percent, respectively, during 2024. The average outstanding borrowings and weighted average interest rate on the ADAC-STRATTEC Credit Facility loans were approximately $12.4 million and 5.3 percent, respectively, during 2023. We believe that the credit facilities are adequate, along with existing cash flows from operations, to meet our anticipated capital expenditure, working capital, dividend, and operating expenditure requirements.
+
+Joint Ventures and Majority Owned Subsidiaries
+
+Refer to the discussion of Investment in Joint Ventures and Majority Owned Subsidiaries and discussion of Equity (Loss) Earnings of Joint Ventures included in the Notes to Financial Statements included within this Form 10-K.
+
+Critical Accounting Policies
+
+We believe the following represents our critical accounting policies:
+
+Liability for Uncertain Tax Positions – We are subject to income taxation in many jurisdictions around the world. Significant management judgment is required in the accounting for income tax contingencies because the outcomes are often difficult to determine. We are required to measure and recognize uncertain tax positions that we have taken or expect to take in our income tax returns. The benefit of an uncertain tax position can only be recognized in the financial statements if management concludes that it is more likely than not that the position will be sustained with the tax authorities. For a position that is likely to be sustained, the benefit recognized in the financial statements is measured at the largest amount that is greater than 50 percent likely of being realized. A reserve is established for the difference between a position taken in an income tax return and the amount recognized in the financial statements. The amount of unrecognized benefits, that if recognized, would affect the effective tax rate was $1.2 million at June 30, 2024 and $1.1 million at July 2, 2023. An increase or decrease in our assessment of the recorded amount of unrecognized benefits by
+
+10 percent would result in an increase or decrease in the reported tax provision, before the impact of interest and penalties, of $120,000 at June 30, 2024 and $110,000 at July 2, 2023. Refer to the discussion of Income Taxes included in the Notes to Financial Statements included as part of Item 8 within this Form 10-K.
+
+Warranty Reserve – We have a warranty reserve recorded related to our exposure to warranty claims in the event our products fail to perform as expected, and we may be required to participate in the repair costs incurred by our customers for such products. The recorded warranty reserve balance involves judgment and estimates. Our reserve estimate is based on an analysis of historical warranty data as well as current trends and information. Actual warranty costs might differ from estimates due to the level of actual claims varying from our claims experience and estimates and final negotiations and settlements reached with our customers. Therefore, future actual claims experience could result in changes in our estimates of the required reserve. Sensitivity of potential warranty or product recall claims is dependent on the respective customer platform, volumes, production years and product content. We have product recall insurance once a recall claim exceeds $2.5 million with a limit of $30 million. Refer to the discussion of Warranty Reserve under Organization and Summary of Significant Accounting Policies included in the Notes to Financial Statements included as part of Item 8 within this Form 10-K.
+
+We believe the reserve discussed above is estimated using consistent and appropriate methods. However, changes to the assumptions could materially affect the recorded reserve amount.
+
+New Accounting Standards
+
+Refer to the discussion of New Accounting Standards under Organization and Summary of Significant Accounting Policies included in the Notes to Financial Statements included as part of Item 8 within this Form 10-K.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE

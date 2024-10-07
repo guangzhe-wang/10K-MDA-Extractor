@@ -1,0 +1,259 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+In fiscal 2023, the Company established a new segment reporting structure which resulted in three reportable segments: Mobile Solutions, Industrial Solutions and Life Sciences. See Note 19. Segment Reporting in the Notes to Consolidated Financial Statements, included in Item 8 of Part II in this Annual Report for further detail of this change.
+
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) provides a comparison of the Company’s results of operations, liquidity and capital resources for the years ended July 31, 2024 and 2023. A discussion of the changes in the Company’s results of operations and liquidity and capital resources for the year ended July 31, 2023 from July 31, 2022 can be found in Part II, “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” of the Company’s Annual Report on Form 10-K for the year ended July 31, 2023 (the “2023 Annual Report”), which was filed with the SEC on September 22, 2023.
+
+The MD&A should be read in conjunction with the Company’s Consolidated Financial Statements and Notes included in Item 8 of this Annual Report. This discussion contains forward-looking statements that involve risks and uncertainties. The Company’s actual results could differ materially from those anticipated in these forward-looking statements as a result of various factors, including those discussed elsewhere in this Annual Report, particularly Item 1A, “Risk Factors” and in the Safe Harbor Statement under the Private Securities Litigation Reform Act of 1995.
+
+Throughout this MD&A, the Company refers to measures used by management to evaluate performance, including a number of financial measures that are not defined under generally accepted accounting principles (GAAP) in the U.S. Excluding foreign currency translation from net sales and net earnings (i.e. constant currency) are not measures of financial performance under GAAP; however, the Company believes they are useful in understanding its financial results and provide comparable measures for understanding the operating results of the Company between different fiscal periods. Reconciliations within this MD&A provide more details on the use and derivation of these measures.
+
+Overview
+
+Founded in 1915, Donaldson Company, Inc. is a global leader in technology-led filtration products and solutions, serving a broad range of industries and advanced markets. Donaldson’s diverse and skilled employees at approximately 150 locations on six continents, 77 of which are manufacturing and/or distribution centers, partner with customers — from small business owners to the world’s largest original equipment manufacturer (OEM) brands — to solve complex filtration challenges. Customers choose Donaldson’s filtration solutions due to their stringent performance requirements and need for reliability.
+
+The Company’s operating segments are Mobile Solutions, Industrial Solutions and Life Sciences. The Mobile Solutions segment is organized based on a combination of customers and products and consists of the Off-Road, On-Road and Aftermarket business units. Within these business units, products consist of replacement filters for both air and liquid filtration applications and filtration housings for new equipment production and systems related to exhaust and emissions. Applications include air filtration systems, fuel, lube and hydraulic systems, emissions systems and sensors, indicators and monitoring systems. Mobile Solutions sells to OEMs in the construction, mining, agriculture and transportation end markets and to independent distributors and OEM dealer networks. 
+
+The Industrial Solutions segment is organized based on product type and consists of Industrial Air Filtration, Industrial Gasses, Industrial Hydraulics, Power Generation and Aerospace and Defense products. These products are further organized by the Industrial Filtration Solutions and Aerospace and Defense business units. Within our Industrial Solutions portfolio, Donaldson provides a wide product offering in the market to industrial customers consisting of equipment, ancillary components, replacement parts, performance monitoring and service globally, that cost-effectively enhance productivity and manufacturing efficiency. Industrial Air Filtration, Industrial Gasses and Industrial Hydraulics products consist of dust, fume and mist collectors, compressed air and industrial gasses purification systems, hydraulic and lubricated rotating equipment applications, gas and liquid filtration for industrial processes and connected services which provide on-demand maintenance services and replacements to support Industrial Air Filtration products. Power Generation products consist of air inlet systems and filtration sold to gas compression, power generation and natural gas liquification industries. Aerospace and Defense products consist of air, fuel, lubrication and hydraulic filtration for fixed-wing and rotorcraft aerospace applications and ground defense vehicle and naval platforms. Industrial Solutions sells through multiple channels which include OEMs, distributors and direct-to-consumer in some markets.
+
+The Life Sciences segment is organized by end market and consists of the Bioprocessing Equipment and Consumables, Food and Beverage, Vehicle Electrification and Medical Device, Microelectronics and Disk Drive markets. Within these markets, products consist of micro-environment gas and liquid filtration for food and beverage and industrial processes, bioprocessing equipment, including bioreactors and fermenters, bioprocessing consumables including chromatography devices, reagents and filters, polytetrafluoroethylene membrane-based products, as well as specialized air and gas filtration systems for applications including hard disk drives, semiconductor manufacturing, sensors, battery systems and powertrain components. Life Sciences primarily sells to large OEMs and directly to various end users requiring cell growth, separation, purification, high purity filtration and device protection.
+
+The Company’s results of operations are affected by conditions in the global economic and geopolitical environment. Under most economic conditions, the Company’s market diversification between its diesel engine end markets, its global end markets, its diversification through technology and its OEM and replacement parts customers has helped to limit the impact of weakness in any one product line, market or geography on the consolidated operating results of the Company.
+
+Consolidated Results of Operations
+
+Operating Results
+
+Operating results were as follows (in millions, except per share amounts):
+
+Geographic Net Sales by Origination
+
+Net sales, generally disaggregated by location where the customer’s order was received, were as follows (in millions):
+
+Net Sales
+
+The impact of foreign currency translation was calculated by translating current fiscal year foreign currency net sales into U.S. dollars using the average foreign currency exchange rates for the prior fiscal year. The impact of currency translation does not change the underlying drivers of revenue shown in this chart.
+
+Net sales by segment (in millions):
+
+Net sales for the year ended July 31, 2024 increased $155.5 million, or 4.5% from fiscal 2023, reflecting higher sales in the Mobile Solutions segment of $76.0 million, or 3.5%, the Industrial Solutions segment of $51.8 million, or 5.1%, and the Life Sciences segment of $27.7 million, or 11.5%. Foreign currency translation decreased net sales by $0.5 million, reflecting decreases in the Mobile Solutions and Life Sciences segments of $2.1 million and $0.6 million, respectively, and an increase in the Industrial Solutions segment of $2.2 million. In fiscal 2024, the Company’s net sales increased primarily from higher volume and pricing actions.
+
+Cost of Sales and Gross Margin
+
+Cost of sales for the year ended July 31, 2024 was $2,311.9 million, compared with $2,270.2 million for the year ended July 31, 2023, an increase of $41.7 million, or 1.8%. Gross margin as a percentage of net sales for the year ended July 31, 2024 was 35.5% compared with 33.8% for the year ended July 31, 2023, an increase of 1.7 percentage points. The increase in gross margin as a percentage of net sales was primarily driven by lower input costs, pricing actions and favorable product mix.
+
+Selling, General and Administrative Expenses
+
+Selling, general and administrative expenses for the year ended July 31, 2024 were $636.7 million, or 17.8% of net sales, compared with $602.3 million, or 17.6% of net sales, for the year ended July 31, 2023, an increase of $34.4 million, or 5.7%. The increase in selling, general and administrative expenses as a percentage of net sales was primarily due to increased headcount and incremental expenses associated with investments in acquired Life Sciences businesses, partially offset by lower restructuring charges in fiscal year 2024 compared to the prior year.
+
+Research and Development Expenses
+
+Research and development expenses for the year ended July 31, 2024 were $93.6 million, or 2.6% of net sales, compared with $78.1 million, or 2.3% of net sales, for the year ended July 31, 2023, an increase of $15.5 million, or 19.8%. The increase in research and development expenses as a percentage of net sales was primarily due to increased headcount and incremental expenses associated with investments in acquired Life Sciences businesses.
+
+Non-Operating Items
+
+Interest expense for the year ended July 31, 2024 was $21.4 million, compared with $19.2 million for the year ended July 31, 2023, an increase of $2.2 million, or 11.3%. The increase reflected higher interest rates.
+
+Other income, net for the year ended July 31, 2024 was $12.6 million, compared with $7.7 million for the year ended July 31, 2023, an increase of $4.9 million, or 62.6%, driven by lower foreign exchange losses in the current year and higher income from joint ventures, partially offset by higher donations.
+
+Income Taxes
+
+The effective tax rates were 22.7% and 23.4% for the years ended July 31, 2024 and 2023, respectively. The lower effective tax rate was primarily due to an increase in excess tax benefits on stock-based compensation.
+
+The Organization for Economic Co-operation and Development (“OECD”) released the Model GloBE Rules for Pillar Two on December 20, 2021, which defined a 15% global minimum tax. Since the model rules have been released, many countries have enacted or continue to consider changes in their tax laws and regulations based on the Pillar Two proposals, some of which became effective for tax years beginning after January 1, 2024. We are continuing to evaluate the impact of these proposed and enacted legislative changes as new guidance becomes available. The Company does not expect Pillar Two to have a material impact on its financial statements as most jurisdictions in which the Company operates have an effective tax above the 15% threshold.
+
+Net Earnings
+
+Net earnings for the year ended July 31, 2024 were $414.0 million, compared with $358.8 million for the year ended July 31, 2023, an increase of $55.2 million, or 15.4%. Diluted EPS were $3.38 for the year ended July 31, 2024, compared with $2.90 for the year ended July 31, 2023.
+
+Net earnings were impacted by fluctuations in foreign currency exchange rates. The impact of these fluctuations on net earnings was as follows (in millions):
+
+The impact of foreign currency translation was calculated by translating current fiscal year foreign currency net earnings into U.S. dollars using the average foreign currency exchange rates for the prior fiscal year.
+
+Restructuring
+
+During the fourth quarter of fiscal 2024, the Company initiated global footprint optimization and cost reduction actions to further improve its operating and manufacturing cost structure, primarily in EMEA. These activities resulted in restructuring expenses, primarily related to severance, of $6.4 million. Charges of $3.8 million were included in cost of sales and $2.6 million were included in operating expenses in the Consolidated Statement of Earnings for the year ended July 31, 2024. As of July 31, 2024, $6.4 million of accrued expenses were included in accrued employee compensation and related taxes in the Consolidated Balance Sheet. Estimated future costs associated with actions related to this restructuring initiative are not included due to the Company’s inability to reasonably quantify the anticipated restructuring charges.
+
+During fiscal 2023, the Company announced a company-wide organizational redesign to further support the Company’s growth strategies and better serve its customers. In conjunction with the organizational redesign, the Company recorded $21.8 million of charges consisting of $15.3 million of severance charges and other organizational redesign costs and $6.5 million of costs mainly associated with the exiting of a lower-margin customer program and a lower-margin product. Charges of $2.9 million were included in cost of sales and $18.9 million were included in selling, general and administrative expenses in the accompanying Consolidated Statements of Earnings.
+
+Segment Results of Operations
+
+Net sales and earnings before income taxes were as follows (in millions):
+
+Corporate and unallocated includes interest expense and certain corporate expenses determined to be non-allocable to the segments, such as restructuring charges and business development expenses.
+
+NM = Not meaningful
+
+Mobile Solutions Segment
+
+Net sales and earnings before income taxes were as follows (in millions):
+
+The impact of foreign currency translation was calculated by translating current fiscal year foreign currency net sales into U.S. dollars using the average foreign currency exchange rates for the prior fiscal year. The impact of currency translation does not change the underlying drivers of revenue shown in this chart.
+
+Net sales for the Mobile Solutions segment for the year ended July 31, 2024 were $2,250.8 million, compared with $2,174.8 million for the year ended July 31, 2023, an increase of $76.0 million, or 3.5%, driven by a $24.3 million volume increase and a $53.8 million increase from pricing benefits. Excluding a $2.1 million decrease from foreign currency translation, net sales increased 3.6%.
+
+Net sales of Off-Road decreased $47.9 million, due to weak agriculture end market conditions. Net sales of Aftermarket increased $129.9 million, primarily due to volume increases of $107.5 million, driven by market share gains, favorable market conditions and destocking of inventory which negatively impacted the prior year and pricing benefits of $23.6 million.
+
+Earnings before income taxes for the Mobile Solutions segment for the year ended July 31, 2024 were $404.5 million, or 18.0% of net sales, an increase from 15.2% of net sales for the year ended July 31, 2023. The increase was driven by higher volume, favorable product mix related to sales of replacement parts and pricing actions.
+
+Industrial Solutions Segment
+
+Net sales and earnings before income taxes were as follows (in millions):
+
+The impact of foreign currency translation was calculated by translating current fiscal year foreign currency net sales into U.S. dollars using the average foreign currency exchange rates for the prior fiscal year. The impact of currency translation does not change the underlying drivers of revenue shown in this chart.
+
+Net sales for the Industrial Solutions segment for the year ended July 31, 2024 were $1,066.5 million, compared with $1,014.7 million for the year ended July 31, 2023, an increase of $51.8 million, or 5.1%, driven by a $33.4 million volume increase and a $16.2 million increase from pricing benefits. Excluding a $2.2 million increase from foreign currency translation, net sales increased 4.9%.
+
+Net sales of IFS increased $28.9 million, reflecting higher sales volume in power generation and industrial dust collection from strong demand in most geographies. Net sales of aerospace and defense increased by $22.9 million due to ongoing strength in the aerospace and defense end markets.
+
+Earnings before income taxes for the Industrial Solutions segment for the year ended July 31, 2024 were $198.8 million, or 18.6% of net sales, an increase from 18.4% of net sales for the year ended July 31, 2023. 
+
+Life Sciences Segment
+
+Net sales and earnings before income taxes were as follows (in millions):
+
+The impact of foreign currency translation was calculated by translating current fiscal year foreign currency net sales into U.S. dollars using the average foreign currency exchange rates for the prior fiscal year. The impact of currency translation does not change the underlying drivers of revenue shown in this chart.
+
+Net sales for the Life Sciences segment for the year ended July 31, 2024 were $269.0 million, compared with $241.3 million for the year ended July 31, 2023, an increase of $27.7 million, or 11.5%, driven by a $17.6 million volume increase, a $1.0 million increase from pricing benefits and a $9.7 million increase from acquisitions. Excluding a $0.6 million decrease from foreign currency translation, net sales increased 11.7%, primarily driven by strong market demand and market share gains in disk drive, sales of bioprocessing equipment and strong food and beverage markets in EMEA.
+
+Losses before income taxes for the Life Sciences segment for the year ended July 31, 2024 were $10.4 million, or a loss of 3.9% of net sales, a decrease from earnings of 4.1% of net sales for the year ended July 31, 2023. The decrease was driven by the expected impact from investments made to scale up the Company’s recently-acquired businesses.
+
+Liquidity, Capital Resources, Capital Requirements and Financial Condition
+
+Liquidity
+
+Liquidity is assessed in terms of the Company’s ability to generate cash to fund its operating, investing and financing activities. Significant factors affecting liquidity are cash flows generated from operating activities, capital expenditures, acquisitions, dividends, repurchases of outstanding shares, adequacy of available credit facilities and the ability to attract long-term capital with satisfactory terms. The Company generates substantial cash from the operation of its businesses as its primary source of liquidity, with sufficient liquidity available to fund growth through reinvestment in existing businesses and strategic acquisitions.
+
+Cash Flow Summary
+
+Cash flows were as follows (in millions):
+
+Operating Activities
+
+Cash provided by operating activities for the year ended July 31, 2024 was $492.5 million, compared with $544.5 million for the year ended July 31, 2023, a decrease of $52.0 million. The decrease in cash provided by operating activities was primarily driven by an increase in working capital requirements during the current year based on additional inventory needs to increase on-time deliveries, partially offset by higher earnings in the current year. 
+
+Investing Activities
+
+Cash used in investing activities for the year ended July 31, 2024 was $86.9 million, compared with $327.3 million for the year ended July 31, 2023, a decrease of $240.4 million. The decrease in cash used in investing activities was primarily driven by lower cash used related to acquisitions. In fiscal 2023, the Company acquired Isolere and UTEC for cash consideration of $209.2 million, net of cash acquired, and invested a higher level of capital in various projects, including capacity expansion and tooling for new programs.
+
+Financing Activities
+
+Cash used in financing activities generally relates to the use of cash for payment of dividends and repurchases of the Company’s common stock, net of borrowing activity and proceeds from the exercise of stock options. Cash used in financing activities for the year ended July 31, 2024 was $355.9 million, compared with $222.2 million for the year ended July 31, 2023, an increase of $133.7 million. The increase was primarily driven by net debt repayments of $114.8 million due to strong operating cash flows in the current year, compared to relatively flat net debt in the prior year.
+
+To determine the level of dividend and share repurchases, the Company considers recent and projected performance across key financial metrics, including earnings, cash flow from operations and total debt. Dividends paid for the years ended July 31, 2024 and 2023 were $122.8 million and $114.4 million, respectively. Share repurchases for the years ended July 31, 2024 and 2023 were $162.7 million and $141.8 million, respectively. 
+
+Capital Resources
+
+Additional sources of liquidity are existing cash and available credit facilities. Cash and cash equivalents as of July 31, 2024 was $232.7 million, compared with $187.1 million as of July 31, 2023. A significant portion of the Company’s cash and cash equivalents is held by subsidiaries throughout the world as over half of the Company’s earnings occur outside the U.S. Additionally, the Company has capacity of $593.0 million available for further borrowing under existing credit facilities as of July 31, 2024.
+
+Short-term borrowing capacity as of July 31, 2024 was as follows (in millions):
+
+Other non-borrowing reductions include financial instruments such as bank guarantees and foreign exchange instruments. 
+
+Long-term borrowing capacity is maintained through a $500.0 million unsecured revolving credit facility. Borrowings against the credit facility are reported on the Consolidated Balance Sheets. Borrowing capacity as of July 31, 2024 was as follows (in millions): 
+
+Certain debt agreements contain financial covenants related to interest coverage and leverage ratios, as well as other non-financial covenants. As of July 31, 2024, the Company was in compliance with all such covenants.
+
+Capital Requirements
+
+The Company’s cash requirements within the next 12 months include short-term borrowings, accounts payable, accrued expenses, income taxes payable, dividends payable, purchase commitments and other current liabilities. Additionally, in fiscal 2025, the Company expects its cash paid for capital expenditures to be between $85 million and $105 million, primarily associated with capacity expansion and new products and technologies.
+
+The Company’s cash requirements greater than 12 months from various contractual obligations and commitments primarily include:
+
+•debt obligations and interest payments - see Note 7. Short-Term Borrowings and Long-Term Debt in the Notes to Consolidated Financial Statements, included in Item 8 of Part II in this Annual Report for further detail of the Company’s debt and the timing of expected future principal and interest payments; and
+
+•operating leases - see Note 9. Leases in the Notes to Consolidated Financial Statements, included in Item 8 of Part II in this Annual Report for further detail of our lease obligations and the timing of expected future payments.
+
+The Company believes the liquidity available from the combination of expected cash generated by operating activities, existing cash and available credit under existing credit facilities will be sufficient to meet its cash requirements for the next 12 months and beyond, including working capital needs, debt service obligations, capital expenditures, payment of dividends, share repurchase activity and potential acquisitions.
+
+Financial Condition
+
+The Company’s total capitalization components and debt-to-capitalization ratio were as follows (in millions):
+
+As of July 31, 2024, total debt, including short-term borrowings and long-term debt, represented 26.5% of total capitalization, defined as total debt plus total stockholders’ equity, compared with 33.2% as of July 31, 2023.
+
+Long-term debt outstanding as of July 31, 2024 was $508.4 million compared with $621.6 million as of July 31, 2023, a decrease of $113.2 million. In fiscal 2024, the Company used strong operating cash flows to reduce the long-term debt outstanding.
+
+Working Capital
+
+In order to help measure and analyze the impact of working capital management, the Company calculates days sales outstanding as the average accounts receivable, net for the quarter, divided by net sales for the quarter multiplied by the number of days in the quarter. The Company calculates days inventory outstanding as the average inventories, net for the quarter, divided by cost of sales for the quarter multiplied by the number of days in the quarter. The Company calculates days payable outstanding as the average accounts payable for the quarter, divided by cost of sales for the quarter multiplied by the number of days in the quarter. The Company calculates net cash cycle as the sum of days sales outstanding and days inventory outstanding, less days payables outstanding.
+
+Working capital measurements and analysis were as follows (in millions, except days):
+
+Off-Balance Sheet Arrangements
+
+Joint Venture Guarantee
+
+The Company has an unconsolidated joint venture, Advanced Filtration Systems Inc. (AFSI), established by the Company and Caterpillar Inc. (Caterpillar) in 1986. AFSI designs and manufactures high-efficiency fluid filters used in Caterpillar’s machinery worldwide. The Company and Caterpillar equally own the shares of AFSI and both companies guarantee certain debt and banking services, including credit and debit cards, merchant processing and treasury management services, of the joint venture. The Company accounts for AFSI as an equity method investment.
+
+The outstanding debt relating to AFSI, which the Company guarantees half, was $51.0 million and $59.6 million as of July 31, 2024 and 2023, respectively. AFSI has $63.0 million in revolving credit facilities which expire in 2027 and $17.0 million in an additional multi-currency revolving credit facility which terminates upon notification of either party. The Company does not believe this guarantee will have a current or future effect on its financial condition, results of operations, liquidity or capital resources. 
+
+Critical Accounting Estimates
+
+The Company’s Consolidated Financial Statements are prepared in conformity with GAAP. Our significant accounting policies are disclosed in Note 1 in the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report. The preparation of these Consolidated Financial Statements requires the use of estimates and judgments that affect the reported amounts of assets and liabilities at the date of the Consolidated Financial Statements and the reported amounts of revenue and expenses during the periods presented. Management bases estimates on historical experience and various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about recorded amounts. The Company believes its use of estimates and underlying accounting assumptions adheres to GAAP and are reasonable and consistently applied. The Company’s Critical Accounting Estimates are those which require more significant assumptions and judgments used in the preparation of its Consolidated Financial Statements and are the most important to aid in fully understanding its financial results. The Company’s Critical Accounting Estimates are as follows:
+
+Revenue Recognition - Variable Consideration
+
+Revenue is measured as the amount of consideration the Company expects to receive in exchange for the fulfillment of performance obligations. The transaction price of a contract could be reduced by variable consideration including volume purchase rebates and discounts, product refunds and returns. At the time of sale to a customer, the Company records an estimate of variable consideration as a reduction from gross sales. The Company primarily relies on historical experience and anticipated future performance to estimate the variable consideration. Revenue is recognized to the extent it is probable a significant reversal of revenue will not occur when the contingency is resolved.
+
+For volume, purchase rebates and discounts, management estimates are based on the terms of the arrangements with customers, historical payment experience, field inventory levels, volume in quantity or mix of purchases of product during a specified time period and expectations for changes in relevant trends in the future. Actual results may differ from estimates if competitive factors create the need to enhance or reduce sales promotion and incentive accruals or if customer usage and field inventory levels vary from historical trends. Adjustments to sales promotions and incentive accruals are made as actual usage becomes known in order to properly estimate the amounts necessary to generate consumer demand based on market conditions as of the balance sheet date.
+
+For product refunds and returns, estimates are based primarily on the expected number of products sold, the trend in the historical ratio of returns to sales and the historical length of time between the sale and resulting return. Actual refunds and returns could be higher or lower than amounts estimated due to such factors as performance of new products or significant manufacturing or design defects not discovered until after the product is delivered to customers.
+
+Goodwill
+
+Goodwill represents the excess of the purchase price over the fair value of net assets acquired in business combinations under the purchase method of accounting. Goodwill is assessed for impairment annually or if an event occurs or circumstances change that would indicate the carrying amount may be impaired. The Company performed its annual impairment assessment during the third quarter of fiscal 2024. The goodwill impairment assessment is conducted at a reporting unit level, which is one level below the operating segment level and utilizes either a qualitative or quantitative assessment. The Company determined the fair value for all its reporting units was substantially in excess of their respective carrying values and there were no indicators of impairment for any of the reporting units evaluated. An impairment loss would be recognized when the carrying amount of a reporting unit’s net assets exceeds the estimated fair value of the reporting unit. 
+
+The optional qualitative assessment evaluates general economic, industry and entity-specific factors that could impact the reporting units’ fair values. For reporting units evaluated using a qualitative assessment, if it is determined the fair value more likely than not exceeds the carrying value, no further assessment is necessary. For reporting units evaluated using a quantitative assessment, the fair values are determined using an income approach, a market approach or a weighting of the two. The income approach determines fair value based on discounted cash flow models derived from the reporting units’ long-term forecasts. The market approach determines fair value based on earnings multiples derived from prices investors paid for the stocks of comparable publicly traded companies. Estimates and assumptions are utilized in the valuations, including discounted projected cash flows, earnings before interest, taxes, depreciation and amortization margins, terminal value growth rates, revenue growth rates, discount rates and the determination of comparable, publicly traded companies. Changes in these estimates and assumptions could materially affect the determination of fair value and goodwill impairment.
+
+Income Taxes
+
+Management is required to estimate income taxes in each of the jurisdictions in which the Company operates. This process involves estimating current tax exposure and assessing future tax consequences attributable to temporary differences between the financial statement carrying amount of existing assets and liabilities and their respective tax basis. These deferred tax assets and liabilities are measured using the enacted tax rates expected to apply to taxable income in the fiscal years in which those temporary differences are anticipated to reverse based on future taxable income projections and the impact of tax planning strategies. The Company intends to indefinitely reinvest undistributed earnings for certain of its non-U.S. subsidiaries and thus has not provided for income taxes on these earnings.
+
+Additionally, benefits of tax return positions are recognized in the Consolidated Financial Statements when the position is more likely than not to be sustained by the taxing authorities based solely on the technical merits of the position. If the recognition threshold is met, the tax benefit is measured and recognized as the largest amount of tax benefit that in the Company’s judgment is greater than 50% likely to be realized. The Company maintains a reserve for uncertain tax benefits that are currently unresolved and routinely monitors the potential impact of such situations. The liability for unrecognized tax benefits, accrued interest and penalties was $23.0 million and $16.7 million as of July 31, 2024 and 2023, respectively. 
+
+The Company believes it is remote that any adjustment necessary to the reserve for income taxes for the next 12 months will be material. However, it is possible the ultimate resolution of audits or disputes may result in a material change to the Company’s reserve for income taxes, although the quantification of such potential adjustments cannot be made at this time.
+
+Defined Benefit Pension Plans
+
+The Company incurs expenses for employee benefits provided through defined benefit pension plans. In accounting for these defined benefit pension plans, management must make a variety of estimates and assumptions including discount rates and expected return on plan assets. The Company considers current and historical data and uses a third-party specialist to assist management in determining these estimates.
+
+Discount Rates
+
+The Company’s objective in selecting a discount rate is to select the best estimate of the rate at which the benefit obligations could be effectively settled on the measurement date, taking into account the nature and duration of the benefit obligations of the plan. In making this best estimate, the Company looks at the rates of return on high-quality fixed-income investments currently available and expected to be available, during the period to maturity of the benefits. This process includes assessing the universe of bonds available on the measurement date with a quality rating of Aa or better. Similar appropriate benchmarks are used to determine the discount rate for the non-U.S. plans. The Company utilized a 5.44% and 5.58% weighted average discount rate for its U.S. plans for the years ended July 31, 2024 and 2023, respectively. The Company used a 4.33% and 4.80% weighted average discount rate for its non-U.S. plans for the years ended July 31, 2024 and 2023, respectively. 
+
+Expected Long-Term Rate of Return on Plan Assets
+
+The Company considers historical returns and future expected returns for each asset class, as well as the target asset allocation to develop the assumption for each of its U.S. pension plans. The assumption for non-U.S. pension plans reflects the investment allocation and expected total portfolio returns specific to each plan and country. 
+
+The Company utilized a 6.16% and 5.66% asset-based weighted average expected return on plan assets for its U.S. plans for the years ended July 31, 2024 and 2023, respectively. The Company utilized a 5.01% and 4.39% asset-based weighted average expected return on plan assets for its non-U.S. plans for the years ended July 31, 2024 and 2023, respectively. The expected returns on plan assets are used to develop the following fiscal years’ expense for the plans.
+
+Alternative Assumptions
+
+If the Company were to use alternative assumptions for its pension plans as of July 31, 2024, a one percentage point change in the assumptions would impact fiscal 2024 net periodic benefit cost as follows (in millions):
+
+The Company’s net periodic benefit cost recognized in the Consolidated Statements of Earnings was $6.6 million, $6.2 million and $2.8 million for the years ended July 31, 2024, 2023 and 2022, respectively. While changes to the Company’s pension plan assumptions would not be expected to impact its net periodic benefit cost by a material amount, such changes could significantly impact the Company’s projected benefit obligation.
+
+Business Combinations
+
+The Company allocates the purchase price of acquired businesses to the estimated fair values of the assets acquired and liabilities assumed, as well as any contingent consideration, where applicable, as of the date of acquisition. The fair values of the long-lived assets acquired, primarily intangible assets, are determined using calculations which can be complex and require significant judgment. Estimates include many factors such as the nature of the acquired company’s business, its historical financial position and results, technology obsolescence, customer retention rates, discount rates, royalty rates and expected future performance. Independent valuation specialists are used to assist in determining certain fair value calculations.
+
+The Company estimates the fair value of acquired customer relationships using the multi-period excess earnings method. This approach is typically applied when cash flows are not directly generated by the asset, but rather, by an operating group which includes the particular asset. Fair value is estimated as the present value of the benefits anticipated from ownership of the asset, in excess of the economic returns required on the investment in contributory assets which are necessary to realize those benefits. The intangible asset’s estimated earnings are determined as the residual earnings after quantifying estimated economic returns from contributory assets. Assumptions used in these calculations include same-customer revenue growth rates, estimated earnings and customer attrition rates.
+
+The Company estimates the fair value of trade names and/or trademarks using the relief from royalty method, which calculates the cost savings associated with owning rather than licensing the assets. Assumed royalty rates are applied to projected revenue for the remaining useful lives of the assets to estimate the royalty savings. Royalty rates are selected based on the attributes of the asset, including reputation and recognition within the industry. 
+
+The Company estimates the fair value of technology utilizing the multi-period excess earnings method or the relief from royalty method, depending on the technology asset acquired. The multi-period excess earnings method is consistent with the approach used to value acquired customer relationships and the relief from royalty method is consistent with the approach used to value trade names and/or trademarks.
+
+While the Company uses its best estimates and assumptions, especially at the acquisition date, including its estimates for intangible assets, pre-acquisition contingencies and any contingent consideration, where applicable, the fair value estimates are inherently uncertain and subject to refinement. As a result, during the measurement period, which may be up to one year from the acquisition date, the Company may record adjustments to the assets acquired and liabilities assumed, with the corresponding offset to goodwill. Any adjustments required after the measurement period are recorded in the Consolidated Statements of Earnings. The judgments required in determining the estimated fair values and expected useful lives assigned to each class of assets and liabilities acquired can significantly affect net income. 
+
+New Accounting Standard Not Yet Adopted
+
+For the new accounting standards not yet adopted, refer to Note 1 Summary of Significant Accounting Policies in the Notes to Consolidated Financial Statements included in Item 8 of this Annual Report.
+
+Safe Harbor Statement Under the Private Securities Litigation Reform Act of 1995
+
+The Company, through its management, may make forward-looking statements reflecting the Company’s current views with respect to future events and expectations, such as forecasts, plans, trends and projections relating to the Company’s business and financial performance. These forward-looking statements, which may be included in reports filed under the Securities Exchange Act of 1934, as amended (the Exchange Act), in press releases and in other documents and materials as well as in written or oral statements made by or on behalf of the Company, are subject to certain risks and uncertainties, including those discussed in Part I, Item 1A, “Risk Factors” of this Annual Report, which could cause actual results to differ materially from historical results or those anticipated. The words or phrases such as “will likely result,” “are expected to,” “will continue,” “will allow,” “estimate,” “project,” “believe,” “expect,” “anticipate,” “forecast,” “plan” and similar expressions are intended to identify forward-looking statements within the meaning of Section 21E of the Exchange Act and Section 27A of the Securities Act of 1933, as amended, as enacted by the Private Securities Litigation Reform Act of 1995 (PSLRA). In particular, the Company desires to take advantage of the protections of the PSLRA in connection with the forward-looking statements made in this Annual Report. All statements other than statements of historical fact are forward-looking statements. These statements do not guarantee future performance.
+
+These forward-looking statements speak only as of the date such statements are made and are subject to risks and uncertainties that could affect the Company’s performance and could cause the Company’s actual results for future periods to differ materially from any opinions or statements expressed. These factors include, but are not limited to, challenges in global operations; impacts of global economic, industrial and political conditions on product demand; impacts from unexpected events; effects of unavailable raw materials, significant demand fluctuations or material cost changes; inability to attract and retain qualified personnel; inability to meet customer demand; inability to maintain competitive advantages; threats from disruptive technologies; effects of highly competitive markets with pricing pressure; exposure to customer concentration in certain cyclical industries; inability to manage productivity improvements; inability to achieve commitments related to ESG; results of execution of any acquisition, divestiture and other strategic transactions; vulnerabilities associated with information technology systems and security; inability to protect and enforce intellectual property rights; costs associated with governmental laws and regulations; impacts of foreign currency fluctuations; and effects of changes in capital and credit markets. These and other factors are described in Part I, Item 1A, “Risk Factors” of this Annual Report. The Company undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, unless required by law.
+
+Item 7A. Quantitative and Qualitative

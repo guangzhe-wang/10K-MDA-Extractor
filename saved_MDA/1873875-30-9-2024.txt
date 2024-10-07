@@ -1,0 +1,187 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+You should read the following discussion and analysis of our financial condition and results of operations together with our consolidated financial statements and the related notes included elsewhere in this Annual Report. This discussion and analysis contains forward looking statements and involves numerous risks and uncertainties, including, but not limited to, those described in the “Risk Factors” section of this Annual Report. Actual results may differ materially from those contained in any forward-looking statements. For a discussion on forward-looking statements, see the information set forth in the introductory note to this Annual Report under the caption “Special Note Regarding Forward Looking Statements,” which information is incorporated herein by reference.
+
+Overview
+
+We are a clinical-stage biopharmaceutical development company dedicated to developing innovative medicines for patients living with serious chronic diseases and significant unmet needs. Our lead drug candidates, which are currently in Phase 2/3 and Phase 2 clinical developments, include IHL-42X for the treatment of OSA; PSX-001, our psilocybin treatment in combination with psychological therapy in development to treat patients with GAD; and IHL-675A for rheumatoid arthritis. Each of these programs target conditions that currently have limited, inadequate, or no approved pharmaceutical treatment options.
+
+Recent Developments
+
+Equity-Line of Credit
+
+On September 9, 2024, we entered into the ELOC Agreement with Arena Business. Under the ELOC Agreement, we have the right to sell, and Arena Business has the obligation to buy, up to $50 million of our common stock, in each case, subject to customary closing conditions. The purchase price per share of our common stock is obtained by multiplying by 96% the daily volume weighted average price (“VWAP”) on Nasdaq for the trading day specified in the sale notice (same trading day or one trading day following such notice) delivered to Arena Business. The ELOC Agreement is effective for 36 months from its execution. As consideration for Arena Business’ execution and delivery of the ELOC Agreement, we will (i) issue to Arena Business, as a commitment fee, that number of shares of our common stock equal to 250,000 divided by the simple average of the daily VWAP of our common stock during the five trading days immediately preceding the effectiveness of a “shelf” registration statement on Form S-3 on which the estimated number of shares of our common stock are registered, and (ii) issue the ELOC Warrant exercisable for 585,000 shares of our common stock, with a five year expiration and an exercise price equal to 115% of the closing price of our common stock on the warrant issuance date. However, we may not sell common stock to Arena Business under the ELOC Agreement if (i) a shelf Registration Statement on Form S-3 that registers the common stock issuable under the ELOC Agreement has not been declared effective by the SEC; (ii) the number of shares of our common stock issuable to Arena Business pursuant to a sale notice causes the aggregate number of shares of our common stock beneficially owned by Arena Business and its affiliates would exceed 9.99% of the number of shares of our common stock then outstanding; (iii) after giving effect to such sale (a) the aggregate number of shares of our common stock issued under the ELOC Agreement, (b) the aggregate number of shares of our common stock issued upon exercise of the ELOC Warrant, (c) the aggregate number of shares of our common stock issued upon conversion of a secured convertible debenture issued to Arena Investors, LP (as discussed below) and upon exercise of the warrant issued in connection with such convertible debenture, would exceed 19.99% of the number of shares of our common stock outstanding as of the date of the ELOC Agreement, unless the Company obtains the requisite stockholder approval for issuances in excess of such limit; or (iv) such sale of shares of our common stock would exceed, during any 12-month period, one-third of the Company’s public float under the SEC’s “baby shelf” rule for SEC-registered transactions by an issuer with a public float under $75 million when using a “shelf” registration statement on Form S-3. We have not yet filed a registration statement on Form S-3 for the issuances to be made under the ELOC Agreement.
+
+Convertible Debenture Financing
+
+On September 9, 2024, we entered into the September 2024 Purchase Agreement with Arena Investors, LP. Under the September 2024 Purchase Agreement, we will issue the September 2024 Debentures in an aggregate principal amount of up to $10 million at an aggregate purchase price of up to $9 million, divided into three separate tranches that are each subject to closing conditions, with a 10% original issue discount. The conversion price of each September 2024 Debenture would be equal to 115% of the closing price of our common stock on the trading day preceding the date of the issuance of the September 2024 Debenture, subject to adjustments related to the trading price of our common stock on the Nasdaq Global Market.
+
+
+We and our subsidiaries, Incannex Healthcare Pty Ltd, Incannex Pty Ltd and Psychennex Pty Ltd, will grant senior security interests in all of our tangible and intangible assets, except for certain R&D Australian tax incentives, which are subject to a subordinated security interest. Our subsidiaries will also guarantee the September 2024 Debenture.
+
+As additional consideration for the Purchaser’s purchase of each September 2024 Debenture, we will issue a warrant (a “September 2024 Debenture Warrant”), with a five year expiration, each exercisable for number of shares of our common stock equal to 25% of the total principal amount of the related September 2024 September 2024 Debenture purchased by the Purchaser on the applicable closing date divided by 115% of the closing price of our common stock on the trading day immediately preceding such closing date. We are not obligated to issue a September 2024 Debenture Warrant with respect to any September 2024 Debenture tranche that does not close. The exercise price of each September 2024 Debenture Warrant will be 115% of the closing price of our common stock on its issuance date.
+
+We must register the shares of our common stock issuable upon conversion of the September 2024 Debentures and exercise of the September 2024 Debenture Warrants. However, the issuance of the common stock underlying the September 2024 Debenture and the September 2024 Debenture Warrants are subject to stockholder approval to the extent the issuance would exceed 19.99% of the number of shares of our common stock outstanding as of the date of the September 2024 Purchase Agreement.
+
+Results of Operations
+
+Comparison of Fiscal Years Ended June 30, 2024 to June 30, 2023
+
+The following tables summarize our results of operations for the periods presented (in thousands):
+
+
+Revenue from Customers
+
+During the fiscal year ended June 30, 2024, we have generated revenue from clinic patients on rehabilitation services which reflects the consideration to which the Company expects to be entitled in exchange for those services. We have not generated any revenue from the sale of products. We do not expect to generate material revenues unless and until our drug candidates are approved.
+
+Operating Expenses 
+
+Our operating expenses consist of (i) R&D expenses, (ii) acquisition of in-process research and development (“IPR&D”) expense and (iii) general and administrative expenses.
+
+R&D Expenses
+
+R&D expenses consist primarily of external and internal costs incurred in performing clinical and preclinical development activities.
+
+Our R&D expenses include:
+
+We expense R&D costs as incurred.
+
+R&D expenses increased by $6.6 million for the fiscal year ended June 30, 2024 compared to the fiscal year ended June 30, 2023. The increase was primarily due to the commencement of a BA/BE clinical trial investigating IHL-42X in healthy volunteers, a Phase 2 clinical trial investigating IHL-675A in patients with rheumatoid arthritis, and a Phase 2/3 clinical trial investigating IHL-42X in patients with obstructive sleep apnea.
+
+Although R&D activities are central to our business model, the successful development of our drug candidates is highly uncertain. There are numerous factors associated with the successful development of our drug candidates, including future trial design and various regulatory requirements, many of which cannot be determined with accuracy at this time based on our stage of development. In addition, future regulatory factors beyond our control may impact our clinical development programs. Drug candidates in later stages of clinical development generally have higher development costs than those in earlier stages of clinical development, primarily due to the increased size and duration of later stage clinical trials. As a result, we expect our R&D expenses will increase substantially in connection with our ongoing and planned clinical and preclinical development activities in the near term and in the future to the extent our development activities are successful. At this time, we cannot accurately estimate or know the nature, timing and costs of the efforts that will be necessary to complete the preclinical and clinical development of our drug candidates. Our R&D expenses have varied, and our future R&D expenses may vary, significantly based on a wide variety of factors such as:
+
+
+A change in the outcome of any of these variables with respect to the development of our drug candidates could significantly change the costs and timing associated with the development of that drug candidate. We may never succeed in obtaining regulatory approval for any drug candidate.
+
+Acquisition of IPR&D
+
+Acquisition of IPR&D expense was recorded in the fiscal year ended June 30, 2023, in connection with the acquisition of APIRx in August 2022. We concluded that the acquisition of APIRx did not meet the definition of business under Accounting Standards Codification (“ASC”) 805, Business Combinations as APIRx did not have outputs present and a substantive process was not acquired and recorded the transaction as an asset acquisition as a result. We determined that drug candidates pertaining to APIRx had no alternative future use at the time of acquisition and charged $35.3 million, including transaction costs of $2.43 million, to the acquisition of IPR&D expense as of the date of acquisition.
+
+General and Administrative
+
+General and administrative expenses consist primarily of personnel-related expenses finance and accounting, human resources and other administrative functions, including salaries, stock-based compensation and benefits for employees, legal fees, expenses relating to patent and corporate matters and professional fees paid for accounting, auditing, consulting and tax services, as well as facilities-related costs not otherwise included in R&D expenses and other costs such as insurance costs and travel expenses.
+
+General and administrative expenses increased by $9.2 million for the fiscal year ended June 30, 2024 compared to the fiscal year ended June 30, 2023. The increase was due to increases of $6.8 million (from $2.1 million to $8.9 million) in salaries, equity compensation and benefits for employees and directors, $1.3 million (from $1.8 million to $3.1 million) in compliance, legal and regulatory expenses primarily as a result our reporting obligations following our re-domiciliation, $0.2 million in occupancy expenses, and $0.5 million in other administration expenses, partially offset by a decrease in advertising and investor relations related expenses of $0.1 million.
+
+We anticipate our general and administrative expenses will increase substantially in the future as we expand our operations, including increasing our headcount to support our continued R&D activities and preparing for potential commercialization of our drug candidates. We also anticipate we will incur increased accounting, audit, legal, regulatory, compliance, director and officer insurance, and investor and public relations expenses associated with operating as a U.S. public company.
+
+Other Income (Expense)
+
+Benefit from R&D Tax Credit
+
+We receive tax incentives from the Australian government for R&D activities. Subject to certain exclusions, the Australian Government tax incentives provide benefits for eligible R&D activities. Entities are entitled to either (i) a 48.5% refundable tax offset for eligible companies with an aggregated turnover of less than A$20 million per annum or (ii) a non-refundable 38.5% tax offset for all other eligible companies. Our aggregated turnover is less than A$20 million and not be controlled by one or more income tax exempt entities, we anticipate being entitled to a claim of 48.5% refundable tax offset for costs relating to eligible R&D activities during the year.
+
+
+Benefit from R&D tax credit increased by $10.8 million (from $0.7 million to $11.4 million) for the fiscal year ended June 30, 2024 compared to the fiscal year ended June 30, 2023. The increase was due to an increase in the R&D tax credit received from the Australian Taxation Office of $2.6 million for our research and clinical trials activities in Australia following finalization of the fiscal 2023 Australian tax return.
+
+Foreign Exchange Losses and Interest Income
+
+Foreign exchange losses decreased by $39,000 for the fiscal year ended June 30, 2024 2024 compared to the fiscal year ended June 30, 2023, due to favorable currency exchange rates, and interest income received from cash deposited in our bank accounts decreased by $35,000 during the same period as a result of a decrease in the cash deposited.
+
+Currency Translation Adjustment Losses
+
+Currency translation adjustment, net of tax decreased by $2.2 million for the fiscal year ended June 30, 2024 compared to the fiscal year ended June 30, 2023. The increase was due to currency translation of the financial statements from the Australian dollar to the US dollar. We maintain our consolidated financial statements in Australian dollar, which is our functional currency. However, our financial statements are translated into US dollars for reporting purposes. See Note 2 to our financial statements included in this Annual Report for further information, under the heading “Foreign Currency Translation.”
+
+Liquidity and Capital Resources
+
+We have incurred net losses since inception and expect to incur substantial and increasing losses in the future as we expand our R&D activities in an effort to move our drug candidates into later stages of development. Historically, we have funded our operations primarily through the sale of equity securities, proceeds from the exercise of options, tax grants from R&D activities and interest income.
+
+We incurred total comprehensive losses of $18.5 million and $48.8 million for the fiscal years ended June 30, 2024 and 2023, respectively. We incurred net losses of $18.5 million and $48.8 million for the fiscal years ended June 30, 2024 and 2023, respectively. The decrease in net loss is primarily attributable to a $35.3 million decrease in acquisition of IPR&D expense related to the acquisition of APIRx during the fiscal year ended June 30, 2023. As of June 30, 2024, we had accumulated comprehensive losses of $110.7 million. 
+
+As of June 30, 2024, we had cash and cash equivalents of $5.9 million. We expect our negative cash flows from operating activities to continue and thus have determined that the losses and negative cash flows from operations and uncertainty in generating sufficient cash to meet our obligations and sustain our operations raise substantial doubt about our ability to continue as a going concern for at least one year from the issuance date of the financial statements in this Annual Report.
+
+For the fiscal year ended June 30, 2024, we experienced net cash outflows from operating activities of $15.8 million, an increase of $5.1 million compared to the fiscal year ended June 30, 2023. As of June 30, 2024, we had cash and cash equivalents of $5.6 million, a decrease of $16.5 million compared to our cash and cash equivalents as of June 30, 2023 of $22.1 million. As of June 30, 2024, our current assets exceed our current liabilities by $10.6 million, a $9.8 million decrease compared to the difference between our current assets and current liabilities as of June 30, 2023 of $20.4 million.
+
+Going Concern
+
+We believe there is substantial doubt about our ability to obtain additional capital when and as needed to continue as a going concern as of the date of this Annual Report. We have not yet established an ongoing source of revenue sufficient to cover our operating and capital expenditure requirements and to cover any potential payments that may become due and payable pursuant to any debentures to provide sufficient certainty that we will continue as a going concern. Historically, we have financed our operations to date primarily through partnerships, funds received from public offerings of common stock, a debt financing facility, as well as funding from governmental bodies. We plan to address this condition through the sale of common stock in public offerings and/or private placements, debt financings, or through other capital sources, including collaborations with other companies or other strategic transactions, but there is no assurance these plans will be completed successfully or at all. Pursuant to the requirements of ASC 205-40, Presentation of Financial Statements - Going Concern, and as a result of our financial condition and other factors described herein, there is substantial doubt about our ability to continue as a going concern for a period of at least twelve months from the date of the financial statements. 
+
+
+Based on our unrestricted cash and cash equivalents as of June 30, 2024, we anticipate that we will be able to fund our planned operating expenses and capital expenditure requirements into December 2024. We believe that our current cash and cash equivalents and anticipated cash flows from the financing activities contemplated by the September 2024 Purchase Agreement and the ELOC Agreement would be sufficient to meet our anticipated working capital requirements and capital expenditures in the ordinary course of business until August 2025. However, there can be no assurance that we will continue to comply with the terms of these agreements or that these issuances will occur. We have based these estimates on assumptions that may prove to be wrong, and we could use our capital resources sooner than we currently expect. 
+
+Our independent auditor also included in its audit report, which is part of this Annual Report, a going concern opinion raising substantial doubt about our ability to continue as a going concern. This substantial doubt as to our ability to continue as a going concern may adversely impact our ability to obtain any additional financing we may need to continue our business operations, and may materially and adversely affect our ability to enter into contractual relations with third parties. Uncertainty about our ability to continue as a going concern could materially and adversely affect our liquidity, financial condition and business prospects.
+
+Off-Balance Sheet Arrangements 
+
+We did not have, during the periods presented, and we do not currently have, any off-balance sheet arrangements, as defined in the rules and regulations of the SEC.
+
+Cash Flows
+
+Comparison of cash flows for the fiscal year ended June 30, 2024, with June 30, 2023
+
+The following table summarizes our cash flows for the periods presented:
+
+Net cash flows from operating activities
+
+Net cash used in operating activities increased by $5.1 million in the fiscal year ended June 30, 2024 compared to the fiscal year ended June 30, 2023. The increase was due to an increase in cash used to conduct our R&D activities of $6.6 million (from $6.3 million to $12.9 million), partially offset by an increase in R&D tax incentive received (from $0.7 million to $2.6 million).
+
+Net cash flows from investing activities
+
+Net cash used in investing activities decreased by $39,000 in the fiscal year ended June 30, 2024 compared to fiscal 2023. The decrease was due to less spending on property, plant and equipment.
+
+Cash flows from financing activities
+
+Cash provided by financing activities decreased by $8.2 million in the fiscal year ended June 30, 2024 compared to the fiscal year ended June 30, 2023. The decrease was due to no issuances of shares of common stock during the fiscal year ended June 30, 2024.
+
+Critical Accounting Estimates
+
+Our financial statements are prepared in accordance with generally accepted accounting principles in the United States. The preparation of our financial statements and related disclosures requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, costs and expenses, and the disclosure of contingent assets and liabilities in our financial statements. We base our estimates on historical experience, known trends and events, and various other factors we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. We evaluate our estimates and assumptions on an ongoing basis. Our actual results may differ from these estimates under different assumptions or conditions.
+
+
+While our significant accounting policies are described in more detail in Note 2 to our financial statements included elsewhere in this prospectus, we believe the following accounting policies are those most critical to the judgments and estimates used in the preparation of our financial statements.
+
+Acquisitions
+
+The Company evaluate acquisitions under the accounting framework in ASC 805, Business Combinations, to determine whether the transaction is a business combination or an asset acquisition. In determining whether an acquisition should be accounted for as a business combination or an asset acquisition, the Company first perform a screen test to determine whether substantially all of the fair value of the gross assets acquired is concentrated in a single identifiable asset or a group of similar identifiable assets. If this is the case, the acquired set is not deemed to be a business and is instead accounted for as an asset acquisition. If this is not the case, the Company further evaluate whether the acquired set includes, at a minimum, an input and a substantive process that together significantly contribute to the ability to create outputs. If so, the Company conclude that the acquired set is a business.
+
+The Company measures and recognizes asset acquisitions that are not deemed to be business combinations based on the cost to acquire the assets, which includes pre-acquisition direct costs recorded in accrued professional and consulting fees. Goodwill is not recognized in asset acquisitions.
+
+During the fiscal 2023 the Company acquired APIRx. The Company concluded that the acquisition of APIRx did not meet the definition of business under ASC 805, Business Combinations as the acquired set did not have outputs present and a substantive process was not acquired. Therefore, the Company accounted for the transaction as an asset acquisition rather than a business combination.
+
+In accordance with ASC 730-10-25-2(c), intangible assets used in research and developmental activities acquired in an asset acquisition should be expensed at the acquisition date if there is no alternative future use in other R&D projects or otherwise (i.e., if they have no economic value). Additionally, in an asset acquisition, direct transaction costs are accumulated as a component of the consideration transferred and expensed with the acquired IPR&D that has no alternative use.
+
+The Company determined that drug candidates pertaining to APIRx had no alternative future use at the time of acquisition and charged $35.3 million including transaction costs of $2.43 million, to the acquisition of IPR&D expense as of the date of acquisition.
+
+Stock-based Compensation
+
+The Company accounts for stock-based compensation arrangements with employees and non-employees using a fair value method which requires the recognition of compensation expense for costs related to all stock-based payments including share options. The fair value method requires the Company to estimate the fair value of stock-based payment awards on the date of grant using an option-pricing model. The Company uses either the trinomial pricing or Black-Scholes option-pricing model to estimate the fair value of options granted. Stock-based compensation awards are expensed using the graded vesting method over the requisite service period, which is generally the vesting period, for each separately vesting tranche. The Company has elected a policy of estimating forfeitures at grant date. Option valuation models, including the trinomial pricing and Black-Scholes option-pricing model, require the input of several assumptions. These inputs are subjective and generally require significant analysis and judgment to develop.
+
+R&D Costs
+
+R&D costs are expensed as incurred. R&D consist of salaries, benefits and other personnel related costs including equity-based compensation expense, laboratory supplies, preclinical studies, clinical trials and related clinical manufacturing costs, costs related to manufacturing preparations, fees paid to other entities to conduct certain R&D activities on our behalf and allocated facility and other related costs.
+
+Nonrefundable advance payments for goods or services that will be used or rendered for future R&D activities are deferred and capitalized as prepaid expenses until the related goods are delivered or services are performed.
+
+We record accrued liabilities for estimated costs of R&D activities conducted by third-party service providers, which include the conduct of preclinical studies and clinical trials, and contract manufacturing activities. We record the estimated costs of R&D activities based upon the estimated amount of services provided but not yet invoiced and includes these costs in trade and other payables on the consolidated balance sheets and within R&D expenses on the consolidated statements of operations and comprehensive loss.
+
+
+We accrue for these costs based on factors such as estimates of the work completed and in accordance with agreements established with its third-party service providers. We make significant judgments and estimates in determining the accrued liabilities balance at the end of each reporting period. As actual costs become known, we adjust our accrued liabilities. We have not experienced any material differences between accrued costs and actual costs incurred.
+
+Benefit from R&D Tax Incentive
+
+Benefit from R&D tax credit consists of the R&D tax credit received in Australia, which is recorded within other income (expense), net. The Company recognizes grants once both of the following conditions are met: (i) the Company is able to comply with the relevant conditions of the grant and (ii) the grant is received.
+
+Emerging Growth Company Status and Smaller Reporting Company Status
+
+We are an emerging growth company, as defined in the Jumpstart Our Business Startups Act (“JOBS Act”). The JOBS Act permits an emerging growth company such as us to take advantage of an extended transition period to comply with new or revised accounting standards. We have elected to avail ourselves of such extended transition period, which means that when a standard is issued or revised and it has different application dates for public or private companies, we can adopt the new or revised standard at the time private companies adopt the new or revised standard and may do so until such time that we either (i) irrevocably elect to opt out of such extended transition period or (ii) no longer qualify as an emerging growth company. We may choose to early adopt any new or revised accounting standards whenever such early adoption is permitted for private companies.
+
+We will continue to remain an emerging growth company until the earliest of the following:
+
+| ●| the last day of the fiscal year following the fifth anniversary of the date of the completion of the first sale of common equity securities pursuant to an effective registration statement under the Securities Act of 1933; 
+---|---|--- 
+| | 
+
+| ●| the last day of the fiscal year in which our total annual gross revenue is equal to or more than $1.235 billion; 
+---|---|--- 
+| | 
+
+| ●| the date on which we have issued more than $1.0 billion in nonconvertible debt during the previous three years; or 
+---|---|--- 
+| | 
+
+| ●| the date on which we are deemed to be a large accelerated filer under the rules of the SEC. 
+---|---|--- 
+
+We are also a smaller reporting company as defined in the Exchange Act. We may continue to be a smaller reporting company even after we are no longer an emerging growth company. We may take advantage of certain of the scaled disclosures available to smaller reporting companies and will be able to take advantage of these scaled disclosures for so long as our voting and non-voting common stock held by non-affiliates is less than $250.0 million measured on the last business day of our second fiscal quarter, or our annual revenue is less than $100.0 million during the most recently completed fiscal year and our voting and non-voting common stock held by non-affiliates is less than $700.0 million measured on the last business day of our second fiscal quarter.
+
+Item 7A. Quantitative and Qualitative

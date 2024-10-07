@@ -1,0 +1,137 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+This discussion reviews and analyzes the consolidated results of operations of U.S. Global Investors, Inc. and its subsidiaries (collectively, “U.S. Global” or the “Company”) for the past two fiscal years and other factors that may affect future financial performance. This discussion should be read in conjunction with the Consolidated Financial Statements and Notes to the Consolidated Financial Statements of this Annual Report on Form 10-K.
+
+Recent Trends in Financial Markets
+
+The Company’s operating revenues are highly correlated to the level of assets under management (“AUM”) and fees associated with various investment products. While AUM is directly impacted by changes in the financial markets, it is also impacted by cash inflows or outflows due to shareholder activity. Performance fee adjustments on certain equity fund products may also impact revenues. Various products may have different fees, so changes in our product mix may also affect revenues. For example, international equity products will generally have a higher fee than fixed income products, so changes in assets in those products will have a larger impact on revenues.
+
+While products are offered for a wide variety of markets, the Company has traditionally focused on gold mining and exploration, natural resources, and emerging markets. More recently the airline industry has become more significant to our revenue. All these markets are volatile and subject to capital cycles.
+
+Reflecting on the significant developments and challenges we have faced over the past year, the impacts, and fears of COVID-19 seem to have diminished, as most countries emerged from the COVID lockdown. The airline industry saw a significant rebound in demand over the past year ending June 30, 2024. However, the recovery has been uneven across different regions and travel segments. While the industry faces challenges like rising costs and operational disruptions, the overall outlook remains positive, with demand continuing to approach or exceed pre-pandemic levels.
+
+It is worth noting that this year has not been without challenges. We find ourselves still grappling with some of the highest inflation rates in four decades. This inflationary pressure is partly attributable to the Russian-Ukrainian war and increased consumer spending of disposable income. As always, we continue to closely monitor economic trends to navigate their potential impact on the Company's performance.
+
+In the broader market, we observed interesting sectoral dynamics. The S&P 500 realized strength in all eleven sectors, with Communication Services leading the charge with an impressive 43.6 percent increase. The laggard was the Real Estate sector experiencing a 1.9 percent total return. This illustrates the importance of diversification and thoughtful portfolio management in uncertain market conditions.
+
+The performance of the S&P 500 was commendable, registering a growth of 22.7 percent for the trailing twelve months ended June 30, 2024. As we move forward, we will continue to focus on driving sustainable growth, prioritizing innovation, and maintaining a vigilant approach to risk management.
+
+Mutual funds in general continued to see outflows compared to other investment alternatives, including exchange-traded funds (ETFs). The Company has three ETF products listed on the New York Stock Exchange: the U.S. Global Jets ETF (ticker JETS), which concentrates on the U.S. and international airline industry, the U.S. Global GO GOLD and Precious Metal Miners ETF (ticker GOAU), which invests in companies engaged in the production of precious metals either through active (mining or production) or passive (owning royalties or production streams) means, and U.S. Global Sea to Sky Cargo ETF (ticker SEA), which concentrates on the global sea shipping and air freight industries. The Company has one European-based ETF product listed on certain exchanges in Europe, The Travel UCITS ETF (ticker TRIP), which concentrates on the travel industry.
+
+Assets in the Jets ETF were $1.2 billion and $1.9 billion at June 30, 2024, and 2023, respectively. The Jets ETF invests in airline-related stocks, including global airline carriers, airport operators and aircraft manufacturers.
+
+The spread of the global COVID-19 outbreak and actions taken in response affected the global and domestic economies and financial markets. Market declines affect the Company’s assets under management, and thus its revenues and also the valuation of the Company’s corporate investments. Should this macro-economic risk reemerge and continue for an extended period, there could be an adverse material financial impact to the Company’s business and investments, including a material reduction in its results of operations.
+
+To manage expenses, the Company maintains a flexible structure for one of its largest costs, compensation expenses, by setting relatively low base salaries with bonuses that are tied to fund and Company performance. Thus, the Company’s expense model somewhat expands and contracts with asset swings and performance.
+
+Business Segments
+
+The Company, with principal operations located in San Antonio, Texas, manages two business segments:
+
+On June 30, 2024, total AUM as of period end was $1.6 billion compared to $2.4 billion on June 30, 2023, a decrease of $807.7 million, or 34.1 percent. During fiscal year 2024, average AUM was $1.9 billion compared to $2.5 billion in fiscal year 2023, a decrease of 26.9 percent. The decrease was primarily due to outflows from the Jets ETF. The Jets ETF invests in airline-related stocks, including global airline carriers, airport operators and aircraft manufacturers.
+
+The following is a brief discussion of the Company’s two business segments.
+
+Investment Management Services
+
+The Company generates operating revenues from managing and servicing the Funds. The Company recorded advisory and administrative services fees from USGIF totaling approximately $1.6 million and $1.9 million in fiscal 2024 and fiscal 2023, respectively. These revenues are largely dependent on the total value and composition of assets under its management. Fluctuations in the markets and investor sentiment have a direct impact on the Funds’ asset levels, thereby affecting income and results of operations. Detailed information regarding the Funds within USGIF can be found on the Company’s website, www.usfunds.com, including the prospectus and performance information for each fund. The mutual fund shareholders in USGIF are not required to give advance notice prior to redemption of shares in the Funds, and the USGIF funds do not currently charge a redemption fee.
+
+Investment base advisory fees from USGIF are calculated as a percentage of average net assets, ranging from 0.375 percent to 1.00 percent, and are paid monthly. The base advisory fee on the equity funds within USGIF is adjusted upward or downward based on performance. This performance adjustment began to be phased out during the fourth quarter of fiscal 2024 and will cease during the fourth quarter of fiscal 2025. During the phase-out period, the adjustment for the performance fee can only be adjusted downward. For the years ended June 30, 2024, and 2023, the Company adjusted its base advisory fees downward by $429,000 and $490,000, respectively. USGIF advisory fees in total, including performance adjustments, decreased by approximately $313,000, or 17.7 percent, in fiscal year 2024 compared to fiscal year 2023. This was primarily a result of a decrease in average net assets under management driven by net shareholder redemptions, somewhat offset by a decrease in performance fees paid. 
+
+Mutual fund investment advisory fees are also affected by changes in assets under management, which include:
+
+The following tables summarize the changes in assets under management for USGIF for fiscal years 2024 and 2023.
+
+The average annualized investment management fee rate (total advisory fees, excluding performance fees, as a percentage of average assets under management) was 65 basis points in fiscal year 2024 and 2023. The average investment management fee for equity funds in fiscal year 2024 and 2023 was 81 basis points and 80 basis points, respectively. The average investment management fee for the fixed income funds was nil for both fiscal years 2024 and 2023 due to fee waivers on these funds as discussed in Note 5, Investment Management and Other Fees, to the Consolidated Financial Statements of this Annual Report on Form 10-K.
+
+The Company serves as investment advisor to three U.S.-based ETF clients: U.S. Global Jets ETF (ticker JETS), U.S. Global GO GOLD and Precious Metal Miners ETF (ticker GOAU), and U.S. Global Sea to Sky Cargo ETF (ticker SEA). The Company receives a unitary management fee of 0.60 percent of average net assets and has agreed to bear all expenses of the U.S.-based ETFs, except the U.S. Global Sea to Sky Cargo ETF. The Company has agreed to contractually limit the expenses of the U.S. Global Sea to Sky Cargo ETF through April 2025. The Company also serves as investment advisor to one European-based ETF, The Travel UCITS ETF (ticker TRIP). The Company receives a unitary management fee of 0.69 percent of average net assets and has agreed to bear all expenses of the ETF. The Company recorded advisory fees from the ETF clients totaling $9.4 million and $13.2 million in fiscal years 2024 and 2023, respectively. Average assets in the ETFs decreased in fiscal year 2024, primarily in the Jets ETF. Information on the U.S.-based ETFs can be found at www.usglobaletfs.com, including the prospectus, performance and holdings. The ETFs’ authorized participants are not required to give advance notice prior to redemption of shares in the ETFs, and the ETFs do not charge a redemption fee. The Travel UCITS ETF is not available to U.S. investors.
+
+Corporate Investments
+
+Management believes it can more effectively manage the Company’s cash position by maintaining certain types of investments utilized in cash management and continues to believe that such activities are in the best interest of the Company.
+
+The following summarizes the cost, unrealized gain or loss, and fair value of investments carried at fair value as of June 30, 2024, and 2023.
+
+The investments shown above include investments at fair value of $10.5 million and $12.4 million, as of June 30, 2024, and 2023, respectively, invested in USGIF, funds the Company advised.
+
+Net investment income (loss) from the Company’s investments includes:
+
+Investment income can be volatile and may vary depending on market fluctuations, the Company’s ability to participate in investment opportunities, and timing of transactions. A significant portion of the unrealized gains and losses is concentrated in a small number of issuers. For fiscal year 2024, the Company had net investment income of $2.1 million, compared to $316,000 for fiscal year 2023. Due to market volatility, the Company expects that gains or losses will continue to fluctuate in the future.
+
+A significant portion of the securities recorded at fair value in the above table is in investments in HIVE Digital Technologies Ltd. (“HIVE”), which were convertible debentures valued at $4.4 million at June 30, 2024, and warrants and convertible debentures valued at $7.3 million at June 30, 2023. The investments in HIVE are discussed in more detail in Note 4, Investments, to the Consolidated Financial Statements of this Annual Report on Form 10-K. HIVE is a company that is headquartered in Canada with cryptocurrency mining facilities in Iceland, Sweden, and Canada. Frank Holmes, CEO, is the executive chairman of HIVE.
+
+Cryptocurrency markets and related stocks have been, and are expected to continue to be, volatile, and may be influenced by a wide variety of factors, including speculative activity. Cryptocurrency mining companies face a variety of risks, including, but not limited to, environmental concerns, regulatory factors, and heightened risks of cybersecurity attacks for which there may be no source of recovery. There has been significant volatility in the market price of HIVE, which has materially impacted the investment’s value included on the Consolidated Balance Sheets, unrealized gain (loss) recognized in net investment income (loss), and unrealized gain (loss) recognized in other comprehensive income (loss).
+
+In addition to the investments above, as of June 30, 2024, and 2023, the Company owned other investments of approximately $1.7 million and $2.4 million, respectively, classified as securities without readily determinable fair values.
+
+Consolidated Results of Operations
+
+The following is a discussion of the consolidated results of operations of the Company and a detailed discussion of the Company’s revenues and expenses.
+
+Year Ended June 30, 2024, Compared with Year Ended June 30, 2023
+
+The Company posted net income, as shown in the Consolidated Statements of Operations, of $1.3 million ($ 0.09 per share) for the year ended June 30, 2024, compared with net income of $3.1 million ($ 0.22 per share) for the year ended June 30, 2023, a decrease of approximately $1.8 million. The change is primarily due to lower operating revenues, partially offset by higher net investment income and lower tax expenses, as discussed further below.
+
+Operating Revenues 
+
+Total consolidated operating revenues for the year ended June 30, 2024, decreased $4.1 million, or 27.1 percent, compared with the year ended June 30, 2023. This decrease was primarily attributable to the following:
+
+Advisory Fees. Advisory fees, the largest component of the Company’s operating revenues, are derived from two sources: ETF advisory fees and USGIF advisory fees. In fiscal year 2024, these sources accounted for 85.7 percent and 13.2 percent, respectively, of the Company’s operating revenues.
+
+The Company serves as investment advisor to three U.S.-based ETF clients: U.S. Global Jets ETF (ticker JETS), U.S. Global GO GOLD and Precious Metal Miners ETF (ticker GOAU), and U.S. Global Sea to Sky Cargo ETF (ticker SEA). The Company receives a unitary management fee of 0.60 percent of average net assets and has agreed to bear all expenses of the U.S.-based ETFs, except the U.S. Global Sea to Sky Cargo ETF. The Company has agreed to contractually limit the expenses of the U.S. Global Sea to Sky Cargo ETF through April 2025. The Company also serves as investment advisor to one European-based ETF, The Travel UCITS ETF (ticker TRIP). The Company receives a unitary management fee of 0.69 percent of average net assets and has agreed to bear all expenses of the ETF. The Company recorded advisory fees from the ETF clients of $9.4 million and $13.2 million in fiscal years 2024 and 2023, respectively.
+
+Investment base advisory fees from USGIF are calculated as a percentage of average net assets, ranging from 0.375 percent to 1.00 percent, and are paid monthly. The base advisory fee on the equity funds within USGIF is adjusted upward or downward based on performance. This performance adjustment began to be phased out during the fourth quarter of fiscal 2024 and will cease during the fourth quarter of fiscal 2025. During the phase-out period, the adjustment for the performance fee can only be adjusted downward. For the years ended June 30, 2024, and 2023, the Company adjusted its base advisory fees downward by $429,000 and $490,000, respectively. USGIF advisory fees in total, including performance adjustments, decreased by approximately $313,000, or 17.7 percent, in fiscal year 2024 compared to fiscal year 2023.
+
+Operating Expenses
+
+Total operating expenses decreased $85,000, or 0.7 percent, compared with the previous fiscal year, as shown below.
+
+Other Income (Loss)
+
+Total consolidated other income for the year ended June 30, 2024, was $2.4 million, compared to $558,000 for the year ended June 30, 2023, an increase of $1.8 million, or 329.2 percent. The change was primarily due to the following components and factors:
+
+Provision for Income Taxes
+
+A tax expense of $582,000 was recorded for the year ended June 30, 2024, compared to $934,000 for the year ended June 30, 2023, a decrease of $352,000, or 37.7 percent. The decrease can be mainly attributed to this year’s operating loss, in contrast to last year’s operating income. This was partially mitigated by an increase in net investment income compared to the previous year. See Note 13 to the Consolidated Financial Statements of this Annual Report on Form 10-K for additional disclosures on income taxes.
+
+Liquidity and Capital Resources
+
+At June 30, 2024, the Company had net working capital (current assets minus current liabilities) of approximately $38.2 million and a current ratio (current assets divided by current liabilities) of 18.6 to 1. With approximately $27.4 million in cash and cash equivalents and $11.1 million in securities carried at fair value, excluding convertible securities, which together comprise approximately 74.1 percent of total assets, the Company has adequate liquidity to meet its current obligations. Total shareholders’ equity was approximately $49.0 million.
+
+The increase in cash and cash equivalents of $2.0 million, and accordingly, net working capital, was primarily due to proceeds from principal paydowns of $3.0 million, sales of corporate investments of $2.2 million, and net cash provided by operating activities of $1.0 million, offset by $2.2 million for repurchases of common stock, $1.3 million for dividends paid, and purchases of corporate investments of $807,000. Consolidated shareholders’ equity at June 30, 2024, was $49.0 million, a decrease of $3.0 million, or 5.8 percent since June 30, 2023. The decrease was primarily due to repurchases of common stock of $2.2 million, dividends declared of $1.3 million, other comprehensive loss of $764,000, and the impact of ASU 2016-13 adoption of $183,000; offset by net income of $1.3 million for the year ended June 30, 2024.
+
+The Company also has access to a $1.0 million credit facility, which can be utilized for working capital purposes. The credit agreement requires the Company to maintain certain covenants; the Company has been in compliance with these covenants during the current fiscal year. The credit agreement will expire on May 31, 2026, and the Company intends to renew it biennially. The credit facility is collateralized by approximately $1.0 million, included in restricted cash on the Consolidated Balance Sheets, held in deposit in a money market account at the financial institution that provided the credit facility. As of June 30, 2024, this credit facility remained unutilized by the Company.
+
+Investment advisory contracts pursuant to the Investment Company Act of 1940 and related affiliated contracts in the U.S., by law, may not exceed one year in length and, therefore, must be renewed at least annually after an initial two-year term. The investment advisory and related contracts between the Company and USGIF have been renewed through September 2024. The advisory agreement for the U.S. Global Jets ETF and the U.S. Global GO GOLD and Precious Metal Miners ETF has been renewed through July 2025.
+
+The primary cash requirements are for operating activities. The Company also uses cash to purchase investments, pay dividends and repurchase Company stock. The cash outlays for investments and dividend payments are discretionary. The stock repurchase plan is approved through December 31, 2024, but may be suspended or discontinued. Cash and securities recorded at fair value, excluding convertible securities, of approximately $38.5 million are available to fund current activities.
+
+As of June 30, 2024, the Board of Directors has authorized a monthly dividend of $0.0075 per share from July 2024 through September 2024. The total amount of cash dividends to be paid to class A and class C shareholders from July 2024 to September 2024 will be approximately $313,000, which is included as dividends payable in the Consolidated Balance Sheets at June 30, 2024. Payment of cash dividends is within the discretion of the Company’s Board of Directors and is dependent on earnings, operations, capital requirements, general financial condition of the Company, and general business conditions.
+
+Contractual obligations primarily consist of agreements for services used in daily operations and for marketing and distribution. As of June 30, 2024, the Company had contractual obligations of $665,000 for the fiscal years ending June 30, 2025, through 2026. Other contractual obligations consist of agreements to waive or reduce fees and/or pay expenses on certain funds. Future obligations under these agreements are dependent upon future levels of fund assets.
+
+Management believes current cash reserves, investments, and financing available will be sufficient to meet foreseeable cash needs for operating activities and for contractual obligations.
+
+The spread of the global COVID-19 had an adverse effect on global and domestic economies and financial markets, which may reoccur and continue for an undetermined period. Market declines affect the Company’s assets under management, and thus its revenues and also the valuation of the Company’s corporate investments. This may adversely affect the Company’s Consolidated Balance Sheets and results of operations.
+
+Critical Accounting Estimates
+
+The discussion and analysis of financial condition and results of operations are based on the Company’s Consolidated Financial Statements, which have been prepared in accordance with generally accepted accounting principles in the U.S. (“GAAP”). The preparation of these Consolidated Financial Statements requires the Company to make estimates and judgments that affect the reported amounts of assets, liabilities, and expenses. Management reviews these estimates on an ongoing basis. Estimates are based on experience and on various other assumptions that the Company believes to be reasonable under the circumstances. Actual results may differ from these estimates under different assumptions or conditions. While significant accounting policies are described in more detail in Note 3 to the Consolidated Financial Statements, the Company believes the accounting policies that require management to make assumptions and estimates involving significant judgment are those relating to valuation of investments, income taxes, and valuation of share-based compensation.
+
+Fair Value of Financial Instruments. The financial instruments of the Company are reported on the Consolidated Balance Sheets at market or fair values or at carrying amounts that approximate fair values. The Company believes that the estimates related to fair values of financial instruments are critical accounting estimates because the assumptions used could significantly impact the unrealized gains or losses recorded in the Company’s Consolidated Financial Statements.
+
+Share-Based Compensation. Share-based compensation expense is measured at the grant date based on the fair value of the award, and the cost is recognized as expense ratably over the award’s vesting period. Forfeitures are recognized as they occur.
+
+The Company believes that the estimates related to share-based compensation expense are critical accounting estimates because the assumptions used could significantly impact the timing and amount of share-based compensation expense recorded in the Company’s Consolidated Financial Statements.
+
+Income Taxes. The Company’s annual effective income tax rate is based on the mix of income and losses in its U.S. and non-U.S. entities which are part of the Company’s Consolidated Financial Statements, statutory tax rates, and tax-planning opportunities available to the Company in the various jurisdictions in which it operates. Significant judgment is required in evaluating the Company’s tax positions.
+
+Tax law requires certain items to be included in the tax return at different times from when these items are reflected in the Company’s Consolidated Statements of Operations. As a result, the effective tax rate reflected in the Consolidated Financial Statements is different from the tax rate reported on the Company’s consolidated tax return. Some of these differences are permanent, such as expenses that are not deductible in the tax return, and some differences reverse over time, such as depreciation expense. These timing differences create deferred tax assets and liabilities. Deferred tax assets and liabilities are determined based on temporary differences between the financial reporting and the tax basis of assets and liabilities and are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment dates.
+
+The Company assesses uncertain tax positions in accordance with ASC 740, Income Taxes and maintains a reserve. Judgment is used to identify, recognize, and measure the amounts to be recorded in the financial statements related to tax positions taken or expected to be taken in a tax return. A liability is recognized to represent the potential future obligation to the taxing authority for the benefit taken in the tax return. These liabilities are adjusted, including any impact of the related interest and penalties, in light of changing facts and circumstances such as the progress of a tax audit. A number of years may elapse before a particular matter for which a reserve has been established is audited and finally resolved. The number of years with open tax audits varies depending on the tax jurisdiction.
+
+The Company assesses whether a valuation allowance should be established against its deferred income tax assets based on consideration of available evidence, both positive and negative, using a more likely than not standard. This assessment considers, among other matters, the nature, frequency and severity of recent losses, forecast of future profitability, the duration of statutory carry back and carry forward periods, the Company’s experience with tax attributes expiring unused, and tax planning alternatives.
+
+Assessing the future tax consequences of events that have been recognized in the Company’s Consolidated Financial Statements or tax returns requires judgment. The Company believes that income taxes include critical accounting estimates because variations in the actual outcome of these future tax consequences could materially impact the Company’s financial position, results of operations or cash flows.
+
+Item 7A. Quantitative and Qualitative

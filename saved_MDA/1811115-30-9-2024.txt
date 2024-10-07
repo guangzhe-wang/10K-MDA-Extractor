@@ -1,0 +1,325 @@
+Item 6. [Reserved]
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following management’s discussion and analysis of financial condition and results of operations describes the principal factors affecting our results of operations, liquidity, capital resources and contractual cash obligations. This discussion should be read in conjunction with “Item 1A. Risk Factors”, the accompanying audited consolidated financial statements and related notes thereto, as well as other cautionary statements and risks described elsewhere in this Annual Report on Form 10-K. For the discussion of the financial condition and results of operations for the year ended June 30, 2023 compared to the year ended June 30, 2022, please refer to the information contained under Management’s Discussion and Analysis of Financial Condition and Results of Operations and "Risk Factors" contained in the Annual Report on Form 10-K for the year ended June 30, 2023, which was filed with the SEC, on September 30, 2023.
+
+Overview
+
+Renalytix is focused on providing doctors around the world with a safe, reliable and effective tool to identify which patients are or are not in danger of losing significant kidney function and falling into kidney failure and may require long-term dialysis or a kidney transplant. Chronic kidney disease is one of the largest urgent medical needs, globally affecting an estimated 850 million people, and is responsible for an unsustainable and growing societal cost burden.
+
+We believe an important part of the answer is preventative medicine and the ability to identify individuals with advancing chronic kidney disease early, where new drug therapies and clinical strategies have the optimal chance to stop uncontrolled disease progression.
+
+At Renalytix, we developed kidneyintelX.dkd, the first U.S. Food and Drug Administration ("FDA") authorized in vitro prognostic test that uses an artificial intelligence-enabled algorithm to aid in assessment of the risk of progressive decline in kidney function. The test is designed to predict early in the progression of kidney disease who is at risk for significant sustained decline in kidney function. Prognostic tests, such as kidneyintelX.dkd, are not intended for diagnosing any disease or for monitoring disease progression or the effect of any therapeutic product. Rather, prognostic tests are intended to be used in conjunction with other clinical and diagnostic findings and consistent with professional standards of practice, including information obtained by alternative methods, and clinical evaluation, as appropriate. When used as intended, potential interventions can be considered early, ideally before major damage is done and when treatments can be most effective. KidneyintelX.dkd is part of a family of clinical tests being developed from the KidneyIntelX technology platform developed using technology licensed from the Icahn School of Medicine at Mount Sinai in New York, the Joslin Diabetes Center in Boston and under development through U.S. and international collaborations.
+
+We are deploying KidneyIntelX to patient populations with DKD on a regional basis through partnerships with healthcare systems and insurance payors that provide coverage to those healthcare systems’ patients. In June 2024, Medicare issued a final Local Coverage Determination (“LCD”) for the Company’s kidneyintelX.dkd testing and is effective for dates of service on or after August 1, 2024. The established Medicare price for kidneyintelX.dkd is $950 per test. Distinct CPT Codes (Common Procedural Terminology Codes) have been established for kidneyintelX.dkd and is published in CMS’ 2024 Clinical Lab Fee Schedule. The LCD specifies coverage for use of kidneyintelX.dkd for patients with diagnosed Type 2 diabetes and Stage 1-3b Chronic Kidney Disease is reasonable and necessary. The LCD was issued by National Government Services (“NGS”). NGS is a subsidiary of Elevance Health, Inc. (previously Anthem, Inc.), a Medicare Administrative Contractor responsible for claims processing for testing performed in the Company’s New York City laboratory.
+
+Since our inception in March 2018, we have focused primarily on organizing and staffing our company, raising capital, developing the KidneyIntelX platform, conducting clinical validation studies for KidneyIntelX, establishing and protecting our intellectual property portfolio and commercial laboratory operations, pursuing regulatory approval and developing our reimbursement strategy. We have funded our operations primarily through equity and debt financings.
+
+Macroeconomic Considerations
+
+During fiscal year 2024, we continued to monitor the situation related to COVID-19 and may take actions that alter our business operations to the extent that may be required by federal, state or local authorities, or that we determine are in the best interests of our employees, partners and shareholders.
+
+Unfavorable conditions in the economy in the United States and abroad may negatively affect the growth of our business and our results of operations. For example, macroeconomic events, including conflicts in Ukraine-Russia and Middle East, increased inflation rates and U.S. and U.K. interest rates, have led to economic uncertainty globally. The effect of macroeconomic conditions may not be fully reflected in our results of operations until future periods. If, however, economic uncertainty increases or the global economy worsens, our business, financial condition and results of operations may be harmed. For further discussion of the potential impacts of macroeconomic events on our business, financial condition, and operating results, see the section titled “Risk Factors.”
+
+Our Key Agreements
+
+Mount Sinai Health System
+
+In May 2018, we entered into the Mount Sinai Agreement, with Mount Sinai, pursuant to which we obtained a worldwide, royalty-bearing, exclusive license under certain patents and a worldwide, royalty-bearing, non-exclusive license under certain know-how of Mount Sinai to develop and commercialize licensed products in connection with the application of artificial intelligence for the diagnosis of kidney disease. Pursuant to the terms of the Mount Sinai Agreement, we are obligated to use commercially reasonable efforts in connection with the development and commercialization of the licensed products, including in accordance with specified diligence milestones.
+
+We paid Mount Sinai $10.0 million as an up-front payment upon entering into the Mount Sinai Agreement. Under the terms of the Mount Sinai Agreement, we are obligated to pay Mount Sinai $1.5 million and $7.5 million in commercial milestone payments upon achieving worldwide net sales of KidneyIntelX of $50.0 million and $300.0 million, respectively. We are also obligated to pay Mount Sinai a 4% to 5% royalty on net sales of KidneyIntelX, subject to customary reductions. Royalties are payable on a product-by-product basis from first commercial sale of such product until the later of expiration of the last valid claim of a licensed patent covering such product or on a country-by-country basis, 12 years from first commercial sale of such product in such country. Moreover, we are obligated to pay Mount Sinai between 15% and 25% of any consideration received by us from a sublicensee. The two provisional patent applications covering the KidneyIntelX diagnostic in-licensed under the Mount Sinai Agreement were filed in February 2020 and April 2020, respectively. If issued, these patents will expire in February 2041 and April 2041, respectively. Furthermore, we agreed to carry out and fund a clinical utility study for KidneyIntelX at a total estimated cost of $10.7 million.
+
+The Mount Sinai Agreement expires on the later of the tenth anniversary of the execution of the agreement and expiration of the last remaining royalty term. We may terminate the Mount Sinai Agreement at any time upon 90 days’ prior written notice. Mount Sinai may terminate the agreement for our uncured material breach, our failure to meet certain diligence milestones, our insolvency, or in the event that we challenge the validity or enforceability of any licensed patent.
+
+Joslin Diabetes Center
+
+In July 2017, EKF entered into the Joslin Agreement with Joslin. In October 2018, we purchased all of EKF’s rights, title, interest and benefit in the Joslin Agreement in exchange for the issuance of 15.4 million of our ordinary shares.
+
+Pursuant to the Joslin Agreement and the related assignment from EKF, we obtained a worldwide, royalty-bearing, exclusive license under any patents and any related know-how of Joslin related to the patent application filed with respect to the Joslin IP to make, have made, use, offer for sale and sell licensed products covered by claims in the Joslin IP, and to perform, practice offer for sale and sell certain licensed processes related to the Joslin IP. We are obligated to use commercially reasonable efforts in connection with the development and commercialization of the licensed products and licensed processes, including in accordance with a development plan.
+
+Under the terms of the Joslin Agreement, we are obligated to pay Joslin aggregate commercial milestone payments of $0.3 million and $1.0 million in commercial milestone payments upon achieving worldwide net sales of licensed products and processes of $2.0 million and $10.0 million, respectively. We are also obligated to pay Joslin a 5% royalty on net sales of any licensed products or licensed processes, subject to customary reductions. Moreover, we are obligated to pay Joslin 25% of any consideration received by us from a sublicensee.
+
+The Joslin Agreement initially expires on July 31, 2025, and is subject to an automatic five-year extension unless either party notifies the other party of its intent not to extend the agreement at least 180 days prior to initial expiration. Either party may terminate the Joslin Agreement earlier upon an uncured material breach of the agreement by the other party, the insolvency of the other party, or in the event the other party is unable to perform its obligations under the agreement for a specified period. Additionally, Joslin may terminate the agreement in the event that we cease developing or commercializing licensed products or processes, if we fail to maintain certain required insurance policies, and if we fail to pay patent expenses related to the licensed patents.
+
+Components of Results of Operations
+
+Revenues
+
+During the fiscal years ended June 30, 2024 and 2023, we continued to deploy KidneyIntelX to patient populations with DKD, on a regional basis through partnerships with healthcare systems and insurance payors that provide coverage to those healthcare systems’ patients. If these strategic partners fail to meet their key contractual obligations or to purchase KidneyIntelX tests, it will likely have an adverse effect on us and our ability to achieve our commercial objectives, potentially including the attainment of sales volumes leading to profitability.
+
+Cost of Revenue
+
+During the fiscal years ended June 30, 2024 and 2023, cost of revenue consists of costs directly attributable to the KidneyIntelX testing and services rendered, including labor, lab consumables and sample collection costs directly related to revenue generating activities.
+
+Research and Development Expenses
+
+Research and development costs consist primarily of costs incurred in connection with the development of KidneyIntelX. We are currently continuing to conduct clinical utility and other studies for KidneyIntelX to determine clinical value and performance in different CKD populations. We expense research and development costs as incurred. Because we have limited resources and access to capital to fund our operations, we must decide which diagnostic product to pursue and the amount of resources to allocate to each. As such, we have been focused primarily on the development of KidneyIntelX and studies to further demonstrate the clinical utility of KidneyIntelX.
+
+We incur both direct and indirect expenses related to our research and development programs. Direct expenses include third-party expenses related to our programs such as expenses for data science and artificial intelligence capabilities, consulting fees, lab supplies, assay development services and clinical validation costs. Indirect expenses include salaries and other personnel-related costs, including share-based compensation for personnel in research and development functions and rent.
+
+At the end of the reporting period, we compare payments made to third-party service providers to the estimated progress toward completion of the research or development objectives. Such estimates are subject to change as additional information becomes available. Depending on the timing of payments to the service providers and the progress that we estimate to have been made as a result of the service provided, we may record net prepaid or accrued expense relating to these costs. Upfront milestone payments made to third parties who perform research and development services on our behalf are expensed as services are rendered.
+
+The successful commercialization of KidneyIntelX is uncertain. This is due to the numerous risks and uncertainties associated with product development and commercialization, including:
+
+•
+
+the uncertainty of the scope, progress, costs and results of clinical validation studies and other research and development activities; 
+
+•
+
+the cost of manufacturing clinical supply of KidneyIntelX; 
+
+•
+
+the efficacy and potential advantages of KidneyIntelX compared to alternative solutions, including any standard of care, and our ability to achieve market acceptance for KidneyIntelX; 
+
+•
+
+continuing to expand study data for KidneyIntelX, including data demonstrating the clinical utility over the short, intermediate and long-term use of KidneyIntelX in different clinical settings; 
+
+•
+
+raising necessary additional funds to continue operations; and 
+
+•
+
+the costs and timing of preparing, filing and prosecuting patent applications, maintaining, enforcing and protecting our intellectual property rights and defending against any intellectual property-related claims. 
+
+A change in the outcome of any of these variables could result in a significant change in the costs and timing associated with our related development.
+
+General and Administrative Expenses
+
+General and administrative expenses consist principally of salaries and other personnel-related costs including share-based compensation; professional fees for accounting, auditing, tax and administrative consulting services; legal fees relating to patent and corporate matters; administrative travel expenses; insurance costs; marketing expenses and other operating costs. Additionally, general and administrative expenses include the cost of maintaining our admission to AIM and Nasdaq.
+
+Impairment Loss on Property, Equipment and Other Long-lived Assets
+
+On a quarterly basis, the respective carrying value of non-financial assets are assessed for impairment indicators and, if ultimately considered impaired, are adjusted and written down to their fair value, as estimated based on consideration of external market participant assumptions.
+
+Equity Losses in Affiliate
+
+Equity losses in affiliate represents the recognition of our proportionate share of loss from operations of Kantaro Biosciences LLC.
+
+Foreign Currency Gain (Loss), net
+
+Foreign currency gain (loss), net consists of foreign currency income (losses) due to exchange rate fluctuations on transactions denominated in a currency other than our functional currency.
+
+Fair Value Adjustments to VericiDx Investment
+
+In October 2020, the Company completed a spin off of VericiDx, a developer of advanced clinical diagnostics for organ transplant, and retained 9,831,681 ordinary shares of VericiDx. The Company accounts for the investment in VericiDx equity securities at fair value, with changes in fair value recognized in the consolidated statements of operations and comprehensive loss. In March 2024, the Company sold 750,000 ordinary shares of VericiDx for net proceeds of $0.1 million and a realized loss of $0.1 million. In May 2024, the Company sold 250,000 ordinary shares of VericiDx for net proceeds of $0.02 million and a realized loss of $0.04 million. As of June 30, 2024, the Company owns 8,831,682 shares of VericiDx.
+
+Fair Value Adjustment on Convertible Notes
+
+We elected to account for the bonds at fair value with qualifying changes in fair value recognized through the consolidated statements of operations and comprehensive loss until the notes are settled.
+
+Other Income
+
+Other income relates to interest income earned on our cash deposits, grant income earned for work performed under the Horizon Europe grant and other services provided to academic institutions or pharmaceutical companies.
+
+Consolidated Results of Operations
+
+Comparison of years ended June 30, 2024 and 2023
+
+Revenue
+
+During the year ended June 30, 2024, we recognized $2.1 million of revenue related to sales of KidneyIntelX and $0.14 million of revenue related to services performed for Eli Lilly and University Medical Center Gronigen. During the year ended June 30, 2023, we recognized $3.1 million revenue related to sales of KidneyIntelX and $0.3 million of revenue of pharmaceutical services revenue related to services performed for AstraZeneca and University Medical Center Gronigen. The $1.1 million decrease in revenue was primarily driven by an decrease in KidneyIntelX billable testing volumes due to the transition to a commercial billing structure under our arrangement with Mount Sinai.
+
+Cost of Revenue
+
+During the year ended June 30, 2024, we recognized cost of revenue of $2.1 million primarily attributable to KidneyIntelX testing, including labor, lab consumables and sample collection costs related to revenue generating activities. We recognized $2.7 million of cost of revenue for the year ended June 30, 2023. The $0.5 million decrease in cost of revenue was primarily driven by a decrease in KidneyIntelX testing volumes.
+
+Research and Development Expenses
+
+Research and development expenses decreased by $5.0 million from $14.3 million for the year ended June 30, 2023 to $9.3 million for year ended June 30, 2024. The decrease was attributable to a $2.7 million decrease in compensation and related benefits, $2.5 million decrease related to external R&D projects and studies with Mount Sinai and Wake Forest, $0.2 million decrease in lab supplies purchases, offset by $0.4 million increase related to consulting and professional fees and $0.1 million increase in other miscellaneous expenses.
+
+General and Administrative Expenses
+
+General and administrative expenses decreased $8.9 million from $28.7 million for the year ended June 30, 2023 to $19.8 million for the year ended June 30, 2024. The decrease was driven by our previously announced cost cutting measures and was due to a $6.7 million decrease in compensation and related benefits, including share-based payments, due to decreased headcount, $1.3 million decrease in insurance costs, $0.6 million decrease in marketing and public relations, $0.5 million decrease in other operating expenses, and $0.4 million decrease in IT costs, offset by a $0.6 million increase in consulting and professional fees.
+
+In connection with the delisting of our ADSs from Nasdaq effective on or about October 7, 2024, and our ADSs becoming quoted on the OTC Markets’ OTCQX tier effective on or about October 8, 2024, we anticipate that we will re-qualify as a foreign private issuer (“FPI”) at our next testing date for FPI status. As a foreign private issuer, we expect annual cost savings of up to $1.5 million from a reduction in regulatory filing costs, professional fees (audit, legal, and consulting), listing fees, insurance and other administrative costs.
+
+Impairment Loss on Property, Equipment and Other Long-Lived Assets
+
+As part of our cost saving plan, we consolidated lab operations which resulted in a $0.6 million impairment of property and equipment at our Utah and Florida labs and a $0.1 million impairment of the Utah right-of-use asset for the year ended June 30, 2024. There was no impairment loss on property, equipment and other long-lived assets in the year ended June 30, 2023.
+
+Foreign Currency Gain
+
+During the year ended June 30, 2024, we recognized a foreign currency gain of $0.2 million due to exchange rate fluctuations on transactions denominated in a currency other than our functional currency. During the year ended June 30, 2023, we recognized a foreign currency gain of $0.4 million due to exchange rate fluctuations on transactions denominated in a currency other than our functional currency and remeasurement of intercompany payables/receivables.
+
+Fair Value Adjustments to VericiDx Investment
+
+We account for the investment in VericiDx equity securities at fair value, with changes in fair value recognized in the consolidated statement of operations and comprehensive loss. During the year ended June 30, 2024, we recorded a loss of $0.5 million to adjust the VericiDx investment to fair value. During the year ended June 30, 2023, we recorded a loss of $1.3 million to adjust the VericiDx investment to fair value.
+
+Fair Value Adjustment on Convertible Notes
+
+We elected to account for the bonds at fair value with qualifying changes in fair value recognized through the consolidated statements of operations and comprehensive loss until the notes are settled. This excludes fair value adjustments related to instrument-specific credit risk, which is recognized in Other Comprehensive Income (OCI). For the year ended June 30, 2024, we recorded a loss of $3.8 million to adjust the bonds to fair value. For the year ended June 30, 2023, we recorded a loss of $3.1 million to adjust the bonds to fair value. The change in fair value of the bond was driven by a decrease in term to maturity, increase in risk free rate and change in stock price.
+
+Other Income
+
+During the year ended June 30, 2024, we realized $0.2 million of income which included $0.2 million of interest income earned on our cash deposits and $0.2 million of grant income, offset by $0.1 million of realized loss on the sale of VericiDx shares. During the year ended June 30, 2023, we realized $0.7 million of income related $0.2 million of income related to the dissolution of Kantaro, $0.3 million of income for refunds from Citibank, and $0.1 million interest income earned on our cash deposits.
+
+Liquidity and Capital Resources
+
+Since our inception, we have incurred net losses. We incurred net losses of $33.5 million and $45.6 million for the years ended June 30, 2024 and 2023, respectively. As of June 30, 2024, we had an accumulated deficit of $211.8 million.
+
+On March 12, 2024, we entered into a Placing Agreement (the “Placing Agreement”) with Stifel Nicolaus Europe Limited (the “Bookrunner” or “Stifel”), pursuant to which we agreed to allot and issue new ordinary shares, nominal value £0.0025 per ordinary share (the “Placing Shares”) to certain investors (the “Placees”) in an unregistered offering (the “Private Placement”), up to an aggregate of 46,801,872 ordinary shares, in two tranches. We allotted and issued 19,986,031 Placing Shares at a placing price of £0.20 per Placing Share (the “First Tranche”), which closed on March 14, 2024. Subsequent to obtaining the required shareholder approval, we allotted and issued 26,815,841 Placing Shares at a placing price of £0.20 per Placing Share (the “Second Tranche”), which closed
+
+on April 24, 2024. We received aggregate gross proceeds of approximately $12 million from the closing of the First Tranche and Second Tranche, before deducting fees and commissions to the Bookrunner and other offering expenses payable by us.
+
+On April 5, 2024, we entered into a securities purchase agreement (the “DB Capital Purchase Agreement”) with an institutional investor pursuant to which we agreed to issue and sell in a registered direct offering (the “Registered Direct Offering”) 2,666,667 ordinary shares, nominal value £0.0025 per share. Pursuant to the DB Capital Purchase Agreement, we also granted the investor an option to purchase up to 7,811,696 additional ordinary shares at the offering price of $0.375 per share. The purchase price of each ordinary share is $0.375. On April 18, 2024, the investor partially exercised the option to purchase 1,333,334 ordinary shares. The gross proceeds to the Company from the Registered Direct Offering were approximately $1.5 million, before deducting offering expenses payable by the Company. The shares were offered by the Company pursuant to an effective shelf registration statement on Form S-3 (File No. 333-274733) that was filed with the SEC on September 28, 2023 and became effective on October 6, 2023, including the base prospectus contained therein, and a related prospectus supplement dated as of April 5, 2024 filed with the SEC.
+
+On September 30, 2024, we announced our intention to raise approximately £11 million gross proceeds through a placing, a subscription and a retail offer of new ordinary shares of the Company at an issue price of £0.09 per new ordinary share to new and existing institutional and other investors. There can be no assurance that we will complete this fundraising or on the terms and in the timing expected.
+
+October 2024 Proposed Debt Restructurings
+
+The Company announced a proposed fundraising (the “Fundraise”) on September 30, 2024. In that announcement, the Company announced a proposed revision to the terms of its £8.7 million amortizing senior convertible bond (the “Convertible Bond”) held by a fund advised by Heights Capital Ireland LLC (the "Convertible Bond Investor"), subject to the closing of the fundraising which we expect to be on or around October 9, 2024. Under the proposed terms, the Convertible Bond would be repaid and restructured as follows (depending on the specific amount of capital committed in the financing): (i) £2.9 million of the Convertible Bond would be capitalized via issue to the Convertible Bond Investor of approximately 32.2 million ordinary shares (the “Heights Conversion Shares”), at the per share price (the “Issue Price”) being offered in the Fundraise; (ii) in the event that the Company were to raise more than £12.5 million (net of costs) through the Fundraise, the next £2.5 million raised in the Fundraise (above the £12.5 million (net of costs)) would be payable to the Convertible Bond Investor (such amount, the “Tranche 2 Payment”); and (iii) the balance of the Convertible Bond will be restructured as a new unsecured convertible bond (the “New Convertible Bond”). It is currently expected that the Heights Conversion Shares to be issued to the Convertible Bond Investor will represent 9.9% of the Company’s enlarged issued share capital. The Convertible Bond Investor will be subject to a 6-month lock-in and, in the event that the Tranche 2 Payment exceeds £2 million, the Convertible Bond Investor will agree to extend its lock-in period for a further 3 month period.
+
+The New Convertible Bond will accrue interest at a rate of 5.5% per annum if paid in cash or 7.5% per annum if rolled into the principal amount, at the discretion of the Company. The New Convertible Bond will have a maturity date of July 31, 2029 and may not be converted before April 1, 2026,except in the event that the Company undertakes a further qualifying equity issuance in the future (which would exclude securities properly issued to employees and other staff of the Company for bona fide remuneration and incentivisation purposes). The New Convertible Bond can be redeemed as follows:
+
+•
+
+at any time from 1 April 2026, a holder of the New Convertible Bond can redeem any or all of the New Convertible Bond at a conversion price (subject to customary adjustment provisions) equal to 250% of the Issue Price;
+
+•
+
+in the event of a change of control of the Company or if the ordinary shares cease to be admitted to trading on AIM or the Main Market of the London Stock Exchange (or if dealing in the ordinary shares is suspended, other than in connection with a corporate reorganisation, for a period of 60 dealing days or more) or in the event that less than 20% of the Company’s issued share capital (including ADSs) comprises free float, a holder of the New Convertible Bond can require the Company to redeem all but not some of their New Convertible Bond at a conversion price equal to 120% of the principal amount of the New Convertible Bond (together with accrued but unpaid interest); and
+
+•
+
+at any time, the Company can elect to redeem all, but not some, of the principal amount of the New Convertible Bond at a price equal to the greater of (i) the principal amount and all accrued but unpaid interest and (ii) the “parity value” of the New Convertible Bond. For this purpose, the “parity value” is the product of: (a) such number of ordinary shares as would have been issued on conversion and the mean volume weighted average price of an ordinary share on the ten consecutive dealing days preceding the date on which such redemption is to occur.
+
+Additionally, an accounts payable balance with a professional adviser of approximately $850,000 (the “Advisor Accounts Payable Balance”) has been restructured such that 50% of the outstanding balance ($425,000) will convert to equity at the Issue Price. The remaining 50% will be repaid as follows: (i)
+
+•
+
+$325,000 will be converted to a long term unsecured note (the “Advisor Loan Note”), bearing interest at 5% per annum, which will be rolled into the principal amount of the Advisor Loan Note. The principal and interest of the Advisor Loan Note will be repaid on the earlier of: (i) 5 years from the issuance of the Advisor Loan Note; or (ii) such earlier time as the Company is acquired by another company. Additionally, the Company has the right to redeem the Advisor Loan Note at any time without prepayment penalties.
+
+•
+
+The remaining balance will be settled in cash from operations following the closing of the Fundraise.
+
+Additionally, other creditors with accounts payable having an aggregate value of approximately £650,000 have agreed to write-off their balances (the “Creditor Write-offs”).
+
+The Company believes that the restructuring of the Convertible Bond and the Advisor Accounts Payable Balance, the creation of the New Convertible Bond and the Advisor Loan Note and the Creditor Write-offs, along with some ancillary debt restructuring, will substantially reduce the Company’s monthly cash burn and the Company estimates that this will remove more than 80% of the total forecasted cash obligations of the Company over the next 3 years (or approximately £485,000 per month).
+
+The ordinary shares issued pursuant to the debt restructuring described in this section are expected to equate to approximately 36 million ordinary shares and are expected to be issued on or about October 30, 2024, subject to the passing of resolutions at the general meeting of the Company’s shareholders (the “General Meeting”), completion of the allotment and issue of the Non-EIS/VCT placing shares will take place after the General Meeting, and application to the London Stock Exchange for admission of such ordinary shares.
+
+We expect to incur additional losses in the near future, and we expect our expenses to increase substantially in connection with our ongoing activities, particularly as we continue to commercialize and scale KidneyIntelX, as we conduct our ongoing and planned clinical utility and other studies for KidneyIntelX for its commercial launch, develop and refine our artificial intelligence technology platform, seek regulatory clearances or approvals for KidneyIntelX or any other product we develop, establish and maintain partnerships with healthcare systems, pursue our coverage and reimbursement strategy, and continue to invest in our infrastructure to support our manufacturing and other activities. In addition, we expect to incur additional costs associated with operating as a public company in the United States. The timing and amount of our operating expenditures will depend largely on:
+
+•
+
+the cost, progress and results of our ongoing and planned validation studies and health economic studies; 
+
+•
+
+the cost of manufacturing clinical and commercial supply of KidneyIntelX; 
+
+•
+
+the cost, timing and outcome of regulatory review of KidneyIntelX, including any post-marketing studies that could be required by regulatory authorities; 
+
+•
+
+the cost, timing and outcome of identified and potential future commercialization activities, including manufacturing, marketing, sales and distribution, for KidneyIntelX; 
+
+•
+
+the costs and timing of preparing, filing and prosecuting patent applications, maintaining and enforcing our intellectual property rights and defending any intellectual property-related claims, including any claims by third parties that we are infringing upon their intellectual property rights; 
+
+•
+
+the timing and amount of future revenue received from commercial sales of KidneyIntelX; 
+
+•
+
+the sales price and availability of adequate third-party coverage and reimbursement for KidneyIntelX; 
+
+•
+
+the effect of competing technological and market developments; and 
+
+•
+
+the extent to which we acquire or invest in businesses, products and technologies, although we currently have no other commitments or agreements to complete any such transactions. 
+
+To date, we have primarily financed our operations through equity and debt financings. As of June 30, 2024, we had cash of $4.7 million. We have incurred recurring losses and negative cash flows from operations since inception and had an accumulated deficit of $211.8 million as of June 30, 2024. We anticipate incurring additional losses until such time, if ever, that we can generate significant sales of KidneyIntelX or any future products currently in development. As a result of our losses and our projected cash needs, substantial doubt exists about our ability to continue as a going concern within 12 months after the date that the financial statements are issued.
+
+Substantial additional capital will be necessary to fund our operations, expand our commercial activities and develop other potential diagnostic-related products. We plan to finance our cash needs through a combination of revenue from sales, securities offerings, debt financings, collaborations, strategic alliances and marketing, distribution or licensing arrangements with third parties. To the extent that we raise additional capital through the sale of equity or convertible debt securities, the ownership interest of our shareholders will be diluted, and the terms of these securities may include liquidation or other preferences that adversely affect the rights of our shareholders.
+
+Debt financing and preferred equity financing, if available, may involve agreements that include covenants limiting or restricting our ability to take specific actions, such as incurring additional debt, making capital expenditures or declaring dividends. If we raise funds through collaborations, strategic alliances or marketing, distribution or licensing arrangements with third parties, we may have to relinquish valuable rights to our technologies, future revenue streams, research programs or diagnostic products or grant licenses on terms that may not be favorable to us. Additional capital may not be available when needed, on reasonable terms, or at all, and our ability to raise additional capital may be adversely impacted by potential worsening global economic conditions and disruptions to and volatility in the credit and financial markets in the United States and worldwide. If we are unable to raise additional funds through equity or debt financings or other arrangements when needed, we may be required to delay, curtail or discontinue our product development or future commercialization efforts, or grant rights to develop and market products that we would otherwise prefer to develop and market ourselves.
+
+Going Concern
+
+We have limited sources of revenue to provide incoming cash flows to sustain our future operations. As outlined above, our ability to pursue our planned business activities is dependent upon our successful efforts to raise additional capital and the effectiveness of our cost-cutting and other capital preservation measures. Without additional financing, we expect our cash and cash equivalents as of June 30, 2024, combined with additional cost reduction options available, will be sufficient to fund our operating expenses and capital expenditure requirements into November 2024. We have based this estimate on assumptions that may prove to be wrong, and we could utilize our available capital resources sooner than we currently expect or may fail in our efforts to enact additional cost reduction options. Furthermore, our operating plan may change, and we may need additional funds sooner than planned in order to meet operational needs and capital requirements for product development and commercialization.
+
+On September 30, 2024, we announced a commitment from a number of existing and new investors to purchase equity securities from the Company in the aggregate gross amount of approximately £11 million. This equity financing is expected to close in two or more tranches beginning on October 9, 2024. This incremental equity capital is expected to fund the Company for at least the next 12 months. The funding has been committed but not yet received at the time of this filing.
+
+These factors raise substantial doubt regarding our ability to continue as a going concern. Our consolidated financial statements have been prepared on a going concern basis, which implies that we will continue to realize our assets and discharge our liabilities in the normal course of business. Our financial statements do not include any adjustments to the recoverability and classification of recorded asset amounts and classification of liabilities that might be necessary should we be unable to continue as a going concern.
+
+Cash Flows
+
+The following table shows a summary of our cash flows from operations for the periods indicated (in thousands):
+
+Net cash used in operating activities
+
+During the year ended June 30, 2024, net cash used in operating activities was $30.1 million and was primarily attributable to our $33.5 million net loss as well as $6.9 million of noncash charges and $3.5 million net change in our operating assets and liabilities. Noncash charges were primarily related to $3.5 million fair value adjustment related to the bonds, $1.7 million in share-based compensation expense, $0.7 million of loss on write off of assets, $0.5 million fair value adjustment on our VericiDx investment, and $0.4 million of depreciation and amortization expense. The change in our operating assets and liabilities was primarily attributable to $4.4 million decrease in accrued expenses and other current liabilities, offset by $0.9 million increase in accounts receivables, prepaids and other current assets.
+
+During the year ended June 30, 2023, net cash used in operating activities was $34.1 million and was primarily attributable to our $45.6 million net loss adjusted for $5.8 million of noncash charges and $5.7 million net change in our operating assets and liabilities. Noncash charges were primarily related to $2.9 million in share-based compensation expense, $2.0 million fair value adjustment related to the bonds, $1.3 million fair value adjustment on our VericiDx investment, $0.5 million of depreciation and amortization expense and $0.1 million of noncash lease expense, offset by $1.0 million in foreign exchange gains. The change in our operating assets and liabilities was primarily attributable to a $4.2 million increase in accrued expenses and other current liabilities and a $1.5 million increase in accounts receivables, prepaids and other current assets.
+
+Net cash used in investing activities
+
+During the year ended June 30, 2024, net cash used in investing activities was immaterial.
+
+During the year ended June 30, 2023, no cash was used in investing activities.
+
+Net cash provided by financing activities
+
+During the year ended June 30, 2024, net cash provided by financing activities was $10.3 million and was primarily attributable to $13.5 million of gross proceeds from the issuance of ordinary shares in Private Placement, $0.1 million in proceeds from the issuance of ordinary shares under our employee stock purchase program, offset by $1.7 million in cash used to pay down the principal of the Bonds and $1.7 million in cash paid for offering costs related to the issuance of ordinary shares.
+
+During the year ended June 30, 2023, net cash provided by financing activities was $16.4 million and was primarily attributable to $20.3 million of proceeds from the issuance of ordinary shares, offset by $1.0 million in offering costs. Additionally, we received $0.3 million in proceeds from the issuance of ordinary shares under our employee share purchase program. Net cash provided by financing activities was offset by $3.2 million for the repayment of convertible notes during the year.
+
+Based upon the debt restructurings, Nasdaq delisting, OTCQX quotation and re-achieving foreign private issuer status discussed above, we are projecting that our over-all cash burn rate can be reduced to $0.75 million or less per month by the end of our fiscal year ending June 30, 2025.
+
+Recent Accounting Pronouncements
+
+See Note 3 to our consolidated financial statements found elsewhere in this report for a description of recent accounting pronouncements applicable to our financial statements.
+
+JOBS Act Transition Period
+
+In April 2012, the JOBS Act was enacted. Section 107 of the JOBS Act provides that an “emerging growth company” can take advantage of the extended transition period provided in Section 7(a)(B) of the Securities Act of 1933, as amended, for complying with new or revised accounting standards. An emerging growth company can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies. We have elected to take advantage of the extended transition period for complying with new or revised accounting standards and, as a result, our financial statements may not be comparable to companies that comply with new or revised accounting pronouncements as of public company effective dates.
+
+We have evaluated the benefits of relying on other exemptions and reduced reporting requirements under the JOBS Act. Subject to certain conditions, as an emerging growth company, we have chosen to rely on certain of these exemptions, including without limitation exemptions to the requirements for providing an auditor’s attestation report on our system of internal controls over financial reporting pursuant to Section 404(b) of the Sarbanes-Oxley Act and complying with any requirement that may be adopted by the Public Company Accounting Oversight Board regarding mandatory audit firm rotation or a supplement to the auditor’s report providing additional information about the audit and the financial statements, known as the auditor discussion and analysis. We will remain an emerging growth company until the earlier to occur of (a) the last day of the fiscal year following the fifth anniversary of the completion of our U.S. IPO, in which we have total annual gross revenues of at least $1.235 billion or in which we are deemed to be a “large accelerated filer” under the rules of the SEC, which means the market value of our ordinary shares and ADSs that are held by non-affiliates exceeds $700.0 million as of the prior December 31, or (b) the date on which we have issued more than $1.0 billion in non-convertible debt during the prior three-year period.
+
+Critical Accounting Estimates
+
+Our management’s discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with U.S. generally accepted accounting principles. The preparation of these consolidated financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, and expenses and the disclosure of contingent assets and liabilities in our consolidated financial statements. On an ongoing basis, we evaluate our estimates and judgments, including those related to accrued expenses and share-based compensation. We base our estimates on historical experience, known trends and events, and various other factors that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+
+While our significant accounting policies are described in more detail in Note 3 to our consolidated financial statements included elsewhere in this report, we believe the following accounting policies are the most critical to the judgments and estimates used in the preparation of our consolidated financial statements.
+
+Research and Development Expenses
+
+Research and development expenses consist primarily of costs incurred in connection with the development of KidneyIntelX. We expense research and development costs as incurred.
+
+At the end of the reporting period, we compare payments made to third-party service providers to the estimated progress toward completion of the research or development objectives. Such estimates are subject to change as additional information becomes available. Depending on the timing of payments to the service providers and the progress that we estimate has been made as a result of the service provided, we may record a prepaid expense or accrued liability relating to these costs. Upfront milestone payments made to third parties who perform research and development services on our behalf are expensed as services are rendered. Contingent development or regulatory milestone payments are recognized upon the related resolution of such contingencies.
+
+We make estimates of our accrued expenses as of each consolidated balance sheet date in our consolidated financial statements based on facts and circumstances known at that time. If the actual timing of the performance of services or the level of effort varies from the estimate, we will adjust the accrual accordingly. Nonrefundable advance payments for goods and services, including fees for process development or manufacturing and distribution of clinical supplies that will be used in future research and development activities, are deferred and recognized as expense in the period that the related goods are consumed or services are performed.
+
+Share-based Compensation
+
+We measure equity classified share-based awards granted to employees and nonemployees based on the estimated fair value on the date of grant and recognize compensation expense of those awards over the requisite service period, which is the vesting period of the respective award. We account for forfeitures as they occur. For share-based awards with service-based vesting conditions, we recognize compensation expense on a straight-line basis over the service period. The fair value of each stock option grant is estimated on the date of grant using the Black-Scholes option-pricing model, which requires inputs based on certain subjective assumptions, including the expected stock price volatility, the expected term of the option, the risk-free interest rate for a period that approximates the expected term of the option, and our expected dividend yield. We were a privately-held organization prior to November 2018 and have been a publicly-traded company for a limited period of time and therefore lack company-specific historical and implied volatility information for our shares. Accordingly, we estimate our expected share price volatility based on the historical volatility of publicly-traded peer companies and expect to continue to do so until such time as we have adequate historical data regarding the volatility of our own traded share price. The expected term of our stock options has been determined utilizing the “simplified” method for awards that qualify as “plain-vanilla” options. The risk-free interest rate is determined by reference to the U.S. Treasury yield curve in effect at the time of grant of the award for time periods approximately equal to the expected term of the award. Expected dividend yield is none based on the fact that we have never paid cash dividends on ordinary shares and do not expect to pay any cash dividends in the foreseeable future.
+
+We classify share-based compensation expense in our consolidated statement of operations and comprehensive loss in the same manner in which the award recipient’s payroll costs are classified or in which the award recipient’s service payments are classified.
+
+Convertible Notes
+
+In April 2022, we issued amortizing senior convertible bonds with a principal amount of $21.2 million in amortizing senior convertible bonds due in April 2027 (the “Bonds”) to CVI Investments, Inc. (the “Convertible Bond Investor”). The Bonds were issued at 85% par value with total net proceeds of $18.0 million and accrue interest at an annual rate of 5.5%, payable quarterly in arrears, in cash or ADSs valued at the ADS Settlement Price at our option. The principal and interest payments are due in equal quarterly installments starting in July 2022. The Bonds contain various conversion and redemption features. The initial conversion price for the Convertible Bonds of $8.70 has been set at a 20 percent premium to the Reference ADS Price. The Conversion Price may reset down at 12, 24 and 36 months, depending on share price performance, the Bonds have a hard floor in the conversion price of $7.25. As a result of the February 2023 private placement and pursuant to conditions of the bond agreement, the conversion price was adjusted to $8.2508 (previously $8.70) and the floor price was adjusted to $6.8757 (previously $7.25). Further, pursuant to conditions of the agreement, effective April 7, 2023, the conversion price was adjusted from $8.2508 to $7.7924. Between amortization dates, Convertible Bond Investor retains the right to advance future amortization payments, provided that (a) there shall be no amortization advancements during the first 12 months, (b) no more than two amortization advancements may occur in any 12-month period, and (c) no more than one amortization advancement may occur in any 3-month period. On March 28, 2024, the Company entered into a second amendment and restatement agreement with the Convertible Bond Investor, which amended the terms of the Company’s existing bond agreement, dated March 31, 2022. The Company performed an analysis and determined that the financial impact was immaterial as the amended and restated agreement was not substantially different than the previous agreement.
+
+The Convertible Bond Investor is also permitted to defer up to two amortization payments to a subsequent amortization date. We retain the option to repay any deferred amortization in cash at 100 percent of the nominal amount. In July 2022, we made a cash amortization payment of $1.4 million, which consisted of $1.1 million of principal and $0.3 million of interest. In October 2022, the Convertible Bond Investor deferred the October amortization payment to maturity of the bond and we made an interest payment of $0.3 million. In January 2023, we made a cash amortization payment of $1.4 million, which consisted of $1.1 million of principal and $0.3 million of interest. In April 2023, we made a cash amortization payment of $1.4 million, which consisted of $1.1 million of principal and $0.3 million of interest. In July 2023, we made a cash amortization payment of $1.4 million, which consisted of $1.1 million of principal and $0.3 million of interest. Also in July 2023, the Convertible Bond Investor exercised its right to advance an amortization payment and we made an accelerated repayment of $1.1 million through the issuance of 526,211 ADSs representing 1,052,422 ordinary shares. In October 2023, we made an amortization payment of $1.3 million, which consisted of $1.1 million of principal and $0.2 million of interest, through the issuance of 2,335,388 ordinary shares in the form of 150,000 ordinary shares and 1,092,694 ADSs. In December 2023, we made an amortization payment of $1.3 million, which consisted of $1.1 million of principal and $0.2 million of interest, through the issuance of 2,500,000 ordinary shares and a cash payment of $0.6 million. On April 11, 2024, we issued 3,636,162 ordinary shares in the form of 1,818,081 ADSs to the Convertible Bond Investor (the “April Repayment”), which settled the principal and interest amounts due under the bonds on April 7, 2024. After settlement of the Repayment, the principal remaining under the Bonds was reduced by $1.06 million to $12.72 million. The Shares were issued without registration in reliance upon the exemption provided in Section 3(a) of the Securities Act.
+
+The Bond Agreement contains a negative pledge covenant that provides that for so long as the principal amount outstanding under the Bonds is equal to or exceeds U.S.$3,000,000, the Company shall not, and will procure that none of its subsidiaries, will, create or permit to subsist any Security Interest (as defined in the Bond Agreement), other than a Permitted Security Interest (as defined in the Bond Agreement), upon the whole or any part of its present or future undertaking, assets or revenues (including any uncalled capital) to secure any Financial Indebtedness (as defined in the Bond Agreement) or to secure any Financial Indebtedness Guarantee (as defined in the Bond Agreement), without at the same time or prior thereto securing the obligations of the Company under the Bonds and the Bond Agreement equally and rateably therewith or providing such other security, guarantees and/or other arrangements for the benefit of holders of the Bonds as may be approved by all of the holders of the Bonds. The Bond Agreement also contains a covenant regarding the incurrence of indebtedness which provides that for so long as the principal amount outstanding under the Bonds is equal to or exceeds U.S. $5,000,000, the Company shall not, and shall procure that its subsidiaries shall not, at any time permit to create, incur, assume or otherwise become liable in respect of any Financial Indebtedness, contingently or otherwise. The Bond also contains negative covenants regarding, among other things, the issuance or paying up any securities, modifying the rights attaching to the ordinary shares; issuing any share capital with rights which are more favorable than the rights attaching to the ordinary shares; modify securities already issued, or grant securities, below a consideration floor; grant or issue securities that could not be legally issued as fully paid; not reduce its share capital, share premium account, or any uncalled liability in respect thereof, or any non-distributable reserves; certain third party offers made to shareholders; and ADSs and the ADS facility.
+
+We elected the fair value option to account for the bonds as we believe the fair value option provides users of the consolidated financial statements with greater ability to estimate the outcome of future events as facts and circumstances change, particularly with respect to changes in the fair value of the ordinary shares underlying the conversion option. The fair value of the Notes is determined using a scenario-based analysis that estimates the fair value based on the probability-weighted present value of expected future investment returns, considering each of the possible outcomes available to the noteholders. For each reporting period, changes in the
+
+fair value of the notes are recognized through other income (expense) with the portion of the change that results from a change in the instrument-specific credit risk recorded separately in OCI for each reporting period.
+
+Item 7A. Quantitative and Qualitative

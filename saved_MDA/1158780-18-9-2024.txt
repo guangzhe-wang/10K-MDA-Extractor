@@ -1,0 +1,146 @@
+ITEM 6\. [RESERVED]
+
+ITEM 7\. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS. 
+
+We are a biotechnology company with an advanced cell-based technology platform. We have developed a unique 3D technology platform for cell expansion with an industrial scale in-house GMP cell manufacturing facility. We are utilizing our technology in the field of regenerative medicine, food tech, CDMO, and agtech and plan to utilize it in industries and verticals that have a need for our mass scale and cost-effective cell expansion platform via partnerships, joint ventures, licensing agreements and other types of collaborations.
+
+Our operations are focused on the research, development and manufacturing of cell-based products and the business development of cell therapeutics and cell-based technologies providing potential solutions for various industries. 
+
+Cell Therapy 
+
+We use our advanced cell-based technology platform in the field of regenerative medicine to develop placenta-based cell therapy product candidates for the treatment of inflammatory, muscle injuries, hematologic conditions and, most recently, we have also launched a novel immunotherapy platform.
+
+PLX cells: Our PLX cells are adherent stromal cells that are expanded using our 3D platform. Our PLX cells can be administered to patients off-the-shelf, without blood or tissue matching or additional manipulation prior to administration. PLX cells are believed to release a range of therapeutic proteins in response to the patient’s condition.
+
+In the pharmaceutical area, we have focused on several indications utilizing our product candidates, including, but not limited to, muscle recovery following surgery for hip fracture, incomplete recovery following bone marrow transplantation, CLI, Chronic GvHD and a potential treatment for H-ARS. Some of these studies have been completed while others are still ongoing. We believe that each of these indications is a severe unmet medical need.
+
+In July 2023, we announced that we signed a three-year $4.2 million contract with the NIAID, which is part of the NIH. Under such contract, we will collaborate with the AFRRI and the USUHS, to further advance the development of our PLX-R18 cell therapy as a potential novel treatment for H-ARS, a deadly disease that can result from nuclear disasters and radiation exposure.
+
+MAIT cells: In May 2024, we launched a novel immunotherapy platform utilizing MAIT cells specifically designed to address solid tumors – a critical area in medicine where effective treatments are currently insufficient. We believe that our MAIT cells, isolated from the human placenta, offer substantial potential benefits compared to conventional T cells.
+
+
+Placental MAIT cells are potent effector cells, potentially targeting tumors through multiple mechanisms while expressing high levels of various chemokine receptors, which facilitate their migration directly to tumor sites. Furthermore, unlike conventional autologous T-cells typically collected from peripheral blood, our MAIT cells are designed to be allogenic universal product. Benefiting with very restricted TCR, the MAIT cells minimizes their likelihood of inducing Graft versus Host Disease, or GvHD, a significant advantage over other potential allogeneic products. We are designing the MAIT to potentially show better persistence in the body for a longer duration, enhancing their therapeutic efficacy. 
+
+PluriCDMO™ 
+
+In January 2024, we announced that we are launching a new business division offering cell therapy manufacturing services as a CDMO: PluriCDMO™. PluriCDMO™ offers CDMO services to companies from early preclinical development, through late-stage clinical trials and commercialization, with a mission to deliver high-quality, essential therapies to patients. We have signed several agreements with clients and generating revenues from PluriCDMO™.
+
+AgTech 
+
+We are actively involved in several initiatives leveraged by Pluri’s 3D cell expansion in the agtech field, such as: (a) cell-based coffee business activity through PluriAgtech business vertical, which we announced in January 2024, (b) an innovative POC collaboration with ICL Group, a leading global specialty minerals company, to revolutionize bio stimulant delivery and enhance yield sustainably, and (c) a strategic POC agreement with a leading international agriculture corporation which is intended to boost the global vegetable product supply, streamline supply chains, and combat global climate change while ensuring a natural and more sustainable future for agriculture.
+
+Food Tech
+
+In 2022, we announced the establishment of a joint venture with Tnuva, Ever After Foods, which is incorporated under the laws of the State of Israel, with the purpose of developing cultivated meat product of all kinds and types.
+
+Leveraging Pluri’s innovative technology, Ever After Foods has rapidly advanced its scalable production platform, developing a B2B version of its proprietary technology system, Ever After Foods has demonstrated the natural production of muscle and fat tissues for various animal cells, ensuring taste, feel, and texture akin to conventional animal-derived meat.
+
+On June 12, 2024, we entered into a share purchase agreement, or the Agreement, by and among Ever After Foods, Tnuva, and certain other international investors, or, collectively, the Investors, pursuant to which Ever After Foods issued and sold ordinary shares in a private placement offering, or the Offering, for aggregate gross proceeds of $10 million. As part of the Offering, we invested $1.25 million. In addition, the Subsidiary and Ever After Foods executed an Amended and Restated Technology License Agreement, dated June 12, 2024, or the Amended License. The Amended License amended the parties’ existing license agreement dated as of February 23, 2022, to expand the scope of the license to include fish and seafood. 
+
+The $10 million funding round was intended to support Ever After Foods’ B2B technology platform, positioning it as a sustainable technology enabler. Following the closing of the Offering, the Subsidiary holds approximately 69% of Ever After Foods.
+
+
+RESULTS OF OPERATIONS – YEAR ENDED JUNE 30, 2024 COMPARED TO YEAR ENDED JUNE 30, 2023
+
+Revenues
+
+Revenues for the year ended June 30, 2024 were $326,000, compared to $287,000 for the year ended June 30, 2023. The revenues in the year ended June 30, 2024 were mainly related to fees derived from services provided to CDMO clients and to a POC collaboration with ICL Group in the agtech field. The revenues in the year ended June 30, 2023 were mainly related to our collaboration in the biologic field. The increase in revenues is mainly attributed to the launch of new business verticals, specifically in the CDMO and agtech fields.
+
+Research and Development, Net
+
+Research and development, net (costs less participation by the IIA, Horizon Europe and the NIAID) decreased by 21% from $15,745,000 for the year ended June 30, 2023, to $12,446,000 for the year ended June 30, 2024. The decrease is mainly attributed to: a decrease in clinical studies expenses following the completion of our CLI, COVID-19 and muscle regeneration following hip fracture clinical studies, a decrease in material purchases in accordance with our manufacturing needs and plans, a decrease in salaries and related expenses as part of a efficiency cost-reduction plan, specifically a reduction of 16 research and development, or R&D, employees in the Subsidiary (92 employees on June 30, 2024, compared to 108 employees on June 30, 2023) and due to the exchange rate differences related to the strength of the U.S. dollar against the NIS, and participation grants from the NIAID contract, offset by a decrease in other participation grants, specifically the completion of the CLI and muscle regeneration following hip fracture clinical studies which were supported by the EU Horizon 2020 grants.
+
+General and Administrative
+
+General and administrative expenses decreased by 15% from $11,779,000 for the year ended June 30, 2023, to $10,034,000 for the year ended June 30, 2024. The decrease is mainly attributed to: a decrease in share-based compensation expenses related to employee terminations and RSU expense amortization over time (see also notes 9c to the consolidated financial statements included elsewhere in this Annual Report) and a decrease due to the amount of RSUs and options granted to our CEO in 2023, partially offset by an increase in share-based compensation expenses related to the amount of RSUs and options granted in 2024, and a decrease in salaries and related expenses due to the exchange rate differences relates to the strength of the U.S. dollar against the NIS and as a result of our cost reduction and efficiency plan, including a temporary reduction in the salaries of our executive officers.
+
+Total Financial Income (Expense), Net
+
+Total financial income (expenses), net increased from $1,641,000 in financial expenses for the year ended 2023 to $814,000 in financial income for the year ended June 30, 2024. This increase is mainly attributable to income relating to exchange rate differences related to the EIB loan provided to us in June 2021 pursuant to the EIB Finance Agreement (as a result of the strength of the U.S. dollar against the Euro, which increased by 3% in 2024 compared to 2023 where it decreased by 5%), an increase related to interest income from bank deposits, and an increase in gain from hedging transactions compared to a loss from hedging transactions in the previous period.
+
+Net Loss for the Year
+
+Net loss decreased from $28,887,000 for the year ended June 30, 2023 to $21,344,000 for the year ended June 30, 2024. The decrease was mainly due to a decrease in R&D expenses, net, a decrease in general and administrative expenses and an increase in financial income (expense), net for the reasons mentioned above. We had a net loss attributed to our non-controlling interest in Ever After Foods for the year ended June 30, 2024 and June 30, 2023 of $456,000 and $566,000, respectively.
+
+Loss per share for the year ended June 30, 2024, was $3.99, as compared to $6.24 loss per share for the year ended June 30, 2023. The change in the loss per share was mainly as a result of a decrease in the loss for the year, and by an increase in our weighted average number of shares due to the issuance of additional shares during fiscal year 2024.
+
+
+Liquidity and Capital Resources
+
+As of June 30, 2024, our total current assets were $31,107,000 and our total current liabilities were $4,454,000. On June 30, 2024, we had a working capital surplus of $26,653,000 and an accumulated deficit of $420,472,000.
+
+As of June 30, 2023, our total current assets were $41,409,000 and our total current liabilities were $5,621,000. On June 30, 2023, we had a working capital surplus of $35,788,000 and an accumulated deficit of $399,584,000.
+
+Our cash, cash equivalents and restricted cash as of June 30, 2024, amounted to $7,037,000, which reflects an increase of $1,408,000 from the $5,629,000 reported as of June 30, 2023. Our cash equivalents and restricted cash increased in the year ended June 30, 2024, for the reasons presented below. Our bank deposits and restricted bank deposits as of June 30, 2024, amounted to $23,836,000 compared to $35,438,000 as of June 30, 2023. Our bank deposits and restricted bank deposits as of June 30, 2024, decreased in the year ended June 30, 2024, for the reasons presented below.
+
+Our cash used in operating activities was $18,021,000 during the year ended June 30, 2024, and $22,857,000 during the year ended June 30, 2023. The decrease in cash used in operating activities is mainly attributed to a decrease in net loss following the completion of certain clinical trials and the implementation of a cost reduction and efficiency plan including a temporary reduction in the salaries of our executive officers, directors, management team and other employees. Cash used in operating activities in year ended June 30, 2024 and June 30, 2023 consisted primarily of payments of fees to our suppliers, subcontractors, professional services providers and consultants, and payments of salaries to our employees, partially offset by grants from the IIA, the Horizon Europe program, and funds received from the NIAID contract.
+
+Cash provided by investing activities was $10,584,000 during the year ended June 30, 2024, and cash provided by investing activities of $9,698,000 during the year ended June 30, 2023. Cash provided by investing activities in the year ended June 30, 2024 consisted primarily of the withdrawal of $10,907,000 of short-term deposits, partially offset by payments of $323,000 related to investments in property and equipment. Cash provided by investing activities in the year ended June 30, 2023 consisted primarily of the withdrawal of $9,960,000 of short-term deposits, partially offset by payments of $262,000 related to investments in property and equipment.
+
+Financing activities provided cash in the amount of $8,841,000 during the year ended June 30, 2024, and $8,024,000 during the year ended June 30, 2023. The financing activities during the year ended June 30, 2024 related primarily to the investment in Ever After Foods by external investors. The financing activities during the year ended June 30, 2023 related to issuances of common shares and warrants, net of issuance costs, in the December 2022 Private Placement (as defined below).
+
+Between December 13, 2022 and December 27, 2022, the Company entered into a series of securities purchase agreements with several purchasers for an aggregate of 1,019,488 common shares and warrants, or the Warrants, to purchase up to 1,019,488 common shares, or the December 2022 Private Placement. On December 13, 2022, the Company executed securities purchase agreements to sell at a purchase price of $8.24 per share, up to 697,486 common shares and warrants to purchase up to 697,486 common shares, with an exercise price of $8.24 per share and a term of three years. On December 14, 2022, the Company executed securities purchase agreements to sell at a purchase price of $8.4 per share, up to 258,565 common shares and warrants to purchase up to 258,565 common shares, with an exercise price of $8.4 per share and a term of three years. On December 15, 2022, the Company executed securities purchase agreements to sell at a purchase price of $8.48 per share, up to 29,688 common shares and warrants to purchase up to 29,688 common shares, with an exercise price of $8.48 per share and a term of three years. On December 19, 2022, the Company executed a securities purchase agreement to sell at a purchase price of $8.72 per share, up to 16,875 common shares and warrants to purchase up to 16,875 common shares, with an exercise price of $8.72 per share and a term of three years. On December 27, 2022, the Company executed a securities purchase agreement to sell at a purchase price of $8.96 per share, up to 16,875 common shares and warrants to purchase up to 16,875 common shares, with an exercise price of $8.96 per share and a term of three years. The Warrants sold in the December 2022 Private Placement are exercisable upon the later of six months from their issuance date, or from the date the Company increased its authorized shares. The Company issued 1,019,488 common shares and Warrants that relate to the December 2022 Private Placement and received $8 million as of that date net of $445,000 from issuance expenses.
+
+
+The Warrants sold in the December 2022 Private Placement were exercisable upon the later of six months from their issuance date, or from the date we increased our authorized shares. On April 27, 2023, our shareholders approved an amendment to our articles of incorporation to increase the number of authorized common shares from 7,500,000 shares to 37,500,000 shares and such increase was effectuated on May 1, 2023 when the Company filed its amendment to its articles of incorporation reflecting such increase. As such, the Warrants became exercisable on May 1, 2023.
+
+On December 14, 2022, Yaky Yanay, our CEO, agreed to forgo, starting January 1, 2023, $375,000 of his annual cash salary for the next twelve months in return for equity grants, issuable under our existing equity compensation plans. In that regard, we granted Mr. Yanay (i) 41,853 RSUs, vesting ratably each month, and (ii) options to purchase 41,853 common shares, vesting ratably each month, with a term of 3 years, at an exercise price of $8.96 per share. In addition, the Boards also agreed to grant Mr. Yanay options to purchase 187,500 common shares, with a term of 3 years, with the following terms: (i) options to purchase 62,500 common shares at an exercise price of $12.48 per share, 50% vested on June 30, 2023 and 50% vested on December 31, 2023, (ii) options to purchase 62,500 common shares at an exercise price of $16.64 per share, 50% vested on June 30, 2023 and 50% vested on December 31, 2023, and (iii) options to purchase 62,500 common shares at an exercise price of $20.8 per share, 50% vested on June 30, 2023 and 50% vested on December 31, 2023. All options that were granted in January 2023 will expire on April 27, 2026.
+
+In December 2023, in light of the ongoing conflict in Israel and challenges in predicting its resolution and the subsequent impact on the Company’s operations, and in order to ensure the Company’s financial stability, the Board approved, at the recommendation of the Company’s management, (i) a 20% monthly cash salary reduction in the amount of 39,600 NIS to Mr. Yanay, our CEO, for the months of January 2024 and February 2024, (ii) a 20% cash salary reduction in the amount of 39,000 NIS to Mrs. Franco – Yehuda, our Chief Financial Officer, or CFO, for the months of December 2023, January 2024 and February 2024, and (iii) a 20% monthly fee reduction to the fees that are paid to each of the Company’s directors for the months of December 2023 through February 2024.
+
+On July 16, 2020, we entered into an at-the market agreement, or the ATM Agreement, with Jefferies LLC, or Jefferies, pursuant to which we may issue and sell shares of our common shares having an aggregate offering price of up to $75,000,000 from time to time through Jefferies. Upon entering into the ATM Agreement, we filed a new shelf registration statement on Form S-3, which was declared effective by the SEC on July 23, 2020. On September 21, 2022, as a result of General Instruction I.B.6 of Form S-3, and in accordance with the terms of the Sales Agreement, we reduced the amount available to be sold under the ATM Agreement to a maximum aggregate offering price of up to $11,800,000 of our common shares from time to time through Jefferies. During the year ended June 30, 2023, we did not sell of our any common shares under the ATM Agreement.
+
+On September 7, 2023, we provided a formal notice of termination of the ATM Agreement with Jefferies, which took effect on September 8, 2023.
+
+On February 13, 2024, we entered into a sales agreement, or the Sales Agreement, with A.G.P./Alliance Global Partners, or A.G.P., as agent, pursuant to which we may issue and sell our common shares having an aggregate offering price of up to $10 million, from time to time through A.G.P. As of September 17, 2024, we have sold an aggregate of 42,729 common shares pursuant to the Sales Agreement at an average price of $5.93 per share.
+
+We have an effective Form S-3 registration statement (File No. 333-273347), filed under the Securities Act of 1933, as amended, with the SEC using a “shelf” registration process. Under this shelf registration process, we may, from time to time, sell our common shares, preferred stock and warrants to purchase common shares, and of two or more of such securities, in one or more offerings for an aggregate initial offering price of $200 million (including amounts sold under the Sales Agreement).
+
+In April 2020, we and the Subsidiary and the German Subsidiary, executed the EIB Finance Agreement for non–dilutive funding of up to €50 million in the aggregate, payable in three tranches. The proceeds from the EIB Finance Agreement were intended to support our research and development in the EU to further advance our regenerative cell therapy platform, and to bring the products in our pipeline to market. The term of the project was three years commencing on January 1, 2020.
+
+
+During June 2021, we received the first tranche in the amount of €20 million pursuant to the EIB Finance Agreement. The amount received is due to be repaid on June 1, 2026, and bears annual interest of 4% to be paid together with the principal of the loan. As of June 30, 2024, the interest accrued was in the amount of approximately €2.5 million. In addition to the interest payable, the EIB is also entitled to royalty payments, pro-rated to the amount disbursed from the EIB loan, on our consolidated revenues beginning in the fiscal year 2024 up to and including its fiscal year 2030, in an amount equal to up to 2.3% of our consolidated revenues below $350 million, 1.2% of our consolidated revenues between $350 million and $500 million and 0.2% of our consolidated revenues exceeding $500 million. As the project term ended on December 31, 2022, we do not expect to receive additional funds pursuant to the EIB Finance Agreement.
+
+Non-dilutive grants 
+
+Israel Innovation Authority (IIA)
+
+According to the IIA grant terms, we are required to pay royalties at a rate of 3% on sales of products and services derived from technology developed using this and other IIA grants until 100% of the dollar-linked grants amount plus interest are repaid. In the absence of such sales, no payment is required. Through June 30, 2024, total grants obtained from the IIA aggregated to approximately $27.7 million and total royalties paid and accrued amounted to $179 thousand. 
+
+The IIA may impose certain conditions on any arrangement under which the IIA permits the Company to transfer technology or development out of Israel or outsource manufacturing out of Israel. While the grant is given to the Company over a certain period of time (usually a year), the requirements and restrictions under the Israeli Law for the Encouragement of Industrial Research and Development, 1984 continue and do not have a set expiration period, except for the royalties, which requirement to pay them expires after payment in full.
+
+In June 2020, we announced that we were selected as a member of the CRISPR-IL consortium, a group funded by the IIA. CRISPR-IL brings together the leading experts in life science and computer science from academia, medicine, and industry, to develop AI based end-to-end genome-editing solutions. These next-generation, multi-species genome editing products for human, plant, and animal DNA, have applications in the pharmaceutical, agriculture, and aquaculture industries. CRISPR-IL is funded by the IIA with a total budget of approximately $10 million of which, an amount of approximately $480 thousand was a direct grant allocated to us, for the initial period of 18 months. During October 2021, we received an approval for an additional grant of approximately $583 thousand from the IIA pursuant to the CRISPR-IL consortium program, for an additional period of eighteen months. During January 2023, we received approval for an extension of an additional 2 months to finish the program until June 30, 2023. The CRISPR-IL consortium program does not include any obligation to pay royalties. Through June 30, 2024, we received total grants of approximately $774 thousand in cash from the IIA pursuant to the CRISPR-IL consortium program, and we expect to receive an additional $253 thousand.
+
+EU grants – Horizon 2020 and Horizon Europe 
+
+Through June 30, 2024, we received total grants of approximately $8.4 million in cash from the EU Horizon programs.
+
+On September 6, 2022, we announced that a €7.5 million non-dilutive grant from the EU’s Horizon program was awarded to Advanced Personalized Therapies for Osteoarthritis (PROTO), an international collaboration led by Charité Berlin Institute of Health Center for Regenerative Therapies. The goal of the PROTO project is to utilize our PLX-PAD cells for the treatment of mild to moderate knee osteoarthritis. Final approval of the grant is subject to completion of the consortium agreement. An amount of approximately Euro 500 thousand (approximately $520,000) will be a direct grant that will be allocated to us. Through June 30, 2024, we received a payment of approximately $185,000 in cash, which relates to the PROTO program. The clinical study, once approved by the regulatory agencies, will be carried out by Charité, together with us and other members of the international consortium under the leadership of Professor Tobias Winkler, Principal Investigator, at the Berlin Institute of Health Center of Regenerative Therapies, Julius Wolff Institute and Center for Musculoskeletal Surgery.
+
+
+Outlook
+
+We have accumulated a deficit of $420,472,000 since our inception in May 2001. We do not expect to generate any significant revenues from sales of products in the next twelve months. We expect to generate revenues from the sale of services in our CDMO activity, from collaboration based on our cell-based products, and from licenses to use our technology and products. Although we were able to reduce the burn rate significantly in the last few years, it is unlikely that in the short term revenues will exceed our costs of operations.
+
+We may be required to obtain additional liquidity resources in order to support the commercialization of our products and technology and maintain our research and development activities.
+
+We are continually looking for sources of funding, including collaboration with other companies via licensing agreements, joint ventures and partnerships, and other non-dilutive sources such as our contract with NIAID and DoD, research grants such as the IIA grants and the European Union grants, and sales of our common shares.
+
+We believe that we have sufficient cash to fund our operations for at least the next twelve months.
+
+Application of Critical Accounting Policies and Estimates
+
+Our accounting policies are more fully described in Note 2 to our consolidated financial statements appearing in this Annual Report. We believe that the accounting policy below is critical for one to fully understand and evaluate our financial condition and results of operations.
+
+The discussion and analysis of our financial condition and results of operations is based on our financial statements, which we prepared in accordance with U.S. GAAP. The preparation of these financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities, as well as the reported revenues and expenses during the reporting periods. We evaluate such estimates and judgments on an ongoing basis, including those described in greater detail below. We base our estimates on historical experience and on various other factors that we believe are reasonable under the circumstances. Actual results may differ from these estimates under different assumptions or conditions.
+
+
+Share-Based Compensation
+
+Share-based compensation is considered a critical accounting policy due to the significant expenses of RSUs which were granted to our employees, directors and consultants. In fiscal year 2024, we recorded share-based compensation expenses related to options, restricted shares and RSUs in the amount of $2,618,000.
+
+In accordance with ASC 718, “Compensation-Stock Compensation”, or ASC 718, RSUs granted to employees and directors are measured at their fair value on the grant date. All RSUs granted in fiscal years 2024 and 2023 were granted for no consideration; therefore, their fair value was equal to the share price at the date of grant unless the RSUs include a market-based condition in which case the fair value RSUs at the date of grant was calculated using the Monte Carlo model. The RSUs granted in fiscal year 2024 to non-employee consultants were measured at their fair value on the grant date in accordance with ASU No. 2018-07 - “Compensation—Share Compensation”.
+
+The value of the portion of the award that is ultimately expected to vest is recognized as an expense over the requisite service periods in our consolidated statements of operations. We have graded vesting based on the accelerated method over the requisite service period of each of the awards. The expected pre-vesting forfeiture rate affects the number of the shares. Based on our historical experience, the pre-vesting forfeiture rate per grant is 16% for the shares granted to employees and 0% for the shares granted to our directors and officers and non-employee consultants.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE

@@ -1,0 +1,271 @@
+, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the year ended June 30, 2023, as filed with the SEC on September 7, 2023.
+
+Overview
+
+Company
+
+Accuray Incorporated is a radiation therapy company that develops, manufactures, sells and supports market-changing solutions that are designed to deliver radiation treatments for even the most complex cases, while making commonly treatable cases even more straightforward, to meet the full spectrum of patient needs. We believe in comparison to conventional linear accelerators, our treatment delivery, planning, and data management solutions provide better accuracy, flexibility, and control; fewer treatments with shorter treatment times; and the technology to expand beyond cancer, making it easier for clinical teams around the world to provide treatments that help patients get back to living their lives, faster.
+
+Our innovative technologies, the CyberKnife® and TomoTherapy® platforms, including the Radixact® System, our next generation TomoTherapy platform, are designed to deliver advanced treatments, including stereotactic radiosurgery (“SRS”), stereotactic body radiation therapy (“SBRT”), intensity modulated radiation therapy (“IMRT”), image-guided radiation therapy (“IGRT”), and adaptive radiation therapy (“ART”). The CyberKnife and TomoTherapy platforms have complementary clinical applications with the same goal: to empower our customers to deliver the most precise and accurate treatments while still minimizing dose to healthy tissue, helping to reduce the risk of side effects that may impact patients’ quality of life. Each of these systems serves patient populations treated by the same medical specialty, radiation oncology, with advanced capabilities. The CyberKnife platform is also used by neurosurgeons specializing in radiosurgery to treat patients with tumors in the brain and spine, and neurologic and/or endocrine disorders. In addition to these products, we also provide services, which include post-contract customer support (warranty period services and post-warranty services), installation services, training, and other professional services.
+
+Current Economic Conditions
+
+We are subject to risks and uncertainties caused, directly or indirectly, by events with significant geopolitical and macroeconomic impacts, including, but not limited to, inflation; actions taken to counter inflation, including rising interest rates; foreign currency exchange rate fluctuations; uncertainty and volatility in the banking and financial services sector; tightening credit markets; geopolitical concerns, such as the Russian-Ukraine and Israel-Hamas conflicts and increasing tension between China and the U.S., including with respect to Taiwan; uncertainty caused by the China anti-corruption campaign and timing of the China stimulus program; the upcoming U.S. presidential election; as well as other factors that may emerge. In particular, we are continuing to navigate supply chain and inflation challenges and adverse foreign currency exchange rate fluctuations, all of which continues to have a negative impact on our results of operations.
+
+We expect that our customers’ business and our business will continue to be adversely impacted, directly or indirectly, by these macroeconomic and geopolitical issues. Delays in deliveries and installations that originated from the COVID-19 pandemic as well as its effects on the global economic environment have occurred and are expected to continue, to some degree, through the remainder of calendar year 2024, which could have a negative impact on our revenue during such period. Inflation and the ongoing supply chain challenges and logistics costs have materially affected our gross margins and net income (loss), and we expect that gross margins and net income (loss) will continue to be adversely affected by increased material costs and freight and logistic expenses through at least the remainder of calendar year 2024, and potentially longer. In addition, reduced budgets and lower capital deployment priority for radiotherapy equipment, along with longer customer installation timelines, in the United States have negatively impacted our revenue during fiscal year 2024, and we expect this will continue to have an impact through fiscal year 2026. The extent of the ongoing impact of these macroeconomic events on our business, our markets and on global economic activity however, is uncertain and the related financial impact cannot be reasonably estimated with any certainty at this time.
+
+Our past results may not be indicative of our future performance, and historical trends including conversion of backlog to revenue, income (loss) from operations, net income (loss), net income (loss) per share and cash flows may differ materially. Accordingly, management is carefully evaluating our liquidity position, communicating with and monitoring the actions of our customers and suppliers, and reviewing our near-term financial performance as the uncertainty related to these factors continues to unfold. We also continue to evaluate our operating expenses, including our real estate needs and continue to assess our operations and how and to what extent we will continue to utilize our current real estate assets. The risks related to our business, including further discussion of the impact and possible future impacts of current economic conditions on our business, are further described in the section titled “Risk Factors” in Part I, Item 1A of this Annual Report on Form 10-K.
+
+Sale of Our Products
+
+Generating revenue from the sale of our platforms is a lengthy process. Selling our platforms, from first contact with a potential customer to a signed sales contract that meets our backlog criteria (as discussed below) varies significantly and generally spans between six months and 30 months. The length of time between receipt of a signed contract and revenue recognition is generally governed by the time required by the customer to build, renovate or prepare the treatment room for installation of the platform. We report our customer revenues in four geographic regions: the Americas, EIMEA, Asia Pacific and Japan. The Americas region includes the United States, Canada and Latin America. The EIMEA region includes Europe, India, the Middle East and Africa. The Asia Pacific region consists of Asia, Australia and New Zealand.
+
+In the United States, we primarily market directly to customers, including hospitals and stand-alone treatment facilities, through our sales organization we also market to customers through sales agents and group purchasing organizations. Outside the United States, we market to customers directly and through use of distributors and sales agents. In addition to our offices in the United States, we have international offices in Morges, Switzerland; Hong Kong, China; Shanghai, China and Tokyo, Japan and direct sales staff in most countries in Western Europe, Japan, India and Canada. In addition, we have distributors in Europe, Russia, the Middle East, Africa, the Asia Pacific region, and Latin America.
+
+Joint Venture
+
+In January 2019, our wholly-owned subsidiary, Accuray Asia Limited (“Accuray Asia”), entered into an agreement with CNNC High Energy Equipment (Tianjin) Co., Ltd. (the “CIRC Subsidiary”), a wholly-owned subsidiary of China Isotope & Radiation Corporation, to form a joint venture, CNNC Accuray (Tianjin) Medical Technology Co. Ltd. (the “JV”), to manufacture and sell radiation oncology systems in China. The JV aims to be uniquely positioned to serve China, which we believe is the world’s largest growth market for radiation oncology systems. China represents a significantly underserved market for linacs based on the country’s population and cancer incidence rates on both an absolute and relative country basis. Accuray Asia has a 49% ownership interest in the JV and the CIRC Subsidiary has a 51% ownership interest in the JV.
+
+With the receipt of the necessary permits and licenses to operate, the JV has begun selling products in China, much like a distributor. The JV has recently begun to manufacture and sell a locally branded “Made in China” radiotherapy device, the Tomo C radiation therapy system, in the Class B license category. We believe this strategy will allow us to best maximize both near and longer-term opportunities in China. In September 2023, we received approval for our Class B device from the National Medical Products Administration (“NMPA”) and our Accuray Precision Treatment Planning System for the Class B
+
+device was approved by the NMPA in June 2024. The JV also distributes other Accuray treatment delivery systems like the Radixact and CyberKnife treatment delivery systems.
+
+Restructuring
+
+On October 25, 2023, we informed affected employees of a cost savings initiative (the “2024 restructuring initiative”) to reduce operating costs resulting in the elimination of approximately 5.9 percent of our global workforce. In the year ended June 30, 2024, we incurred restructuring charges of $2.6 million. These charges are cash-based and are primarily related to severance expenses and other one-time termination benefits. We recorded the restructuring charges of the affected employees in their respective department cost center. The restructuring charges recorded during the year ended June 30, 2024 are as follows: cost of sales $0.2 million, research and development $1.7 million, sales and marketing $0.1 million, and general and administrative $0.6 million. At June 30, 2024, we have completed the 2024 restructuring initiative.
+
+Backlog
+
+In order for the product portion of a system sales agreement to be included in backlog, it must meet the following criteria:
+
+•
+
+The contract is properly executed by both the customer and us. A customer purchase order that incorporates the terms of our contract quote will be considered equivalent to a signed and executed contract. The contract has either cleared all its contingencies or contained no contingencies when signed;
+
+•
+
+We have received a minimum deposit or a letter of credit; or the sale is to a customer where a deposit is deemed not necessary or customary (i.e., sale to a government entity, a large hospital, group of hospitals or cancer care group that has sufficient credit, customers with trade-in of existing equipment, sales via tender awards, or indirect channel sales that have signed contracts with end-customers);
+
+•
+
+The specific end-customer site has been identified by the customer in the written contract or written amendment; and
+
+•
+
+Less than 30 months have passed since the contract met all the criteria above.
+
+Our backlog includes contractual agreements with our customers for the purchase of our CyberKnife or TomoTherapy platforms, including the Radixact Systems and related upgrades. The amount of backlog recognized into revenue is primarily impacted by three items: cancellations, age-outs and age-ins, and foreign currency fluctuations. We cannot provide assurance that we will convert backlog into recognized revenue, primarily due to factors outside of our control, such as:
+
+•
+
+Orders could be cancelled for reasons such as, changes in customers’ priorities or financial condition, changes in government or health insurance reimbursement policies, or changes to regulatory requirements. Cancellations are outside of our control and are difficult to forecast; however, we continue to work closely with our customers to minimize the impact of cancellations on our business; 
+
+•
+
+Orders are considered aged-out and removed from reported backlog if we have not been able to recognize revenue on an agreement after 30 months. Agreements may age-out for many reasons, including but not limited to, the inability of the customer to pay, the inability of the customer to adapt their facilities to accommodate our products in a timely manner, or the inability to timely obtain licenses necessary for customer facilities or operation of our equipment. Age-ins represent orders that previously aged-out but have been recognized as revenue in the current period; and 
+
+•
+
+Orders include amounts not denominated in U.S. Dollars and therefore, fluctuations in the U.S. Dollar as compared to other currencies will impact revenue. Generally, strengthening of the U.S. Dollar will negatively impact revenue. Backlog is stated at historical foreign currency exchange rates, and revenue is released from backlog at current exchange rates, with any difference recorded as a backlog adjustment.
+
+A summary of gross orders, net orders, and order backlog is as follows (in thousands):
+
+Gross Orders and Book to Bill Ratio
+
+Gross orders are defined as the sum of new orders recorded during the period, adjusted for any revisions to existing orders during the period.
+
+Gross orders increased by $31.1 million during the year ended June 30, 2024, as compared to the year ended June 30, 2023, primarily due to a $34.3 million increase in CyberKnife System gross orders and upgrades partially offset by a $3.2 million decrease in TomoTherapy System gross orders and upgrades. The increase in gross orders were primarily due to an increase in system gross orders from the EIMEA region and Latin America.
+
+Our book to bill ratio is defined as gross orders for the period divided by product revenue for the period. Our book to bill ratio for the year ended June 30, 2024, was 1.5 as compared to 1.3 for the year ended June 30, 2023. A book-to-bill ratio greater than 1.2 indicates strong demand for our products. This metric allows management to monitor our business development efforts to ensure we grow our backlog and our business over time.
+
+In recent years, the percentage of gross orders received from our distribution partners in the international markets represented 74%, 76%, and 71% of gross orders for fiscal year ended June 30, 2024, 2023 and 2022, respectively. We anticipate that distributor orders from international markets will continue to represent a significant portion of our gross orders in the foreseeable future. International orders are affected by foreign currency fluctuation as well as government programs that stimulate the purchase of healthcare products, both of which could affect the demand for our products and timing of orders from period to period. In addition, our order-to-revenue conversion cycle for international distributor orders has been generally longer, compared to that of direct channel sales and could cause fluctuations in our age-outs from period to period.
+
+Net Orders
+
+Net orders are defined as gross orders, less cancellations, age-outs net of age-ins, foreign exchange and other adjustments during the period.
+
+Net orders increased by $28.0 million during the year ended June 30, 2024, as compared to the year ended June 30, 2023, primarily due to an increase in gross orders partially offset by unfavorable foreign exchange rate fluctuations.
+
+Results of Operations
+
+Fiscal 2024 results compared to fiscal 2023
+
+Net revenue
+
+Net revenue by sales classification is as follows:
+
+a)
+
+Includes sales of products to the JV, an equity method investment, of $77,497 during the year ended June 30, 2024, $55,658 during the year ended June 30, 2023, and $45,545 during the year ended June 30, 2022, respectively. See Note 11.
+
+b)
+
+Includes sales of services to the JV, an equity method investment, of $15,039 during the year ended June 30, 2024, $10,919 during the year ended June 30, 2023, and $10,332 during the year ended June 30, 2022, respectively. See Note 11.
+
+c)
+
+The year ended June 30, 2024 includes revenue from certain upgrades that were recorded in services net revenue during the years ended June 30, 2023 and June 30, 2022. 
+
+Products net revenue increased by $1.0 million during the year ended June 30, 2024, as compared to the year ended June 30, 2023, mostly driven by a higher average sale price per unit and certain upgrades, partially offset by lower volume of shipments of system units of our TomoTherapy System and CyberKnife System. Products net revenue was negatively impacted by reduced budgets and lower capital deployment priority for radiotherapy equipment, along with longer customer installation timelines, in the Americas region during fiscal year 2024, and we expect this will continue to have an impact through fiscal year 2026.
+
+Services net revenue decreased by $2.0 million during the year ended June 30, 2024, as compared to the year ended June 30, 2023, primarily due to a $10.5 million decrease in revenue from the purchase of spare parts from customers, lower installation activity and systems activation at customer locations and certain upgrades, partially offset by a $8.5 million increase in revenue from service contracts as a result of an increase in our installed base.
+
+Net revenue by geographic region, which is based on the shipping location of our customer, is as follows:
+
+Net revenue decreased $1.1 million during the year ended June 30, 2024, as compared to the same period in the prior fiscal year primarily due to a lower volume of shipment of systems and service revenues from the Americas region, mostly offset by increase in the volume of shipment of systems from China as well as India and the Middle East within our EIMEA region. During the year ended June 30, 2024, Japan net revenue included a $4.9 million unfavorable impact from foreign currency exchange rate fluctuations and EIMEA net revenue had a $4.2 million favorable impact from foreign currency exchange rate fluctuations. Products net revenue was negatively impacted by reduced budgets and lower capital deployment priority for radiotherapy equipment, along with longer customer installation timelines, in the Americas region during fiscal year 2024, and we expect this will continue to have an impact through fiscal year 2026.
+
+Gross profit
+
+Gross profit by sales classification is as follows:
+
+Gross profit decreased by $11.0 million during the year ended June 30, 2024, as compared to the year ended June 30, 2023, due to an increase of $6.2 million in service parts consumption which was partially from a supplier quality issue in fiscal year 2024, and a $4.1 million increase in the net deferred profit margin on sales to the JV.
+
+Operating Expenses
+
+Research and development expenses decreased by $7.4 million during the year ended June 30, 2024, as compared to the year ended June 30, 2023, primarily due to a $5.0 million decrease in compensation and benefit costs as a result of lower headcount from the 2024 restructuring initiative in the second quarter of fiscal year 2024 and lower bonus compensation expense in fiscal year 2024.
+
+Selling and marketing expenses decreased by $3.6 million during the year ended June 30, 2024, as compared to the year ended June 30, 2023, primarily due to $2.7 million in lower compensation and benefit costs as a result of the restructuring initiative in fiscal year 2023 and lower bonus compensation expense in fiscal year 2024, and a $0.6 million decrease in consulting costs due to cost-cutting efforts, partially offset by a $0.4 million increase in trade show expenses.
+
+General and administrative expenses increased by $1.8 million during the year ended June 30, 2024, as compared to the year ended June 30, 2023, primarily due to an increase of $2.9 million in support consulting costs and $1.4 million in amortization expenses, both related to the implementation of our enterprise resource planning system in the first quarter of fiscal year 2024, a $1.3 million increase in facility expenses, a $0.6 million increase in legal and accounting expenses, and a $0.5 million increase in travel expenses, which were partially offset by $3.0 million decrease in compensation and benefit costs due to lower bonus compensation and stock-based compensation expenses in fiscal year 2024, and a decrease in bad debt expense due to a $2.0 million bad debt reserve for a specific customer recorded in the fourth quarter of fiscal year 2023.
+
+Income on equity method investment
+
+Income on equity method investment decreased by $0.7 million during the year ended June 30, 2024, as compared to the year ended June 30, 2023, primarily due to the JV having higher operating expenses, partially offset by an increase in the JV service revenue.
+
+Interest expense
+
+Interest expense increased $1.0 million during the year ended June 30, 2024, as compared to the year ended June 30, 2023, primarily due to higher interest rates on the outstanding balances on our Credit Facilities.
+
+Other expense, net
+
+Other expense, net, increased by $1.4 million during the year ended June 30, 2024, as compared to the year ended June 30, 2023, primarily driven by foreign currency transaction losses.
+
+Provision for income taxes
+
+Provision for income taxes increased by $1.2 million during the year ended June 30, 2024, as compared to the year ended June 30, 2023, primarily due to an increase in foreign earnings and deferred tax liability on unremitted foreign earnings.
+
+Liquidity and Capital Resources
+
+At June 30, 2024, we had $68.6 million in cash and cash equivalents. Cash from operations could be affected by various risks and uncertainties, including, but not limited to, macroeconomic conditions, inflation, actions taken to counter inflation, foreign currency exchange rate fluctuations, instability in the banking sector and the risks included in Part I, Item 1A titled “Risk Factors.” In particular, we expect inflation and the ongoing supply chain challenges and logistics costs to impact our cash from operations through at least the remainder of calendar year 2024, if not longer. Based on our cash and cash equivalents balance, available debt facilities, current business plan and revenue prospects, we believe we will have sufficient cash resources and anticipated cash flows to fund our operations for at least the next 12 months. However, we continue to critically review our liquidity and anticipated capital requirements in light of the significant uncertainty created by macroeconomic conditions.
+
+On October 25, 2023, we informed affected employees of the 2024 restructuring initiative. During the year ended June 30, 2024, we incurred a charge of $2.6 million. As of June 30, 2024, we have completed the 2024 restructuring initiative.
+
+Our liquidity and cash flows have been and could continue to be materially impacted by current macroeconomic factors, including facility closures, supply chain disruptions, inflation, foreign currency exchange rate fluctuations, increased volatility in the financial markets, uncertainty caused by the China anti-corruption campaign and timing of the China stimulus program, the upcoming U.S. presidential election, instability in the banking sector, tightening of credit markets which could
+
+impact debt availability. These factors have and could continue to negatively impact our business operations and cash flows for the foreseeable future, including reductions in revenue, decreases in gross margin and delays in payments from customers, as well as declines or delays in the conversion of backlog to revenue. Certain of our revenue may not be collectible to the extent our customers suffer financial difficulty and, in fiscal 2023, we increased our bad debt reserve to account for potentially uncollectible revenue. For example, in the United States, one customer declared bankruptcy in fiscal 2023 causing us to increase our bad debt reserve due to the expectation that they will be unable to pay us. Accordingly, there remain uncertainties as to how the current macroeconomic environment will impact our business, results of operations, access to sources of liquidity and financial condition in the future. As a result, we are unable to predict with certainty the impacts of these factors on our ability to maintain compliance with the financial covenants contained in the credit and security agreements related to our credit facilities.
+
+In May 2021, we issued $100.0 million aggregate principal amount of 3.75% Convertible Senior Notes due 2026 under an indenture between us and The Bank of New York Mellon Trust Company, N.A., as trustee. Concurrently, with the issuance of the notes, in May 2021, we entered into a senior secured credit agreement with Silicon Valley Bank, individually as a lender and agent, and the other lenders (the “Existing Credit Agreement”), which provides for a five-year $80 million term loan facility (the "Term Loan Facility") and a $40 million revolving credit facility (the “Revolving Credit Facility”). As of June 30, 2024, we had an outstanding balance under the Term Loan Facility of $64.0 million and Revolving Credit Facility of $10.0 million. During the year ended June 30, 2024, the weighted average effective interest rate on the Term Loan Facility was 8.6% and weighted average effective interest rate on the Revolving Credit Facility, including the unused commitment fee, was 9.5%. See Note 9, "Debt" to the Notes to the consolidated financial statements for further information regarding the Existing Credit Agreement and 3.75% Convertible Senior Notes due 2026. Also see Note 8, "Commitments and Contingencies" to the Notes to the consolidated financial statements for further information regarding our cash commitments related to our debt.
+
+We may also experience other, unexpected impacts to our business, including matters discussed in the Part I, Item 1A titled “Risk Factors.” While we were in compliance with such covenants for the period ended June 30, 2024, failure to meet the covenant requirements in the future could cause us to be in default and the maturity of the related debt could be accelerated and become immediately payable. These restrictions could adversely affect our ability to finance our future operations or capital needs, withstand a future downturn in our business or the economy in general, engage in business activities, including future opportunities that may be in our interest, and plan for or react to market conditions or otherwise execute our business strategies. Our ability to comply with the covenants and other terms governing the Credit Facilities will depend in part on our future operating performance. In addition, because substantially all of our assets are pledged as a security under the Credit Facilities, if we are not able to cure any default or repay outstanding borrowings, such assets are subject to the risk of foreclosure by our lenders. This may require us to obtain waivers or amendments to the credit and security agreement in order to maintain compliance and there can be no certainty that any such waiver or amendments will be available, or what the cost of such waiver or amendment, if obtained, would be. For example, in April 2024, the Company entered into the Third Amendment (the “ Third Amendment”) to the Existing Credit Agreement to update the calculation of Consolidated EBITDA (as defined in the Existing Credit Agreement) to maintain compliance with the debt covenants as of March 31, 2024. If we are unable to obtain necessary waivers or amendment and the debt under such credit facility is accelerated, we would be required to obtain replacement financing at prevailing market rates, which may not be favorable to us. There is no guarantee that we would be able to satisfy our obligations if any of our indebtedness is accelerated.
+
+Additionally, the undistributed earnings of our foreign subsidiaries at June 30, 2024, for all countries except Japan, France, Switzerland and the United Kingdom are considered to be indefinitely reinvested and unavailable for distribution in the form of dividends or otherwise. Future repatriation of our foreign earnings could be subject to income taxes. As of June 30, 2024, we had $9.5 million of cash and cash equivalents at our foreign subsidiaries. If such funds were repatriated, there will be additional foreign tax withholdings imposed, depending on the country from which the funds were repatriated.
+
+Cash Flows
+
+Cash Flows From Operating Activities
+
+Net cash used in operating activities was $11.9 million during the year ended June 30, 2024, resulting primarily from a $21.9 million decrease from the net changes in assets and liabilities, and a net loss of $15.5 million offset by a $25.6 million increase in non-cash items.
+
+•
+
+Non-cash items primarily consisted of share-based compensation expense of $9.5 million, provision for inventories write-down of $6.0 million, depreciation and amortization expense of $5.9 million, and a $4.1 million increase in the net deferred profit margin on sales to the JV, partially offset by income from our equity method investment of $1.8 million. 
+
+•
+
+The major contributors to the decrease in net changes of assets and liabilities during the year ended June 30, 2024 were as follows: a $16.5 million decrease in accrued liabilities primarily due to the payment of value added tax payables and a decrease in accrued bonus compensation; a $15.8 million increase in accounts receivable primarily due to an increase in system sales during the fourth quarter of fiscal year 2024; a $6.6 million decrease in customer advances due to delivery of orders, a $4.0 million increase in inventories primarily due to increased costs for parts; a $2.5 million decrease in deferred revenue primarily due to the timing of revenue recognition, partially offset by a $17.4 million increase in accounts payable due to the timing of payments, and a $6.1 million decrease in prepaid and other assets primarily due to a decrease in value added tax receivables partially offset by a $2.5 million dividend receivable from our JV.
+
+Cash Flows From Investing Activities
+
+Net cash used in investing activities was $3.6 million during the year ended June 30, 2024, was due to the purchase of property and equipment.
+
+Cash Flows From Financing Activities
+
+Net cash used in financing activities was $4.0 million during the year ended June 30, 2024 and was due to the scheduled payment of $6.0 million of the principal amount outstanding on our Term Loan Facility partially offset by $2.2 million in proceeds from the issuance of common stock to employees from employee stock plans. We borrowed $5.0 million on our Revolving Credit Facility in May 2024, and then repaid the $5.0 million in June 2024.
+
+Operating Capital and Capital Expenditure Requirements
+
+Our future capital requirements depend on numerous factors. These factors include but are not limited to the following:
+
+•
+
+Revenue generated by sales of our products and service plans;
+
+•
+
+Our ability to generate cash flows from operations;
+
+•
+
+Costs associated with our sales and marketing initiatives and manufacturing activities;
+
+•
+
+Facilities, equipment and IT systems required to support current and future operations;
+
+•
+
+Rate of progress and cost of our research and development activities;
+
+•
+
+Costs of obtaining and maintaining FDA and other regulatory clearances of our products;
+
+•
+
+Effects of competing technological and market developments; 
+
+•
+
+Number and timing of acquisitions and other strategic transactions;
+
+•
+
+Servicing and maturity of our current future indebtedness, including interest rates;
+
+•
+
+The implementation of our cost savings initiatives, including the reduction of our workforce;
+
+•
+
+The impact of inflation on our expenses; and
+
+•
+
+The unpredictable impact of the macroeconomic environment, including on collections, supply chain, and logistics.
+
+We believe that our current cash and cash equivalents balance will be sufficient to meet our anticipated cash needs for working capital and capital expenditures for at least the next 12 months. If these sources of cash and cash equivalents are insufficient to satisfy our liquidity requirements, or we believe market conditions are favorable, we may seek to sell additional equity or debt securities or enter into additional credit facilities. The sale of additional equity or convertible debt securities could result in dilution to our stockholders. If additional funds are raised through the issuance of debt securities, these securities could have rights senior to those associated with our common stock and could contain covenants that would restrict our operations. Additional financing may not be available at all, or in amounts or on terms acceptable to us. If we are unable to obtain this additional financing, we may be required to reduce the scope of our planned product development and marketing efforts.
+
+Operating and Capital Expenditure Requirements and Contractual Obligations
+
+Our purchase commitments and obligations include all open purchase orders and contractual obligations in the ordinary course of business, including commitments with contract manufacturers and suppliers, for which we have not received the goods or services and acquisition and licensing of intellectual property. A majority of these purchase obligations are due within a year. Although open purchase orders are considered enforceable and legally binding, the terms generally allow us the option to cancel, reschedule, and adjust our requirements based on our business needs prior to the delivery of goods or performance of services. Our long-term material cash requirements include lease obligations. See Note 4, “Leases” to the Notes to the consolidated financial statements for further information.
+
+Inflation
+
+We experienced rising costs for certain materials, including increased logistics and duties costs that adversely affected our gross margins and net income (loss), and had a material effect on our business, financial condition and results of operations for fiscal years 2023 and 2024. We expect that gross margins and net income (loss) will continue to be adversely affected by increased material costs and freight and logistic expenses in fiscal year 2025 as we are unable to pass all of these increased costs to our customers. In addition, we expect inflation and the ongoing supply chain challenges and logistics costs to impact our cash from operations through at least the remainder of calendar year 2024, if not longer. Continued pressure from inflationary factors, such as further increases in the cost of materials for our products, cost of labor, interest rates, overhead costs, logistics and duties costs could further exacerbate these effects and harm our business, operating results, and financial condition.
+
+Critical Accounting Estimates
+
+The discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP”). The preparation of these consolidated financial statements requires management to make estimates and judgments that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the consolidated financial statements, as well as revenue and expenses during the reporting periods. We evaluate our estimates and judgments on an ongoing basis. We base our estimates on historical experience and on various other factors we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities. The economic uncertainty in the current environment however, could limit our ability to accurately make and evaluate our estimates and judgments. Actual results could therefore differ materially from those estimates if actual conditions differ from our assumptions.
+
+All of our significant accounting policies and methods used in the preparation of our consolidated financial statements are described in Note 1, The Company and its Significant Accounting Policies, to the consolidated financial statements. The methods, estimates and judgments that we use in applying our accounting policies require us to make difficult and subjective judgments, often as a result of the need to make estimates regarding matters that are inherently uncertain. Management believes the critical accounting policies and estimates are those related to revenue recognition and the assessment of stand-alone selling price ("SSP"), allowance for credit losses, valuation of inventories, and the valuation of equity method investments.
+
+Revenue Recognition and the Assessment of Stand-Alone Selling Price
+
+Our revenue is primarily derived from new system and upgrade sales of CyberKnife and TomoTherapy platforms and services, which include post-contract customer support (“PCS”) contracts (warranty period services and post-warranty services), installation services, training and other professional services. We record our revenue net of any value-added or sales tax. We recognize revenue for certain performance obligations at the point in time when control is transferred, such as delivery of products and the right to use. We recognize revenue for certain other performance obligations over a period of time as control of the goods or services is transferred, such as PCS and construction contracts. Payments received in advance of system shipment are recorded as customer advances and are deferred until product shipment when they are recognized in revenue. We assess the probability of collection based on a number of factors, including past payment history with the customer and creditworthiness of the customer. We generally do not request collateral from our customers but will request advance payments or letter’s of credit when deemed necessary.
+
+We frequently enter into sales arrangements that contain multiple performance obligations. For sale arrangements that contain multiple performance obligations, we account for individual products and services separately if a product or service is separately identifiable from other items in the bundled package and if a customer can benefit from it on its own or with other resources that are readily available to the customer. The SSP is determined based on observable prices at which we separately sell the products and services. If the SSP is not directly observable, then we will estimate the SSP considering market conditions, entity-specific factors, and information about the customer or class of customer that is reasonably available.
+
+Allowance for Credit Losses
+
+We evaluate the creditworthiness of our customers prior to authorizing shipment for all major sale transactions. On no-less than a quarterly basis, we evaluate aged items in the accounts receivable aging report and provide an allowance in an amount we deem adequate for anticipated credit losses. If our evaluation of our customers’ financial conditions does not reflect our future ability to collect all outstanding receivables, additional provisions may be needed and our operating results could be negatively affected.
+
+Valuation of Inventories
+
+The valuation of inventory requires us to estimate obsolete or excess inventory as well as damaged inventory. The determination of obsolete or excess inventory requires us to estimate the future demand for our products. We regularly review inventory quantities on hand and adjust for excess and obsolete inventory based primarily on historical usage rates and our estimates of product demand to support future sales and service. If our demand forecast for specific products is greater than
+
+actual demand and we fail to reduce purchasing and manufacturing output accordingly, we could be required to write off inventory beyond the current reserve, which would negatively impact our gross margin.
+
+Valuation of Equity Method Investments
+
+We have an equity method investment in CNNC Accuray (Tianjin) Medical Technologies Co. Ltd., our joint venture in China. Our equity method investment is held at cost and adjusted for impairment when it would be deemed to be impaired. We monitor this investment for events or circumstances indicative of a potential impairment, and we make appropriate reductions in carrying value if we determine that an impairment charge is required, based primarily on the financial condition or near term prospects of the investee.

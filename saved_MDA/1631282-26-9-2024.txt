@@ -1,0 +1,660 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+Cautionary Note Regarding Forward-Looking Statements
+
+This report contains forward-looking statements within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act. All statements other than statements of historical fact are “forward-looking statements” for purposes of federal and state securities laws, including, but not limited to, any projections of earnings, revenue, or other financial items; any statements of the plans, strategies, and objectives of management for future operations; any statements concerning proposed new services or developments; any statements regarding future economic conditions of performance; and statements of belief; and any statements of assumptions underlying any of the foregoing. Such forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause our actual results, performance, or achievements to be materially different from any future results, performance, or achievements expressed or implied by such forward-looking statements.
+
+
+In some cases, you can identify forward-looking statements by terms such as “may,” “intend,” “might,” “will,” “should,” “could,” “would,” “expect,” “believe,” “anticipate,” “estimate,” “predict,” “potential,” or the negative of these terms. These terms and similar expressions are intended to identify forward-looking statements. The forward-looking statements in this report are based upon management’s current expectations, which it believes are reasonable. However, we cannot assess the impact of each factor on our business or the extent to which any factor or combination of factors, or factors we are aware of, may cause actual results to differ materially from those contained in any forward-looking statements. You are cautioned not to place undue reliance on any forward-looking statements. These statements represent our estimates and assumptions only as of the date of this report. Except to the extent required by federal securities laws, we undertake no obligation to update any forward-looking statement to reflect events or circumstances after the date hereof or to reflect the occurrence of unanticipated events.
+
+You should be aware that our actual results could differ materially from those contained in the forward-looking statements due to several factors, including:
+
+| ●| industry trends and changes in demand for our products and service； 
+---|---|--- 
+
+Overview
+
+Company Structure
+
+Datasea Inc. is a technology company incorporated in Nevada, USA, on September 26, 2014, with subsidiaries and operating entities located in Delaware, US, and China. The company provides acoustic business services (focusing on high-tech acoustic technologies and applications such as ultrasound, infrasound, and Schumann resonance), 5G application services (5G AI multimodal digital business), and other products and services to various corporate and individual customers.
+
+In the acoustic business sector, Datasea is a global pioneer of the “acoustic effect” concept. Utilizing global leading “Acoustics + AI” precision manufacturing as the digital application framework, and leveraging sound wave technologies combined with acoustic effects as the technological system, the company outputs acoustic high-tech products and solutions worldwide. Datasea strives to be a leader in the development of China’s high-tech precision manufacturing in the acoustic industry. Our products have wide-ranging applications across various industries and sectors, including acoustic agriculture, acoustic industry, acoustic medicine, acoustic health, and acoustic IoT technologies. In the 5G application sector, Datasea provides digital and intelligent services to enterprises and individual users in China, leveraging AI, machine learning, and data analytic capabilities to offer a wide range of 5G application products and solutions.
+
+For the fiscal year ending June 30, 2024, our revenue was $23,975,867, reflecting a 558.6% increase compared to the same period in 2023. This revenue growth is primarily due to the rapid expansion of our 5G AI multimodal communication business in China, with the company’s 5G AI digital business maintaining a leading position in the industry. Our growing customer base continues to support substantial business growth.
+
+
+Additionally, as of the date of September 20, 2024, the company has received approximately RMB 152.40 million (equivalent to $21.37 million) in cash prepayments from large customers of our 5G AI multimodal digital business. These prepayments represent service obligations that have not yet been recognized as revenue for this fiscal year and will be recognized in future financial statements. The total value of contracts currently in execution, which will be recognized as revenue, exceeds $100 million.
+
+Datasea is not a Chinese operating company but a Nevada-based holding company with its Delaware subsidiary, Datasea Acoustics LLC, serving as our U.S.-based international business platform. Additionally, through the Company’s subsidiary in China – Tianjin Information Sea Information Technology Co., Ltd (“Shuhai Tianjin”) and the VIE, Shuhai Information Technology Co., Ltd. (“Shuhai Beijing”), we carry out business activities in China, along with their subsidiary entities. Shuhai Beijing possesses cutting-edge products and solutions in acoustics high tech and 5G AI multimodal digital applications to support commercial enterprises, households and individuals in China.
+
+The development and internationalization of acoustic products, including acoustic industry, acoustic agriculture, acoustic medicine, and acoustic health, have always been a crucial strategy for the Company. Following the establishment of its wholly-owned subsidiary, Datasea Acoustics LLC, in Delaware in July 2023, the Company has actively implemented its global strategy. As of the date of this report, the Company has partnered with several well-known U.S. online retailers and local smart product distributors, including iPower Inc. (NASDAQ: IPW) and Meglio Interiors LLC (“Meglio”), based in Chamblee, Georgia, to expand the online and physical store distribution of its acoustic-related products in the U.S. Additionally, in collaboration with the renowned U.S. intellectual property firm Paul & Paul, we are actively pursuing patent applications and acquiring high-quality patents to build a strong international intellectual property portfolio. Focusing on the core area of acoustic high-tech, we are seeking potential merger and acquisition targets in acoustic industry applications, acoustic agriculture, acoustic medical aesthetics, acoustic health, and acoustic IoT technologies. This is part of our strategy for international expansion through mergers and acquisitions. On October 16, 2023, the Company’s Delaware-based subsidiary, Datasea Acoustics LLC, signed a marketing promotion and sales cooperation agreement with Meglio to develop, promote, and distribute itsacoustics high tech products in the U.S. On April 19, 2024, the Company entered into a Framework Agreement with iPower Inc. (NASDAQ: IPW) for product cooperation, marking the beginning of a joint effort to enhance product distribution in the U.S. online market.
+
+Datasea provides digital and intelligent services to enterprises and individual users in China through a series of 5G multimodal services and solutions, utilizing its AI, large models, and data analytics capabilities.
+
+Technology and Innovation
+
+Datasea is one of the global initiators of the concept of “acoustic high-tech.” By leveraging cutting-edge “acoustic + AI” precision manufacturing for digital applications and integrating acoustic technology with digital electronics, we aim to deliver advanced acoustic high-tech products and solutions worldwide, positioning ourselves as a leader and pioneer in China’s high-tech precision manufacturing within the acoustic industry.
+
+The company focuses on the acoustic high-tech industry, particularly in the research of ultrasound, infrasound, and Schumann resonance technologies. By analyzing and introducing new industry segments within acoustic high-tech, we drive the development and application of these technologies, including in-depth research on non-audible mechanical wave effects, which distinguishes us from others in the field. We combine acoustic chemistry, mechanical transduction, and vibrational dynamics with artificial intelligence (AI), large language models, and data analytics. Our acoustic high-tech products and 5G AI multimodal communication solutions serve over 48.42 million enterprises (with over 99% being small and medium-sized enterprises) and households in China.
+
+Datasea, rooted in the acoustic intelligence industry, is advancing rapidly in terms of technological innovation, product creation, and industry application. The company emphasizes deep domestic and international collaboration and fosters the integration of industry, academia, and research. Focusing on the acoustic intelligence industry, we have established five key segments in the acoustic sector, leading the industry forward and providing cutting-edge acoustic intelligence technologies and products.
+
+
+The Company holds an outstanding position in the field of acoustics, particularly in areas such as ultrasound, infrasound, and directional sound. To promote research and innovation in these areas, the Company actively collaborates with several prominent research institutions and universities, including Chinese Academy of Sciences Institute of Acoustics, China Academy of Information and Communications Technology Cloud Computing and Big Data Research Institute, Tsinghua University Internet Industry Research Institute, Harbin Institute of Technology Artificial Intelligence Research Institute, Beijing Union University, and Jilin University Remote Sensing Research Institute. The Company, together with these partners, is dedicated to conducting research on new topics and developing novel technology applications to drive advancements in the field of acoustics. To better achieve this goal, the Company collaborated for oint laboratories to enhance the integration and collaboration of research resources. These collaborations and the establishment of these laboratories further solidify the Company’s leading position in the field of acoustics, providing a strong foundation for future innovations and development.
+
+China’s First White Paper on High-Tech Acoustic Industry.Additionally, the company has jointly released China’s first white paper on the high-tech acoustic industry with the Ministry of Industry and Information Technology, the Key Laboratory for Artificial Intelligence Technologies and Applications Evaluation, and the Cloud Computing and Big Data Research Institute of the China Academy of Information and Communications Technology. This white paper provides a comprehensive analysis and authoritative presentation of acoustic technology, its commercialization, and industry prospects. It discusses in detail the application of high-tech acoustics in various sectors, showcases Datasea’s proactive initiatives in leading industry development, and highlights the company’s leading position in the high-tech acoustic field both in China and globally. The white paper not only demonstrates Datasea’s pioneering role in setting industry standards but also further consolidates the company’s strategic importance in advancing acoustic technology on both a national and global scale.
+
+As of the date of this report, Shuhai Beijing and its subsidiaries own 21 Patents and 139 Software Copyrights in the PRC, which include 9 pending patent applications in core technologies, to empower and grow the business. In addition, the U.S. subsidiary, Datasea Acoustics, is actively acquiring U.S. patents, as well as international patents, and collaborating with U.S. universities and world-renowned research institutions.
+
+Business Strategy
+
+Sustained Revenue Growth: Implement strategic initiatives such as expanding the sales team, enhancing distribution networks, exploring new markets in both domestic and U.S. regions, and offering value-added services to drive continuous revenue expansion.
+
+Technological Innovation: Datasea continues to invest in research and development (R&D) to maintain its leading position in the field of non-audible mechanical wave effects in acoustics. This includes leveraging the cavitation, thermal, and mechanical effects of ultrasound to meet various application needs, such as disinfection, pesticide-free pest control for crops, livestock and pet health management, skincare, and medical wellness. These innovations are designed to address global market demands and ensure a competitive edge.
+
+Additionally, Datasea is continuously upgrading its core 5G AI multimodal communication business through AI processing technology. This includes AI-driven creation and generation of various information forms, such as sound, text, images, and videos, as well as efficient transmission and AI digital marketing functions. These advancements ensure Datasea’s leading position in shaping the 5G digital technology landscape.
+
+International Expansion: Focus on international growth, particularly in the U.S. market. Leverage the operations of U.S. subsidiaries, engage in mergers and acquisitions, ensure compliance, adapt to market dynamics, and practice effective cross-cultural management.
+
+Technology Collaboration: Datasea can foster collaborations with renowned U.S. universities and research institutions through its U.S. subsidiary. By partnering with these institutions, the Company can engage in joint research and development initiatives to create and adopt cutting-edge acoustics high tech technologies. This collaborative approach helps Datasea maintain its technological leadership and obtain technical capabilities and reserves in relevant fields globally.
+
+
+U.S. Patent Acquisition and Technology Protection: Building on its extensive portfolio of Chinese patents, Datasea prioritizes acquiring U.S. patents to protect its innovations and intellectual property. Rapidly securing U.S. patents is crucial for maintaining competitive advantage and defending against potential infringement. This proactive patent acquisition strategy will ensure that Datasea’s intellectual property is protected in the U.S. market, while also creating opportunities for licensing and monetization. These strategies will further strengthen Datasea’s position in the global market and enhance its innovation capacity.
+
+Mergers and Acquisitions (M&A) and Joint Ventures: Datasea can expand its product and service portfolio globally through mergers and acquisitions or by forming joint ventures to meet growing market demands. By identifying companies that are related to or complementary to its existing areas of expertise, Datasea can rapidly scale its business and market presence. For instance, through M&A and collaborations in the U.S. market, Datasea can further solidify its foundation, market depth, and brand localization in the high-tech acoustics industry.
+
+Compensation and Incentives: To recognize the contributions of directors, executives, employees, consultants, and other external partners to the Company’s growth, a multi-layered compensation and incentive system has been established. This includes stock awards for publicly traded companies and equity holdings in core business subsidiaries. To date, the Company has consistently issued relevant stocks under its stock incentive program to directors, executives, employees, and external consultants. Additionally, stockholding platforms have been set up for three core business subsidiaries in China, attracting key teams and sales partners to maximize the incentive effect. Looking ahead, the Company plans to extend stock incentive measures to more teams and consulting agencies that make significant contributions, further encouraging and ensuring active participation from talent within the organization.
+
+Sustainable Growth: The Company can adopt a sustainable approach to ensure long-term success. This involves focusing on Environmental, Social, and Governance (ESG) issues, ensuring that the Company’s operations align with global best practices, and providing sustainable solutions to meet demands of customers.
+
+Market diversification: In the domestic market, Datasea can continue to provide acoustics high tech and 5G AI multimodal digital products to various end users, such as corporate customers and household users, to ensure market diversification. In the international market, Datasea intends to target U.S. households and large corporate customers including hospitals, hotels, and schools with leading and high-quality ultrasonic air sterilization, bathroom and cloakroom sterilization and odor removal products, helping to diversify risks and provide broader growth opportunities.
+
+Regulatory Compliance: When expanding into international markets, the Company needs to closely adhere to regulations and laws in various countries and regions. Ensuring compliance is crucial for our long-term success.
+
+Cost Control and Efficiency Improvement: Optimize enterprise operational processes, reduce costs, enhance production efficiency and resource utilization efficiency to strengthen profitability.
+
+Brand Building and Reputation Management: Strengthen corporate brand image, enhance brand awareness and influence, maintain good corporate reputation, ensure the company’s competitive position and sustainable development in the market.
+
+Risk Management: Diligently identify, evaluate, and manage various risks, including those related to the market, legal compliance, and the supply chain.
+
+In summary, Datasea can pursue its business strategy through international business expansion, technological innovation, contracts and collaborations, and a sustainable growth approach. This will help ensure that the Company gains a competitive advantage in global markets and creates sustainable value for its shareholders.
+
+
+Our Business Summary
+
+Acoustic business
+
+The company focuses on acoustic business with an emphasis on ultrasound, infrasound, and Schumann resonance technology.In the field of high-tech acoustics, the company is one of the global initiators of the “acoustic effects” concept, providing advanced acoustic products and solutions worldwide. Simultaneously, in the 5G multimodal domain, Datasea leverages its AI-driven services and solutions to offer digital and intelligent services to both businesses and individual users.
+
+Acoustics high tech Segment:
+
+We deeply understand the market’s demand for new application areas, technologies, and requirements. Therefore, through the relentless efforts of our team, we have achieved leading-edge advancements in acoustic understanding and algorithms. Our company’s acoustic technologies and products are widely applied across various industries and fields, including acoustic industrial applications, acoustic agriculture, acoustic medicine, acoustic health, and acoustic IoT technologies.
+
+Acoustic High-Tech is a new field that integrates fundamental acoustic theory with artificial intelligence to collect and process acoustic data and address various challenges. Datasea utilizes advanced technologies in this domain, combining basic acoustic theories with AI to create a robust technology system centered around the effects of research and application of non-audible mechanical wave effects. This includes leveraging ultrasonic technology for sterilization, which effectively combats viruses and prevents infections. The technology exploits the mechanical, thermal, and cavitation effects of ultrasound. When microorganisms, including viruses like the coronavirus, are exposed to ultrasound, they experience intense vibrational strains that disrupt their outer shells and internal RNA. The rapid movement of protons caused by the ultrasound ultimately destroys microbial structures, eliminating harmful pathogens.
+
+Especially in the field of ultrasonic technology, we utilize the cavitation, thermal, and mechanical effects of ultrasound to address various application needs, including disinfection, sterilization, crop drying, safety monitoring, skincare, and medical wellness. For example, in the field of ultrasonic disinfection, when ultrasound stimulates microorganisms (including coronaviruses), it causes significant vibrational strain, disrupting the virus’s outer shell and internal RNA. Ultimately, through a combination of mechanical destruction, cavitation effects, and advanced oxidative processes, pathogenic microorganisms are eliminated. This method provides a broad-spectrum, non-selective disinfection alternative to antibiotics.
+
+
+Leveraging Datasea’s cutting-edge acoustic high-tech combined with AI technology, we have successfully developed a series of ultrasonic disinfection products. These include the acoustic health series ultrasonic disinfectors, ultrasonic sterilizers and purifiers for restrooms, bedrooms, living rooms, kitchens, and pets, as well as innovative non-contact ultrasonic skin repair devices. These products are suitable for environments such as hospitals, airports, hotels, transportation, and residential settings. Leading laboratories, including the Wuhan Institute of Virology, have proven that this ultrasonic disinfection technology achieves 99.83% efficacy against Covid-19 within nine seconds and 99.99% efficacy against Staphylococcus Albus and E. coli. This strategic shift aims to offer more effective environmental purification solutions and healthier lifestyles, serving China, the United States, and globally, particularly in the post-pandemic era when there is a higher demand for protection and quality of life.
+
+To showcase the Company’s technology and products on the global market, Datasea, through its wholly-owned subsidiary, Datasea Acoustics LLC, based in Delaware, U.S., operates as the primary entity to offer advanced acoustic precision manufacturing products and solutions in fields including acoustic industry, acoustic agriculture, acoustic medicine, and acoustic health, and more. After obtaining certification from internationally renowned testing organizations for our sound disinfection products, we will launch large-scale sales of these products in the U.S. market. This strategy aims to tap into the continuously growing consumer audience worldwide. The company has already established partnerships with various online and offline channels in the United States, laying out the market plan for acoustic-related products. Additionally, measures such as collaborations with universities and research institutions in the United States, obtaining patents through multiple channels, production assembly planning, and potential acquisitions contribute to the sustainable development of Datasea Acoustics LLC.
+
+5G AI multimodal digital Segment
+
+Datasea continues to invest in the research and application of 5G AI multimodal digital technology, committed to providing customers with leading intelligent solutions. As a pioneer in China’s 5G multimodal digital field, Datasea deeply integrates the high-speed and low-latency characteristics of 5G networks with AI and big data processing technologies to create a comprehensive AI multimodal digital platform that spans multiple industries. This platform integrates various data forms, such as text, audio, and video, enabling efficient information generation, precise transmission, and automation. It provides enterprise clients with high-quality services, including data packages and new media marketing. Powered by AI, Datasea’s 5G platform enhances customer acquisition, marketing, and brand building efficiency while creating new opportunities for digital transformation and business models. Datasea’s 5G products and solutions are widely applied in rural revitalization, healthcare, and logistics, providing digital and intelligent services to over 48.42 million enterprises and households in China (with more than 99% being small and medium-sized enterprises), driving industrial upgrades and innovative development.
+
+
+Our Products and achievements of Acoustics Segment
+
+General Information
+
+Datasea’s Acoustic Products
+
+As of the end of the fiscal year on June 30, 2024, our acoustic products primarily include several series in the field of acoustic health, specifically:
+
+Existing Products These include six acoustic health products featuring efficient ultrasonic disinfection, which are:
+
+Application Scenarios: Professional sterilization products suitable for environments such as hospitals, airports, hotels, transportation vehicles, and residential areas.
+
+Strategic Positioning: Purification of living environments.
+
+Development Path: Moderate layout based on demand, emphasizing COVID-19 disinfection, and pursuing a product differentiation strategy.
+
+Ultrasonic air sterilizer products:
+
+| ●| In-door models: 
+---|---|--- 
+
+Floor models and desktop models suitable for different areas and functions.
+
+| ● | In-vehicle models: 
+---|---|--- 
+
+
+Features:
+
+Datasea’s acoustic health products utilize “acoustic disinfection” technology to efficiently remove viruses such as H1N1 influenza, natural bacteria, Staphylococcus, E. coli, Aspergillus flavus, and the novel coronavirus. They can also eliminate formaldehyde, dust, odors, and second-hand smoke.
+
+
+Sleep Monitor (Coming soon)
+
+Sleep Monitor adopts ultra-low frequency, weak intensity, and Magnetic induction of brain rhythm (MIBR), which is a magnetic induction of brain rhythm technology. Through the selective optimization and adjustment of the function of neurons through the magnetic induction of brain rhythm (MIBR), the monitor creates a natural frequency magnetic field similar to the Schumann frequency.
+
+Key Features:
+
+1) Reduce the impact of high-frequency radio waves on the human body, relieve anxiety and stress, and gradually relax the body and brain;
+
+2) Resonate between the frequency of Device and the human body’s own frequency, induce brain waves to enter a deep sleep state, prolong the time of deep sleep, and improve the quality of deep sleep, thereby improving sleep and keeping users away from insomnia.
+
+According to the company’s R&D and product planning, our acoustic products will expand extensively, including:
+
+Short-term Product Plan (Expected to launch in 2025)
+
+Acoustic Health
+
+Mid-term Product Plan
+
+Acoustic Health
+
+Acoustic Medical
+
+
+Acoustic Industry
+
+Acoustic Agriculture
+
+
+Sales and Distribution
+
+As of the date of this report, our acoustic products are mainly developed and produced in China, and the products we sell in China are mainly through multi-channels and extensively cooperating with new media. We have established new marketing channels both domestic and internationally.
+
+1）International Market Expansion
+
+October 16, 2023, the Company’s Delaware operating subsidiary, Datasea Acoustics LLC, has entered into a marketing promotion and sales cooperation agreement with Meglio Interiors LLC (“Meglio”), based in Chamblee, Georgia, to develop, promote and distribute the Company’sacoustics high tech products in the U.S. On April 19, 2024, the company entry into a Framework Agreement with iPower Inc. (NASDAQ: IPW) for Product Cooperation, marking the commencement of a joint effort to bolster product distribution within the US online market.
+
+2) The sales department of Shuhai Beijing and its subsidiaries directly sign sales contracts with customers.
+
+During the reporting period, Shuhai Beijing and its subsidiaries have formed a complete marketing system, promotion strategies and models, including the Company’s own sales team and innovative partner models. The sales team of Shuhai Beijing and its subsidiaries cover the core economic zones of China in Beijing, Northeast China, the Yangtze River Delta, and the Guangdong Hong Kong Macao Greater Bay Area, promoting various products and services.
+
+3) Online Distributors and Living Stream
+
+The Company expands its coverage and increases market penetration by collaborating with multiple online distributors, living stream platform and selling innovative products on major e-commerce platforms. For example, in the last quarter, after signing a sales cooperation agreement with the well-known Chinese e-commerce platform Hunan Jiamei to expand coverage and increase market penetration, Datasea also separately entered into sales agreements worth approximately $6.91 million (RMB 50 million) each with Shenzhen Xiaoranfang Marketing Co., Ltd. (“Xiaoranfang Marketing”) and Hangzhou Fubozhonglian Technology Co., Ltd., planning to sell Datasea’s series of acoustic products through mainstream e-commerce channels such as Douyin, Kuaishou, and Xiaohongshu.
+
+4）Sales Channels
+
+Shuhai Beijing and its subsidiaries have established cooperative relationships with multiple domestic sales and channel merchants and established a nationwide marketing channel network through a partnership system.
+
+5）Market Promotion Team
+
+The company has collaborated with three influential Chinese market promotion enterprises, which leverage extensive market resources to recommend new clients for the company and facilitate the signing of contracts with these new clients.
+
+
+Key Customers and Agreements
+
+October 16, 2023, its Delaware operating entity, Datasea Acoustics LLC, has entered into a marketing promotion and sales cooperation agreement with Meglio Interiors LLC (“Meglio”), based in Chamblee, Georgia develop, promote and distribute the Company’s acoustics high tech products in the US and internationally. Datasea plans to establish an assembly line in the nearly future for its acoustics high tech products in Delaware while Meglio will as one of the primary distributor of such products. Meglio has sales channels that includes Atlanta, Dallas and New Jersey and extensive experience in increasing sales for its clients in the US. Meglio has expertise in business development, marketing, sales, branding and channel development in the U.S. furniture market, which the Company believes is an ideal fit for the Company’s home health products that include air disinfection machines, bathroom and wardrobe deodorization devices, as well as sleep-enhancing products.
+
+On April 4, 2024, Company’s wholly-owned subsidiary, Shuhai Jingwei (Shenzhen) Information Technology Co., Ltd. (“Shuhai Jingwei”), entered into a Sales Agreement (the “Agreement”) with Shenzhen Xiaoranfang Marketing Co., Ltd. (“Xiaoranfang Marketing”) for the sale of up to approximately $8.45 million (RMB 60 million) of the Company’s acoustic high tech products. The signing of this Agreement signifies a new milestone for Datasea in promoting the domestic and international sales of its acoustic high tech products and it is expected to be a key driver of the Company’s future revenue growth. According to the Agreement, Xiaoranfang Marketing has agreed to conduct online sales of the Company’s “Hailiji”’ brand’s air disinfection machines and closet and bathroom deodorization and disinfection products, and its “Star Dream” brand of sleep aids, among other series of acoustic high tech products, in both the Chinese and international markets. This includes traditional mainstream e-commerce platforms such as Taobao, JD.com, and PDD in China, and emerging new media platforms, such as Douyin, Kuaishou, and Little Red Book. Xiaoranfang Marketing will also access international channels like Amazon in the U.S. to promote the Company’s products. Xiaoranfang Marketing is a prominent marketing and promotion firm in China with extensive experience in e-commerce, new media marketing and product sales. They have substantial expertise in online sales channels through mainstream Chinese internet platforms and new media platforms as well as experience in operating and managing international Amazon platforms. The Company believes that Xiaoranfang Marketing is a perfect fit for the promotion and sales of the Company’s high tech acoustic products in both the domestic and the international markets.
+
+On April 16, 2024, the Company’s wholly-owned subsidiary, Shuhai Jingwei (Shenzhen) Information Technology Co., Ltd. (“Shuhai Jingwei”), entered into a Sales Agreement (the “Agreement”) with Hangzhou Fubo Zhonglian Technology Co., Ltd. (“Fubo Zhonglian Technology”) for the sale of up to $6.91 million (RMB 50 million) of the Company’s acoustic high tech products. This represents a sustained expansion of the Company’s sales strategy following the Shuhai Jingwei’s signing of an acoustic product sales agreement worth approximately $8.45 million in early April with Shenzhen Xiaoranfang Marketing Co., Ltd. The Agreement is expected to drive sales of Datasea’s innovative acoustic products. According to the Agreement, Fubo Zhonglian Technology plans to sell Datasea’s “Hailijia” and “Star Dream” series of acoustic products, including air disinfection machines, bathroom deodorant disinfection and sleep aid products through mainstream ecommerce channels including Douyin, Kuaishou and Little Red Book. Fubo Zhonglian Technology’s sales methods include digital human sales, livestreaming ecommerce, short video sales and online purchasing agents, with its goal to promote the sales of Datasea’s high-tech acoustic products.Fubo Zhonglian Technology is a renowned internet promotion and marketing service provider that focuses on providing customized intelligent marketing services such as mobile internet channel development, comprehensive new media marketing, brand building and targeted customer penetration. Its team has extensive experience in ecommerce and new media marketing promotion and product sales and also provides core AI digital marketing functions to create virtual anchors for livestreaming sales events. These promotion efforts includes highly realistic virtual digital human images with simulated human language and behavior that combines AI, virtual reality, and real-time rendering technology to provide a real marketing experience that can generates product sales.
+
+
+In April 2024, Datasea’s U.S. listed entity signed a product cooperation framework agreement with iPower Inc. (NASDAQ: IPW), marking the beginning of their joint efforts to expand product distribution in the U.S. online market. As a reputable data and technology-driven online retailer, iPower Inc. is well-positioned to leverage its strong logistics capabilities to excel in the online market.
+
+Key Suppliers and Raw Materials
+
+Our key suppliers for Hailijia’s air disinfection and sterilization products series are as follows:
+
+| ● | Guangdong Hakebao Environmental Technology Co., Ltd. 
+---|---|--- 
+
+| ● | Shenzhen Ajison Environmental Protection Technology Co., Ltd 
+---|---|--- 
+
+| ● | Shenzhen Antuopu Technology Co., Ltd 
+---|---|--- 
+
+| ● | 
+
+Komi Intelligent Manufacturing (Shenzhen) Co., Ltd.
+
+Baihui Precision Plastic Mould (Shenzhen) Co., Ltd. 
+
+---|---|--- 
+
+Shenzhen Fubon New Technology Co., Ltd.
+
+March 19, 2024，Datasea entered into a Manufacturing Cooperation Agreement (the “Agreement”) with Broadway Precision Technology, Ltd. (“Broadway”), a wholly-owned subsidiary with factories in China, Thailand, Mexico and the US of Shanghai Yongli Belt Industry Co., Ltd (“Yongli”) (300230.SZ), a company listed on the Shenzhen Stock Exchange. Broadway has production facilities in Shenzhen, Kaiping, Kunshan, Thailand and the US., with a total workforce of over 4,000 employees and more than 100 precision mold processing equipment and 700 plastic injection molding machines. Broadway is a contract manufacturer for international brands such as Philips, Sony (Japan), and Samsung (South Korea). The Agreement marks an important step for Datasea in the production and deployment of its newly upgraded hi-tech intelligent acoustic deodorization and disinfection products.
+
+The raw materials used in the Hailijia air disinfection and sterilization products series primarily include 40KHz ultrasonic kill module, Shipu DC brushless motors, temperature and humidity sensors, dust sensors, ultraviolet lamps and HEPA13 level layered filters. 
+
+Market Results
+
+Datasea sells its acoustic high-tech products through our direct sales team, as well as select distributors and online channel partners. As of this fiscal year, Datasea has six channel partners, who typically account for the majority of our sales. Starting this fiscal year, we have achieved sales of acoustic high-tech products. We believe that with all channels, the future revenue growth for our acoustic high-tech products will benefit significantly from economies of scale.
+
+5G AI multimodal digital Segment
+
+Our achivments of 5G AI Multimodal digital 
+
+General Information
+
+
+I. Market Potential and Application Trends of 5G AI Multimodal Digital Technology
+
+The market for 5G AI multimodal digital technology is vast, encompassing industries from smart manufacturing and healthcare to autonomous driving and smart cities. By combining the high-speed connectivity of 5G networks, AI’s intelligent analysis capabilities, and the innovative technology of multimodal data processing, this market is expected to see rapid growth in the coming years:
+
+China’s 5G Market
+
+According to the China Academy of Information and Communications Technology (CAICT), China’s 5G market is expected to reach RMB 6.3 trillion by 2030\. The development of 5G technology provides the necessary infrastructure for multimodal digital technology applications, driving use cases from smart devices to smart cities.
+
+AI Multimodal Digital Technology Market
+
+Multimodal technology, which processes and analyzes various forms of data such as text, images, voice, and video in conjunction with AI and 5G, enables more intelligent and precise digital applications.
+
+II. Application Trends Combining 5G AI Multimodal Technologies
+
+Healthcare:
+
+5G AI multimodal technology can integrate electronic medical records, medical imaging, genomic data, and more to assist doctors in making more accurate diagnoses. According to joint research by Tsinghua University and Baidu, China’s medical AI market is expected to reach RMB 130 billion by 2030.
+
+Rural Revitalization:
+
+5G AI multimodal technology also has broad application prospects in China’s rural revitalization. It can integrate various forms of information, such as agricultural, ecological, infrastructure, and economic data, helping governments and businesses optimize rural resource management, promoting agricultural modernization and rural economic development. The technology greatly improves the efficiency of rural management, especially in areas like real-time data monitoring, crop management, logistics, and targeted poverty alleviation. According to market research, China’s rural revitalization market is expected to reach RMB 7.8 trillion by 2025, mainly driven by the application and innovation of 5G and AI technologies in agriculture and rural development.
+
+
+New Media Industry:
+
+5G AI multimodal technology also has a vast application potential in China’s new media industry. This technology can integrate multiple forms of content data, such as text, images, video, and audio, helping media platforms offer more personalized and precise content recommendations.
+
+Logistics and Express Delivery Industry:
+
+The application of 5G and AI in China’s logistics and express delivery industry, including intelligent warehouse management, automated sorting, and unmanned delivery, is expected to become one of the fastest-growing markets in the future. According to iResearch, China’s logistics and express delivery market is expected to reach RMB 1.9 trillion by 2025.
+
+Unmanned Delivery and Smart Logistics:
+
+Through 5G networks, unmanned delivery vehicles and drones can process multimodal data from sensors, cameras, and GPS in real time, ensuring safe and precise operations during the delivery process. According to iResearch, China’s unmanned delivery market is expected to reach RMB 500 billion by 2030.
+
+Conclusion
+
+The market space for 5G AI multimodal digital technology is rapidly expanding in China, with enormous potential across various industries. As 5G networks become more widespread and AI technologies mature, multimodal technology is set to become a core force driving digital transformation and industry upgrades for Chinese enterprises in the future.
+
+Ⅲ. Datasea’s core advantages and existing 5G AI multimodal digital products
+
+As one of China’s leading service providers in the 5G AI multimodal digital business field, Datasea’s 5G AI multimodal digital products deeply integrate text messages, multimedia messages, conversation messages, and value-added services. These products not only support various application services but also enable real-time communication with user terminals through a native SMS application channel. With an intelligent service system, the entire process is automated, allowing for self-service responses to customer needs, significantly improving service efficiency, response speed, and user experience.
+
+Datasea has utilized advanced AI processing technology to carry out a comprehensive technological upgrade to its 5G AI multimodal digital business, resulting in disruptive functionality enhancements. Currently, the platform can intelligently generate and process various information formats such as sound, text, images, and video with high precision and efficiency. Additionally, leveraging AI digital human technology, the platform enables automated marketing, intelligent content creation, and efficient information transmission in the marketing field, creating a powerful video matrix and precision marketing tools. This technological innovation offers customers a new level of brand building, customer acquisition, and marketing solutions, significantly driving revenue growth and helping clients stand out in the competitive market. Through the low-latency and high-speed transmission features of 5G, Datasea’s products not only achieve real-time data interaction but also support large-scale, customized, multi-channel content distribution, creating new business models and marketing opportunities for enterprises.
+
+
+IV. The Company’s 5G AI Multimodal Digital Business Products and Product Value
+
+As one of the leading service providers in China’s 5G AI multimodal digital business field, Datasea’s 5G AI multimodal digital products integrate text messages, multimedia messages, conversation messages, and value-added services to create a highly intelligent, comprehensive digital platform with solutions spanning multiple industries, including rural revitalization, logistics, and the beauty industry. Datasea’s 5G AI multimodal digital business solutions provide 5G digital and intelligent services, as well as various value-added services, to more than 48.42 million enterprises and institutions (over 99% of which are small and medium-sized enterprises) and households in China.
+
+Datasea’s 5G AI multimodal digital platform and solutions not only support a wide range of application services but also leverage a native SMS application channel for instant communication with user terminals. With an intelligent service system, the entire process is fully automated, requiring no manual intervention, enabling self-service responses and handling of customer needs. This significantly improves service efficiency, response speed, and user experience.
+
+The platform operates through cloud computing and SaaS models, supporting cross-industry applications, including digital transformation solutions from rural revitalization to logistics and the beauty industry. In rural revitalization, the solution offers smart agriculture management and infrastructure optimization, improving efficiency, reducing waste, and supporting rural modernization. Through precision agriculture, remote healthcare, and education services, the solution enhances rural living standards. In the logistics sector, intelligent warehousing, sorting, and unmanned delivery solutions help reduce costs and improve efficiency, driving the digital transformation of logistics and providing faster, more reliable services, especially in remote areas. For the beauty industry, smart customer management, personalized services, and remote consultations enhance service quality and customer satisfaction, fostering industry innovation and offering consumers more personalized and efficient beauty services.
+
+Sales and Distribution
+
+In terms of customer acquisition and marketing, the company has continuously implemented a series of robust measures to drive sales, resulting in explosive growth.
+
+Through its own sales team, the Company vigorously promotes and publicizes the Company’s research and development results and technology display in 5G sales, actively participates in important seminars and business fairs around the country, and deeply explores the target customers related to 5G news. Through painstaking efforts and keen business acumen, we have obtained a stable customer flow.
+
+Furthermore, the Company also hired a professional 5G news business promotion team, and signed 5G communication marketing service agreements with some marketing companies that have many years of advantages in Internet of Things market development, operation and promotion services, have effective integration with mobile Internet enterprises, Internet of Things industry chain and other resources, and have strong channel expansion and sales and operation capabilities, to carry out in-depth cooperation. Quickly and effectively recruit high-quality partners for the Company to achieve rapid economic value transformation. Third party marketing companies bring us a large number of customers, which is our total sales growth engine.
+
+Finally, we have also carried out some preferential activities and implemented different discount policies for customers. Through preferential activities to attract customers to participate in cooperation, increase customer participation and loyalty, thereby increasing sales artery.
+
+
+Key Customers and Agreements
+
+We had revenues of $23,975,867 and $3,640,690 for the years ended June 30, 2024 and 2023, respectively, which shows an increase of $20,335,177 or over 558.6% compared to the same period in 2023. The increase in revenues was mainly due to the rapid increase of 5G AI multimodal digital business in China.
+
+On December 8, 2023, Datasea’s Chinese operating entity, Guozhong Times (Beijing) Technology Co., Ltd. (hereinafter referred to as the “subsidiary”), has reached an agreement with an important new client, Weihai Hongyun Shi Hao Information Technology Co., Ltd. As of December 31, 2023, Guozhong Times has provided 5G multimodal communication services worth approximately $0.91 million (equivalent to RMB6.52 million).
+
+On August 12, 2024, Datasea’s operating entities in China, Shuhai Information Technology Co., LTD. (“Suhai Beijing”)\ Heilongjiang Xungrui Technology Co., LTD. (“Xungrui Technology”), Shuhai Jingwei (Shenzhen) Information Technology Co., LTD. (“Shuhai Jingwei”), Guozhong Haoze (Beijing) Technology Co., LTD. (“Guozhong Haoze”) and Guozhong Times (Beijing) Technology Co., LTD. (“Guozhong Times”) entered into an agreement with Qingdao Ruizhiyixing Information Technology Co., LTD. (hereinafter referred to as “RuizhiYixing”). The agreement provides for the purchase of 5G AI multi-modal data recharge cards in various denominations within 12 months after the agreement takes effect, with prices ranging from 10 yuan to 500 yuan ($1.38 to $69.4). As of the date of September 20, 2024, the operating entity of Shuhai Information China has received cash advance payment of RMB135.33 million (equivalent to US $18.98 million) from Qingdao Ruizhiyixing Information Technology Co., LTD.
+
+On August 9, 2024, Datasea’s operating entity in China, Shuhai Information Technology Co., LTD. (“Shuhai Beijing”), entered into an agreement with Shanghai Shixun Network Technology Co., LTD. (hereinafter referred to as “Shixun Network”). The agreement stipulates that the company will purchase 5G AI multimodal data cards of various denominations within 12 months after the agreement comes into effect, with prices ranging from 10 yuan to 500 yuan ($1.38 to $69.4). As of the date of September 20, 2024, the operating entity of Shuhai Information China has received cash advance payment of RMB 11.64 million (equivalent to US $1.63 million) from Shanghai Shixun Network Technology Co., LTD.
+
+On August 9, 2024, Datasea’s operating entity in China, Guozhong Times (Beijing) Technology Co., LTD. (“Guozhong Times”), a subsidiary of Suhai Information Technology Co., LTD. (“Shuhai Beijing”), entered into an agreement with Wuhan Xiaoming Technology Co., LTD. (hereinafter referred to as “Xiaoming Technology”). The agreement provides for the purchase of 5G AI multi-modal data recharge cards in various denominations within 12 months after the agreement takes effect, with prices ranging from 10 yuan to 500 yuan ($1.38 to $69.4). As of the date of September 20 2024, the China operating entity of Shuhai Information has received cash advance payment of RMB 5.432,700 yuan (equivalent to $762,520 ) from Wuhan Xiaoming Technology Co., LTD.
+
+On May 11, 2024, its Chinese operating entity, Shuhai Information Technology Co., Ltd. (“Shuhai Information”), has entered into a Cooperation Agreement (the “Agreement”) with Beijing Haoteng Chuangxiang Technology Co., Ltd. (“Haoteng Chuangxiang”), to enhance the Company’s 5G AI multimodal business in the China. According to the Agreement, beginning on May 11, 2024 and continuing over a period of 12 months. As of June 30 2024, Shuhai Information has already provided approximately $4.2 million (RMB 30.0 million) worth of 5G information services to end-users based on Haoteng Chuangxiang’s market demand, which is an early indication of the Agreement’s potentially powerfully implications.
+
+
+The Chinese operating entity of Shuhai Information reached an agreement with Xiamen Duoqiao Network Technology Co., Ltd. From July 2023 to June 2024. The operating income of Xiamen Duoqiao Mai Network Technology Co., Ltd. was USD 4.06 million (equivalent to RMB 28.96 million);
+
+In July 2023, the Chinese operating entity of Shuhai Information reached an agreement with Hainuo Xintong (Qingdao) Network Technology Co., LTD., to purchase 5G AI multi-modal top up cards of various denominations. From July 2023 to June 2024, Hainuo Xintong(Qingdao) Network Technology Co., LTD. ’s operating income was USD 4.96 million (equivalent to RMB 35.39 million).
+
+The Chinese operating entity of Shuhai Information Group reached an agreement with Qingdao Osaidi Network Technology Co., Ltd. From August 2023 to June 2024, Qingdao Osaidi Network Technology Co., LTD. ’s operating income was USD 4.68 million (equivalent to RMB 33.35 million).
+
+Key Suppliers and Raw Materials
+
+Our 5G AI multimodal digital products are generally software systems or platforms, mainly developed by the Company’s inhouse research and development team.
+
+Market Results
+
+Through its independently developed 5G AI multimodal digital business platform, Datasea is supporting the digital transformation and upgrade of cities and enterprises in the Chinese market. In terms of customer acquisition and marketing, the company has implemented a series of strong measures to drive sales, achieving explosive growth. By the end of this fiscal year, the company’s main source of revenue came from service fees related to its 5G AI multimodal digital business services, with total revenue reaching $23,975,867, reflecting a 558.6% increase compared to the same period in 2023. The revenue growth is primarily due to the rapid expansion of China’s 5G AI multimodal communication business, with Datasea’s 5G AI multimodal digital business maintaining a leadership position in the industry. The continuous growth of the customer base supports the company’s significant business expansion.
+
+The company is actively expanding its operations, increasing the number of large client contracts while growing its smaller national client base. Notable large clients include Qingdao Ruizhiyixing Information Technology Co., Ltd., Shanghai Shixun Network Technology Co., Ltd., Wuhan Xiaoming Technology Co., Ltd., Xiamen Duoqiaomai Network Technology Co., Ltd., Hainuo Xintong (Qingdao) Network Technology Co., Ltd., and Beijing Haoteng Chuangxiang Technology Co., Ltd. As of the date of September 20, 2024, the company has received approximately RMB 152.40 million (equivalent to $21.37 million) in cash advances from major customers of its 5G AI multimodal digital business.
+
+The company is currently fulfilling service obligations that have not yet been recognized as revenue for this fiscal year. The total contract value of services that will be recognized in future financial statements exceeds $100 million.
+
+ESG Management
+
+Datasea remains dedicated to integrating ESG (Environmental, Social, and Governance) considerations into our business operations and strategy. We recognize that this approach is vital for effectively managing risks, identifying growth opportunities, and bolstering our long-term resilience. Moreover, it helps us foster positive relationships with stakeholders and enhance our reputation, giving Datasea a competitive advantage in an ever-evolving industry.
+
+
+As part of our ongoing commitment to ESG, Datasea has adopted a comprehensive framework to align our operations with our values and priorities. This framework guides our decision-making processes andemphasized sustainable growth and long-term success.
+
+Transparency and accountability are central to our ESG approach. Starting from 2023, Datasea is committed to providing meaningful and accurate sustainability information to our stakeholders. To achieve this, we will disclose information about our ESG practices and performance through quarterly and annual ESG Reports and sustainability statements.
+
+Our progress in ESG integration and reporting during this fiscal year includes the followings:
+
+ESG Evaluation: In the second quarter of 2024, Datasea conducted a thorough ESG evaluation to assess our current performance and pinpoint areas for improvement. This assessment was instrumental in understanding our ESG readiness and identifying our top ESG priorities. It served as the foundation for developing our ESG roadmap and implementation plan.
+
+Datasea’s ESG priority assessment is a cornerstone of our commitment to ESG integration. It helps us focus on the most significant ESG issues for both Datasea and our stakeholders. Our priorities span environmental, social, and governance dimensions, ensuring a well-rounded approach.
+
+Key ESG Priorities:
+
+Keywords: Sustainability Initiatives: Committed to reducing its carbon footprint and increasing the use of renewable energy and eco-friendly materials; enhancing energy usage and efficiency. Energy Efficiency: The company implements energy-efficient practices in its offices and data centers.
+
+The company is actively advancing sustainability initiatives, focusing on reducing its carbon footprint and significantly increasing the use of renewable energy and eco-friendly materials. Specific targets have been set to reduce greenhouse gas emissions, and energy-saving technologies have been introduced to improve overall energy efficiency. In terms of energy efficiency, a series of measures have been implemented, including the adoption of advanced energy management systems in offices to reduce energy consumption and minimize environmental impact. Additionally, all newly renovated office facilities incorporate efficient energy-saving designs, further promoting green operations. These actions not only enhance the company’s environmental performance but also set a benchmark for sustainability in the industry.
+
+Keywords: Community Support: Engages in various social initiatives and actively participates in community activities. Workplace Culture: Committed to fostering a positive and inclusive work environment. Focus areas include inclusivity, diversity, anti-discrimination, talent recruitment, development and retention, employee health and safety.
+
+Philanthropy and Community Engagement:
+
+The company actively participates in various philanthropic activities, including the “Love and Support Education” charity program and the Sunshine Volunteer Charity Club. Ms. Liu Zhixin, CEO of the company, was honored as a Charity Ambassador by the China Charity Federation in 2020 for her involvement in these programs and received the title of Loving Entrepreneur in 2021. In 2023, she was elected Vice President of the Shenzhen Women Entrepreneurs Association. Additionally, Ms. Liu was awarded the title of Integrity Entrepreneur and Integrity Manager in 2020 and was elected Vice President of the Shenzhen Women Entrepreneurs Association and Heilongjiang Business Environment Supervisor in 2024.
+
+
+Supporting Employee Growth:
+
+The company continuously enhances its recruitment standards and improves its talent development management system. It has established a platform for employee development to help talented individuals enhance their skills and achieve outstanding results, ensuring that each employee finds personal value within the company. The company also emphasizes protecting employee rights, creating a positive work environment, and sharing development achievements with all employees to build a better future together.
+
+Building an international talent team is crucial for the company’s sustainable development. Firstly, the company has sent Ms. Li Huan, Deputy General Manager of the R&D Department, to Austria for further education to explore internal potential, cultivate talent reserves, and acquire new technical knowledge. Secondly, the company continues to recruit professionals in China and the United States to enhance management, marketing, sales, capital markets, and corporate governance, advancing the company’s internationalization.
+
+The company respects and values employees of different ages, ethnicities, regions, political affiliations, religious beliefs, sexual orientations, marital and fertility statuses, educational backgrounds, work styles, work experiences, and personal viewpoints. The company attracts and gathers talent with a focus on “Diversity, Equity, and Inclusion.” It strictly adheres to the Labor Law of the People’s Republic of China and the Labor Contract Law of the People’s Republic of China, implementing internal regulations such as the “Onboarding Management System” and “Labor Contract Management System.” The company legally signs labor contracts, pays social insurance and housing provident fund, and respects and protects everyone’s legal rights. In 2023, the company reviewed its policies in line with the latest revisions of the Law on the Protection of Women’s Rights and Interests to ensure lawful and compliant implementation. The company aims to create an equal, respectful, healthy, safe, and harmonious working environment to promote collective growth. Compared to 2023, the proportion of female employees increased by 12% in 2024. CEO Liu Zhixin was elected Vice President of the Jinghai District Women Entrepreneurs Association in Tianjin and became a member of the China Women Entrepreneurs Association.
+
+Employment and Rights Protection:
+
+Diversity and Equality:
+
+The company has established a top-down talent attraction system for different groups. In 2024, the company provided tens of thousands of job opportunities in three cities, including for recent graduates and veterans. Additionally, the company leverages technological advantages to develop a range of systems and platforms aimed at improving recruitment efficiency. Through internal and external channels and focusing on industry and talent distribution differences, the company strengthens talent attraction and reserves, enhances recruitment efficiency, and aligns with the company’s strategic goals.
+
+Compensation and Benefits:
+
+The company has developed regulations such as the “Performance Bonus Assessment Management Measures,” “Performance Incentive Management Measures,” and “Stock and Equity Incentive Management Measures” to offer competitive compensation and benefits. The employee compensation system includes basic salary, performance pay, job-specific pay, welfare subsidies, and bonuses. The company has comprehensively built its compensation system considering regional competition conditions, local economic development levels, and factors such as employees’ work experience, knowledge, skills, job responsibilities, and performance levels.
+
+
+To retain and expand the team, the company has established a multi-layered compensation and incentive system, offering corresponding incentives to directors, executives, employees, consultants, and other external partners who contribute to company growth. This includes stock rewards from the listed company and the establishment of shareholding platforms for core business subsidiaries. To date, the company has issued relevant stock according to the 2018 stock incentive plan to directors, executives, employees, and external consultants for three consecutive years.
+
+In 2024, the company continued to implement its team equity incentive plan. Core R&D team members who made significant contributions to the company’s 5G AI multimodal digital business and AI upgrades, as well as several consultants who made positive contributions to technology innovation and new product upgrades, received equity incentives from the listed company. This effectively retained core employees, attracted more high-end talent, deeply stimulated the company’s development vitality, and formed a “value co-creation, risk-sharing, and benefit-sharing” interest community and business network. Additionally, three core business subsidiaries in China have established shareholding platforms, attracting interest communities including core teams and sales cooperation teams, maximizing the incentive effect.
+
+Keywords: Corporate Governance: Maintains strong governance practices, including an independent board of directors and ethical business conduct policies.
+
+Transparency: Emphasizes transparency in reporting and communication with stakeholders. Cybersecurity, Data Privacy: Ongoing efforts as a technology company.
+
+In terms of governance, the company is committed to maintaining strong corporate governance practices. It has established an independent board of directors to ensure fairness and transparency in supervision and decision-making processes. Out of five board members, three are male and two are female, with women representing 40% of the board. Additionally, in the management team, there are four Asian executives and one Caucasian executive. Considering the Chief Financial Officer (CFO), the executive team consists of six members, including three men and three women, reflecting the company’s commitment to diversity, equity, and transparency. The company also implements a comprehensive ethical business conduct policy to regulate the behavior of employees and management, ensuring the legality and ethicality of company operations.
+
+Transparency and accountability are core to our ESG strategy. Datasea is dedicated to providing stakeholders with meaningful and accurate information regarding our ESG practices and performance. This information will be disclosed through regular ESG reports and accompanying sustainability statements. As well as well-known American investor relations and other professional institutions to cooperate with the market timely delivery.
+
+As a technology company, although not dealing with large volumes of data, we continue to invest resources and efforts into data privacy. The company employs advanced security technologies and data protection measures to safeguard user data’s security and privacy. These measures not only protect user information but also enhance customer trust in the company’s services.
+
+The company has been strengthening internal control, and strive to transform from independent internal control to third-party participation in internal control. These initiatives primarily include:
+
+
+Competition
+
+It is essential to recognize that acoustic technology is a broad and diverse field. Different acoustic attributes find extensive applications in various niche sectors, and distinct competitive landscapes exist across different application areas. Major tech companies like Baidu, Alibaba, Tencent, and others have also invested in acoustic-related technologies, potentially impacting future market dynamics. We anticipate that competition in the markets we engage in will continue to intensify as existing competitors enhance or broaden their product offerings, and as new companies enter the market. Moreover, our ability to compete effectively depends on various factors, including technological innovation, product safety, as well as attributes such as price and brand reputation.
+
+Going Concern
+
+The accompanying unaudited consolidated financial statements were prepared assuming the Company will continue as a going concern, which contemplates continuity of operations, realization of assets, and liquidation of liabilities in the normal course of business. For the years ended June 30, 2024 and 2023, the Company had a net loss of approximately $11.38 million and $9.48 million, respectively. The Company had an accumulated deficit of approximately $39.44 million as of June 30, 2024, and negative cash flow from operating activities of approximately $6.40 million and $3.14 million for the years ended June 30, 2024 and 2023, respectively.
+
+The historical operating results indicate the Company has recurring losses from operations which raise the question related to the Company’s ability to continue as a going concern although the range of such recurring operating losses has narrowed in recent years. There can be no assurance the Company will become profitable or obtain necessary financing for its business and investments or that it will be able to continue in business and investments. The consolidated financial statements do not include any adjustments that might result from the outcome of these uncertainties. As of June 30, 2024, the Company had cash of $181,262.
+
+We continue to bring in additional investors to support our company’s research and development, marketing and operations. On August 1, 2023, the Company entered into two separate subscription agreements with a certain non-U.S. investor, pursuant to which the Company agreed to sell and the investor agreed to purchase an aggregate of 4,760,000 shares of common stock price at a $1.2 per share purchase price. Such shares must be held for a period of 365 days. In accordance with such two agreements, Investor shall pay a total purchase price of $5,712,000 in RMB, at an amount of RMB 40,000,000, no later than September 30, 2023. On September 21, the Company has received all of the payment of RMB 40,000,000.
+
+
+On August 15, 2023, the Company entered into a subscription agreement with a non-U.S. investor to purchase an aggregate of 2,962,963 shares of common stock price at a $1.35 per share purchase price, with a total subscription price of $4,000,000. The shares must be held for a period of 180 days. On September 13, 2023, our Company announced the closing of an underwritten public offering of 5,000,000 shares of common stock at a public offering price of $0.40 per share, for net proceeds of $1,635,000, after deducting underwriting discounts and other offering expenses. On July 3, 2024, we closed an offering for net proceeds of $2.2 million after deducting underwriting discounts and other offering expenses. We believe these fundings demonstrate our investors’ confidence in our strategy and busines
+
+The Company recorded $0.83 million gain on disposal of the subsidiary, which was the difference between the selling price of US$0.28 and the carrying value of the negative net assets of $2.34 million of the disposal entity, and further netting off the inter-company receivables from Zhangxun of $1.48 million due to uncertainty of the repayment from Zhangxun. In addition, the Company incurred an additional $32,236 intercompany receivables from Zhangxun during the three months ended September 30, 2023, for which, the Company also netted off with gain on disposal of Zhangxun. 
+
+If deemed necessary, management could seek to raise additional funds by the way of introducing strategic investors or private or public offerings, or by obtaining loans from banks or others, to support the Company’s research and development, procurement, marketing and daily operation. However, there can be no assurance that additional funds will be available when needed from any source or, if available, will be available on terms that are acceptable to us. We may be required to pursue sources of additional capital through various means, including debt or equity financings.
+
+Future financings through equity investments are likely to be dilutive to existing stockholders. Also, the terms of securities we may issue in the future capital transactions may be more favorable for new investors. Further, we may incur substantial costs in pursuing future capital and/or financing, including investment banking fees, legal fees, accounting fees, printing and distribution expenses and other costs. Our ability to obtain needed financing may be impaired by such factors as the capital markets and our history of losses, which could impact the availability or cost of future financings. If the amount of capital we are able to raise from financing activities, together with our revenues from operations, is not sufficient to satisfy our capital needs, even to the extent that we reduce our operations accordingly, we may be required to cease operations.
+
+Sustainable operation can help enterprises improve operating efficiency, enhance the competitiveness of enterprises, and enhance the market share of enterprises.
+
+Sustainable operation can help enterprises better control risks, reduce operating costs, and ensure the safety of enterprises
+
+Sustainable operation can help enterprises enhance their social image and enhance their sense of social responsibility.
+
+Sustainable operation can help enterprises better grasp market opportunities, grasp market trends, and achieve a win-win situation between enterprises and society.
+
+Significant Accounting Policies
+
+Please refer to our significant accounting policies in Note 2 to our consolidated financial statements included in this report.
+
+
+Results of Operations
+
+Comparison of the Years ended June 30, 2024 and 2023
+
+The following table sets forth the results of our operations for the years ended June 30, 2024 and 2023, respectively, indicated as a percentage of net sales. Certain columns may not add up due to rounding.
+
+Revenues
+
+We had revenues of $23,975,867 and $3,640,690 for the years ended June 30, 2024 and 2023, respectively, which shows a $20,335,177 increase by comparing with the same period of 2023,an increase of 558.6% over the same period last year.The increase in revenues was mainly due to the rapid increase of 5G AI multimodal digital business in China. For the year ended June 30, 2024, revenues mainly consisted of service fees from our 5G AI Multimodal digital. The company’s 5GAI multimodal digital business is an industry leader, and the continued expansion of the company’s customer base supports the continued significant improvement of the business.
+
+From July 1, 2023 to June 30, 2024, the Company generated revenue of $23,975,867, including $23,792,479 from the 5G AI multimodal digital business, $109,860 from Smart City Business, $3,988 from Acoustic Intelligence Business, $69,540 from other services. From July 1, 2022 to June 30, 2023, the Company generated revenue of $3,640,690, including $3,437,713 from the 5G messaging business, $42,772 from Smart City Business and $81,275 from Acoustic Intelligence Business, and $78,930 from other business.
+
+This is inseparable from the Company’s research and development support and personnel support over the years, the Company’s upstream and downstream chain maintenance and experience accumulation and precipitation eventually formed a huge loyal customer base, but also closely related to the thriving vitality of the 5G market.
+
+Through its own sales team, the Company vigorously promotes and publicizes its research and development results and technology display in 5G sales, actively participates in important seminars and business fairs around the country, and deeply explores the target customers related to 5G news. Through painstaking efforts and keen business acumen, we have actually obtained a stable customer flow.
+
+The Company’s top five customers for 5G AI multimodal digital business at this stage are Xiamen Duoqiao Mai Network Technology Co., LTD., Hainuo Xintong (Qingdao) Network Technology Co., LTD., Qingdao Osaidi Network Technology Co., LTD., Qingdao Ruicheng Lida Network Technology Co., LTD., and Weihai Hongyun Shihao Information Technology Co., LTD.. Through close business cooperation, the above customers have become stable and loyal partners of the Company, and will work together in the future.
+
+
+In terms of marketing promotion, the Company has hired a professional cooperative marketing team to introduce and recruit suitable and high-quality stable customers for the Company. From the fourth quarter of 2023, the sales of the Company’s 5G Multimodal communication business has witnessed explosive growth, and the sales in the second quarter of 2024 have significantly increased compared with the previous quarter.
+
+At present, the Company’s research and development technology in 5G AI multimodal digital is leading in the industry. After long-term expansion of customer groups, it has formed a stable customer group. At present, the Company has also hired a professional 5G Multimodal communication business promotion team. We signed 5G communication marketing service agreements with some marketing companies that have many years of advantages in iot market development, operation and promotion services, have effective integration with mobile Internet enterprises, iot industry chain and other resources, and have strong channel expansion and sales and operation capabilities to carry out in-depth cooperation. This business segment belongs to the stable growth of the company’s business, and in the future, the company will continue to grow steadily, steadily and rapidly in the 5G AI multimodal digital business segment.
+
+Cost of Revenues
+
+We recorded $23,501,762 and $3,505,209 cost of revenues for the years ended June 30, 2024 and 2023, respectively, which shows a $19,996,553 increase by comparing with the same period of 2023. For the year ended June 30, 2024, cost of revenues was mainly the 5G AI multimodal digital platform fees and Cloud Platform construction to suppliers. The increase in cost of revenues was due mainly to the increased revenue of 5G AI multimodal digital. For the year ended June 30, 2024, the cost of 5G AI multimodal digital was $23.40 million, the cost of other services was $68,391, the cost of smart city was $30,928 and the cost of Acoustic Intelligence business was $2,345. For the year ended June 30, 2023, the cost of 5G messaging was $3.41 million, the cost of Smart City business was $34,858, the cost of Acoustic Intelligence Business was $34,827 and the cost of other business was $25,083.
+
+Gross Profit
+
+Gross profit for the year ended June 30, 2024 was $474,105 compared to $135,481 for the year ended June 30, 2023, which shows a $338,624 increase by comparing with the same period of last fiscal year. The increase in gross profit was mainly due to the increase in sales for the year ended June 30, 2024.
+
+Gross margin is 2.0% and 3.7% for the years ended June 30, 2024 and 2023. The decrease in gross margin was mainly due to the lower gross profit margin of 5G AI multimodal digital service.
+
+Measures to improve the gross profit margin of enterprises:
+
+
+From the perspective of market prospects, according to the prediction of Global Association for Mobile Communication Systems, by 2025, the number of 5G connections in China will exceed the sum of North America and Europe, ranking first in the world. The number of 5G connections will reach 460 million, accounting for 28% of the total connections in the country. 5G messaging has become an international standard.2 China will become one of the largest single contributors to the global growth of mobile internet users in the coming years, accounting for nearly 20% of the total global increase.
+
+Combining the advantages of “Internet of Things+” intelligent terminals and 5G messaging industry chain, Shuhai Beijing is advancing with the time, taking the train of the 5G era, and developing 5G Multimodal communication/phone top up business. At this stage, Shuhai Beijing is carrying out the development, operation and promotion services of the Internet of Things market and increasing the effective combination of resources with Mobile Internet enterprises and the Internet of Things industrial chain.
+
+In 2023, the 5G AI multimodal digital business of Shuhai Information accounts for a relatively big proportion of the total revenue, because, at this stage, the business belongs to the early stage of the development, operation and promotion services of the Internet of Things market, and the investment in all aspects is large. In addition, the gross profit of the traffic top up business is generally low. As a result, the annual gross profit margin decreased from the previous year. The Company’s focus in this business is to integrate new resources, expand new businesses related to 5G, combine the Company’s years of deep cultivation and accumulation in 5G news, and take this opportunity to open up more 5G-related businesses to increase the Company’s revenue and new business. 
+
+In China’s mature and transparent market today, gross margins on services are far greater than those on hardware sales. The improvement of gross profit margin shows that the Company’s measures to improve gross profit margin are gradually showing effect: 1) costs will be reduced by economic scale over a larger number of customers base and the increase in production; 2) the Company, by adopting the differentiation strategy, grows brand recognition and customer loyalty, strengthening the Company’s pricing power; 3) As the scale of 5G AI multimodal communicaiton traffic top up services and the number of serviced customers, along with service quality, continue to improve, customized and value-added services, as well as service fees, will gradually increase. This will boost the profitability of the Company’s related businesses. The Company will continue to increase the share of high gross profit products in the sales while increasing the revenue, so as to further improve the gross profit rate and give investors a better return on investment.
+
+Selling, General and Administrative, and Research and Development Expenses
+
+Selling expenses were $3,279,627 and $372,639 for the years ended June 30, 2024 and 2023, respectively, representing an increase of $2,906,988 or 780.1%. The increase was mainly due to the increased advertising and marketing expenses by $3,074,476, which was partly offset by decreased in payroll expense of salespersons by $148,873, decreased service fee by $9,662 and decreased travel expense by $7,961.
+
+Currently, we are focusing on expanding the Company’s leadingacoustics high tech technologies and products and continuing to develop 5G-related applications. We incurred R&D expenses of $359,342 and $569,635 during the years ended June 30, 2024 and 2023, respectively, which shows a $210,293 or 36.9% decrease by comparing with the same period of 2023.
+
+Research and development expenses of $359,342 for year ended June 30, 2024. The Company’s research and develop results include but are not limited to the following:
+
+As one of the leading service providers in China’s 5G AI multimodal digital field, Datasea has several primary products and services targeting different customers and needs, including: 5G AI multimodal new media marketing service platform,5G AI multimodal Smart Agriculture (Digital Rural) Service Platform, 5G AI multimodal platform for small and micro-enterprise services platform and 5G AI multimodal traffic top up platform. 5G AI multimodal digital business applications applicable to various industries in China, and payment system applications combined with artificial intelligence (AI), big prediction mode and data analysis capabilities.
+
+
+Datasea has completed a revolutionary upgrade of its core 5G multimodal communication business with AI processing technology. Currently, it can achieve AI creation and generation of various information forms including sound, text, images, and videos, as well as efficient transmission and AI digital human marketing functions. This capability can empower numerous industries and clients with potent marketing and video matrix capabilities. It can contribute to clients in brand enhancement, customer acquisition, market promotion, and revenue uplift.
+
+In the field of acoustic high-tech business, the company is one of the units that proposed the concept of “acoustic effect” in the world, and exports acoustic high-tech products and solutions to the world. The company combines basic acoustic theory with artificial intelligence, takes acoustic technology and acoustic effect as the technical system, and researches and applies non-audible mechanical wave effects to collect and process acoustic data and solve problems. Datasea utilizes cutting-edge technologies in the field of acoustic high technology and has the world’s leading acoustic equipment to acoustic algorithm models. Acoustic technology and products are widely used in various industries and fields, including acoustic agricultural applications, acoustic industrial applications, acoustic medical, acoustic health and acoustic iot technology. Especially in the field of ultrasonic technology, the use of ultrasonic cavitation effect, thermal effect, mechanical effect to solve the needs of various application scenarios, to achieve disinfection and sterilization, crop drying, safety monitoring, beauty and skin care and medical health and other applications.
+
+Our Acoustics and 5G intelligent products and solutions are able to serve more than 48.42 million enterprises and businesses of all types (over 99% are SMEs) and households in China with digital and intelligent services.
+
+Market Promotion Team
+
+The company has collaborated with three influential Chinese market promotion enterprises, which leverage extensive market resources to recommend new clients for the company and facilitate the signing of contracts with these new clients.
+
+General and administration expenses increased $1,583,102, or 21.5% from $7,377,421 during the year ended June 30, 2023 to $8,960,523 during the year ended June 30, 2024. The increase was mainly due to increased stock compensation expense by 2,370,439, increased payroll expense by $94,568, increased travel expense by $47,248 and increased other expenses by $107,207, which was partly offset by decreased rent expense by $341,960, decreased payroll expense by $103,928, and decreased profession service expense by $590,472.
+
+We are treating human capital as a key indicator to drive business growth and technical innovation, also pursuing better integrated channels with related industries.。
+
+Non-Operating Expenses, net
+
+Non-operating expenses were $95,918 for the year ended June 30, 2024, consisting mainly of interest income of $1,975 and other expenses of $97,893. Non-operating expense was $24,382 for the year ended June 30, 2023, consisting mainly of interest income of $148 and other expenses of $24,530.
+
+Net (Income) Loss from Discontinued Operation
+
+We generated net income from discontinued operation of $833,546 (which was the gain on disposal of Zhangxun), and net loss of $1,489,419 for the years ended June 30, 2024 and 2023, respectively. 
+
+Net Loss from continuing operation
+
+We generated net loss from continuing operation of $12,210,610 and $8,199,777 for the years ended June 30, 2024 and 2023, respectively, an $4,010,833 or 48.9% increase by comparing with the same period of 2023. The increase in net loss was mainly due to the increase in operating expenses which was partly offset by increased gross profit as explained above.
+
+Accounts receivable 
+
+The operating revenue of the year ended June 30, 2024 was $23,975,867, the balance of accounts receivable was $718,546 at June 30, 2024. In the same period last year, the operating revenue was $3,640,690, and the accounts receivable balance was $255,725 at June 30, 2023. This quarter, the Company further segmented the market, planned eight regional headquarters, strengthened the collection control, and promoted the fund collection of contracted delivery projects, which led to the benign return of funds and had a far-reaching impact on the future.
+
+
+Liquidity and Capital Resources
+
+Historically, we have funded our operations primarily through the sale of our common stock and shareholder loans. To enhance our ability to continue to operate as a going concern, we are dedicating resources to generate recurring revenues and sustainable operating cash flows.
+
+We expect to generate revenues through expanding our current 5G AI multimodal digital business and acoustic intelligence business, and through continuous product innovation and development as well as various types of value-added services. In order to maintain working capital sufficient to support our operations and finance the future growth of our business, we expect to fund any cash flow shortfall through financial support from our majority stockholders (who are also our board members or officers) and public or private issuance of securities. However, such additional cash resources may not be available to us on desirable terms, or at all, if and when needed by us.
+
+As of March 31, 2024, we had a working capital deficit of $952,090 or a current ratio of 0.74:1, and our current assets were $2,647,892. As of June 30, 2023, we had a working capital deficit of $3,617,058 or a current ratio of 0.26:1. Our current assets were $1,289,517.
+
+We expect the Company to continue to support its ongoing operations and financing through revenue growth and increased financing activities. However, there is no assurance that the Company will be able to secure such additional working capital on commercially viable terms or at all. 
+
+The following is a summary of cash provided by or used in each of the indicated types of activities during the years ended June 30, 2024 and 2023, respectively.
+
+Cash Flow from Operating Activities
+
+Net cash used in operating activities was $6,398,883 during the year ended June 30, 2024, compared to net cash used in operating activities of $3,136,081 during the year ended June 30, 2023, an increase in cash outflow of $3,262,802.
+
+The increase in cash outflow was mainly due to 1) increased net loss by $1,689,744, 2) increased non-cash adjustments to net cash used in operating activities including i) gain on disposal of subsidiary by $833,546, ii) decrease of depreciation and amortization expense by $206,950, and iii) decreased operating lease expense by $452,727, but partly offset by increased stock compensation expense by $2,370,439, 3) increased cash outflow from changings in operating assets and liabilities, which included i) increased cash outflow on prepaid expenses and other current assets by $668,876, ii) increased cash outflow on accounts receivable by $701,833, iii) decreased cash inflow on accounts payable by $241,991, iv) decreased cash inflow on accrued expenses and other payables by $632,270, and v) increased cash outflow on unearned revenue by $826,433, which was partly offset by i) decreased cash outflow on payment on operating lease liabilities by $397,962, and ii) increased cash inflow on inventory by $137,995.
+
+Cash Flow from Investing Activities
+
+Net cash used in investing activities totaled $167,957 for the year ended June 30, 2024, which consisted of cash paid for the acquisition of office furniture and equipment of $6,868, cash paid for acquisition of intangible assets by $161,054, and cash loss due to disposal of subsidiary of $35. Net cash used in investing activities totaled $113,131 for the year ended June 30, 2023, which consisted of cash paid for the acquisition of office furniture and equipment of $3,881, cash paid for acquisition and development of software systems of $80,438, and long-term investment into high-tech companies of $28,812.
+
+Cash Flow from Financing Activities
+
+Net cash provided by financing activities was $6,839,577 during the year ended June 30, 2024, which was the net proceeds from due to related parties of $360,804 and net proceeds from sale of our common stock through an equity financing of $8,061,286, which was partly offset by repayment of loan payables of $1,582,513. Net cash provided by financing activities was $3,109,207 during the year ended June 30, 2023, which was the net proceeds from loans payable of $2,197,400, and increase in due to related parties of $1,110,238, which was partly offset by repayment of loan payables of $198,431.
+
+
+Loan from the unrelated parties
+
+On April 24, 2022, the Company entered a loan agreement with an unrelated party Mr. Wanli Kuai for $596,001, the loan had no interest, and was required to be repaid any time before December 31, 2022. The Company repaid $447,001 to the unrelated party by June 30, 2022. On July 1, 2022, the Company entered into a new loan agreement with the same unrelated party for RMB 5,603,000 ($789,177), the loan had no interest, and was required to be repaid any time before December 31, 2022, the Company didn’t make any payment as of December 31, 2022 and signed an extension agreement to extend the maturity date to June 30, 2023. On October 1, 2022, the Company entered into a new loan agreement with the same unrelated party for RMB 3,970,000 ($642,779), the loan had no interest, and was required to be repaid any time before June 30, 2023.
+
+On May 24, 2023, the Company entered into a loan extension agreement with the lender, wherein both parties agreed to settle the loan in full by December 31, 2024. On September 15, 2023, the Company, its CEO and Mr. Wanli Kuai entered a Debt Transfer Agreement, wherein the Company’s CEO transferred the Company’s debt of RMB 5,207,962 ($0.73 million) that was owed to her to Mr. Wanli Kuai. On October 9, 2023, the Company entered into a Debt Transfer and Offset Agreement with Mr. Wanli Kuai and Guorui Innovation. This agreement was resulted from the termination of a Marketing and Promotion agreement among the Company and Guorui Innovation, which Guorui Innovation needs to repay the Company in full for RMB 13,000,600 ($1,810,719) due to cancellation of the agreement (see Note 5).
+
+Following the negotiations, the Company, Mr. Wanli Kuai and Guorui Innovation agreed and entered a Debt Transfer and Offset Agreement, wherein Guorui Innovation will repay the prepayment of RMB 13,000,600 ($1,810,719) to Mr. Wanli Kuai for settling the debt that the Company owed to Mr. Kuai (See Note 5). During the year ended June 30, 2024, the Company repaid $2.3million to this unrelated party. As of June 30, 2024 and 2023, the outstanding loan balance to the unrelated party was $nil and $1,310,306, respectively as a result of the Debt Transfer and Offset Agreement.
+
+As of June 30, 2024, the total liabilities of Datasea are $3,599,982, which shows a 43.2% decrease from June 30, 2023. The decrease of liability is due to the repayment to related party by $508,296, decreased accrued expenses and other payables by $813,225, decreased lease liability by $97,559, decreased unearned revenue by $559,936, and decreased loan payable by $826,129.
+
+Cash inflows generated from financing activities for the year ended June 30, 2024 were $6,839,577, compared to $3,109,207 in the same period last year. This year’s net cash inflows are 120% more than last year’s net cash inflows from financing activities, this is entirely due to the Company’s better financing outlook and more mature financing attitude. We pay more attention to financing planning issues and the cost of financing. 
+
+Analysis of financial index
+
+For the years ended June 30, 2024, and 2023, revenue was $23,975,867 and $3,640,690, respectively. Operating income increased by $20,335,177 over the same period of last year, an increase of 558.6% over the same period of last year, the main reason for the substantial growth is that the company locates currently in the 5G AI multi-model R&D technology which belongs to the industry leader, after long-term expansion of customer groups, the company has formed a stable customer group. This is closely related to the company’s technological research and development achievements over the years, personnel support, market promotion, the company’s upstream and downstream chain opening up, customer maintenance and technical experience accumulation, and eventually form a huge loyal customer base, but also closely related to the thriving vitality of the 5G AI multi-model business market.
+
+For the years ended June 30, 2024 and 2023, the Company’s gross profit was $474,105 and $135,481, respectively. Gross profit increased by $338,624 from the same period last year, an increase of 249.9% from the same period last year, and the current period increased market share and revenue significantly, so the gross margin increased simultaneously. The increase in gross profit margin means that the company’s development and operation has great potential ability.
+
+As of June 30, 2024 and 2023, the Company’s cash balance was $181,262 and $19,728, respectively, an increase of $161,534, or 8.19 times, from the beginning of the period. The main reason is that the company successfully obtained financing during this period, absorbed social funds, expanded the scale of the company, enhanced the visibility of the company, enhanced the competitiveness of the company, provided strong financial support for the company’s business expansion and projects, and used for technology research and development, market expansion, corporate brand building, etc., laying a solid foundation for the sustainable development of the company.
+
+The increased demand for products and services brought about by the company’s increased sales revenue and the expansion of financing channels brought about by a number of capital inflows, the company to optimize the asset structure, enhance the corporate capital capacity and liquidity.
+
+
+As of June 30, 2024 and 2023, the Company’s inventory balance was $153,583 and $241,380, respectively, a decrease of $87,797 or 36.37% from the beginning of the period, mainly because the Company realized the importance of inventory management and was screening inventory management software more suitable for enterprises. Plan to optimize the inventory management by optimizing the supply chain and improving the procurement process, and further improve the inventory turnover rate. To accelerate the expansion of the sales market, the company expands the sales scale of products by developing new sales channels, expanding new markets, strengthening advertising and other ways, so that the inventory can be quickly realized and the efficiency of capital use can be improved.
+
+As of June 30, 2024 and 2023, the capital reserve balance was $38,957,780 and $24,148,868, respectively, an increase of $14,808,912 from the beginning of the period or 61.32% from the beginning of the period, primarily due to an increase in the Company’s share issuance. The increase of capital reserve means that the enterprise has obtained additional capital, which can improve the overall capital strength of the enterprise, so that the enterprise has more funds at its disposal in the operation process. With the increase of capital reserve, the capital adequacy ratio of enterprises has been improved, thus enhancing the financial stability of enterprises and the ability to resist risks. In the face of market fluctuations and uncertainties, enterprises can be more confident to deal with challenges. An increase in capital reserves also increases net asset value per share and is a positive financial indicator for shareholders. This helps to enhance the investment confidence of shareholders and the market value of enterprises.
+
+As of June 30, 2024 and 2023, the Company’s current operating lease liabilities were $53,530 and $124,640, respectively, a decrease of $71,110, or 57.05%, from the beginning of the period. The Company’s non-current operating lease liabilities were US $0.00 and US $26,449.00 respectively, a decrease of US $26,449.00 and 100% compared with the beginning of the period, mainly because the Company combined actual operating needs to achieve the purpose of saving resources, reducing expenses and reducing liabilities. Reasonable overall planning has been made for the operating leasing area and leasing cost of each parent and subsidiary company of the Group, so as to reduce the use area as much as possible, reduce unnecessary expenses, optimize resource allocation and improve efficiency while meeting the daily office needs. Save costs and improve the overall profits of enterprises.
+
+As of June 30, 2024 and 2023, the Company’s non-current liabilities were US $0 and US $1,427,970, respectively, a decrease of US $1,427,970 compared to the beginning of the period.The reduction of non-current liabilities means that the total liabilities of enterprises are reduced, which helps to optimize the asset-liability ratio of enterprises. Asset-liability ratio is an important index to measure the financial risk of enterprises, and its optimization helps to improve the financial robustness of enterprises. With the reduction of non-current liabilities, the capital structure of enterprises may be more balanced, reducing the reliance on long-term debt, which helps to reduce the financial risks of enterprises and create more favorable conditions for their future expansion and development. The decrease in non-current liabilities reflects the adjustment of the business strategy to achieve a more robust financial position. This strategy adjustment helps enterprises to improve operational flexibility and better respond to market changes.
+
+As of June 30, 2024, and 2023, the Company’s net cash increase was US $161,534 and decrease US $ 144,489, respectively, an accumulated increase of $306,023 by comparing with the previous period, and the current cash inflow was greater than the cash outflow, which was a significant improvement over the negative net cash of the previous year. By optimizing capital management and operation management, strengthen the management and control of investment and financing activities, maintain a good cash flow situation, so as to better cope with market competition and achieve sustainable development of enterprises.
+
+
+Going forward
+
+Datasea Inc., as a leading global technology company and a practitioner of high-quality development in the acoustic intelligence industry, is committed to changing the world with sound, rediscovering sound, and constantly exploring innovation and development in the field of acoustic business and 5G applications. Looking ahead, we will continue to consolidate our leadership and leading position in the field of acoustic high-tech industry and 5G AI multimodal digitalization, and actively promote technological progress, product iteration and upgrade, and market expansion. The following are our future growth strategies and focus areas:
+
+1\. Continuous innovation of acoustic high-tech business
+
+Global market expansion: In addition to actively utilizing offline and online (e-commerce and live streaming) methods and channels to accelerate the expansion of the Chinese market, we will further explore the international market through the establishment of strategic partnerships. Strive to use globally competitive core products to better meet the needs of global customers, and consolidate our leadership in the field of acoustic intelligence.
+
+
+2\. Improve 5G AI multimodal digital business:
+
+Deepening AI-Driven 5G Innovation:
+
+Datasea will continue leveraging AI algorithm technology to enhance the processing and transmission of various information forms such as voice, text, images, and video, further improving the digital experience for customers and driving the evolution of the company’s 5G AI multimodal digital business.
+
+| ● | 
+
+Continually optimize and expand product lines, focusing on the development of high-value products industry solutions
+
+We will continue upgrading the technical capabilities of the AI multimodal digital platform, enhancing traffic package and enterprise marketing services, and consistently improving customer satisfaction and revenue. The focus will be on developing solutions for three major industries: beauty, logistics and express, and rural revitalization. 
+
+---|---|--- 
+
+| ● | 
+
+Product Synergy to Build a 5G Business Ecosystem:
+
+The company is currently using 5G AI multimodal digital traffic package top-up services as an entry point, combining scene-based private domain operation solutions for different customers, realizing a complete online service loop from entry to management. At the same time, by leveraging unique 5G AI technology, we have built a data platform and AI service platform capable of risk control and big data analysis for agents’ terminal customer data, obtaining more accurate customer insights. In the future, the company will use the traffic package top-up service system as a springboard to connect the internal cycle and precise linking capabilities of 5G AI multimodal digital products. The three major industry solutions in beauty, logistics, and rural revitalization will form strong product synergies, deeply serving businesses across sectors like rural revitalization, logistics and express, and the Beauty Industry. Meanwhile, the external cycle will handle the full lifecycle management of users, ultimately constructing a complete 5G business ecosystem. 
+
+---|---|--- 
+
+3\. Market revenue plan and market value layout
+
+
+4\. Sustainable Development and social responsibility
+
+5\. Organization development and personnel training
+
+Improve organizational effectiveness: In response to rapid changes in the market, the company will continue to optimize internal processes and management structures to improve overall operational efficiency.
+
+6\. Strategic mergers and Acquisitions (M&A) and strengthening vertical integration and technology cooperation:
+
+Drive innovation-driven growth: We will further drive the demand for acoustic high technology through continued R&D investment and innovation. By leveraging cutting-edge technology and feedback from the global market, we constantly introduce new solutions to meet the rapidly changing market needs, ensuring Datasea’s leadership and long-term competitiveness in the field of acoustic intelligence.
+
+
+7\. Intellectual property and patent acquisition to enhance brand awareness:
+
+o Enhance brand influence through patent acquisition: Datasea will further enhance the market influence and recognition of its brand by actively acquiring international patents, especially US patents. Patents are not only the embodiment of the company’s innovation ability, but also an important part of the brand value. By securing patents in key markets around the world, Datasea is able to effectively protect its technological innovation, consolidate its market position and enhance the authority and credibility of its brand by demonstrating its leading technological results. This strategy will increase the value of the company’s intangible assets while increasing the brand’s visibility and influence on a global scale.
+
+International patent protection and innovation development: By acquiring international patents, companies can ensure that their innovations are fully protected in the global market, prevent potential infringements, and maintain a competitive advantage. Datasea’s patent portfolio will be an important support for the company’s innovation strength, further enhancing the brand’s leading position in the global acoustic intelligence field.
+
+8.Strive to achieve International Standard Risk Control Management
+
+Under the background of accelerating globalization, the internationalization strategy of enterprises has become an important driving force to promote economic growth and market expansion. However, it is accompanied by a significant increase in cross-border business risks, which puts higher requirements on enterprises’ risk management capabilities. Therefore, the company will continue to strengthen international risk control as a key link to ensure the sound operation of the company, including the following ways:
+
+\-- Establishing an intelligent risk control system
+
+With the rapid development of big data, artificial intelligence, cloud computing and other technologies, intelligent risk control will become the mainstream of international risk control in the future. By building an intelligent risk control model, the company can identify risks in cross-border transactions in real time and accurately, and improve risk warning and response speed. Automation and intelligent decision making for risk management.
+
+\-- Ensuring cross-border data sharing and compliance
+
+In international risk control, cross-border data sharing and compliance is one of the important challenges. In the future, with the gradual improvement of regulatory policies on cross-border data flows and the strengthening of international cooperation, cross-border data sharing will be more convenient and efficient. Companies obtain and share cross-border data through legal means in compliance with national laws and regulations to support risk control decisions.
+
+\-- Strengthening supply chain risk management
+
+In the global supply chain system, enterprises will establish a more complete supply chain risk assessment system, and conduct comprehensive assessment and supervision of suppliers, distributors and other partners to ensure the stability and security of the supply chain. At the same time, strengthen cooperation and communication with upstream and downstream enterprises in the supply chain to jointly cope with risks and challenges.
+
+In the future, international risk control will develop in the direction of intelligence, compliance, diversification, supply chain risk management and continuous innovation. The company keeps up with the pace of The Times and constantly improves its risk control ability and management level to cope with the opportunities and challenges brought by globalization.
+
+These initiatives demonstrate our commitment to internationalization, innovation, and our determination to consolidate our leadership position in the field of dynamic acoustic intelligence and 5G AI multimodal digitization. In short, Datasea Inc. will drive the company’s continued growth and industry leadership in the future through its multi-faceted efforts in technology innovation, market expansion, digital services, sustainability and talent management. We look forward to creating more value together with our customers and partners on a global scale, contributing to the progress of society and the well-being of mankind.
+
+
+Off-Balance Sheet Arrangements
+
+There are no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues, expenses, results of operations, liquidity, capital expenditures or capital resources.
+
+Item 7A. Quantitative and Qualitative

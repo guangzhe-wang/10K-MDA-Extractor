@@ -1,0 +1,225 @@
+\. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+Business Overview
+
+NextTrip is an innovative technology company that is building next generation solutions to power the travel industry. NextTrip through its subsidiaries, provides travel technology solutions with sales originating in the United States, with a primary emphasis on accommodations, hotels, flights, wellness, and all-inclusive travel packages. Its proprietary booking engine, branded as NXT2.0, provides travel distributors access to a sizeable inventory. NextTrip’s NXT2.0 booking technology was built upon a platform acquired in June 2022, which previously powered the Bookit.com business, a well-established online leisure travel agent generating over $400 million in annual sales as recently as 2019 (pre-pandemic).
+
+Since 2022, NextTrip has been focused on the holistic integration of the NXT2.0 technology platform, which will serve as a base for current and future technology projects as well as proprietary system enhancements. Through this strategic offering, NextTrip will focus on key areas of opportunity in the travel sector and drive enhanced booking conversion rates. NextTrip’s proprietary technology, when combined with media, product offerings and customer service, provides a unique lane to serve mid- to luxury travelers.
+
+The spread of the COVID-19 virus globally beginning in January 2020, severely impacted NextTrip’s business. Beginning in March 2020, many U.S. states and foreign countries began issuing “stay-at-home” orders and closed their borders to interstate and international travel. Such restrictions on travel, together with other measures implemented by governments around the world, severely restricted the level of economic activity around the world and had an unprecedented effect on the global travel industry. The public’s ability to travel was severely curtailed through border closures, mandated travel restrictions and limited operations of hotels, airlines, and additional voluntary or mandated closures of travel-related businesses from December 2019 through the beginning of 2022 (and beyond in some jurisdictions). Measures implemented during the COVID-19 pandemic led to unprecedented levels of temporary and permanent business closures, cancellations and limited new travel bookings, having a severe negatively impacted on NextTrip’s business, financial condition and results of operations.
+
+Due to the significant decrease in demand for the travel related services provided by NextTrip during the peak of the COVID-19 pandemic, NextTrip shifted its focus to developing and enhancing its program offerings. For example, it enhanced the functionality of its booking engines, including developing a booking engine platform that allows customers to book packaged vacations and cruises along with a platform to arrange and manage business travel.
+
+Prior to the reverse acquisition of Sigma, NextTrip Holdings, Inc. (“NextTrip”) was a wholly owned subsidiary of NextTrip Group, LLC (“Group”), which in turn, was a wholly owned subsidiary of NextPlay Technologies, Inc. (“NextPlay”). All of the business operations of Group were conducted through its subsidiaries. On January 25, 2023, NextPlay and Group entered into an Amended and Restated Separation Agreement (“Separation Agreement”), Amended and Restated Operating Agreement (“Operating Agreement”), and Exchange Agreement (“Exchange Agreement”), together the Agreements (“Agreements”), whereby NextPlay transferred their interest in the travel business to Group. Pursuant to the Exchange Agreement, NextPlay exchanged 1,000,000 Membership Units of Group for 400,000 Preferred Units of Group, with a value of $10 per unit. Prior to the exchange for Preferred Units, Group had a payable due to NextPlay of $17,295,873, representing cash advances and payment of expenses by NextPlay on behalf of Group, while NextPlay had obligations to provide ongoing support to NextTrip. Such liability was settled by the issuance of the Preferred Units and the waiver of all of NextPlay’s ongoing support obligations except for a $1.5 million advance remaining under a promissory note and as such NextTrip recorded the payable as contributed capital.
+
+NextTrip completed the reverse acquisition of Sigma on December 29, 2023. Sigma traded on Nasdaq as SASI which has had a name change to NextTrip, Inc. and now trades as NTRP on Nasdaq.
+
+As per the acquisition with Sigma as noted above, the 400,000 Preferred shares will be exchanged for common shares in NextTrip, Inc. 13,001 Closing Shares were issued to NextPlay on December 29, 2023, and 486,999 Contingent Shares will be issued when and if the business milestones are achieved.
+
+NextTrip has accounted for the reverse merger as NextTrip being the accounting acquirer and will report the financial results as such on a going forward basis. The capital section reflected in the financial statements are that of NextTrip, Inc. and the operating results are that of the accounting acquirer’s financials. All assets, liabilities and results of operations assumed in the transaction are the basis of the financial information discussed in this Management’s Discussion and Analysis of Financial Conditions and Results of Operations, as well as the financial statements of NextTrip included elsewhere in this Report.
+
+Critical Accounting Policies and Estimates
+
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States requires management to make estimates and assumptions that affect the reported assets, liabilities, sales and expenses in the accompanying financial statements. Critical accounting policies are those that require the most subjective and complex judgments, often employing the use of estimates about the effect of matters that are inherently uncertain. By their nature, changes in these assumptions and estimates could significantly affect our financial position or results of operations. Significant accounting estimates that may materially change in the near future are revenue recognition, impairment of long-lived assets, values of stock compensation awards and stock equivalents granted as offering costs, and allowance for bad debts. Such critical accounting policies, including the assumptions and judgments underlying them, are disclosed in Note 1 to the Financial Statements included in this Annual Report. However, we do not believe that there are any alternative methods of accounting for our operations that would have a material effect on our financial statements.
+
+The critical accounting policies and estimates addressed below reflect our most significant judgements and estimates used in the preparation of our financial statements.
+
+Basis of Presentation and Principles of Consolidation
+
+NextTrip’s financial statements and related disclosures are prepared pursuant to the rules and regulations of the SEC for annual financial statements, as applicable. The Financial Statements have been prepared using the accrual basis of accounting in accordance with GAAP.
+
+The financial statements of NextTrip have been prepared on a consolidated basis with those of its wholly owned subsidiaries. All intercompany transactions and balances have been eliminated in consolidation.
+
+Use of Estimates
+
+The preparation of consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities as of the date of the consolidated financial statements, and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. These differences could have a material effect on NextTrip’s future results of operations and financial position. Significant items subject to estimates and assumptions include the carrying amounts of intangible assets, depreciation and amortization.
+
+Information about key assumptions and estimation uncertainty that has a significant risk of resulting in a material adjustment to the carrying amounts of NextTrip’s assets and liabilities within the next financial year are referenced in the notes to the financial statements as follows:
+
+| ● | The assessment of NextTrip’s ability to continue as a going concern; 
+---|---|--- 
+| ● | The measurement and useful life of intangible assets and property and equipment; and 
+| ● | Recoverability of long-lived assets 
+
+Receivables
+
+Trade accounts receivable are recorded at the invoiced amount and do not bear interest. The allowance for doubtful accounts is the Company’s best estimate of the amount of probable credit losses in its existing accounts receivable.
+
+The Company considers trade accounts receivable to be fully collectible; accordingly, no allowance for doubtful accounts is required. If amounts become uncollectible, they will be charged to operations when that determination is made.
+
+Trade accounts receivable balances as of February 29, 2024 and February 28, 2023, were $34,082 and $0, respectively.
+
+Receivables from NextPlay under the promissory note as described in NOTE 1 – Business Description and Going Concern were $2,567,665 and $1,933,908 respectively. Management has determined that, since NextPlay is in default under the terms of the promissory note, collectability of the entire related party receivable as of February 29, 2024 is uncertain, and has therefore established an allowance for doubtful accounts of $1,567,665. As of February 28, 2023, no allowance for doubtful accounts was established.
+
+Intangible Assets
+
+NextTrip measures separately acquired intangible assets at cost less accumulated amortization and impairment losses. NextTrip recognizes internally developed intangible assets when it has determined that the completion of such is technically feasible, and it has sufficient resources to complete the development. Subsequent expenditures are capitalized when they increase the future economic benefits of the associated asset. All other expenditures are recorded in profit or loss as incurred.
+
+NextTrip assesses whether the life of intangible assets is finite or indefinite. NextTrip reviews the amortization method and period of use of its intangible assets at least annually. Changes in the expected useful life or period of consumption of future economic benefits associated with the asset are accounted for prospectively by changing the amortization method or period as a change in accounting estimates in profit or loss. NextTrip has assessed the useful life of its trademarks as indefinite.
+
+The estimated useful lives for NextTrip’s finite life intangible assets are as follows:
+
+Software Development Costs
+
+NextTrip capitalizes internal software development costs subsequent to establishing technological feasibility of a software application in accordance with guidelines established by “ASC 985-20-25” Accounting for the Costs of Software to Be Sold, Leased, or Otherwise Marketed, requiring certain software development costs to be capitalized upon the establishment of technological feasibility. The establishment of technological feasibility and the ongoing assessment of the recoverability of these costs require considerable judgment by management with respect to certain external factors such as anticipated future revenue, estimated economic life, and changes in software and hardware technologies. Amortization of the capitalized software development costs begins when the product is available for general release to customers. Capitalized costs are amortized based on the straight-line method over the remaining estimated economic life of the product.
+
+Impairment of Intangible Assets
+
+In accordance with ASC 350-30-65 “Goodwill and Other Intangible Assets”, NextTrip assesses the impairment of identifiable intangible assets whenever events or changes in circumstances indicate that the carrying value may not be recoverable. Factors it considers important, which could trigger an impairment review include the following:
+
+1\. Significant underperformance compared to historical or projected future operating results;
+
+2\. Significant changes in the manner or use of the acquired assets or the strategy for the overall business; and
+
+3\. Significant negative industry or economic trends.
+
+When NextTrip determines that the carrying value of an intangible asset may not be recoverable based upon the existence of one or more of the above indicators of impairment and the carrying value of the asset cannot be recovered from projected undiscounted cash flows, NextTrip records an impairment charge. NextTrip measures any impairment based on a projected discounted cash flow method using a discount rate determined by management to be commensurate with the risk inherent to the current business model. Significant management judgment is required in determining whether an indicator of impairment exists and in projecting cash flows. Intangible assets that have finite useful lives are amortized over their useful lives.
+
+Leases
+
+NextTrip adopted ASU 2016-02 (Topic ASC 842) Leases, which requires a lessee to recognize a lease asset and a leases liability for operating leases arrangements greater than twelve months.
+
+We determine if an arrangement is a lease at inception. Operating leases are included in operating lease right-of-use (“ROU”) assets, operating lease liabilities - current, and operating lease liabilities - noncurrent on the balance sheets. Finance leases are included in property and equipment, other current liabilities, and other long-term liabilities in our balance sheets.
+
+ROU assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments arising from the lease. Operating lease ROU assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term. As most of our leases do not provide an implicit rate, we generally use our incremental borrowing rate based on the estimated rate of interest for collateralized borrowing over a similar term of the lease payments at commencement date. The operating lease ROU asset also includes any lease payments made and excludes lease incentives. Our lease terms may include options to extend or terminate the lease when it is reasonably certain that we will exercise that option. Lease expense for lease payments is recognized on a straight-line basis over the lease term.
+
+Revenue Recognition
+
+NextTrip recognizes revenue in accordance with ASC 606 which involves identifying the contracts with customers, identifying performance obligations in the contracts, determining transactions price, allocating transaction price to the performance obligation, and recognizing revenue when the performance obligation is satisfied.
+
+NextTrip recognizes revenue when the customer has purchased the product, the occurrence of the earlier of date of travel or the date of cancellation has expired, as satisfaction of the performance obligation, the sales price is fixed or determinable and collectability is reasonably assured. Revenue for customer travel packages purchased directly from NextTrip are recorded gross (the amount paid to NextTrip by the customer is shown as revenue and the cost of providing the respective travel package is recorded to cost of revenues).
+
+NextTrip generates revenues from sales directly to customers as well as through other distribution channels of tours and activities at destinations throughout the world.
+
+NextTrip controls the specified travel product before it is transferred to the customer and is therefore a principal, including but not limited to, the following:
+
+| ● | NextTrip is primarily responsible for fulling the promise to provide such travel product. 
+---|---|--- 
+| ● | NextTrip has inventory risk before the specified travel product has been transferred to a customer or after transfer of control to a customer. 
+| ● | NextTrip has discretion in establishing the price for the specified travel product. 
+
+Payments for tours or activities received in advance of services being rendered are recorded as deferred revenue and recognized as revenue at the earlier of the date of travel or the last date of cancellation (i.e., the customer’s refund privileges lapse).
+
+From time to time, payments are made to suppliers in advance of customer bookings as required by hotels. These payments are recognized as costs of goods at the earlier of the date of travel or the last date of cancellation.
+
+Stock-Based Compensation
+
+We measure the compensation costs of stock-based compensation arrangements based on the grant-date fair value and recognize the costs in the financial statements over the period during which employees are required to provide services. Stock-based compensation arrangements may include stock options, grants of shares of common stock with and without restrictions, performance-based awards, share appreciation rights and employee share purchase plans. Stock-based compensation is measured on the date of grant at its fair value.
+
+Equity instruments issued to non-employees are recorded on the basis of the grant date fair value of the instruments. In general, the measurement date is either (a) when a performance commitment, as defined, is reached or (b) the earlier of the date that (i) the non-employee performance requirement is complete or (ii) the instruments are vested. The measured value related to the instruments is recognized over a period based on the facts and circumstances of each particular grant.
+
+The grant date fair value of stock-based compensation and other equity instruments is calculated using the Black Scholes valuation model, and requires estimates of several inputs to the model, including risk-free interest rates, dividends, and expected volatility of our stock price.
+
+Results of Operations
+
+Year Ended February 29, 2024 Compared to the Year Ended February 28, 2023
+
+Revenue
+
+During the year ended February 29, 2024, NextTrip recognized revenue of $458,752 as compared to $382,832 in the same period in 2023, an increase of $75,920, or 19.8%. The increase was a result of the continued implementation of the company’s booking engine.
+
+Cost of Revenue
+
+Cost of revenue for the year ended February 29, 2024, was $397,532 as compared to $354,921 for the same period in 2023, an increase of $42,611, or 12%. The increase was attributable to the increase in revenue in the year ended February 29, 2024, as compared to the same period in 2023.
+
+Operating Expenses
+
+Operating expenses totaled $5,740,577 for the year ended February 29, 2024, versus $4,979,766 for the year ended February 28, 2023. The increase of $760,811, or 15.3% was due to an increase in professional service fees of $806,076, an increase in depreciation and amortization of $761,524, an increase in other operating expenses of $91,838, stock based compensation of $116,512, and organization costs of $25,000. Partially offsetting these increases were a decrease in salaries and benefits of $519,809, a decrease in general and administrative expenses of $57,455, a decrease in sales and marketing expenses of $222,887, and a decrease in technology expenses of $239,988.
+
+Salaries and Benefits
+
+Salaries & Stock based compensation expenses were $1,604,487 for the year ended February 29, 2024, as compared to $2,124,296 for the same period in 2023. The decrease of $519,809 or 24.5% was the result of a reduction in the number of employees which was offset by the increase in professional contracted staff.
+
+Stock Based Compensation
+
+Stock based compensation totaled $116,512 for the year ended February 29, 2024, versus $0 for the year ended February 28, 2023. The increase was attributable to expense associated with the assumption of Sigma’s outstanding stock options upon completion of the reverse merger transaction.
+
+Loss on Promissory Note Receivable.
+
+The loss of $1,567,665 on the promissory note receivable for the year ended February 29, 2024 is attributable to the establishment of a reserve taken on the total outstanding balance due from NextPlay of $2,567,665. Management has determined that, since NextPlay is in default under the terms of its promissory note, collectability of the entire related party receivable as of February 29, 2024 is uncertain. As of February 28, 2023, no allowance for doubtful accounts was established.
+
+General and Administrative Expense
+
+General and administrative expense for the year ended February 29, 2024 was $152,106, versus $209,561, a decrease of $57,455. The decrease was primarily attributable to a reduction in rent expense of $28,000 and a decrease in medical insurance premiums due to fewer employees in fiscal 2024 as compared to fiscal 2023.
+
+Sales and Marketing Expense
+
+Sales and marketing expenses were $484,250 for the year ended February 29, 2024, as compared to $707,137 for the same period in 2023. The decrease of $222,887 or 31.5% was primarily related to reduced marketing costs during the booking engine enhancement upgrade.
+
+Professional Service Fees
+
+Professional Service Fees were $1,421,508 for the year ended February 29, 2024, as compared to $615,432 for the same period in 2023. The increase of $806,076 or 131% was the result of an increase in the number of professional contracted staff and an increase in legal costs associated with various public company filings.
+
+Technology
+
+Technology expenses for the year ended February 29, 2024 were $311,430, as compared to $551,418 for the year ended February 28, 2023. The decrease of $239,988, or 43.5% was primarily attributable to a decrease in website maintenance and bug fixes of $137,258, a decrease in software licensing expenses of $41,215 due to renegotiation of licensing agreements and adoption of more cost-effective solutions, a decrease of $13,420 in cloud database and networking expenses related to optimization of our cloud infrastructure, and a decrease in software hosting expenses of $83,109 due to consolidation of services. Partially offsetting these decreases was an increase in dues and subscriptions of $7,888 in new services to support the Company’s operations, and an increase of $29,341 in expenses associated with maintenance and support of the Company’s technology infrastructure.
+
+Organization Costs
+
+Organization costs were $25,000 for the year ended February 29, 2024, as compared to $0 for 2023. The increase is attributable to compensation expense for our directors subsequent to the reverse acquisition of Sigma on December 29, 2023.
+
+Depreciation and Amortization
+
+Depreciation and amortization expense for the year ended February 29, 2024, was $1,468,762 as compared to $707,238 for the same period in 2023, an increase of $761,524 or 107.6%. The increase was primarily the result of amortization of software additions during the year as well as amortizing certain software purchases, in particular the BookIt.com asset, over a shorter period due to its estimated useful life.
+
+Other Expenses
+
+Other expenses totaled $156,522 for the year ended February 29, 2024, as compared to $64,684 for the year ended February 28, 2023. The increase of $91,838, or 142.0% was primarily due to an increase in D&O insurance premiums.
+
+Other Income (Expense)
+
+Other expense was $977,480 for the year ended February 29, 2024, as compared to other expense of $81,641 for the same period in 2023. The increase of $895,839 was primarily due to the loss on the promissory note receivable of $1,567,665, partially offset by other income in the amount of $486,633 of which $479,460 was due to the reversal of accrued expenses. Such reversal was offset by the allocation of expenses to the appropriate expense accounts. Additionally, the gain on the extinguishment of liability in the amount of $166,889 resulted from the exchange of a consulting expense for the issuance of common shares.
+
+The net loss of $14,718 on the disposal of assets was due to a reduction in goodwill of $52,310, partially offset by a gain of $37,592 on the sale of assets to Divergent, and the decrease in interest expense of $23,251 was due to the conversion of convertible notes to common shares on December 29, 2023.
+
+Net Loss From Continuing Operations
+
+In the year ended February 29, 2024, the net loss from continuing operations totaled $6,656,837 as compared to a net loss from continuing operations of $5,033,496 for the year ended February 28, 2023. The operating loss component increased by $727,502 in 2024, and the other loss component increased by $895,839.
+
+Net Loss From Discontinued Operations
+
+The net loss from discontinued operations of $675,314 for the year ended February 29, 2024 consisted primarily of expenses incurred attributable to the legacy business operations of Sigma, and were comprised of $528,930 in retention bonuses paid to former Sigma employees, salaries and benefits of $28,475, severance of $62,500 and organization and other expenses of $60,415. Partially offsetting these expenses was $5,006 in revenue related to a maintenance contract.
+
+Net Loss Applicable to Common Shareholders
+
+The net loss applicable to common shareholders totaled $7,339.276 for the year ended February 29, 2024, as compared to $5,033,496 for the year ended February 28, 2023. Preferred dividends were $7,125 in 2024 and $0 in 2023.
+
+Liquidity and Capital Resources
+
+Due to uncertainties regarding our ability to meet our current and future operating and capital expenses, there is substantial doubt about our ability to continue as a going concern for 12 months from the date of the filing of this Annual Report, and the report of our registered independent public accounting firm on our financial statements as of and for the year ended February 29, 2024 included in Item 15 of this Annual Report contains a going concern qualification.
+
+As of February 29, 2024, NextTrip had $323,805 in cash, an accumulated deficit of $24,151,139 and a working capital deficit of $245,005 compared to $282,475 in cash, an accumulated deficit of $16,811,863 and a working capital deficit of $2,310,654 as of February 28, 2023.
+
+To date, NextTrip has financed its operations primarily through revenue generated from operations, the issuance of convertible debt, advances from related parties, and private placements of its securities.
+
+On March 15, 2024, the Company’s Board of Directors approved the Company to enter into an unsecured promissory note for a line of credit with Messrs. Monaco and Kerby, the Company’s Chairman of the Board of Directors and Chief Executive Officer, respectively, for the aggregate principal amount of $500,000. Under the terms of the note, advances under the line of credit may be made at the Company’s request until May 31, 2024. The note bears an annual interest rate of 7.5% and matures on February 28, 2025, and may be prepaid by the Company at any time prior to maturity without penalty. As of April 19, 2024, the full principal amount of the note had been advanced to the Company and remains outstanding.
+
+On April 25, 2024, the Company’s Board of Directors approved the Company to enter into a series of unsecured promissory notes with certain related parties, including investors, directors, officers and employees, who shall individually provide funds for the aggregate principal amount of $1,000,000. The notes bear an annual interest rate of 7.5% and shall mature one year from the date of each note’s execution and may be prepaid by the Company at any time prior to maturity without penalty. As of July 10, 2024, the full principal amount of $1,000,000 had been advanced to the Company and remains outstanding.
+
+NextTrip will need to raise additional funds through equity or debt financings or other means to support its on-going operations, increase market penetration of its products, expand the marketing and development of its travel and technology driven products, provide capital expenditures for additional equipment and development costs, payment obligations, and systems for managing the business including covering other operating costs and maintaining compliance with NASDAQ listing requirements until planned revenue streams are fully implemented and begin to offset the Company’s operating costs. The Company estimates that it will require a minimum of $5.5 million to continue operations for the next twelve months.
+
+There is no assurance as to the amount and availability of any required future financing or the terms thereof. Such financing, if in the form of equity, may be highly dilutive to our existing stockholders and may otherwise include onerous terms. If in the form of debt, such financing may include covenants and repayment obligations which may be difficult to meet and that could adversely affect our business and operations. To the extent that funds are not available to us, we may be required to delay, limit, or terminate our business and operations and lose our NASDAQ listing.
+
+Net Cash Used in Operating Activities
+
+Net cash used in operating activities from continuing operations during the year ended February 29, 2024, was $5,056,095 as compared to $3,792,600 during the same period in 2023, an increase of $1,263,495 or 33.3%.
+
+During the year ended February 29, 2024, the net cash used in operating activities from continuing operations was the result of a net loss of $6,656,837, partially offset by changes in working capital of $1,400,025 and non-cash expenses of $3,000,767. The non-cash expenses were primarily comprised of depreciation and amortization of $1,468,762 and the loss of $1,567,665 on the related party receivable. Changes in working capital were driven by an increase in accounts receivable of $662,939, an increase in prepaid expenses of $281,506, an increase in security deposits of $27,167, and a decrease in accounts payable and accrued expenses of $531,367, partially offset by an increase in deferred revenue of $102,954.
+
+Net cash used in operating activities from discontinued operations during the year ended February 29, 2024, was $675,314 as compared to $0 during the same period in 2023, and was related to wind down expenses associated with the legacy Sigma business.
+
+As a result, total net cash used in operating activities increased by $1,938,809 during the year ended February 29, 2024, to $5,731,409 as compared to $3,792,600 during the same period in 2023, an increase of 51.1%.
+
+During the year ended February 28, 2023, the net cash used in operating activities was the result of a net loss of $5,033,496, partially offset by changes in working capital of $521,490 and non-cash expenses of $719,406, primarily related to depreciation and amortization. Changes in working capital were driven by a decrease in accounts receivable of $5,503, a decrease in prepaid expenses of $48,796, an increase in accounts payable and accrued expenses of $533,193, a decrease in deferred revenue of $46,855 and an increase in right of use asset in the amount of $18,697.
+
+Net Cash Provided (Used) in Investing Activities
+
+Net cash provided by investing activities during the year ended February 29, 2024, was $980,936, which compares to net cash used by investing activities of $4,290,930 during the same period of 2023, an increase of $5,271,865. The primary causes for the increase resulted from the reverse acquisition of Sigma, which provided cash of $417,122, and the subsequent sale of Sigma’s legacy assets to a third party, which generated an additional $1,589,241 in cash. Further contributing to the increase were decreases in capitalized software development costs of $1,337,919 and a decrease in the related party promissory note of $1,933,908. These increases were partially offset by an increase in the purchases of equipment of $6,325.
+
+Net Cash Provided by Financing Activities
+
+NextTrip raised $4,791,804 in net proceeds during the year ended February 29, 2024, consisting of $735,037 from the issuance of convertible notes, $1,905,970 from the issuance of common shares, $1,603,500 from the issuance of preferred shares, and $547,277 from related party advances. For the year ended February 28, 2023, the Company raised $8,134,955 in net proceeds consisting of advances to the company by related parties of $4,901,452 and proceeds from the issuance of convertible notes of $3,233,503.
+
+Inflation, changing prices and rising interest rates have had no material effect on NextTrip’s continuing operations over our two most recent fiscal years.
+
+We have no off-balance sheet arrangements as defined in Item 303(a) of Regulation S-K.

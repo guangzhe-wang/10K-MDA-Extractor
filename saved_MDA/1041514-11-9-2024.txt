@@ -1,0 +1,13607 @@
+.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+
+OF FINANCIAL CONDITION AND 
+
+RESULTS
+
+OF OPERATIONS 
+
+The following
+
+discussion and
+
+analysis should
+
+be read
+
+in conjunction
+
+with Item
+
+8—“Financial Statements
+
+and Supplementary 
+
+Data.” In
+
+addition
+
+to historical
+
+consolidated
+
+financial
+
+information,
+
+the following
+
+discussion
+
+and
+
+analysis contains
+
+forward-looking 
+
+statements that involve risks, uncertainties and assumptions. See Item 1A—
+
+“Risk Factors” and “Forward Looking Statements.” 
+
+U.S. securities laws
+
+require that when
+
+we publish any
+
+non-GAAP measures, we
+
+disclose the reason
+
+for using these
+
+non-GAAP 
+
+measures
+
+and
+
+provide
+
+reconciliations
+
+to
+
+the
+
+most
+
+directly
+
+comparable
+
+GAAP
+
+measures.
+
+We
+
+discuss
+
+why
+
+we
+
+consider
+
+it
+
+useful
+
+to 
+
+present these non-GAAP
+
+measures and the
+
+material risks and
+
+limitations of these
+
+measures, as well
+
+as a reconciliation
+
+of these non-
+
+GAAP measures
+
+to the
+
+most directly
+
+comparable GAAP
+
+financial measure
+
+below at
+
+“—Results of Operations
+
+—Use of Non-GAAP 
+
+Measures” below. 
+
+Overview
+
+We
+
+offer a wide
+
+range of solutions
+
+including transactional
+
+accounts (banking), lending,
+
+insurance, cash management
+
+solutions, 
+
+card acceptance, supplier payments, software services
+
+and bill payments. By providing
+
+a full-service fintech platform in
+
+our connected 
+
+ecosystem, we facilitate the digitization of commerce in our markets. 
+
+Sources of Revenue
+
+We
+
+generate our
+
+revenues by
+
+charging
+
+transaction fees
+
+to merchants,
+
+financial service
+
+providers, utility
+
+providers, bill
+
+issuers 
+
+and consumers; by selling airtime to merchants;
+
+by providing loans to merchants and consumers,
+
+and insurance products to consumers 
+
+and by selling hardware, licensing software and providing related technology
+
+services to merchants. 
+
+We act
+
+as a service provider whereby we
+
+own and operate the technology and
+
+apply it in a system ourselves,
+
+charging one-time 
+
+and
+
+ongoing fees
+
+for
+
+the use
+
+of the
+
+system either
+
+on a
+
+fixed or
+
+ad valorem
+
+basis. For
+
+instance,
+
+through
+
+Connect,
+
+we provide
+
+cash 
+
+management
+
+and payment
+
+services to
+
+merchant
+
+customers
+
+through
+
+a digital
+
+vault which
+
+is located
+
+at the
+
+customer’s
+
+premises and 
+
+generate processing revenue from
+
+the provision of
+
+these services. We also offer merchant customers
+
+access to platforms through
+
+which 
+
+we (a)
+
+generate revenue
+
+from the
+
+sale of
+
+prepaid airtime
+
+and (b)
+
+generate fees
+
+from distribution
+
+of VAS,
+
+including prepaid
+
+airtime, 
+
+prepaid electricity,
+
+gaming voucher,
+
+and other
+
+services, to
+
+users of
+
+our platforms.
+
+We
+
+also generate
+
+fees from
+
+debit and
+
+credit card 
+
+transaction processing and interest revenue from qualifying merchant customers who are able to access short-term loans. The revenue 
+
+and
+
+costs
+
+associated
+
+with
+
+these
+
+services
+
+and
+
+sales
+
+are
+
+included
+
+in
+
+our
+
+merchant
+
+operating
+
+segment.
+
+We
+
+also
+
+generate
+
+fees
+
+from 
+
+consumers utilizing our ATM
+
+network. 
+
+We
+
+provide consumers with
+
+bank accounts from
+
+which we generate
+
+a monthly fee
+
+and also charge
+
+fees on an ad
+
+valorem basis 
+
+for goods
+
+and services
+
+purchased. Usage
+
+of our
+
+bank accounts
+
+also provides
+
+our customers
+
+with access
+
+to short-term
+
+loans and
+
+life 
+
+insurance products. The revenue and costs associated with this approach are
+
+reflected in our consumer operating segment. 
+
+Developments during Fiscal 2024 
+
+This item
+
+generally discusses
+
+our 2024
+
+results compared
+
+to our
+
+2023 results.
+
+Discussions of
+
+our 2023
+
+results compared
+
+to our 
+
+2022 results can be found within our Annual Report on Form 10-K
+
+for the year ended June 30, 2023. 
+
+Fiscal 2024 represents
+
+a transformative year for
+
+Lesaka. The continuation of
+
+our strong and consistent
+
+performance delivered a 
+
+robust improvement
+
+in profitability,
+
+and we believe
+
+the anticipated completion
+
+of the Adumo
+
+acquisition, announced
+
+in fiscal 2024, 
+
+will facilitate
+
+an acceleration
+
+of our
+
+organic
+
+growth story
+
+and cement
+
+Lesaka’s
+
+position as
+
+Southern
+
+Africa’s
+
+leading Fintech.
+
+The 
+
+consistent strengthening in our financial position enables us to continue
+
+pursuing our organic and inorganic growth strategies.
+
+Operating income of $3.6 million (ZAR 67.3 million) improved $18.9 million (ZAR
+
+342.6 million) compared with an operating 
+
+loss of
+
+$15.3 million
+
+(ZAR 275.3
+
+million) during
+
+fiscal 2023.
+
+We
+
+reported a
+
+net loss
+
+attributable to
+
+the company
+
+of $17.4
+
+million 
+
+(ZAR 326.1
+
+million) during fiscal 2024 compared with a net loss of $35.1 million (ZAR 629.2
+
+million) during fiscal 2023. 
+
+We
+
+achieved our
+
+Group Adjusted
+
+EBITDA guidance,
+
+a non-GAAP
+
+measure, delivering
+
+$36.9 million
+
+(ZAR 690.9
+
+million) in 
+
+fiscal 2024,
+
+a 55%
+
+increase in
+
+ZAR, compared
+
+to $24.8
+
+million (ZAR
+
+445.5
+
+million) during
+
+fiscal 2023,
+
+demonstrating consistent 
+
+execution against our growth strategy.
+
+Refer to reconciliation below at “—Results
+
+of Operations—Use of Non-GAAP Measures”
+
+for 
+
+a reconciliation
+
+of Group
+
+Adjusted EBITDA.
+
+The continued
+
+resilience of
+
+our business
+
+model in
+
+a challenging
+
+environment for
+
+our 
+
+merchant and consumer customers demonstrates the value our customers
+
+place on our services. 
+
+
+Our mission
+
+at Lesaka
+
+is to
+
+provide
+
+financial services,
+
+including software,
+
+to Southern
+
+Africa’s
+
+underserviced consumers
+
+and 
+
+merchants, improving people’s lives and
+
+increasing financial inclusion in the markets in which we operate.
+
+We achieved this through 
+
+our ability to efficiently digitalize commerce by providing a full-service fintech platform and facilitating the secular shift from cash to 
+
+digital that is currently taking place.
+
+Merchant Division
+
+The year-on-year growth achieved
+
+by our Merchant
+
+Division (“Merchant”) is
+
+supported by the
+
+robust secular trends
+
+underpinning 
+
+financial
+
+inclusion,
+
+cash management
+
+and
+
+digitalization
+
+to empower
+
+micro-merchants,
+
+merchants
+
+and
+
+enterprise
+
+clients to
+
+transact 
+
+efficiently and fulfill their potential. 
+
+Performance in Merchant has been driven by: 
+
+●
+
+Our 
+
+VAS
+
+and supplier payments
+
+business continues to see adoption by micro-merchants. 
+
+VAS
+
+and supplier payments
+
+Fiscal year ended June 30, 
+
+
+
+
+2024 vs. 
+
+
+2 year 
+
+CAGR % 
+
+Approximate number of devices in deployment
+
+
+87,500 
+
+75,000 
+
+51,000 
+
+17% 
+
+31% 
+
+Throughput for the year (ZAR billions) 
+
+33.0 
+
+27.6 
+
+20.6 
+
+20% 
+
+27% 
+
+Throughput
+
+for
+
+the
+
+year
+
+excluding
+
+international 
+
+money transfers (ZAR billions) 
+
+30.6 
+
+21.4 
+
+13.7 
+
+43% 
+
+49% 
+
+1.
+
+2024 includes approximately 6,400 devices attributable to the acquisition of Touchsides,
+
+effective May 01, 2024, which are 
+
+not enabled for VAS
+
+and supplier payments on the Kazang platform.
+
+o
+
+We
+
+had
+
+approximately
+
+87,500 devices
+
+deployed
+
+at June
+
+30, 2024,
+
+representing
+
+a 17%
+
+year-on-year
+
+growth 
+
+compared to approximately 75,000
+
+devices one year ago, and
+
+represents a 2-year CAGR of
+
+31% compared to 
+
+June 30, 2022. 
+
+o
+
+The 87,500 devices
+
+includes approximately 2,300 Touchsides merchants with
+
+devices already enabled for
+
+VAS 
+
+and
+
+supplier
+
+payments
+
+on
+
+the
+
+Kazang
+
+platform
+
+and
+
+an
+
+additional
+
+6,400
+
+Touchsides
+
+devices
+
+which
+
+are
+
+not 
+
+enabled
+
+for
+
+VAS
+
+and
+
+supplier
+
+payments
+
+on
+
+the
+
+Kazang
+
+platform.
+
+These
+
+6,400
+
+sites
+
+present
+
+an
+
+immediate 
+
+opportunity to deploy a Kazang device enabling VAS
+
+sales and supplier payments. 
+
+o
+
+Core to our device placement strategy
+
+is the decision to focus on
+
+quality business and optimizing our
+
+existing 
+
+fleet, which is reflected in a healthy throughput growth and margin
+
+per device. 
+
+o
+
+As previously
+
+communicated,
+
+our
+
+product
+
+mix for
+
+VAS
+
+and supplier
+
+payment
+
+sales has
+
+changed
+
+with low-
+
+margin
+
+money transfers
+
+reducing significantly
+
+due to
+
+a change
+
+in the
+
+regulatory environment
+
+impacting the 
+
+industry as a
+
+whole. Money
+
+transfers comprised
+
+7% of VAS
+
+and supplier
+
+payment throughput
+
+in fiscal 2024 
+
+compared to 22% in
+
+fiscal 2023. This change
+
+has had limited impact
+
+on profitability as money
+
+transfers are a 
+
+very low margin product. 
+
+o
+
+VAS
+
+and supplier
+
+payments throughput,
+
+excluding the low-margin
+
+money transfers,
+
+increased 43%
+
+year-on-
+
+year to ZAR 30.6 billion, and represents a 2-year CAGR of 49% compared
+
+to June 30, 2022. 
+
+o
+
+Whilst we saw growth in our traditional
+
+VAS
+
+products of electricity,
+
+airtime and gaming, much of the growth 
+
+has
+
+been
+
+driven
+
+by
+
+the
+
+uptake
+
+of
+
+our
+
+supplier
+
+payments
+
+platform
+
+by
+
+micro-merchants.
+
+As
+
+we
+
+bring
+
+more 
+
+suppliers onto our platform,
+
+we anticipate these volumes
+
+will continue to grow.
+
+Supplier payment throughput 
+
+volumes increased 124%
+
+in fiscal 2024
+
+compared to fiscal 2023
+
+and now accounts
+
+for approximately 35%
+
+of 
+
+our VAS
+
+throughput volumes, compared to approximately 20% a year ago. 
+
+o
+
+Touchsides was acquired
+
+at the end of April 2024 (refer below). 
+
+●
+
+Our 
+
+card acceptance 
+
+solutions to micro-merchants via Kazang Pay and to merchants through Card Connect.
+
+Card acceptance 
+
+Fiscal year ended June, 30 
+
+
+
+
+2024 vs. 
+
+
+2 year 
+
+CAGR % 
+
+Approximate number of devices in deployment
+
+
+51,850 
+
+44,900 
+
+22,650 
+
+15% 
+
+51% 
+
+Throughput for the year (ZAR billions) 
+
+15.6 
+
+12.0 
+
+6.1 
+
+30% 
+
+60% 
+
+
+●
+
+Our 
+
+lending 
+
+solutions offered to merchants through Capital Connect
+
+in the merchant market.
+
+Lending
+
+Fiscal year ended June, 30 
+
+
+
+
+2024 vs. 
+
+
+2 year 
+
+CAGR % 
+
+Capital Connect credit disbursed (ZAR millions) 
+
+
+
+
+% 
+
+9% 
+
+Capital Connect loan book
+
+size at period end (ZAR 
+
+millions) 
+
+
+
+
+% 
+
+11% 
+
+o
+
+Capital
+
+Connect
+
+disbursed
+
+ZAR
+
+
+million
+
+during
+
+fiscal
+
+2024,
+
+compared
+
+to
+
+ZAR
+
+
+million
+
+in
+
+the 
+
+comparable
+
+period
+
+last
+
+year,
+
+representing
+
+a
+
+7%
+
+decrease,
+
+reflective
+
+of
+
+challenging
+
+economic
+
+conditions, 
+
+including higher interest rates, experienced by merchants in South
+
+Africa during fiscal 2024 
+
+o
+
+We
+
+continue
+
+to
+
+see
+
+demand
+
+for
+
+our
+
+merchant
+
+lending
+
+offering
+
+however
+
+the
+
+deteriorating
+
+performance
+
+and 
+
+financial strength of many
+
+of our merchants means they
+
+do not meet our credit
+
+criteria, resulting in fewer and 
+
+smaller extensions.
+
+Whilst strict
+
+application of
+
+our credit
+
+criteria has
+
+led to
+
+negative growth,
+
+it has
+
+protected 
+
+and maintained the quality of our book through this cycle. Growth in credit disbursed and the Capital Connect 
+
+loan book size at the end of the year represents a 2-year CAGR of 9% and 11%
+
+respectively.
+
+o
+
+Capital
+
+Connect’s
+
+lending
+
+proposition
+
+is
+
+an
+
+important
+
+component
+
+in
+
+enabling
+
+the
+
+merchants
+
+we
+
+serve
+
+to 
+
+compete and
+
+grow.
+
+Since inception,
+
+Capital Connect
+
+has distributed
+
+more than
+
+ZAR 3
+
+billion of
+
+funding to 
+
+merchants and can provide funding
+
+of up to ZAR 5
+
+million in under 24 hours. Quick
+
+access to affordable and 
+
+flexible opportunity
+
+capital is
+
+vital in
+
+every stage
+
+of a
+
+merchants’ lifecycle,
+
+enabling them
+
+to never
+
+miss an 
+
+opportunity.
+
+o
+
+In fiscal 2024 Capital
+
+Connect launched 
+
+“Fuel Connect”
+
+, a tailored lending
+
+solution addressing complexities 
+
+in fuel ordering, aimed at solving for merchants’ pain points. 
+
+o
+
+Kazang Pay
+
+Advance, our
+
+lending offering
+
+in the micro
+
+-merchant sector,
+
+was suspended
+
+in early fiscal
+
+
+following the decision to discontinue
+
+the current product, especially in
+
+the high interest rate environment. We 
+
+continued
+
+to
+
+explore
+
+other
+
+options
+
+with
+
+respect
+
+to
+
+this
+
+offering
+
+with
+
+it
+
+now
+
+in
+
+live
+
+pilot
+
+phase.
+
+We
+
+are 
+
+monitoring payment
+
+behavior on a
+
+smaller loan book
+
+and applying stricter
+
+lending criteria before
+
+the official 
+
+relaunch later in fiscal 2025.
+
+●
+
+Our 
+
+cash
+
+management
+
+and
+
+digitalization 
+
+solutions
+
+effectively
+
+“puts
+
+the
+
+bank”
+
+in
+
+approximately
+
+4,440
+
+merchants’ 
+
+stores. 
+
+Cash management and digitalization
+
+Fiscal year ended June 30, 
+
+
+
+
+2024 vs. 
+
+
+2 year 
+
+CAGR % 
+
+Approximate number of devices in deployment 
+
+4,440 
+
+4,390 
+
+4,080 
+
+1% 
+
+4% 
+
+Cash
+
+settlements
+
+(throughput)
+
+for
+
+the
+
+year
+
+(ZAR 
+
+billions) 
+
+112.6 
+
+110.1 
+
+102.1 
+
+2% 
+
+5% 
+
+o
+
+Our cash
+
+business remains
+
+a
+
+vital product
+
+in our
+
+merchant offering
+
+and is
+
+a key
+
+differentiator
+
+for
+
+us in
+
+the 
+
+digitalization
+
+of cash.
+
+We
+
+provide
+
+robust
+
+cash vaults
+
+in
+
+the SME
+
+sector
+
+(Cash
+
+Connect) and
+
+are building
+
+a 
+
+presence
+
+in
+
+the
+
+micro-merchant
+
+sector
+
+(Kazang
+
+Vaults),
+
+which
+
+enables
+
+our
+
+merchant
+
+customer
+
+base
+
+to 
+
+significantly mitigate their operational risks pertaining to cash management
+
+and security.
+
+o
+
+Whilst there
+
+is trend
+
+towards digital payments,
+
+cash remains
+
+as the
+
+most significant portion
+
+of retail transactions 
+
+especially in informal markets. This business is
+
+primarily exposed to the mid-market SMEs, a
+
+sector which has 
+
+experienced
+
+challenges such
+
+as power
+
+outages,
+
+high
+
+price inflation
+
+and
+
+a slowdown
+
+in consumer
+
+spending, 
+
+over
+
+the
+
+past
+
+
+months.
+
+This
+
+impacted
+
+the
+
+merchants
+
+we
+
+serve
+
+in
+
+this
+
+sector
+
+and
+
+resulted
+
+in
+
+increased 
+
+bankruptcies and vault upliftments which affected
+
+the net growth in the vault estate. 
+
+o
+
+Our merchants deposited over ZAR 113 billion in cash into our vaults in fiscal 2024 evidencing the value they 
+
+derive from our ability to digitalize this cash and immediately provide access to working
+
+capital.
+
+Acquisition of Touchsides 
+
+In February 2024
+
+we announced the acquisition
+
+of Touchsides
+
+(Pty) Ltd (“Touchsides”)
+
+and the deal
+
+closed on April 30,
+
+2024\. 
+
+Touchsides
+
+is a leading
+
+data analytics and
+
+insights company,
+
+and highly
+
+complementary with
+
+our Kazang
+
+business. The
+
+acquisition 
+
+significantly expands
+
+Kazang’s
+
+footprint in
+
+the informal
+
+market by
+
+adding an
+
+established solution
+
+that has
+
+a strong
+
+presence in
+
+the 
+
+licensed tavern market. The business
+
+provides platform-as-a-service (“PaaS”) and software-as-a-service (“SaaS”) solutions
+
+to licensed 
+
+tavern
+
+outlets,
+
+enabling
+
+the
+
+measurement
+
+of
+
+sales
+
+activity
+
+in
+
+real-time,
+
+management
+
+of
+
+stock
+
+levels
+
+and
+
+informing
+
+commercial 
+
+decisions, such as pricing and promotional offers. 
+
+
+The data and insights gathered from these terminals carries significant value and potential to be monetized through relationships 
+
+with
+
+a
+
+range
+
+of
+
+clients
+
+including
+
+fast-moving
+
+consumer
+
+goods
+
+companies,
+
+retailers,
+
+wholesalers,
+
+route-to-market
+
+suppliers,
+
+and 
+
+financiers. 
+
+Touchsides is managed
+
+as part of our micro-merchant business and has been allocated to our Merchant operating
+
+segment.
+
+Acquisition of Adumo
+
+In May 2024
+
+we announced the acquisition
+
+of Adumo RF (Pty)
+
+Ltd (“Adumo”), which
+
+is subject to shareholder
+
+and regulatory 
+
+approvals.
+
+Adumo is an independent
+
+payments and commerce enablement
+
+platform in Southern Africa,
+
+serving approximately 23,000 active 
+
+merchants with
+
+operations across
+
+South Africa,
+
+Namibia, Botswana
+
+and Kenya.
+
+For more
+
+than two
+
+decades, Adumo
+
+has facilitated 
+
+physical and online commerce between retail merchants and end-consumers by offering
+
+a unique combination of payment processing 
+
+and integrated software
+
+solutions, which currently
+
+include embedded payments,
+
+integrated payments, reconciliation services,
+
+merchant 
+
+lending, customer engagement tools, card issuing program management
+
+and data analytics.
+
+Adumo operates
+
+across three
+
+businesses, which
+
+provide payment
+
+processing and
+
+integrated software
+
+solutions to
+
+different 
+
+end markets: 
+
+●
+
+The Adumo
+
+Payments business offers
+
+payment processing,
+
+integrated payments
+
+and reconciliation
+
+solutions to small-
+
+and-medium
+
+(“SME”)
+
+merchants
+
+in
+
+South
+
+Africa,
+
+Namibia
+
+and
+
+Botswana,
+
+and
+
+also
+
+provides
+
+card
+
+issuing
+
+program 
+
+management to corporate clients such as Anglo American and Coca-Cola; 
+
+●
+
+The Adumo ISV business, also known as GAAP,
+
+has operations in South Africa, Botswana and Kenya, and clients in a 
+
+further 21
+
+countries, and
+
+is the
+
+leading provider
+
+of integrated
+
+point-of-sales software
+
+and hardware
+
+to the
+
+hospitality 
+
+industry in Southern Africa, serving clients such as KFC, McDonald’s,
+
+Pizza Hut, Nando’s and Krispy Kreme;
+
+and,
+
+●
+
+The Adumo
+
+Ventures
+
+business offers
+
+online commerce
+
+solutions (Adumo
+
+Online), cloud-based,
+
+multi-channel point-
+
+of-sales
+
+solutions
+
+(Humble)
+
+and
+
+an
+
+aggregated
+
+payment
+
+and
+
+credit
+
+platform
+
+for
+
+in-store
+
+and
+
+online
+
+commerce 
+
+(SwitchPay) to SME merchants and corporate clients in South Africa and Namibia.
+
+Adumo generates
+
+the majority
+
+of its
+
+revenue from
+
+per transaction
+
+fees that
+
+are calculated
+
+as a
+
+percentage of
+
+transaction value, 
+
+and software-as-a-service (“SaaS”) subscription fees charged to
+
+merchants. As of June
+
+30, 2024, Adumo employed approximately
+
+
+employees throughout Southern Africa. 
+
+The
+
+acquisition
+
+continues
+
+Lesaka’s
+
+consolidation
+
+in
+
+the
+
+Southern
+
+African
+
+fintech
+
+sector.
+
+The
+
+Lesaka
+
+ecosystem
+
+will
+
+serve 
+
+approximately 1.7 million
+
+active consumers,
+
+120,200 merchants,
+
+and processes
+
+over ZAR
+
+270 billion
+
+in throughput
+
+(cash, card
+
+and 
+
+VAS)
+
+per year.
+
+The
+
+combined
+
+Group
+
+will
+
+have
+
+over
+
+3,300
+
+employees
+
+operating
+
+on
+
+the
+
+ground
+
+in
+
+five
+
+countries:
+
+South
+
+Africa,
+
+Namibia, 
+
+Botswana, Zambia, and Kenya. 
+
+The acquisition enhances Lesaka's strengths in both the consumer
+
+and merchant markets. 
+
+The purchase
+
+consideration will
+
+be settled
+
+through the
+
+combination of
+
+an issuance
+
+of 17,279,803
+
+shares of
+
+our common
+
+stock 
+
+and a ZAR 232 million ($12.5
+
+million, translated at the prevailing rate of
+
+$1: ZAR 18.5 as of
+
+May 6, 2024) payment in cash.
+
+The share 
+
+issuance
+
+was
+
+based
+
+off
+
+of
+
+the
+
+Base
+
+Purchase
+
+Consideration,
+
+as
+
+defined
+
+in
+
+the
+
+transaction
+
+agreement,
+
+of
+
+ZAR
+
+1.59
+
+billion 
+
+($85.9 million),
+
+less
+
+the
+
+ZAR
+
+
+million
+
+cash
+
+payment,
+
+implying
+
+a
+
+value
+
+per
+
+share
+
+of
+
+$4.25
+
+((ZAR
+
+1.59
+
+billion
+
+–
+
+ZAR
+
+0.232 
+
+billion)/17,279,803 /
+
+ZAR 18.5). Adumo
+
+shareholders include Apis
+
+Growth Fund I,
+
+a private equity
+
+fund managed by
+
+Apis Partners 
+
+LLP (“Apis”), African Rainbow
+
+Capital (“ARC”), the largest
+
+shareholder of Crossfin Holdings
+
+(RF) Pty Ltd (“Crossfin”),
+
+as well as 
+
+the International Finance Corporation and Adumo management. 
+
+As of September 11, 2024, the majority of shareholder and regulatory approvals required in finalizing this transaction have been 
+
+satisfied. The transaction is expected
+
+to close by October 2024 (quarter two
+
+of fiscal 2025) once the remaining procedural
+
+customary 
+
+closing conditions are satisfied. 
+
+
+Consumer Division 
+
+In
+
+our
+
+Consumer
+
+Division
+
+we
+
+offer
+
+transactional
+
+accounts
+
+(banking),
+
+insurance,
+
+lending
+
+and
+
+payments
+
+solutions
+
+designed
+
+to 
+
+improve the lives
+
+of historically underserviced
+
+consumers and continue
+
+to deliver against
+
+our strategic focus
+
+areas underpinning our 
+
+growth
+
+strategy.
+
+Progress made
+
+on these
+
+levers: (i)
+
+growing active
+
+EasyPay Everywhere
+
+(“EPE”)
+
+account numbers,
+
+(ii) increasing 
+
+average
+
+revenue
+
+per
+
+user
+
+(“ARPU”)
+
+through
+
+cross-selling
+
+and
+
+(iii)
+
+cost
+
+optimization,
+
+and
+
+(iv)
+
+enhancing
+
+our
+
+product
+
+and
+
+service 
+
+offering, resulted in revenue and profitability growth in
+
+the Consumer Division in fiscal 2024.
+
+Consumer 
+
+Fiscal year ended June 30, 
+
+
+
+2024 vs. 
+
+
+Transactional accounts
+
+(banking) - EasyPay Everywhere ("EPE")
+
+Approximate
+
+Gross
+
+EPE
+
+account
+
+activations
+
+for
+
+the
+
+year
+
+-
+
+Permanent
+
+grant 
+
+recipients (number) 
+
+326,000 
+
+186,000 
+
+75% 
+
+Approximate
+
+Net
+
+EPE
+
+account
+
+activations
+
+for
+
+the
+
+year
+
+-
+
+Permanent
+
+grant 
+
+recipients (number) 
+
+192,000 
+
+79,000 
+
+143% 
+
+Total active EPE transactional
+
+account base at year end (millions) 
+
+1.51 
+
+1.28 
+
+19% 
+
+Total
+
+active
+
+EPE
+
+transactional
+
+account
+
+base
+
+at
+
+year
+
+end
+
+-
+
+Permanent
+
+grant 
+
+recipients (millions) 
+
+1.33 
+
+1.10 
+
+21% 
+
+Lending - EasyPay Loans
+
+Approximate number of loans originated during the year (number) 
+
+1,061,000 
+
+850,000 
+
+24% 
+
+Gross advances (ZAR billions) 
+
+1.7 
+
+1.3 
+
+29% 
+
+Loan book size, before allowances, at year end
+
+
+(ZAR millions) 
+
+
+
+32% 
+
+Insurance - EasyPay Insurance
+
+Approximate number of insurance policies written in the year (number) 
+
+170,000 
+
+124,000 
+
+37% 
+
+Total active insurance
+
+policies on book at year end (number) 
+
+439,000 
+
+335,000 
+
+31% 
+
+Average revenue per customer per month,
+
+as of June
+
+30, (permanent grant 
+
+beneficiaries) (ZAR) 
+
+
+
+13% 
+
+1.
+
+Gross loan book, before
+
+provisions. 
+
+The progress on our key initiatives is as follows: 
+
+●
+
+Driving customer acquisition 
+
+o
+
+Gross
+
+EPE
+
+account
+
+activations,
+
+for
+
+the
+
+permanent
+
+base,
+
+during
+
+fiscal
+
+
+showed
+
+significant
+
+year-on-year 
+
+improvement due
+
+to various strategic
+
+initiatives. We
+
+achieved approximately
+
+326,000 gross account
+
+activations in 
+
+the year, increasing
+
+75% compared to approximately
+
+186,000 in fiscal 2023.
+
+After accounting for churn, net
+
+active 
+
+account growth for the year increased 143%
+
+to approximately 192,000 accounts, compared to approximately 79,000 
+
+in fiscal 2023. 
+
+o
+
+Our
+
+total
+
+active EPE
+
+transactional
+
+account base
+
+stood
+
+at
+
+approximately
+
+1.47 million
+
+at
+
+the end
+
+of June
+
+2024,
+
+of 
+
+which approximately
+
+1.33 million
+
+(or approximately
+
+87%) are
+
+permanent grant
+
+recipients. The
+
+balance comprises 
+
+Social Relief of Distress
+
+(“SRD”) grant recipients, which was
+
+introduced during the COVID pandemic and
+
+extended 
+
+in calendar year 2023. 
+
+o
+
+Our priority
+
+is to grow
+
+our permanent
+
+grant recipient
+
+customers base,
+
+where we
+
+can build
+
+deeper relationships
+
+by 
+
+offering other products such as insurance and lending. We do not offer the same breadth of service to the SRD grant 
+
+base due to the temporary nature of the grant. 
+
+●
+
+Progress on cross
+
+selling 
+
+EasyPay Loans
+
+o
+
+We
+
+originated approximately
+
+1.06 million
+
+loans during
+
+the year
+
+with our
+
+consumer loan
+
+book, before
+
+allowances 
+
+(“gross book”), increasing
+
+32% to ZAR 548
+
+million as of June
+
+30, 2024, compared
+
+to ZAR 415 million
+
+as of June 
+
+30, 2023. 
+
+o
+
+We have not
+
+amended our credit scoring or other lending criteria and the growth is reflective of the demand
+
+for our 
+
+tailored
+
+loan
+
+product
+
+for
+
+this
+
+market,
+
+growth
+
+in
+
+EPE
+
+bank
+
+account
+
+customer
+
+base
+
+and
+
+improved
+
+cross-selling 
+
+capabilities. 
+
+o
+
+The
+
+loan
+
+conversion
+
+rate continues
+
+to improve
+
+following
+
+the implementation
+
+of
+
+a number
+
+of targeted
+
+Consumer 
+
+lending campaigns and encouraging results from our digital channels during
+
+the year. 
+
+o
+
+The portfolio loss ratio
+
+of approximately 6%,
+
+calculated as the loans
+
+written off during
+
+fiscal 2024 as a percentage 
+
+of the total gross
+
+loan book at the
+
+end of the period,
+
+remained stable on an
+
+annualized basis, compared to
+
+fiscal 2023. 
+
+
+EasyPay Insurance
+
+o
+
+Our funeral
+
+insurance product continued
+
+its strong growth
+
+and is a
+
+material contributor
+
+to the improvement
+
+in our 
+
+overall ARPU. We
+
+have been able to improve customer
+
+penetration to approximately 33% of our
+
+active permanent 
+
+grant account base
+
+as of
+
+June 30, 2024,
+
+compared to approximately
+
+31% as
+
+of June 30,
+
+2023\. Approximately 170,000 
+
+new policies were
+
+written during
+
+fiscal 2024, increasing
+
+37%, compared
+
+to approximately
+
+124,000 in
+
+fiscal 2023. 
+
+The
+
+total
+
+number
+
+of
+
+active
+
+policies
+
+has
+
+grown
+
+by
+
+31%
+
+to
+
+approximately
+
+439,000
+
+policies
+
+as
+
+of
+
+June
+
+30,
+
+2024, 
+
+compared to June 30, 2023. 
+
+ARPU
+
+o
+
+ARPU
+
+for
+
+our
+
+permanent
+
+client
+
+base
+
+has
+
+increased
+
+to
+
+approximately
+
+ZAR
+
+
+as
+
+of
+
+June
+
+30,
+
+2024,
+
+from 
+
+approximately ZAR 80 as of June 30, 2023.
+
+Economic Environment and Impact of loadshedding 
+
+The economic environment in South Africa remains challenging for our consumer and merchant customers. Whilst inflation
+
+has 
+
+come down
+
+into the top
+
+end of the
+
+Reserve Bank’s
+
+target range,
+
+the impact of
+
+the past two
+
+year’s high
+
+inflationary and interest
+
+rate 
+
+environment has
+
+impacted consumers.
+
+Likewise, our
+
+merchant customers
+
+have operated
+
+in a challenging
+
+environment, especially
+
+in 
+
+the
+
+formal
+
+SME
+
+segment
+
+where
+
+we
+
+have
+
+seen
+
+the
+
+impact
+
+in
+
+our
+
+cash
+
+and
+
+lending
+
+business.
+
+Notwithstanding
+
+the
+
+challenges,
+
+our 
+
+business model
+
+has proved
+
+resilient, and
+
+we have
+
+managed to
+
+continue growing
+
+our consumer
+
+and merchant
+
+base whilst
+
+delivering 
+
+improved Group Adjusted EBITDA. 
+
+Recent developments have bolstered confidence in our economy.
+
+Whilst, as of the date of this Annual Report, the Reserve Bank 
+
+has not reduced interest rates, there is a
+
+possibility that a downward cycle in interest rates will
+
+start soon. Power cuts, or loadshedding, 
+
+has seen a marked improvement compared to last year. South Africa recently went through more than 100 days without loadshedding. 
+
+The lead up to the
+
+national elections in May 2024 was
+
+a period of significant uncertainty for
+
+South Africa. The eventual outcome, with 
+
+a Government of National Unity being formed, was positively received by
+
+the market, with the stock exchange reaching record highs 
+
+and the bond market recording record inflows, reflecting renewed confidence. 
+
+Overall,
+
+the
+
+South
+
+African
+
+economy
+
+remains
+
+challenging
+
+with
+
+high
+
+unemployment,
+
+high
+
+interest
+
+rates
+
+and
+
+low
+
+growth 
+
+expectations. We do not foresee
+
+any major changes
+
+however anticipate that
+
+a lower interest
+
+rate environment would
+
+bring much needed 
+
+relief to consumers and merchants in South Africa. 
+
+Improvement in our Broad Based Black Economic
+
+Empowerment (“B-BBEE”) rating to level 4 
+
+B-BBEE is
+
+a key
+
+strategic priority
+
+for us. Achievement
+
+of B-BBEE
+
+objectives is
+
+measured by
+
+a scorecard
+
+which establishes
+
+a 
+
+weighting
+
+for
+
+various
+
+elements.
+
+Scorecards
+
+are
+
+independently
+
+reviewed
+
+by
+
+accredited
+
+BEE
+
+verification
+
+agencies
+
+which
+
+issue
+
+a 
+
+certificate that presents an entity’s BEE Contributor Status Level, with
+
+level 1 being the highest
+
+and “no rating” (a level
+
+below level 8) 
+
+as the lowest. During fiscal 2023, we made
+
+significant progress in terms of improving our empowerment credentials and
+
+in September 
+
+2023 we
+
+reported that
+
+our independently
+
+verified B-BBEE
+
+rating improved
+
+to a
+
+level 5
+
+rating from
+
+a level
+
+8 rating,
+
+simultaneously 
+
+setting out our aim to achieve a level 4 rating by the end of fiscal year 2024.
+
+Together with various B-BBEE initiatives and programmes being rolled
+
+out, including our Youth Employment Services (“YES”) 
+
+programme, we
+
+achieved this
+
+target during
+
+the second
+
+quarter of
+
+fiscal 2024
+
+and have
+
+received an
+
+independently verified
+
+B-BBEE 
+
+rating of level 4. 
+
+Leadership Changes in fiscal 2024 
+
+On February 29, 2024 Mr. Chris Meyer completed his tenure as
+
+Group CEO of Lesaka, a position he
+
+held since July 1, 2021. Mr. 
+
+Ali Mazanderani
+
+took
+
+over
+
+the majority
+
+of
+
+Mr.
+
+Meyer’s
+
+responsibilities
+
+as Executive
+
+Chairman
+
+of Lesaka
+
+on
+
+March 1,
+
+2024.
+
+Ali 
+
+Mazanderani has been integral to the development of Lesaka’s strategy and has been a Non-Executive Director since 2020. As part of 
+
+the change
+
+in leadership,
+
+Mr.
+
+Kuben Pillay,
+
+stepped down
+
+as our
+
+Chairman on
+
+January 31,
+
+2024, and
+
+commenced his
+
+role as
+
+Lead 
+
+Independent Director of Lesaka on February 1, 2024.
+
+
+Critical Accounting Policies
+
+Our audited consolidated
+
+financial statements have
+
+been prepared in accordance
+
+with U.S. GAAP,
+
+which requires management 
+
+to
+
+make
+
+estimates
+
+and
+
+assumptions
+
+about
+
+future
+
+events
+
+that
+
+affect
+
+the
+
+reported
+
+amount
+
+of
+
+assets
+
+and
+
+liabilities
+
+and
+
+disclosure
+
+of 
+
+contingent assets and liabilities.
+
+As future events and
+
+their effects cannot be
+
+determined with absolute certainty,
+
+the determination of 
+
+estimates requires
+
+management’s
+
+judgment based
+
+on a
+
+variety of
+
+assumptions and
+
+other determinants
+
+such as
+
+historical experience, 
+
+current
+
+and
+
+expected
+
+market
+
+conditions
+
+and
+
+certain
+
+scientific
+
+evaluation
+
+techniques.
+
+Management
+
+believes
+
+that
+
+the
+
+following 
+
+accounting policies
+
+are critical due
+
+to the degree
+
+of estimation required
+
+and the impact
+
+of these policies
+
+on the understanding
+
+of the 
+
+results of our operations and financial condition. 
+
+Business Combinations and the Recoverability of Goodwill
+
+A significant component
+
+of our growth
+
+strategy is to acquire
+
+and integrate businesses
+
+that complement
+
+our existing operations. 
+
+The purchase
+
+price of
+
+an acquired
+
+business is
+
+allocated to
+
+the tangible
+
+and intangible
+
+assets acquired
+
+and liabilities
+
+assumed
+
+based 
+
+upon their estimated
+
+fair value at the
+
+date of purchase.
+
+The difference between
+
+the purchase price and
+
+the fair value of
+
+the net assets 
+
+acquired is
+
+recorded as goodwill.
+
+In determining
+
+the fair value
+
+of assets acquired
+
+and liabilities assumed
+
+in a business
+
+combination, 
+
+we use various
+
+recognized valuation methods, including
+
+present value modeling.
+
+Further, we make assumptions
+
+using certain valuation 
+
+techniques, including discount rates and timing of future cash flows.
+
+We review the carrying value of goodwill annually
+
+or more frequently if circumstances indicating impairment have occurred. In 
+
+performing this review,
+
+we are required to estimate
+
+the fair value of goodwill that
+
+is implied from a valuation of
+
+the reporting unit to 
+
+which the goodwill
+
+has been allocated
+
+after deducting the
+
+fair values of
+
+all the identifiable
+
+assets and liabilities
+
+that form part
+
+of the 
+
+reporting
+
+unit.
+
+The determination
+
+of
+
+the fair
+
+value
+
+of a
+
+reporting
+
+unit requires
+
+us
+
+to
+
+make
+
+significant
+
+judgments
+
+and estimates.
+
+In 
+
+determining the fair value of reporting units for fiscal 2024, our key judgements related to reporting unit revenue growth rates and the 
+
+weighted-average cost
+
+of capital applicable
+
+to peer and
+
+industry comparables
+
+of the reporting
+
+units. In
+
+determining the
+
+fair value of 
+
+reporting units
+
+for fiscal
+
+2023, we
+
+considered entity-specific
+
+growth rates,
+
+future expected
+
+cash flows
+
+to be
+
+used in
+
+our discounted 
+
+cash flow model, and the weighted-average cost of capital applicable to
+
+peer and industry comparables of the reporting units. We base 
+
+our estimates
+
+on assumptions
+
+we believe
+
+to be
+
+reasonable but
+
+that are
+
+unpredictable and
+
+inherently uncertain.
+
+In addition,
+
+we make 
+
+judgments and assumptions in allocating assets and liabilities to each of our reporting
+
+units. 
+
+The results of our impairment tests during fiscal 2024
+
+indicated that the fair value of our reporting units exceeded
+
+their carrying 
+
+values and
+
+so did
+
+not require
+
+impairment. The
+
+results of
+
+our impairment
+
+tests during
+
+fiscal 2023
+
+indicated that
+
+the fair value
+
+of our 
+
+reporting
+
+units
+
+exceeded
+
+their carrying
+
+values,
+
+with
+
+the
+
+exception
+
+of
+
+the $7.0
+
+million
+
+of goodwill
+
+impaired
+
+during
+
+fiscal 202
+
+3,
+
+as 
+
+discussed in Note 10 to our audited consolidated financial statements. 
+
+Intangible Assets Acquired Through Acquisitions
+
+The
+
+fair values
+
+of the
+
+identifiable
+
+intangible
+
+assets acquired
+
+through
+
+acquisitions
+
+were determined
+
+by management
+
+using
+
+the 
+
+purchase method
+
+of accounting.
+
+We
+
+did not
+
+identify any
+
+significant intangible
+
+assets related
+
+to the
+
+Touchsides
+
+acquisition in
+
+fiscal 
+
+2024\. We completed the acquisition
+
+of Connect during fiscal 2022 where we identified and recognized intangible assets. We
+
+used the 
+
+relief from royalty method to value identified brands
+
+and the multi-period excess earnings method to value
+
+the integrated platform and 
+
+identified customer relationships. We
+
+have used the relief from royalty method,
+
+the multi-period excess earnings method, the income 
+
+approach
+
+and
+
+the
+
+cost
+
+approach
+
+to
+
+value
+
+other
+
+historic
+
+acquisition-related
+
+intangible
+
+assets.
+
+In
+
+so
+
+doing,
+
+we
+
+made
+
+assumptions 
+
+regarding
+
+expected
+
+future revenues
+
+and
+
+expenses
+
+to develop
+
+the underlying
+
+forecasts, applied
+
+contributory
+
+asset charges,
+
+discount 
+
+rates, exchange rates, cash tax charges and useful lives.
+
+The valuations were based on information available at the
+
+time of the acquisition and the expectations and
+
+assumptions that were 
+
+deemed reasonable by us. No assurance can be given, however,
+
+that the underlying assumptions or events associated with such assets 
+
+will occur as
+
+projected. For these
+
+reasons, among others,
+
+the actual cash
+
+flows may vary
+
+from forecasts of
+
+future cash flows.
+
+To
+
+the 
+
+extent actual cash flows vary, revisions to the useful life or impairment of intangible assets may be necessary.
+
+Management assess the 
+
+useful life of
+
+the acquired intangible
+
+assets upon initial
+
+recognition and revisions
+
+to the useful
+
+life or impairment
+
+of these intangible 
+
+assets may be necessary in the future. 
+
+Revenue recognition – principal versus agent considerations
+
+We generate
+
+revenue from the provision of transaction-processing
+
+services through our various platforms
+
+and service offerings. 
+
+We
+
+use these
+
+platforms to
+
+(a) sell
+
+prepaid airtime
+
+vouchers which
+
+was held
+
+as inventory
+
+and (b)
+
+distribute VAS,
+
+including prepaid 
+
+airtime vouchers (which
+
+we do
+
+not hold as
+
+inventory), prepaid electricity, gaming voucher,
+
+and other services,
+
+to users
+
+of our platforms. 
+
+The
+
+determination
+
+of whether
+
+we
+
+act as
+
+a principal
+
+or as
+
+an agent
+
+when providing
+
+these services
+
+requires
+
+a significant
+
+amount
+
+of 
+
+judgement and is based on whether (i)
+
+we are primarily responsible for fulfilling the promise
+
+to provide the specified goods or service, 
+
+(ii) we
+
+have
+
+inventory
+
+risk before
+
+the specified
+
+good or
+
+service has
+
+been
+
+transferred
+
+to a
+
+customer
+
+and
+
+(iii) we
+
+have
+
+discretion
+
+in 
+
+establishing the
+
+price for
+
+the specified
+
+good or
+
+service. When
+
+we are
+
+the principal
+
+in a
+
+transaction, such
+
+as when
+
+we purchase
+
+(and 
+
+thus control and assume
+
+inventory risk) prepaid airtime
+
+before selling it to customers
+
+utilizing our platform,
+
+revenue is reported on
+
+a 
+
+gross basis. When
+
+we are an
+
+agent in a
+
+transaction, such
+
+as when we
+
+distribute VAS
+
+on behalf of
+
+our customers,
+
+and do not
+
+control 
+
+the
+
+good
+
+or
+
+service
+
+to
+
+be
+
+provided,
+
+revenue
+
+is
+
+recognized
+
+based
+
+on
+
+the
+
+amount
+
+that
+
+we
+
+are
+
+contractually
+
+entitled
+
+to
+
+receive
+
+for 
+
+performing the distribution service on behalf of our customers using our
+
+platform.
+
+
+Valuation
+
+of investment in Cell C 
+
+We have elected to measure
+
+our investment in
+
+Cell C, an
+
+unlisted equity security, at fair
+
+value using the
+
+fair value option.
+
+Changes 
+
+in
+
+the
+
+fair
+
+value
+
+of
+
+this
+
+equity
+
+security
+
+are
+
+recognized
+
+in
+
+the
+
+caption
+
+“change
+
+in
+
+fair
+
+value
+
+of
+
+equity
+
+securities”
+
+in
+
+our
+
+audited 
+
+consolidated statements of operations. The tax impact related to the change in
+
+fair value of equity securities is included in income tax 
+
+expense in our audited
+
+consolidated statements of operation.
+
+The determination of
+
+the fair value of this
+
+equity security requires us
+
+to 
+
+make significant judgments
+
+and estimates.
+
+We base our estimates
+
+on assumptions we
+
+believe to be
+
+reasonable but that
+
+are unpredictable 
+
+and inherently uncertain. Refer
+
+to Note 6
+
+of our audited consolidated
+
+financial statements regarding the
+
+valuation inputs and
+
+sensitivity 
+
+related to our investment in Cell C. 
+
+We used a discounted cash flow model to determine the fair value of our investment in Cell C as of June 30, 2024 and 2023, and 
+
+valued Cell C at
+
+$0.0
+
+(zero) as of each of
+
+June 30, 2024 and 2023.
+
+We utilized the latest business plan provided by Cell
+
+C management 
+
+for the period ended December 31,
+
+2027, for the June 30, 2024
+
+and 2023 valuations, and the
+
+following key valuation inputs were used: 
+
+Weighted Average
+
+Cost of Capital: 
+
+Between 21% and 26% over the period of the forecast 
+
+Long-term growth rate: 
+
+4.5% (4.5% as of June 30, 2023) 
+
+Marketability discount: 
+
+21% (20% as of June 30, 2023) 
+
+Minority discount: 
+
+24% (24% as of June 30, 2023) 
+
+Net adjusted external debt - June 30, 2024:
+
+ZAR 8 billion ($0.4 billion), no lease liabilities included 
+
+Net adjusted external debt - June 30, 2023:
+
+ZAR 8.1 billion ($0.4 billion), no lease liabilities included 
+
+translated from ZAR to U.S. dollars at exchange rates applicable
+
+as of June 30, 2024. 
+
+translated from ZAR to U.S. dollars at exchange rates applicable
+
+as of June 30, 2023.
+
+We
+
+believe the
+
+Cell C
+
+business plan
+
+is reasonable
+
+based on
+
+the current
+
+performance and
+
+the expected
+
+changes in
+
+the business 
+
+model. Refer to the sensitivity analysis included in
+
+Note 6 to our audited consolidated financial statements
+
+related to our valuation of 
+
+Cell C as of June 30, 2024. 
+
+Recoverability of equity securities and equity-accounted investments 
+
+We
+
+review our
+
+equity securities
+
+and equity-accounted
+
+investments for
+
+impairment whenever
+
+events or
+
+circumstances indicate 
+
+that the
+
+carrying amount
+
+of the
+
+investment may
+
+not be
+
+recoverable.
+
+In performing
+
+this review,
+
+we are
+
+required to
+
+estimate the
+
+fair 
+
+value of our
+
+equity-accounted investments and other
+
+equity securities. The
+
+determination of the
+
+fair value of
+
+these investments requires 
+
+us to make significant judgments and estimates.
+
+Other equity securities include our investments in MobiKwik and CPS. These equity securities do not have readily determinable 
+
+fair
+
+values
+
+and
+
+therefore
+
+we
+
+have
+
+elected
+
+to
+
+measure
+
+these
+
+investments
+
+at
+
+cost
+
+minus
+
+impairment,
+
+if
+
+any,
+
+plus
+
+or
+
+minus
+
+changes 
+
+resulting
+
+from
+
+observable
+
+price
+
+changes
+
+in
+
+orderly
+
+transactions
+
+for
+
+the
+
+identical
+
+or
+
+a
+
+similar
+
+investment
+
+of
+
+the
+
+same
+
+issuer.
+
+If
+
+we 
+
+identify an impairment indicator related
+
+to these equity
+
+securities, we are required
+
+to assess the
+
+carrying value of these
+
+equity securities 
+
+against their fair
+
+value. We
+
+did not identify
+
+any impairment indicators
+
+during each
+
+of fiscal 2024,
+
+
+and 2022,
+
+and therefore did 
+
+not recognize any impairment losses related to these equity securities during
+
+those years. 
+
+The determination of the fair value of an investment requires us to make significant judgments and estimates. We are required to 
+
+base our
+
+estimates on
+
+assumptions
+
+which we
+
+believe to
+
+be reasonable,
+
+but these
+
+assumptions may
+
+be unpredictable
+
+and inherently 
+
+uncertain. 
+
+The Company did
+
+not identify any
+
+observable transactions
+
+during either of
+
+the years ended June
+
+30, 2024, 2023
+
+and 2022, and 
+
+therefore there was no change in
+
+the fair value of MobiKwik
+
+during the year. During the year ended June 30,
+
+2021, MobiKwik entered 
+
+into
+
+a
+
+number
+
+of
+
+separate
+
+agreements
+
+with
+
+new
+
+shareholders
+
+to
+
+raise
+
+additional
+
+capital
+
+through
+
+the
+
+issuance
+
+of
+
+additional
+
+shares. 
+
+Specifically,
+
+our
+
+current
+
+valuation
+
+is based
+
+on
+
+an
+
+observable
+
+price
+
+change
+
+in
+
+an orderly
+
+transaction
+
+for
+
+similar
+
+or
+
+identical equity 
+
+securities issued by MobiKwik
+
+in a capital raise concluded
+
+in June 2021, of $245.50
+
+per share. The carrying value
+
+of our investment 
+
+in MobiKwik is
+
+$76.3 million as
+
+of June 30,
+
+2024\. Any change
+
+in the fair
+
+value of MobiKwik
+
+is included in
+
+the caption “Change
+
+in 
+
+fair value of equity securities” in our audited consolidated statement of operations
+
+. 
+
+We did
+
+not identify any impairment indicators
+
+during fiscal 2022 and therefore
+
+did not recognize any impairment
+
+losses related 
+
+to our
+
+equity-accounted investments
+
+during that
+
+year.
+
+We
+
+performed impairment
+
+assessments
+
+during fiscal
+
+2024 and
+
+2023, for
+
+our 
+
+investment in
+
+Finbond Group
+
+Limited “(Finbond”)
+
+following the
+
+identification of
+
+certain impairment
+
+indicators. The
+
+results of
+
+our 
+
+impairment tests
+
+during fiscal
+
+
+and 2023,
+
+resulted in
+
+impairments of
+
+$1.2 million
+
+and $1.1
+
+million, respectively,
+
+related to
+
+our 
+
+equity-accounted investments. These impairments are discussed in Note
+
+9 to our audited consolidated financial
+
+statements. On August 
+
+10, 2023, we, through our wholly owned subsidiary
+
+Net1 Finance Holdings (Pty) Ltd, entered into an agreement
+
+with Finbond to sell 
+
+our remaining shareholding to Finbond for a cash consideration of ZAR 64.2
+
+million ($3.5 million), or ZAR 0.2911 per share.
+
+
+For
+
+fiscal
+
+2024,
+
+in
+
+determining
+
+the
+
+fair
+
+value
+
+of
+
+Finbond,
+
+we
+
+used
+
+the
+
+price
+
+of
+
+ZAR
+
+0.2911
+
+referenced
+
+in
+
+the
+
+August
+
+
+agreement to calculate
+
+the determined fair value
+
+for Finbond. For
+
+fiscal 2023, in determining
+
+the fair value of
+
+Finbond, as it is
+
+listed 
+
+on the Johannesburg Stock Exchange, its market price as
+
+of the impairment assessment dates, adjusted for a
+
+liquidity discount of 25%. 
+
+We based our estimates on assumptions
+
+we believe to be reasonable but that are unpredictable and inherently uncertain. The fair 
+
+value of
+
+our investment
+
+in Finbond
+
+was sensitive
+
+to movements
+
+in its
+
+market price,
+
+which is
+
+quoted in
+
+ZAR, because
+
+we used
+
+the 
+
+market price as the basis of our valuation. 
+
+Deferred Taxation 
+
+We
+
+estimate
+
+our
+
+tax
+
+liability
+
+through
+
+the
+
+calculations
+
+done
+
+for
+
+the
+
+determination
+
+of
+
+our
+
+current
+
+tax
+
+liability,
+
+together
+
+with 
+
+assessing temporary
+
+differences
+
+resulting
+
+from the
+
+different
+
+treatment of
+
+items for
+
+tax and
+
+accounting purposes.
+
+These differ
+
+ences 
+
+result in deferred tax assets and liabilities which are disclosed on our balance
+
+sheet.
+
+Management then
+
+has to assess
+
+the likelihood
+
+that deferred tax
+
+assets are more
+
+likely than not
+
+to be realized
+
+in the foreseeable 
+
+future. A valuation allowance is
+
+created if it is determined
+
+that a deferred tax asset will not
+
+be realized in the foreseeable
+
+future. Any 
+
+change to the valuation allowance
+
+would be charged or
+
+credited to income in the period
+
+such determination is made. In
+
+assessing the 
+
+need for a valuation allowance,
+
+historical levels of income, expectations
+
+and risks associated with estimates of
+
+future taxable income 
+
+and
+
+ongoing
+
+prudent
+
+and
+
+practicable
+
+tax
+
+planning
+
+strategies
+
+are
+
+considered.
+
+During
+
+fiscal
+
+2024,
+
+2023,
+
+and
+
+2022,
+
+respectively
+
+we 
+
+recorded a net decrease of $5.6 million,
+
+$8.0 million and $1.7 million, to our
+
+valuation allowance. As of June 30, 2024
+
+and 2023, the 
+
+valuation allowance related to deferred tax assets was $114.7
+
+million and $109.1 million, respectively. 
+
+Stock-based Compensation
+
+Management is required to make estimates and assumptions related to our valuation and recording of stock-based
+
+compensation 
+
+charges under
+
+current accounting
+
+standards. These standards
+
+require all share-based
+
+compensation to employees
+
+to be recognized
+
+in 
+
+the
+
+statement
+
+of
+
+operations
+
+based on
+
+their
+
+respective
+
+grant date
+
+fair
+
+values
+
+over
+
+the requisite
+
+service
+
+periods
+
+and
+
+also
+
+requires
+
+an 
+
+estimation of forfeitures when calculating compensation expense.
+
+We utilize the Cox Ross
+
+Rubinstein binomial model to
+
+measure the fair
+
+value of stock
+
+options granted to
+
+employees and directors. 
+
+We
+
+have also utilized
+
+a bespoke adjusted Monte
+
+Carlo simulation discounted
+
+cash flow model to
+
+measure the fair value
+
+of restricted 
+
+stock with market
+
+conditions granted to
+
+employees and directors.
+
+The stock-based compensation
+
+cost related to
+
+these valuations has 
+
+been
+
+recognized
+
+on
+
+a
+
+straight-line
+
+basis.
+
+These
+
+valuation
+
+models
+
+require
+
+estimates
+
+of
+
+a
+
+number
+
+of
+
+key
+
+valuation
+
+inputs
+
+including 
+
+expected volatility, expected dividend yield, expected term and
+
+risk-free interest rate. Our
+
+management has estimated forfeitures based 
+
+on
+
+historic
+
+employee
+
+behavior
+
+under
+
+similar
+
+compensation
+
+plans.
+
+The
+
+fair
+
+value
+
+of
+
+stock
+
+options
+
+is
+
+affected
+
+by
+
+the
+
+assumptions 
+
+selected. The fair value calculation is especially sensitive
+
+to our valuation assumption with respect to expected volatility. For instance, 
+
+a 5% increase (to 53%) or 5% decrease (to 43%) in the expected volatility used (of 48%) to value stock options granted in June 2024, 
+
+would result
+
+in a
+
+charge that
+
+was 11%
+
+higher (if
+
+53% were
+
+used) or
+
+11%
+
+lower (if
+
+43% were
+
+used). Net
+
+stock-based compensation 
+
+expense from continuing operations was $7.9 million, $7.3 million and $3.0
+
+million for fiscal 2024, 2023 and 2022, respectively. 
+
+Accounts Receivable and Allowance for Credit Losses
+
+We 
+
+use a lifetime loss rate by expressing
+
+write-off experience as a percentage
+
+of corresponding invoice amounts (as
+
+opposed to 
+
+outstanding balances). The allowance for credit losses related to these receivables has been calculated by multiplying the lifetime loss 
+
+rate with recent invoice/origination amounts.
+
+Prior to July 1, 2023, a specific provision is established where it is considered likely that all or a portion of the amount due from 
+
+customers
+
+renting
+
+safe
+
+assets,
+
+point
+
+of
+
+sale
+
+(“POS”)
+
+equipment,
+
+receiving
+
+support
+
+and
+
+maintenance
+
+or
+
+transaction
+
+services
+
+or 
+
+purchasing licenses
+
+or SIM
+
+cards from
+
+us that
+
+will not
+
+be recovered.
+
+Non-recoverability is
+
+assessed based
+
+on a
+
+quarterly review
+
+by 
+
+management of the
+
+ageing of outstanding
+
+amounts, the location and
+
+the payment history of
+
+the customer in relation
+
+to those specific 
+
+amounts. 
+
+We use historical default experience over the lifetime of loans in order to calculate a lifetime loss
+
+rate for our lending books. The 
+
+allowance for
+
+credit losses related
+
+to Consumer
+
+finance loans receivables
+
+is calculated by
+
+multiplying the
+
+lifetime loss rate
+
+with the 
+
+month-end outstanding lending book.
+
+Prior to July
+
+1, 2023, we
+
+regularly reviewed the
+
+ageing of outstanding
+
+amounts due from
+
+borrowers and adjusted
+
+its allowance 
+
+based
+
+on
+
+management’s
+
+estimate
+
+of
+
+the
+
+recoverability
+
+of
+
+the
+
+finance
+
+loans
+
+receivable.
+
+We
+
+write
+
+off
+
+microlending
+
+finance
+
+loans 
+
+receivable and related service fees and
+
+interest if a borrower is in arrears
+
+with repayments for more than three months
+
+or is deceased. 
+
+We write off merchant and working capital finance
+
+receivables and related fees when
+
+it is evident that
+
+reasonable recovery procedures, 
+
+including where deemed necessary,
+
+formal legal action, have failed.
+
+
+Lending 
+
+Merchant lending
+
+The allowance for credit losses related to Merchant finance loans receivables
+
+is calculated by adding together actual receivables 
+
+in
+
+default
+
+plus
+
+multiplying
+
+the
+
+lifetime
+
+loss
+
+rate
+
+with
+
+the
+
+month-end
+
+outstanding
+
+lending
+
+book.
+
+Our
+
+risk
+
+management
+
+procedures 
+
+include adhering to
+
+our proprietary lending
+
+criteria which
+
+uses an
+
+online-system loan application
+
+process, obtaining necessary
+
+customer 
+
+transaction-history
+
+data
+
+and
+
+credit
+
+bureau
+
+checks.
+
+We
+
+consider
+
+these
+
+procedures
+
+to
+
+be
+
+appropriate
+
+because
+
+it
+
+takes
+
+into
+
+account
+
+a 
+
+variety of factors such as the customer’s credit capacity and
+
+customer-specific risk factors when originating a loan. 
+
+We 
+
+recently (in the past
+
+three years) commenced lending
+
+to merchant customers and
+
+uses historical default experience
+
+over the 
+
+lifetime of loans generated thus
+
+far in order to calculate
+
+a lifetime loss
+
+rate for the lending book.
+
+The allowance for credit losses
+
+related 
+
+to these merchant finance loans receivables is calculated by adding together actual receivables in default plus multiplying the lifetime 
+
+loss
+
+rate
+
+with
+
+the
+
+month-end
+
+outstanding
+
+lending
+
+book.
+
+The
+
+lifetime
+
+loss
+
+rate
+
+as
+
+of
+
+each of
+
+July
+
+1,
+
+
+and
+
+June
+
+30,
+
+2024,
+
+was 
+
+approximately 1.18%.
+
+The performing
+
+component (that
+
+is, outstanding
+
+loan payments
+
+not in
+
+arrears), under-performing
+
+component 
+
+(that is, outstanding loan payments that are in arrears)
+
+and non-performing component (that is, outstanding loans
+
+for which payments 
+
+appeared to have ceased) of the book represents approximately 84%, 15% and 1%, respectively, of the outstanding lending book as of 
+
+June 30, 2024. 
+
+Prior to
+
+July 1, 2023,
+
+we maintained
+
+an allowance
+
+for credit
+
+losses -
+
+finance loans
+
+receivable related
+
+to our Merchant
+
+services 
+
+segment
+
+with
+
+respect
+
+to
+
+short-term
+
+loans
+
+to
+
+qualifying
+
+merchant
+
+customers.
+
+Our
+
+policy
+
+was
+
+to
+
+regularly
+
+review
+
+the
+
+ageing
+
+of 
+
+outstanding
+
+amounts due
+
+from these
+
+merchants and
+
+an allowance
+
+is created
+
+for the
+
+full amount
+
+outstanding if
+
+the customer
+
+was in 
+
+arrears for more than 15 days. We wrote off loans and related interest and fees when it is evident that reasonable recovery procedures, 
+
+including where deemed necessary,
+
+formal legal action, had failed. 
+
+Consumer microlending 
+
+The allowance for credit
+
+losses related to Consumer finance
+
+loans receivables is calculated
+
+by multiplying the lifetime
+
+loss rate 
+
+with
+
+the
+
+month-end
+
+outstanding
+
+lending
+
+book.
+
+Loans
+
+to
+
+customers
+
+have
+
+a
+
+tenor
+
+of
+
+up
+
+to
+
+six
+
+months,
+
+with
+
+the
+
+majority
+
+of
+
+loans 
+
+originated having a
+
+tenor of six months.
+
+Credit bureau checks
+
+as well as an
+
+affordability test are
+
+conducted as part
+
+of the origination 
+
+process, both
+
+of which
+
+are in
+
+line with
+
+local regulations.
+
+We
+
+consider this
+
+policy to
+
+be appropriate
+
+because the
+
+affordability
+
+test it 
+
+performs takes into account a variety of factors such
+
+as other debts and total expenditures on normal
+
+household and lifestyle expenses. 
+
+Additional allowances
+
+may be
+
+required should
+
+the ability
+
+of its
+
+customers to
+
+make payments
+
+when due
+
+deteriorate in
+
+the future.
+
+A 
+
+significant amount
+
+of judgment is
+
+required to
+
+assess the ultimate
+
+recoverability of
+
+these finance loan
+
+receivables, including
+
+ongoing 
+
+evaluation of the creditworthiness of each customer. 
+
+We 
+
+have operated this
+
+lending book for
+
+more than five
+
+years and use
+
+historical default experience
+
+over the lifetime
+
+of loans in 
+
+order to calculate a lifetime loss rate for the lending book. 
+
+We 
+
+analyze this lending book as a single portfolio because the loans within 
+
+the portfolio
+
+have similar characteristics
+
+and management
+
+uses similar processes
+
+to monitor
+
+and assess the
+
+credit risk of
+
+the lending 
+
+book. The allowance for credit losses related to these microlending finance loans receivables is calculated
+
+by multiplying the lifetime 
+
+loss rate with the month end outstanding lending book. The
+
+lifetime loss rate as of each
+
+of July 1, 2023 and June 30, 2024,
+
+was 6.50%. 
+
+The performing
+
+component
+
+(that is,
+
+outstanding
+
+loan payments
+
+not in
+
+arrears)
+
+of the
+
+book exceeds
+
+more than
+
+98% of
+
+outstanding 
+
+lending book as of June 30, 2024. 
+
+Prior to July
+
+1, 2023, we
+
+maintained an allowance
+
+for credit losses
+
+\- finance loans
+
+receivable related to
+
+our Consumer services 
+
+segment with respect
+
+to short-term loans
+
+to qualifying customers.
+
+Our policy was
+
+to regularly review
+
+the ageing
+
+of outstanding amounts 
+
+due from
+
+borrowers and
+
+adjust the
+
+provision based
+
+on management’s
+
+estimate of
+
+the recoverability
+
+of finance
+
+loans receivable.
+
+We 
+
+wrote off microlending loans and related service fees if
+
+a borrower is in arrears with repayments for more than three months or dies. 
+
+Recent Accounting Pronouncements 
+
+Recent accounting pronouncements adopted
+
+Refer
+
+to
+
+Note
+
+2 of
+
+our
+
+audited consolidated
+
+financial
+
+statements for
+
+a full
+
+description
+
+of recent
+
+accounting
+
+pronouncements, 
+
+including the dates of adoption and effects on financial
+
+condition, results of operations and cash flows.
+
+Recent accounting pronouncements not yet adopted as of June 30, 2024
+
+Refer to Note 2
+
+of our audited consolidated
+
+financial statements for a
+
+full description of recent
+
+accounting pronouncements not 
+
+yet adopted as of June 30, 2024, including the expected dates of adoption
+
+and effects on financial condition, results of operations and 
+
+cash flows. 
+
+
+Currency Exchange Rate Information
+
+Actual exchange rates 
+
+The actual exchange rates for and at the end of the periods presented were
+
+as follows: 
+
+Table 1 
+
+June 30, 
+
+
+
+
+ZAR : $ average exchange rate
+
+18.7070 
+
+17.7641 
+
+15.2154 
+
+Highest ZAR : $ rate during period
+
+19.4568 
+
+19.7558 
+
+16.2968 
+
+Lowest ZAR : $ rate during period
+
+17.6278 
+
+16.2034 
+
+14.1630 
+
+Rate at end of period
+
+18.1808 
+
+18.8376 
+
+16.2903 
+
+Translation Exchange Rates
+
+We are required
+
+to translate our results of operations from ZAR to U.S. dollars on a monthly
+
+basis. Thus, the average rates used 
+
+to translate this data for the years ended June 30, 2024, 2023 and 2022, vary slightly from the averages shown in the table above. The 
+
+translation rates we use in presenting our results of operations are the rates shown
+
+in the following table: 
+
+Table 2 
+
+June 30, 
+
+
+
+
+Income and expense items: $1 = ZAR
+
+18.6844 
+
+17.9400 
+
+15.1978 
+
+Balance sheet items: $1 = ZAR
+
+18.1808 
+
+18.8376 
+
+16.2903 
+
+We have translated the results of operations and operating segment information for the year
+
+ended June 30, 2024, provided in the 
+
+tables below
+
+using the
+
+actual average
+
+exchange rates
+
+per month
+
+between the
+
+USD and
+
+ZAR in order
+
+to reduce
+
+the reconciliation
+
+of 
+
+information presented to our chief operating
+
+decision maker. The impact of
+
+using this method compared with the average rate
+
+for the 
+
+quarter and year to date is not significant, however, it does result in minor differences.
+
+We believe that presentation using
+
+the average 
+
+exchange
+
+rates
+
+per
+
+month
+
+compared
+
+with
+
+the
+
+average
+
+exchange
+
+rate
+
+per
+
+quarter
+
+and
+
+for
+
+the
+
+year
+
+improves
+
+the
+
+accuracy
+
+of
+
+the 
+
+information presented in our
+
+external financial reporting and
+
+leads to fewer
+
+differences between our external reporting
+
+measures which 
+
+are supplementally presented in ZAR, and our internal management
+
+information, which is also presented in ZAR.
+
+
+Results of operations
+
+The
+
+discussion
+
+of our
+
+consolidated overall
+
+results of
+
+operations is
+
+based on
+
+amounts
+
+as reflected
+
+in our
+
+audited consolidated 
+
+financial statements which are prepared in accordance
+
+with U.S. GAAP.
+
+We analyze our
+
+results of operations both in U.S. dollars, as 
+
+presented in the audited consolidated financial statements, and supplementally in ZAR, because ZAR is the functional currency of the 
+
+entities which contribute the majority of our results and is the currency in which
+
+the majority of our transactions are initially incurred 
+
+and
+
+measured.
+
+Presentation
+
+of
+
+our
+
+reported
+
+results
+
+in
+
+ZAR
+
+is
+
+a
+
+non-GAAP
+
+measure.
+
+Due
+
+to
+
+the
+
+significant
+
+impact
+
+of
+
+currency 
+
+fluctuations between
+
+the U.S. dollar
+
+and ZAR on
+
+our reported
+
+results and
+
+because we
+
+use the
+
+U.S. dollar as
+
+our reporting
+
+currency, 
+
+we believe that
+
+the supplemental presentation
+
+of our results
+
+of operations in
+
+ZAR is useful
+
+to investors to
+
+understand the changes
+
+in 
+
+the underlying trends of our business.
+
+Our
+
+operating
+
+segment
+
+revenue
+
+presented
+
+in
+
+“—Results
+
+of
+
+operations
+
+by
+
+operating
+
+segment”
+
+represents
+
+total
+
+revenue
+
+per 
+
+operating segment before intercompany
+
+eliminations. A reconciliation between
+
+total operating segment revenue and
+
+revenue, as well 
+
+as the reconciliation between our segment performance measure and net loss before tax (benefits) expense, is presented in our audited 
+
+consolidated financial statements in Note
+
+21 to those statements. Our chief operating
+
+decision maker was our Group Chief
+
+Executive 
+
+Officer until
+
+February 29, 2024
+
+and has been
+
+our Executive Chairman
+
+since March 1,
+
+2024, and our
+
+Group Chief Executive
+
+Officer 
+
+evaluated and our
+
+Executive Chairman evaluates,
+
+respectively,
+
+segment performance based
+
+on segment earnings
+
+before interest, tax, 
+
+depreciation
+
+and amortization
+
+(“EBITDA”),
+
+adjusted for
+
+items mentioned
+
+in the
+
+next sentence
+
+(“Segment Adjusted
+
+EBITDA”) for 
+
+each operating
+
+segment. We
+
+do not allocate
+
+once-off items
+
+(as defined below),
+
+stock-based compensation
+
+charges, depreciation
+
+and 
+
+amortization,
+
+impairment
+
+of goodwill
+
+or other
+
+intangible assets,
+
+certain
+
+lease
+
+expenses
+
+(“Lease expenses”),
+
+other
+
+items
+
+(including 
+
+gains or
+
+losses on
+
+disposal of
+
+investments,
+
+fair value
+
+adjustments to
+
+equity
+
+securities, fair
+
+value
+
+adjustments
+
+to currency
+
+options), 
+
+interest income, interest expense, income tax expense or loss
+
+from equity-accounted investments to our reportable segments. Once-off 
+
+items represents non-recurring expense
+
+items, including costs related to
+
+acquisitions and transactions consummated
+
+or ultimately not 
+
+pursued. The Lease
+
+expenses reflect lease
+
+expenses (refer to
+
+Note 8 to
+
+our audited consolidated
+
+financial statements)
+
+and the Stock-
+
+based compensation
+
+adjustments reflect
+
+stock-based compensation
+
+expense and
+
+are both
+
+excluded from
+
+the calculation
+
+of Segment 
+
+Adjusted EBITDA and
+
+are therefore reported
+
+as reconciling items to
+
+reconcile the reportable
+
+segments’ Segment Adjusted
+
+EBITDA 
+
+to our loss before income tax expense. 
+
+Group Adjusted
+
+EBITDA represents
+
+Segment
+
+Adjusted EBITDA
+
+after deducting
+
+Lease expenses
+
+and group
+
+costs. Refer
+
+also 
+
+“Results of Operations—Use of Non-GAAP Measures” below. 
+
+Fiscal 2024
+
+and 2023 includes
+
+Connect for
+
+the entire fiscal
+
+year and
+
+fiscal 2022
+
+includes consolidation
+
+of Connect
+
+from April 
+
+14, 2022. Refer also to Note 3 to the audited consolidated financial statements for
+
+additional information regarding this transaction. 
+
+We analyze our business and operations in terms of two
+
+inter-related but independent operating segments: Merchant Division 
+
+and 
+
+Consumer Division.
+
+In addition,
+
+corporate activities
+
+that are
+
+impracticable to
+
+allocate directly
+
+to the
+
+operating segments,
+
+as 
+
+well as any inter-segment eliminations, are included in Group costs. Inter-segment revenue eliminations are included
+
+in Eliminations.
+
+Fiscal 2024 Compared to Fiscal 2023
+
+The following factors had
+
+a significant influence on
+
+our results of
+
+operations during fiscal 2024
+
+as compared with
+
+the same period 
+
+in the prior year: 
+
+●
+
+Higher revenue: 
+
+Our revenues increased by 11.4% in ZAR, primarily due to an increase in low margin prepaid airtime sales 
+
+and other value-added
+
+services, as well as
+
+higher transaction, insurance
+
+and lending revenues, which
+
+was partially offset
+
+by 
+
+lower hardware sales revenue in our POS hardware distribution business given
+
+the lumpy nature of bulk sales;
+
+●
+
+Operating
+
+income
+
+generated: 
+
+Operating
+
+profitability
+
+was
+
+achieved
+
+following
+
+years
+
+of
+
+operating
+
+losses
+
+as
+
+a
+
+result
+
+of the 
+
+various cost reduction initiatives in Consumer implemented in prior periods as well as the contribution
+
+from Connect; 
+
+●
+
+Higher net interest charge:
+
+The net interest
+
+charge increased to
+
+ZAR 311.2
+
+million from ZAR 299.9
+
+million primarily due 
+
+to higher interest rates; 
+
+●
+
+Significant transaction costs:
+
+We expensed $2.3 million of transaction costs related to the Adumo transaction in fiscal 2024; 
+
+and 
+
+●
+
+Foreign exchange movements:
+
+The U.S. dollar was 4.1% stronger against the ZAR during fiscal
+
+2024 compared to the prior 
+
+period, which adversely impacted our U.S. dollar reported results. 
+
+
+Consolidated overall results of operations 
+
+This discussion is based on the amounts prepared in accordance with U.S. GAAP. 
+
+The following tables show the changes in the items comprising our statements of operations,
+
+both in U.S. dollars and in ZAR:
+
+Table 3 
+
+In U.S. Dollars 
+
+Year
+
+ended June 30, 
+
+
+
+$ % 
+
+$ ’000 
+
+$ ’000 
+
+change 
+
+Revenue
+
+564,222 
+
+527,971 
+
+7% 
+
+Cost of goods sold, IT processing, servicing and support
+
+442,673 
+
+417,544 
+
+6% 
+
+Selling, general and administration
+
+92,001 
+
+95,050 
+
+(3%) 
+
+Depreciation and amortization
+
+23,665 
+
+23,685 
+
+(0%) 
+
+Impairment loss 
+
+\- 
+
+7,039 
+
+nm 
+
+Transaction costs related to Adumo transaction 
+
+2,293 
+
+\- 
+
+nm 
+
+Operating income (loss) 
+
+3,590 
+
+(15,347) 
+
+nm 
+
+Reversal of allowance for EMI doubtful debt receivable 
+
+
+\- 
+
+nm 
+
+Loss on disposal of equity-accounted investment 
+
+\- 
+
+
+nm 
+
+Interest income
+
+2,294 
+
+1,853 
+
+24% 
+
+Interest expense
+
+18,932 
+
+18,567 
+
+2% 
+
+Loss before income tax expense (benefit) 
+
+(12,798) 
+
+(32,266) 
+
+(60%) 
+
+Income tax expense (benefit)
+
+3,363 
+
+(2,309) 
+
+nm 
+
+Net loss before loss from equity-accounted investments
+
+(16,161) 
+
+(29,957) 
+
+(46%) 
+
+Loss from equity-accounted investments
+
+(1,279) 
+
+(5,117) 
+
+(75%) 
+
+Net loss attributable to us
+
+(17,440) 
+
+(35,074) 
+
+(50%) 
+
+Table 4 
+
+In South African Rand 
+
+Year
+
+ended June 30, 
+
+
+
+ZAR % 
+
+ZAR ’000 
+
+ZAR ’000 
+
+change 
+
+Revenue
+
+10,553,233 
+
+9,471,800 
+
+11% 
+
+Cost of goods sold, IT processing, servicing and support
+
+8,280,262 
+
+7,490,739 
+
+11% 
+
+Selling, general and administration
+
+1,720,585 
+
+1,705,196 
+
+1% 
+
+Depreciation and amortization
+
+442,570 
+
+424,909 
+
+4% 
+
+Impairment loss 
+
+\- 
+
+126,280 
+
+nm 
+
+Transaction costs related to Adumo transaction 
+
+42,561 
+
+\- 
+
+nm 
+
+Operating income (loss) 
+
+67,255 
+
+(275,324) 
+
+nm 
+
+Reversal of allowance for EMI doubtful debt receivable 
+
+4,741 
+
+\- 
+
+nm 
+
+Loss on disposal of equity-accounted investment 
+
+\- 
+
+3,678 
+
+nm 
+
+Interest income
+
+42,896 
+
+33,243 
+
+29% 
+
+Interest expense
+
+354,048 
+
+333,092 
+
+6% 
+
+Loss before income tax expense (benefit) 
+
+(239,156) 
+
+(578,851) 
+
+(59%) 
+
+Income tax expense (benefit)
+
+62,616 
+
+(41,423) 
+
+nm 
+
+Net loss before loss from equity-accounted investments
+
+(301,772) 
+
+(537,428) 
+
+(44%) 
+
+Loss from equity-accounted investments
+
+(24,298) 
+
+(91,799) 
+
+(74%) 
+
+Net loss attributable to us
+
+(326,070) 
+
+(629,227) 
+
+(48%) 
+
+Revenue increased by $36.3 million (ZAR 1.1 billion), or 6.9% (in ZAR, 11.4%),
+
+primarily due to the increase in the number of 
+
+low-margin
+
+prepaid
+
+airtime
+
+vouchers
+
+sold
+
+and
+
+an
+
+increase
+
+in
+
+volume
+
+of
+
+other
+
+value-added
+
+services
+
+provided,
+
+as
+
+well
+
+as
+
+higher 
+
+transaction volumes processed, insurance premiums collected
+
+and lending revenues following an increase in loan
+
+originations, which 
+
+was partially offset
+
+by a lower
+
+number of
+
+hardware sales in
+
+our POS hardware
+
+distribution business
+
+given the
+
+lumpy nature of
+
+bulk 
+
+sales. Refer to discussion above at “—Recent Developments”
+
+for a description of key trends impacting our revenue this fiscal year. 
+
+
+Cost of goods sold, IT processing, servicing and
+
+support increased by $25.1 million (ZAR
+
+0.8 billion), or 6.0% (in ZAR,
+
+10.5%), 
+
+primarily due to
+
+the increase in low
+
+margin prepaid airtime
+
+sales, which were
+
+partially offset by
+
+the lower cost of
+
+goods sold related 
+
+to fewer hardware sales. 
+
+Selling, general and
+
+administration expenses decreased
+
+by $3.0 million
+
+(in USD 3.2%),
+
+and increased by
+
+ZAR 15.4 million
+
+(in 
+
+ZAR, 0.9%)
+
+.
+
+In ZAR,
+
+the modest
+
+increase
+
+was primarily
+
+due to
+
+higher employee
+
+-related expenses
+
+related
+
+to the
+
+expansion of
+
+our 
+
+senior management team and the year-over-year
+
+impact of inflationary increases on employee-related
+
+expenses, which were partially 
+
+offset by the benefits of various cost reduction initiatives in Consumer
+
+. 
+
+Depreciation and amortization expense decreased by $0.02
+
+million (in USD, 0.1%),
+
+and increased by ZAR 17.7 million
+
+(in ZAR, 
+
+4.2%).
+
+In ZAR, the increase was due to an increase in depreciation expense related to additional POS devices
+
+deployed. 
+
+During fiscal 2023, we
+
+recorded an impairment loss
+
+of $7.0 million related
+
+to the impairment of
+
+our hardware/ software supply 
+
+business
+
+unit’s
+
+allocated
+
+goodwill.
+
+Refer
+
+to
+
+Note
+
+
+of
+
+our
+
+audited
+
+consolidated
+
+financial
+
+statements
+
+for
+
+additional
+
+information 
+
+regarding these impairment losses. 
+
+Transaction costs related to Adumo
+
+acquisition includes fees
+
+paid to external
+
+service providers associated
+
+with legal, commercial, 
+
+financial and tax due
+
+diligence activities performed,
+
+fees paid to legal advisors
+
+to draft the purchase
+
+agreement as well as
+
+other legal 
+
+and advisory services procured related to the transaction. 
+
+Our operating income
+
+(loss) margin in
+
+fiscal 2024 and 2023
+
+was 0.6% and (2.9%),
+
+respectively.
+
+We
+
+discuss the components of 
+
+operating loss margin under “—Results of operations
+
+by operating segment.”
+
+We
+
+did
+
+not
+
+record
+
+any
+
+changes
+
+in
+
+the
+
+fair
+
+value
+
+of
+
+equity
+
+interests
+
+in
+
+MobiKwik
+
+and
+
+Cell
+
+C
+
+during
+
+fiscal
+
+
+and
+
+2023, 
+
+respectively.
+
+We continue
+
+to carry our investment
+
+in Cell C at $0
+
+(zero). Refer to Note
+
+9 to our consolidated financial
+
+statements for 
+
+the methodology
+
+and inputs used
+
+in the fair
+
+value calculation for
+
+MobiKwik and Note
+
+6 for the
+
+methodology and
+
+inputs used in
+
+the 
+
+fair value calculation for Cell C. 
+
+During fiscal 2024, we
+
+received an outstanding amount
+
+of $0.3 million related
+
+to the sale
+
+of Carbon in fiscal
+
+2023, which resulted 
+
+in the reversal
+
+of an allowance
+
+for doubtful
+
+loans receivable
+
+of $0.3
+
+million recorded
+
+in fiscal 2023.
+
+We
+
+recorded a
+
+net loss of
+
+$0.2 
+
+million comprising a
+
+loss of $0.4 million
+
+related to the disposal of
+
+a minor portion of
+
+our investment in Finbond
+
+and a $0.25 million 
+
+gain related to the disposal of our entire interest in Carbon during fiscal 2023. Refer
+
+to Note 9 to our consolidated financial statements 
+
+for additional information regarding these disposals. 
+
+Interest on
+
+surplus cash
+
+increased to
+
+$2.3 million
+
+(ZAR 42.9
+
+million) from
+
+$1.9 million
+
+(ZAR 33.2
+
+million), primarily
+
+due to 
+
+higher interest rates. 
+
+Interest expense increased
+
+to $18.9 million
+
+(ZAR 354.0 million)
+
+from $18.6 million
+
+(ZAR 333.1 million),
+
+primarily as a
+
+result 
+
+of higher overall
+
+interest rates and
+
+higher overall borrowings
+
+during fiscal 2024
+
+compared with comparable
+
+period in the
+
+prior year, 
+
+which was partially offset by lower interest
+
+expense incurred on certain of our borrowings
+
+for which we were able to negotiate lower 
+
+rates of interest during the latter half of fiscal 2023 and again towards the end
+
+of calendar 2023. 
+
+Fiscal 2024 tax
+
+expense was $3.4
+
+million (ZAR 62.6
+
+million) compared to
+
+a tax benefit
+
+of $(2.3) million
+
+(ZAR (41.4) million) 
+
+in
+
+fiscal
+
+2023.
+
+Our
+
+effective
+
+tax
+
+rate
+
+for
+
+fiscal
+
+
+was
+
+impacted
+
+by
+
+the
+
+tax
+
+expense
+
+recorded
+
+by
+
+our
+
+profitable
+
+South
+
+African 
+
+operations, a
+
+deferred tax
+
+benefit related
+
+to acquisition-related
+
+intangible asset
+
+amortization, non-deductible
+
+expenses, the
+
+on-going 
+
+losses incurred by certain
+
+of our South African businesses and
+
+the associated valuation allowances created
+
+related to the deferred tax 
+
+assets recognized regarding net operating losses incurred by these entities. 
+
+Our effective
+
+tax rate for
+
+fiscal 2024 was impacted
+
+by a reduction
+
+in the enacted
+
+South African corporate
+
+income tax rate from 
+
+28% to 27% from January 2023 (but backdated to July 1, 2022), the tax expense recorded by our profitable South African operations, 
+
+a
+
+deferred
+
+tax
+
+benefit
+
+related
+
+to
+
+acquisition-related
+
+intangible
+
+asset
+
+amortization,
+
+non-deductible
+
+expenses,
+
+a
+
+deferred
+
+tax
+
+benefit 
+
+related to an expense paid by Connect before
+
+we acquired the business and which subsequently has been
+
+determined to be deductible 
+
+for
+
+tax purposes,
+
+the on-going
+
+losses incurred
+
+by certain
+
+of our
+
+South
+
+African
+
+businesses and
+
+the associated
+
+valuation
+
+allowances 
+
+created related to the deferred tax assets recognized regarding net operating
+
+losses incurred by these entities.
+
+
+Finbond is listed on the Johannesburg Stock Exchange
+
+and reports its six-month results during
+
+our first half and its
+
+annual results 
+
+during our fourth quarter.
+
+We sold
+
+our entire remaining interest in
+
+Finbond during the second
+
+quarter of fiscal 2024. 
+
+We 
+
+recorded an 
+
+impairment loss related to our
+
+investment in Finbond in fiscal
+
+2024 as the carrying value
+
+of Finbond exceeded the fair
+
+value of holding 
+
+in Finbond
+
+using the
+
+price of
+
+ZAR 0.2911
+
+per share
+
+referenced in
+
+the August
+
+2023 agreement
+
+with Finbond.
+
+We
+
+also recorded
+
+an 
+
+impairment loss in fiscal 202
+
+
+following on-going losses reported
+
+by Finbond and its lower
+
+listed share price.
+
+Refer to Note 9 to
+
+our 
+
+consolidated financial statements for additional information
+
+regarding the impairments.
+
+The table below
+
+presents the relative loss
+
+from 
+
+our equity accounted investments: 
+
+Table 5 
+
+Year
+
+ended June 30, 
+
+
+
+$ % 
+
+$ ’000 
+
+$ ’000 
+
+change 
+
+Finbond 
+
+(1,445) 
+
+(5,206) 
+
+(72%) 
+
+Share of net (loss) income
+
+(4,096) 
+
+(93%) 
+
+Impairment 
+
+(1,167) 
+
+(1,110) 
+
+5% 
+
+Other 
+
+
+
+87% 
+
+Share of net income (loss) 
+
+
+
+87% 
+
+Total
+
+loss from equity-accounted investment 
+
+(1,279) 
+
+(5,117) 
+
+(75%) 
+
+Results of operations by operating segment
+
+The composition of revenue and the contributions of our business activities to operating
+
+(loss) income are illustrated below:
+
+Table 6 
+
+In U.S. Dollars 
+
+Year
+
+ended June 30, 
+
+
+% of 
+
+
+% of 
+
+% 
+
+Operating Segment 
+
+$ ’000 
+
+total 
+
+$ ’000 
+
+total 
+
+change 
+
+Consolidated revenue: 
+
+Merchant 
+
+498,314 
+
+89% 
+
+463,701 
+
+88% 
+
+7% 
+
+Consumer 
+
+69,211 
+
+12% 
+
+62,801 
+
+12% 
+
+10% 
+
+Subtotal: Operating segments
+
+567,525 
+
+101% 
+
+526,502 
+
+100% 
+
+8% 
+
+Not allocated to operating segments 
+
+\- 
+
+\- 
+
+1,469 
+
+\- 
+
+nm 
+
+Corporate/Eliminations
+
+(3,303) 
+
+(1%) 
+
+\- 
+
+\- 
+
+nm 
+
+Total
+
+consolidated revenue
+
+564,222 
+
+100% 
+
+527,971 
+
+100% 
+
+7% 
+
+Group Adjusted EBITDA: 
+
+Merchant
+
+33,368 
+
+90% 
+
+33,531 
+
+135% 
+
+(0%) 
+
+Consumer
+
+14,650 
+
+40% 
+
+3,314 
+
+13% 
+
+342% 
+
+Lease expenses
+
+(3,238) 
+
+(9%) 
+
+(2,906) 
+
+(11%) 
+
+11% 
+
+Group costs 
+
+(7,844) 
+
+(21%) 
+
+(9,109) 
+
+(37%) 
+
+(14%) 
+
+Group Adjusted EBITDA (non-GAAP)
+
+36,936 
+
+100% 
+
+24,830 
+
+100% 
+
+49% 
+
+Segment Adjusted EBITDA for Merchant includes retrenchments costs of $0.3 million and Consumer includes retrenchment 
+
+costs of $0.2 million for fiscal 2024. 
+
+Lease expenses
+
+which were previously
+
+excluded from the
+
+calculation of Group
+
+Adjusted EBITDA have
+
+now been included 
+
+in the calculation. This change is
+
+in response to comments received from
+
+the staff of the SEC in
+
+March 2024 regarding our non-GAAP 
+
+financial reporting. Comparative information has been adjusted to conform
+
+with the updated presentation. 
+
+Group Adjusted EBITDA is a non-GAAP measure, refer to reconciliation below
+
+at “—Results of Operations—Use of Non-
+
+GAAP Measures”. 
+
+
+Table 7 
+
+In South African Rand 
+
+Year
+
+ended June 30, 
+
+
+% of 
+
+
+% of 
+
+% 
+
+Operating Segment 
+
+ZAR ’000 
+
+total 
+
+ZAR ’000 
+
+total 
+
+change 
+
+Consolidated revenue: 
+
+Merchant 
+
+9,320,468 
+
+89% 
+
+8,318,796 
+
+88% 
+
+12% 
+
+Consumer 
+
+1,294,632 
+
+12% 
+
+1,126,650 
+
+12% 
+
+15% 
+
+Subtotal: Operating segments
+
+10,615,100 
+
+101% 
+
+9,445,446 
+
+100% 
+
+12% 
+
+Not allocated to operating segments 
+
+\- 
+
+\- 
+
+26,354 
+
+\- 
+
+nm 
+
+Corporate/Eliminations
+
+(61,867) 
+
+(1%) 
+
+\- 
+
+\- 
+
+nm 
+
+Total
+
+consolidated revenue
+
+10,553,233 
+
+100% 
+
+9,471,800 
+
+100% 
+
+11% 
+
+Group Adjusted EBITDA: 
+
+Merchant
+
+624,111 
+
+90% 
+
+601,546 
+
+135% 
+
+4% 
+
+Consumer
+
+274,190 
+
+40% 
+
+59,453 
+
+13% 
+
+361% 
+
+Lease expenses
+
+(60,543) 
+
+(9%) 
+
+(52,134) 
+
+(11%) 
+
+16% 
+
+Group costs 
+
+(146,815) 
+
+(21%) 
+
+(163,415) 
+
+(37%) 
+
+(10%) 
+
+Group Adjusted EBITDA (non-GAAP)
+
+690,943 
+
+100% 
+
+445,450 
+
+100% 
+
+55% 
+
+Segment
+
+Adjusted
+
+EBITDA
+
+for
+
+Merchant
+
+includes
+
+retrenchments
+
+costs
+
+of
+
+ZAR
+
+4.9
+
+million
+
+and
+
+Consumer
+
+includes 
+
+retrenchment costs of ZAR 3.5 million for fiscal 2024. 
+
+Lease expenses
+
+which were previously
+
+excluded from the
+
+calculation of Group
+
+Adjusted EBITDA have
+
+now been included 
+
+in the calculation. This change is
+
+in response to comments received from
+
+the staff of the SEC in
+
+March 2024 regarding our non-GAAP 
+
+financial reporting. Comparative information has been adjusted to conform
+
+with the updated presentation. 
+
+Group Adjusted EBITDA
+
+is a non-GAAP measure, refer
+
+to reconciliation below at
+
+“—Results of Operations—Use of
+
+Non-
+
+GAAP Measures”. 
+
+Merchant 
+
+Segment revenue increased due to the increase in prepaid airtime vouchers
+
+sold and other value-added services provided, which 
+
+was partially offset
+
+by a lower
+
+number of
+
+hardware sales in
+
+our POS hardware
+
+distribution business
+
+given the
+
+lumpy nature of
+
+bulk 
+
+sales as
+
+well as
+
+lower revenue
+
+generated
+
+from a
+
+decrease
+
+in certain
+
+valued-added
+
+services transaction
+
+volumes processed
+
+(such
+
+as 
+
+international money transfers). In ZAR, the increase in Segment Adjusted EBITDA
+
+is primarily due to the higher sales activity, which 
+
+was partially offset by lower hardware sales
+
+Prepaid airtime sales 
+
+In South Africa and other countries, mobile network operators (“MNOs”) offer prepaid or contract (or postpaid) services to their 
+
+customers to telephony
+
+services using a
+
+mobile telephony network
+
+or networks. MNOs
+
+also offer similar
+
+products (prepaid or
+
+postpaid) 
+
+for mobile data
+
+which uses other
+
+wireless network protocols
+
+such as wireless
+
+fidelity (“wifi”).
+
+We
+
+use the term
+
+“prepaid airtime”
+
+to 
+
+include both of these prepaid products.
+
+Generally speaking, the difference between the two
+
+models is that prepaid is
+
+paid for upfront by the
+
+customer and contract is paid 
+
+in arrears. MNOs sell prepaid products directly to their customers and also indirectly
+
+to their customers through distribution channels 
+
+(which include wholesalers, retailers and other parties, including ourselves). 
+
+We sell
+
+a variety of products through our
+
+distribution channels, including prepaid airtime,
+
+prepaid electricity,
+
+gaming vouchers. 
+
+We refer to these
+
+products collectively as VAS. 
+
+In order to “load” airtime onto
+
+a mobile device an MNOs customer
+
+requires a prepaid airtime voucher. A unique code is
+
+assigned 
+
+to each prepaid
+
+airtime voucher and
+
+is required to
+
+activate the prepaid
+
+airtime on a
+
+mobile device. Like
+
+certain tangible goods,
+
+once 
+
+sold, our
+
+customers cannot
+
+return prepaid
+
+airtime vouchers
+
+to us (except
+
+of course
+
+if there is
+
+a defect
+
+in the
+
+service provided
+
+by us, 
+
+which rarely occurs). 
+
+We
+
+can either
+
+purchase an
+
+agreed quantity
+
+of prepaid
+
+airtime vouchers
+
+upfront directly
+
+from
+
+wholesalers or
+
+other parties
+
+(so 
+
+called “Pinned airtime” - these electronic vouchers are stored
+
+on a server owned and maintained by us and we treat
+
+these vouchers as 
+
+inventory)
+
+or
+
+we
+
+can
+
+“interface”
+
+directly
+
+into
+
+a
+
+wholesaler
+
+and
+
+deliver
+
+the
+
+airtime
+
+voucher
+
+directly
+
+to
+
+our
+
+customers
+
+(typically 
+
+merchants) as the airtime is sold by the merchant to MNOs customers (so called Pinless airtime).
+
+
+Our Segment
+
+Adjusted EBITDA
+
+(loss) margin
+
+(calculated as
+
+Segment Adjusted
+
+EBITDA (loss)
+
+divided by
+
+revenue) in
+
+fiscal 
+
+2024 and 2023 was 6.7% and 7.2%, respectively. 
+
+Consumer
+
+Segment revenue increased
+
+primarily due to
+
+more transaction fees
+
+generated from the
+
+higher EPE account
+
+holders base, higher 
+
+insurance revenues, and an increase
+
+in lending revenue as
+
+a result of an
+
+increase in loan originations.
+
+This increase in revenue,
+
+together 
+
+with the cost reduction
+
+initiatives initiated in fiscal
+
+2022 and through
+
+fiscal 2023, have
+
+translated into a turnaround
+
+in the Consumer 
+
+Division and
+
+the realization
+
+of sustained
+
+positive Segment
+
+Adjusted EBITDA
+
+in fiscal
+
+2024 compared
+
+with fiscal
+
+2023\. Consumer 
+
+Segment Adjusted
+
+EBITDA during
+
+fiscal 2024
+
+was also
+
+impacted by
+
+higher credit
+
+losses (as
+
+a result
+
+of an increase
+
+in originations) 
+
+and higher insurance-related claims (as a result of a higher number of
+
+insurance policies) compared with fiscal 2023. 
+
+Our Segment Adjusted EBITDA margin in fiscal 2024
+
+and 2023
+
+was 21.2% and 5.3%, respectively. 
+
+Group costs 
+
+Our group
+
+costs primarily
+
+include employee
+
+related costs
+
+in relation
+
+to employees
+
+specifically hired
+
+for group
+
+roles and
+
+costs 
+
+related
+
+directly
+
+to
+
+managing
+
+the
+
+US-listed
+
+entity;
+
+expenditures
+
+related
+
+to
+
+compliance
+
+with
+
+the
+
+Sarbanes-Oxley
+
+Act
+
+of
+
+2002;
+
+non-
+
+employee directors’ fees; legal fees; group and US-listed related audit
+
+fees; and directors’ and officers’ insurance premiums. 
+
+Our group costs for
+
+fiscal 2024 decreased compared
+
+with the prior period
+
+due to lower external
+
+audit, legal and consulting
+
+fees 
+
+and lower provision for executive bonuses, which was partially offset
+
+by higher employee costs and travel expenses. 
+
+Fiscal 2023 Compared to Fiscal 2022
+
+The following factors had
+
+a significant influence on
+
+our results of
+
+operations during fiscal
+
+2023 as compared with
+
+the same period 
+
+in the prior year: 
+
+●
+
+Higher revenue: 
+
+Our revenues
+
+increased by
+
+180.0% in
+
+ZAR, primarily
+
+due to
+
+the contribution
+
+from Connect
+
+in Merchant 
+
+and an increase in account fees and insurance revenues in Consumer;
+
+●
+
+Lower operating
+
+losses: 
+
+Operating
+
+losses decreased,
+
+delivering
+
+an improvement
+
+of 55%
+
+in ZAR
+
+compared
+
+with the
+
+prior 
+
+period
+
+primarily
+
+due
+
+to
+
+the
+
+contribution
+
+from
+
+Connect,
+
+strong
+
+hardware
+
+sales,
+
+and
+
+the
+
+implementation
+
+of
+
+various
+
+cost 
+
+reduction
+
+initiatives
+
+in
+
+Consumer,
+
+which
+
+was
+
+partially
+
+offset
+
+by
+
+an
+
+increase
+
+in
+
+acquisition
+
+related
+
+intangible
+
+asset 
+
+amortization; 
+
+●
+
+Higher
+
+net
+
+interest
+
+charge:
+
+The
+
+net
+
+interest
+
+charge
+
+increased
+
+to
+
+ZAR
+
+299.9
+
+million
+
+from
+
+ZAR
+
+56.9
+
+million
+
+due
+
+to
+
+the 
+
+additional borrowings
+
+incurred in
+
+order to
+
+fund the
+
+acquisition of
+
+Connect as
+
+well as
+
+the debt
+
+acquired within
+
+the Connect 
+
+business itself; 
+
+●
+
+Significant transaction costs:
+
+We expensed $6.0 million of transaction
+
+costs related to
+
+the Connect acquisition in
+
+fiscal 2022; 
+
+and 
+
+●
+
+Foreign exchange movements:
+
+The U.S. dollar was 18.0% stronger against the ZAR
+
+during fiscal 2023, which impacted our 
+
+reported results. 
+
+
+The following tables show the changes in the items comprising our statements of
+
+operations, both in U.S. dollars and in ZAR: 
+
+Table 8 
+
+In U.S. Dollars 
+
+Year
+
+ended June 30, 
+
+
+
+$ % 
+
+$ ’000 
+
+$ ’000 
+
+change 
+
+Revenue
+
+527,971 
+
+222,609 
+
+137% 
+
+Cost of goods sold, IT processing, servicing and support
+
+417,544 
+
+168,317 
+
+148% 
+
+Selling, general and administration
+
+95,050 
+
+74,993 
+
+27% 
+
+Depreciation and amortization
+
+23,685 
+
+7,575 
+
+213% 
+
+Impairment loss 
+
+7,039 
+
+\- 
+
+nm 
+
+Reorganization costs 
+
+\- 
+
+5,894 
+
+nm 
+
+Transaction costs related to Connect acquisition 
+
+\- 
+
+6,025 
+
+nm 
+
+Operating loss 
+
+(15,347) 
+
+(40,195) 
+
+(62%) 
+
+Gain related to fair value adjustment to currency options 
+
+\- 
+
+3,691 
+
+nm 
+
+Loss on disposal of equity-accounted investment 
+
+
+
+(45%) 
+
+Gain on disposal of equity securities 
+
+\- 
+
+
+nm 
+
+Interest income
+
+1,853 
+
+2,089 
+
+(11%) 
+
+Interest expense
+
+18,567 
+
+5,829 
+
+219% 
+
+Loss before income tax (benefit) expense
+
+(32,266) 
+
+(39,900) 
+
+(19%) 
+
+Income tax (benefit) expense 
+
+(2,309) 
+
+
+nm 
+
+Net loss before loss from equity-accounted investments
+
+(29,957) 
+
+(40,227) 
+
+(26%) 
+
+Loss from equity-accounted investments
+
+(5,117) 
+
+(3,649) 
+
+40% 
+
+Net loss attributable to us
+
+(35,074) 
+
+(43,876) 
+
+(20%) 
+
+Table 9 
+
+In South African Rand 
+
+(US GAAP) 
+
+Year
+
+ended June 30, 
+
+
+
+ZAR % 
+
+ZAR ’000 
+
+ZAR ’000 
+
+change 
+
+Revenue
+
+9,471,800 
+
+3,383,166 
+
+180% 
+
+Cost of goods sold, IT processing, servicing and support
+
+7,490,739 
+
+2,558,047 
+
+193% 
+
+Selling, general and administration
+
+1,705,196 
+
+1,139,728 
+
+50% 
+
+Depreciation and amortization
+
+424,909 
+
+115,123 
+
+269% 
+
+Impairment loss 
+
+126,280 
+
+\- 
+
+nm 
+
+Reorganization costs 
+
+\- 
+
+89,576 
+
+nm 
+
+Transaction costs related to Connect acquisition 
+
+\- 
+
+91,567 
+
+nm 
+
+Operating loss 
+
+(275,324) 
+
+(610,875) 
+
+(55%) 
+
+Gain related to fair value adjustment to currency options 
+
+\- 
+
+56,095 
+
+nm 
+
+Loss on disposal of equity-accounted investment 
+
+3,678 
+
+5,714 
+
+(36%) 
+
+Gain on disposal of equity securities 
+
+\- 
+
+10,942 
+
+nm 
+
+Interest income
+
+33,243 
+
+31,748 
+
+5% 
+
+Interest expense
+
+333,092 
+
+88,587 
+
+276% 
+
+Loss before income tax (benefit) expense
+
+(578,851) 
+
+(606,391) 
+
+(5%) 
+
+Income tax (benefit) expense 
+
+(41,423) 
+
+4,970 
+
+nm 
+
+Net loss before loss from equity-accounted investments
+
+(537,428) 
+
+(611,361) 
+
+(12%) 
+
+Loss from equity-accounted investments
+
+(91,799) 
+
+(55,457) 
+
+66% 
+
+Net loss attributable to us
+
+(629,227) 
+
+(666,818) 
+
+(6%) 
+
+Revenue increased by $305.4 million (ZAR 6.1 billion), or 137.2% (in ZAR, 180.0%), primarily due to the inclusion of Connect 
+
+for
+
+the entire
+
+fiscal year,
+
+which has
+
+substantial low
+
+margin
+
+prepaid
+
+airtime sales
+
+in addition
+
+to its
+
+core processing
+
+revenue and
+
+an 
+
+increase in account fees and insurance revenues.
+
+
+Cost of
+
+goods sold,
+
+IT processing,
+
+servicing and
+
+support increased
+
+by $249.2
+
+million (ZAR
+
+4.9 billion),
+
+or 148.1%
+
+(in ZAR, 
+
+192.8%), primarily due to the inclusion of Connect,
+
+which were partially offset by the benefits of
+
+various cost reduction initiatives in 
+
+Consumer and lower insurance-related claims. 
+
+Selling, general and administration expenses increased by $20.1 million (ZAR 0.6 billion), or 26.7% (in ZAR, 49.6%), primarily 
+
+due
+
+to
+
+higher
+
+employee-related
+
+expenses
+
+related
+
+to
+
+the
+
+expansion
+
+of
+
+our
+
+senior
+
+management
+
+team,
+
+the
+
+year-over-year
+
+impact
+
+of 
+
+inflationary
+
+increases
+
+on
+
+employee-related
+
+expenses
+
+and
+
+the
+
+inclusion
+
+of
+
+expenses
+
+related
+
+to
+
+Connect’s
+
+operations,
+
+which
+
+were 
+
+partially offset by the benefits of various cost reduction initiatives in Consumer. 
+
+Depreciation and
+
+amortization expense
+
+increased by
+
+$16.1 million
+
+(ZAR 309.8
+
+million), or
+
+212.7% (in
+
+ZAR, 269.1%),
+
+due to 
+
+the
+
+inclusion
+
+of
+
+acquisition-related
+
+intangible
+
+asset
+
+amortization
+
+related
+
+to
+
+intangible
+
+assets
+
+identified
+
+pursuant
+
+to
+
+the
+
+Connect 
+
+acquisition, as well as the inclusion of depreciation expense related to
+
+Connect’s property,
+
+plant and equipment. 
+
+During fiscal 2023, we
+
+recorded an impairment loss
+
+of $7.0 million related
+
+to the impairment of
+
+our hardware/ software supply 
+
+business
+
+unit’s
+
+allocated
+
+goodwill.
+
+Refer
+
+to
+
+Note
+
+
+of
+
+our
+
+audited
+
+consolidated
+
+financial
+
+statements
+
+for
+
+additional
+
+information 
+
+regarding these impairment losses. 
+
+We embarked on a retrenchment process on January 10, 2022, and incurred reorganization expenses of $5.9 million during fiscal 
+
+2022\. 
+
+Transaction
+
+costs related
+
+to Connect
+
+acquisition in
+
+fiscal 2022
+
+includes fees
+
+paid to
+
+external service
+
+providers associated
+
+with 
+
+the contract drafting and negotiations; corporate finance advisory services; legal, financial and tax due diligence
+
+activities performed; 
+
+warranty and
+
+indemnity insurance
+
+related to the
+
+transaction; and other
+
+advisory services procured;
+
+as well as
+
+our portion
+
+of the fees 
+
+paid to competition authorities related to the regulatory filings made in
+
+various jurisdictions. 
+
+Our operating loss
+
+margin in fiscal
+
+
+and 2022
+
+was
+
+(2.9%) and
+
+(18.1%), respectively. 
+
+We 
+
+discuss the
+
+components of operating 
+
+loss margin under “—Results of operations by operating
+
+segment.”
+
+We
+
+did
+
+not
+
+record
+
+any
+
+changes
+
+in
+
+the
+
+fair
+
+value
+
+of
+
+equity
+
+interests
+
+in
+
+MobiKwik
+
+and
+
+Cell
+
+C
+
+during
+
+fiscal
+
+
+and
+
+2022, 
+
+respectively.
+
+We continue
+
+to carry our investment
+
+in Cell C at $0
+
+(zero). Refer to Note
+
+9 to our consolidated financial
+
+statements for 
+
+the methodology
+
+and inputs used
+
+in the fair
+
+value calculation for
+
+MobiKwik and Note
+
+6 for the
+
+methodology and
+
+inputs used in
+
+the 
+
+fair value calculation for Cell C. 
+
+Gain related to fair value adjustment to currency options
+
+represents the realized gain related to foreign exchange
+
+option contracts 
+
+entered into in November 2021
+
+in order to manage the risk of
+
+currency volatility and to fix
+
+the USD amount to be utilized
+
+for part of 
+
+the Connect purchase
+
+consideration settlement. The
+
+foreign exchange option
+
+contracts matured on
+
+February 24, 2022.
+
+Refer to Note 
+
+6 to our consolidated financial statements for additional information
+
+related to these currency options. 
+
+We
+
+recorded
+
+a
+
+net
+
+loss
+
+of
+
+$0.2
+
+million
+
+comprising
+
+a
+
+loss
+
+of
+
+$0.4
+
+million
+
+related
+
+to
+
+the
+
+disposal
+
+of
+
+a
+
+minor
+
+portion
+
+of
+
+our 
+
+investment in Finbond and a $0.25 million gain related to
+
+the disposal of our entire interest in Carbon
+
+during fiscal 2023. We recorded 
+
+a loss of $0.4
+
+million related to the disposal of a minor portion of our
+
+investment in Finbond during fiscal 2022. Refer to Note 9 to
+
+our 
+
+consolidated financial statements for additional information regarding
+
+these disposals. 
+
+We recorded
+
+a gain of $0.7 million related to the disposal of our entire interest
+
+in an equity security during fiscal 2022. Refer to 
+
+Note 9 to our consolidated financial statements for additional information
+
+regarding this gain. 
+
+Interest on surplus cash decreased to $1.9 million (ZAR
+
+33.2 million) from $2.1 million (ZAR 31.7 million), primarily
+
+due to the 
+
+inclusion of Connect, which was partially offset by lower overall surplus
+
+cash balances following the acquisition of Connect. 
+
+Interest expense increased
+
+to $18.6 million
+
+(ZAR 333.1 million)
+
+from $5.8 million
+
+(ZAR 88.6 million),
+
+primarily as a result
+
+of 
+
+additional
+
+interest
+
+expense
+
+incurred
+
+related
+
+to
+
+borrowings
+
+obtained
+
+to
+
+partially
+
+fund
+
+the acquisition
+
+of
+
+Connect,
+
+interest
+
+expenses 
+
+incurred in Connect to fund our cash management, digitization and VAS offerings, and a higher utilization of our facilities to fund our 
+
+ATMs,
+
+which was also coupled with an increase in base interest rates. 
+
+Fiscal 2023
+
+tax benefit was $(2.3) million (ZAR (41.4) million) compared
+
+to a tax expense of $0.3 million (ZAR 5.0 million) in 
+
+fiscal 2022. Our effective tax rate for fiscal 2023 was impacted by a reduction in
+
+the enacted South African corporate income tax rate 
+
+from
+
+28%
+
+to
+
+27%
+
+from
+
+January
+
+
+(but
+
+backdated
+
+to
+
+July
+
+1,
+
+2022),
+
+the
+
+tax
+
+expense
+
+recorded
+
+by
+
+our
+
+profitable
+
+South
+
+African 
+
+operations, a deferred
+
+tax benefit related to
+
+acquisition-related intangible asset
+
+amortization, non-deductible
+
+expenses, a deferred tax 
+
+benefit related
+
+to an
+
+expense paid
+
+by Connect
+
+before we
+
+acquired the
+
+business and
+
+which subsequently
+
+has been
+
+determined to
+
+be 
+
+deductible
+
+for
+
+tax
+
+purposes,
+
+the
+
+on-going
+
+losses
+
+incurred
+
+by
+
+certain
+
+of
+
+our
+
+South
+
+African
+
+businesses
+
+and
+
+the
+
+associated
+
+valuation 
+
+allowances created related to the deferred tax assets recognized regarding
+
+net operating losses incurred by these entities.
+
+
+Our effective
+
+tax rate
+
+for fiscal
+
+2022 was
+
+impacted by
+
+the tax
+
+expense recorded
+
+by our
+
+profitable South
+
+African operations,
+
+a 
+
+deferred
+
+tax
+
+benefit
+
+related
+
+to
+
+acquisition-related
+
+intangible
+
+asset
+
+amortization,
+
+non-deductible
+
+expenses
+
+(including
+
+transaction 
+
+expenses
+
+related
+
+to
+
+the
+
+acquisition
+
+of
+
+Connect),
+
+the
+
+on-going
+
+losses
+
+incurred
+
+by
+
+certain
+
+of
+
+our
+
+South
+
+African
+
+businesses
+
+and
+
+the 
+
+associated valuation allowances created
+
+related to the deferred
+
+tax assets recognized regarding
+
+net operating losses incurred
+
+by these 
+
+entities. 
+
+Finbond is listed on the Johannesburg Stock Exchange
+
+and reports its six-month results during
+
+our first half and its
+
+annual results 
+
+during
+
+our fourth
+
+quarter. 
+
+We 
+
+recorded
+
+impairment
+
+losses related
+
+to
+
+our investment
+
+in Finbond
+
+in fiscal
+
+
+following
+
+on-going 
+
+losses reported
+
+by Finbond
+
+and its
+
+lower listed
+
+share price.
+
+Refer to
+
+Note 9
+
+to our
+
+consolidated
+
+financial statements
+
+for additional 
+
+information regarding the impairments.
+
+The table below presents the relative loss from our equity accounted investments: 
+
+Table 10 
+
+Year
+
+ended June 30, 
+
+
+
+$ ’000 
+
+$ ’000 
+
+$ % change 
+
+Finbond 
+
+(5,206) 
+
+(3,665) 
+
+42% 
+
+Share of net (loss) income
+
+(4,096) 
+
+(3,665) 
+
+12% 
+
+Impairment 
+
+(1,110) 
+
+\- 
+
+nm 
+
+Other 
+
+
+
+456% 
+
+Share of net loss 
+
+
+
+456% 
+
+Total
+
+loss from equity-accounted investments 
+
+(5,117) 
+
+(3,649) 
+
+40% 
+
+Results of operations by operating segment
+
+The composition of revenue and the contributions of our business activities to operating
+
+(loss) income are illustrated below:
+
+Table 11 
+
+In U.S. Dollars 
+
+Year
+
+ended June 30, 
+
+
+% of 
+
+
+% of 
+
+% 
+
+Operating Segment 
+
+$ ’000 
+
+total 
+
+$ ’000 
+
+total 
+
+change 
+
+Consolidated revenue: 
+
+Merchant 
+
+463,701 
+
+88% 
+
+156,689 
+
+70% 
+
+196% 
+
+Consumer 
+
+62,801 
+
+12% 
+
+65,932 
+
+30% 
+
+(5%) 
+
+Subtotal: Operating segments
+
+526,502 
+
+100% 
+
+222,621 
+
+100% 
+
+137% 
+
+Not allocated to operating segments 
+
+1,469 
+
+\- 
+
+\- 
+
+\- 
+
+nm 
+
+Corporate/Eliminations
+
+\- 
+
+\- 
+
+\- 
+
+nm 
+
+Total
+
+consolidated revenue
+
+527,971 
+
+100% 
+
+222,609 
+
+100% 
+
+137% 
+
+Group Adjusted EBITDA: 
+
+Merchant 
+
+33,531 
+
+135% 
+
+12,646 
+
+(59%) 
+
+165% 
+
+Consumer
+
+3,314 
+
+13% 
+
+(21,674) 
+
+100% 
+
+nm 
+
+Lease expenses
+
+(2,906) 
+
+(11%) 
+
+(3,955) 
+
+19% 
+
+(27%) 
+
+Group costs 
+
+(9,109) 
+
+(37%) 
+
+(8,587) 
+
+40% 
+
+6% 
+
+Group Adjusted EBITDA (non-GAAP)
+
+24,830 
+
+100% 
+
+(21,570) 
+
+100% 
+
+nm 
+
+Consumer Segment Adjustment EBITDA for fiscal 2022 includes reorganization
+
+cost of $5.9 million. 
+
+Lease expenses which were previously excluded from the calculation of
+
+Group Adjusted EBITDA have now been included in the 
+
+calculation. This change is in response to comments received from the staff
+
+of the SEC in March 2024 regarding our non-GAAP 
+
+financial reporting. Comparative information has been adjusted to conform
+
+with the updated presentation. 
+
+Group Adjusted EBITDA is a non-GAAP measure, refer to reconciliation
+
+below at “—Results of Operations—Use of Non-
+
+GAAP Measures”. 
+
+
+Table 12 
+
+In South African Rand 
+
+Year
+
+ended June 30, 
+
+
+% of 
+
+
+% of 
+
+% 
+
+Operating Segment 
+
+ZAR ’000 
+
+total 
+
+ZAR ’000 
+
+total 
+
+change 
+
+Consolidated revenue: 
+
+Merchant 
+
+8,318,796 
+
+88% 
+
+2,381,323 
+
+70% 
+
+249% 
+
+Consumer 
+
+1,126,650 
+
+12% 
+
+1,002,021 
+
+30% 
+
+12% 
+
+Subtotal: Operating segments
+
+9,445,446 
+
+100% 
+
+3,383,344 
+
+100% 
+
+179% 
+
+Not allocated to operating segments 
+
+26,354 
+
+\- 
+
+\- 
+
+\- 
+
+nm 
+
+Corporate/Eliminations
+
+\- 
+
+\- 
+
+\- 
+
+nm 
+
+Total
+
+consolidated revenue
+
+9,471,800 
+
+100% 
+
+3,383,166 
+
+100% 
+
+180% 
+
+Group Adjusted EBITDA: 
+
+Merchant 
+
+601,546 
+
+135% 
+
+192,197 
+
+(59%) 
+
+213% 
+
+Consumer
+
+59,453 
+
+13% 
+
+(329,403) 
+
+100% 
+
+nm 
+
+Lease expenses
+
+(52,134) 
+
+(11%) 
+
+(60,107) 
+
+19% 
+
+(13%) 
+
+Group costs 
+
+(163,415) 
+
+(37%) 
+
+(130,503) 
+
+40% 
+
+25% 
+
+Group Adjusted EBITDA (non-GAAP)
+
+445,450 
+
+100% 
+
+(327,816) 
+
+100% 
+
+nm 
+
+Consumer Segment Adjustment EBITDA for fiscal 2022 includes
+
+reorganization cost of ZAR 89.6 million. 
+
+Lease expenses
+
+which were previously
+
+excluded from the
+
+calculation of Group
+
+Adjusted EBITDA have
+
+now been included 
+
+in the calculation. This change is
+
+in response to comments received from
+
+the staff of the SEC in
+
+March 2024 regarding our non-GAAP 
+
+financial reporting. Comparative information has been adjusted to conform
+
+with the updated presentation. 
+
+Group Adjusted EBITDA
+
+is a non-GAAP measure, refer
+
+to reconciliation below at
+
+“—Results of Operations—Use of
+
+Non-
+
+GAAP Measures”. 
+
+Merchant 
+
+Segment
+
+revenue
+
+increased
+
+due
+
+to
+
+the
+
+contribution
+
+from
+
+Connect
+
+for
+
+the
+
+full fiscal
+
+year
+
+compared
+
+with
+
+only
+
+two
+
+and a
+
+half 
+
+months in fiscal
+
+2022\. This increase
+
+was partially offset
+
+by lower hardware
+
+sales revenue given
+
+the lumpy nature
+
+of bulk sales.
+
+The 
+
+increase in
+
+Segment Adjusted
+
+EBITDA is
+
+also due
+
+to the inclusion
+
+of Connect,
+
+which was partially
+
+offset by
+
+lower hardware
+
+sales. 
+
+Connect records a significant proportion of its airtime sales in revenue and cost of sales, while only earning a relatively small margin. 
+
+This significantly depresses the Segment Adjusted EBITDA margins
+
+shown by the business. 
+
+Our Segment
+
+Adjusted EBITDA
+
+(loss) margin
+
+(calculated as
+
+Segment Adjusted
+
+EBITDA (loss)
+
+divided by
+
+revenue) in
+
+fiscal 
+
+
+and 2022 was 7.2% and 8.1%, respectively. 
+
+Consumer
+
+Segment revenue increased primarily due to higher insurance revenues and higher account holder fees, though this was partially 
+
+offset by
+
+lower ATM
+
+transaction fees.
+
+We
+
+embarked on a
+
+retrenchment process
+
+during the third
+
+quarter of fiscal
+
+2022 and recorded 
+
+an expense of
+
+$5.9 million which is
+
+included in Segment
+
+Adjusted EBITDA loss. The
+
+cost reduction initiatives
+
+we initiated in
+
+fiscal 
+
+2022 delivered
+
+a significant
+
+reduction in
+
+Consumer’s operating
+
+expenses which
+
+resulted in
+
+a significantly
+
+lower Segment
+
+Adjusted 
+
+EBITDA
+
+loss
+
+compared
+
+with
+
+fiscal
+
+2022.
+
+Specifically,
+
+expenses
+
+associated
+
+with
+
+operating
+
+a
+
+mobile
+
+distribution
+
+network
+
+were 
+
+discontinued
+
+in
+
+early
+
+fiscal
+
+2022,
+
+and
+
+we
+
+have
+
+streamlined
+
+our
+
+fixed
+
+distribution
+
+network
+
+through
+
+reductions
+
+in
+
+certain
+
+expenses 
+
+including
+
+employee-related
+
+costs,
+
+security,
+
+guarding
+
+and
+
+premises costs.
+
+In
+
+June
+
+
+we
+
+recalibrated
+
+our
+
+allowance
+
+for
+
+doubtful 
+
+microlending finance
+
+loans receivable
+
+from 10%
+
+of the
+
+lending book
+
+outstanding to
+
+6.5% of
+
+the lending
+
+book, which
+
+resulted in
+
+a 
+
+release from the allowance in fiscal 2022. 
+
+Our Segment
+
+Adjusted EBITDA loss
+
+margin in
+
+fiscal 2023
+
+and 2022
+
+was 5.3% and
+
+(32.9%), respectively.
+
+After adjusting for 
+
+the
+
+reorganization
+
+charge
+
+our fiscal
+
+
+Segment
+
+Adjusted
+
+EBITDA
+
+loss margin
+
+was
+
+(23.9%).
+
+Segment
+
+Adjusted
+
+EBITDA
+
+loss 
+
+margin before the reorganization charge is a non-GAAP measure. We believe that the presentation of our Segment Adjusted EBITDA 
+
+loss margin
+
+before the
+
+reorganization
+
+charge
+
+is useful
+
+to investors
+
+to understand
+
+the improvement
+
+in the
+
+operating performance
+
+in 
+
+Consumer, before the reorganization
+
+charge, in fiscal 2023 compared with fiscal 2022.
+
+Group costs 
+
+Our
+
+group
+
+costs
+
+for
+
+fiscal
+
+
+increased
+
+compared
+
+with
+
+the
+
+prior
+
+period
+
+due
+
+to
+
+higher
+
+employee
+
+costs
+
+and
+
+an
+
+increase
+
+in 
+
+directors’ and officers’ insurance premiums.
+
+
+Use of Non-GAAP Measures 
+
+U.S. securities laws
+
+require that when
+
+we publish any
+
+non-GAAP measures, we
+
+disclose the reason
+
+for using these
+
+non-GAAP 
+
+measures and provide reconciliations to the most directly comparable GAAP measures. The presentation of Group Adjusted EBITDA 
+
+is
+
+a
+
+non-GAAP
+
+measure.
+
+We
+
+provide
+
+this
+
+non-GAAP
+
+measure
+
+to
+
+enhance
+
+our
+
+evaluation
+
+and
+
+understanding
+
+of
+
+our
+
+financial 
+
+performance
+
+and
+
+trends.
+
+We
+
+believe
+
+that
+
+this
+
+measure
+
+is
+
+helpful
+
+to
+
+users
+
+of
+
+our
+
+financial
+
+information
+
+understand
+
+key
+
+operating 
+
+performance and
+
+trends in our
+
+business because
+
+it excludes certain
+
+non-cash expenses
+
+(including depreciation
+
+and amortization
+
+and 
+
+stock-based compensation charges) and income
+
+and expenses that we consider once-off in nature. 
+
+Non-GAAP Measures 
+
+Group
+
+Adjusted
+
+EBITDA
+
+is
+
+earnings
+
+before
+
+interest,
+
+tax,
+
+depreciation
+
+and
+
+amortization
+
+(“EBITDA”),
+
+adjusted
+
+for
+
+non-
+
+operational transactions (including loss on disposal
+
+of equity-accounted investments, gain related to
+
+fair value adjustments to currency 
+
+options), (earnings)
+
+loss from
+
+equity-accounted investments,
+
+stock-based compensation
+
+charges and
+
+once-off
+
+items. Once-off
+
+items 
+
+represents non-recurring income and
+
+expense items, including
+
+costs related to
+
+acquisitions and transactions consummated
+
+or ultimately 
+
+not pursued.
+
+Lease expenses
+
+which were
+
+previously excluded
+
+from the
+
+calculation of
+
+Group Adjusted
+
+EBITDA have
+
+now been
+
+included in 
+
+the calculation. This
+
+change is in response
+
+to comments received from
+
+the staff of the
+
+SEC in March 2024
+
+regarding our non-GAAP 
+
+financial reporting. Comparative information has been adjusted to conform
+
+with the updated presentation. 
+
+The table below presents the reconciliation between GAAP net loss attributable
+
+to Lesaka to Group Adjusted EBITDA: 
+
+Table 13 
+
+Years
+
+ended June 30, 
+
+
+
+
+$ ’000 
+
+$ ’000 
+
+$ ’000 
+
+Loss attributable to Lesaka - GAAP 
+
+(17,440) 
+
+(35,074) 
+
+(43,876) 
+
+Loss from equity accounted investments 
+
+1,279 
+
+5,117 
+
+3,649 
+
+Net loss before loss from equity-accounted investments 
+
+(16,161) 
+
+(29,957) 
+
+(40,227) 
+
+Income tax expense (benefit)
+
+3,363 
+
+(2,309) 
+
+
+Loss before income tax expense 
+
+(12,798) 
+
+(32,266) 
+
+(39,900) 
+
+Interest expense 
+
+18,932 
+
+18,567 
+
+5,829 
+
+Interest income 
+
+(2,294) 
+
+(1,853) 
+
+(2,089) 
+
+Reversal of allowance for doubtful EMI loan receivable 
+
+\- 
+
+\- 
+
+Gain on disposal of equity securities 
+
+\- 
+
+\- 
+
+Net loss on disposal of equity-accounted investment 
+
+\- 
+
+
+
+Gain related to fair value adjustment to currency options 
+
+\- 
+
+\- 
+
+(3,691) 
+
+Operating loss 
+
+3,590 
+
+(15,347) 
+
+(40,195) 
+
+Impairment loss 
+
+\- 
+
+7,039 
+
+\- 
+
+PPA amortization
+
+(amortization of acquired intangible assets)
+
+14,419 
+
+15,149 
+
+3,826 
+
+Depreciation 
+
+9,246 
+
+8,536 
+
+3,749 
+
+Stock-based compensation charges 
+
+7,911 
+
+7,309 
+
+2,962 
+
+Once-off items
+
+1,853 
+
+1,922 
+
+8,088 
+
+Unrealized Loss FV for currency adjustments 
+
+
+\- 
+
+Group Adjusted EBITDA - Non-GAAP
+
+(A)
+
+36,936 
+
+24,830 
+
+(21,570) 
+
+(A) As noted in
+
+footnote to table
+
+11 and 12,
+
+Lease expenses which
+
+were previously excluded
+
+from the calculation of
+
+Group 
+
+Adjusted EBITDA have now been included in the calculation. 
+
+The table below presents the components of once-off
+
+items for the periods presented: 
+
+
+Table 14 
+
+Years
+
+ended June 30, 
+
+
+
+
+$ ’000 
+
+$ ’000 
+
+$ ’000 
+
+Transaction costs related to Adumo transaction 
+
+2,293 
+
+\- 
+
+\- 
+
+Transaction costs 
+
+
+
+6,460 
+
+(Income recognized) Expenses incurred related to closure of legacy
+
+businesses 
+
+
+\- 
+
+Non-recurring revenue not allocated to segments 
+
+\- 
+
+(1,469) 
+
+\- 
+
+Employee misappropriation of company funds 
+
+\- 
+
+1,202 
+
+\- 
+
+Indirect taxes provision 
+
+\- 
+
+
+\- 
+
+Separation of employee expense 
+
+\- 
+
+
+\- 
+
+Legacy processing adjustments 
+
+\- 
+
+\- 
+
+1,628 
+
+Total once-off
+
+items 
+
+1,853 
+
+1,922 
+
+8,088 
+
+Once-off items are non-recurring in nature, however, certain
+
+items may be reported in
+
+multiple quarters. For instance, transaction 
+
+costs include costs incurred related to acquisitions and
+
+transactions consummated or ultimately not pursued. The transactions can span 
+
+multiple
+
+quarters,
+
+for
+
+instance
+
+in
+
+fiscal
+
+
+we
+
+incurred
+
+significant
+
+transaction
+
+costs
+
+related
+
+to
+
+the
+
+acquisition
+
+of
+
+Adumo
+
+over
+
+a 
+
+number of quarters, and the transactions are generally non-recurring. 
+
+(Income
+
+recognized)
+
+Expenses
+
+incurred
+
+related
+
+to
+
+closure
+
+of
+
+legacy
+
+businesses
+
+represents
+
+(i)
+
+gains
+
+recognized
+
+related
+
+to
+
+the 
+
+release of
+
+the foreign
+
+currency translation
+
+reserve on
+
+deconsolidation
+
+of a
+
+subsidiary
+
+and (ii)
+
+costs incurred
+
+related
+
+to subsidiaries 
+
+which we are
+
+in the process of
+
+deregistering/ liquidation and
+
+therefore we consider
+
+these costs non-operational
+
+and ad hoc in
+
+nature. 
+
+Non-recurring revenue
+
+not allocated
+
+to segments
+
+includes once
+
+off revenue
+
+recognized that
+
+we believe
+
+does not
+
+relate to
+
+either our 
+
+Merchant
+
+or
+
+Consumer
+
+divisions.
+
+Employee
+
+misappropriation
+
+of
+
+company
+
+funds
+
+represents
+
+a
+
+once-off
+
+loss
+
+incurred.
+
+Indirect
+
+tax 
+
+provision includes non-recurring indirect taxes which have been provided related to prior periods following an on-going investigation 
+
+from a tax authority. We
+
+incurred separation costs related to the termination of certain senior-level employees, including an executive 
+
+officer and
+
+senior managers,
+
+during the
+
+fiscal year
+
+and we consider
+
+these specific
+
+terminations to
+
+be of
+
+a non-recurring
+
+nature. The 
+
+legacy processing
+
+adjustments represents
+
+amounts we
+
+identified during
+
+fiscal 2022
+
+related to
+
+prior periods
+
+that are
+
+payable to
+
+third 
+
+parties. 
+
+Liquidity and Capital Resources
+
+At June 30,
+
+2024, our unrestricted
+
+cash and cash
+
+equivalents were $59.1
+
+million and comprised
+
+of ZAR-denominated
+
+balances 
+
+of
+
+ZAR
+
+961.6
+
+million
+
+($52.9
+
+million),
+
+U.S.
+
+dollar-denominated
+
+balances
+
+of
+
+$4.5
+
+million,
+
+and
+
+other
+
+currency
+
+deposits,
+
+primarily 
+
+Botswana pula, of
+
+$1.7 million, all
+
+amounts translated at
+
+exchange rates applicable as
+
+of June 30,
+
+2024\. The increase in
+
+our unrestricted 
+
+cash balances from June 30, 2023, was primarily due to a positive contribution from our Merchant
+
+and Consumer operations, the sale 
+
+of
+
+certain
+
+Cell
+
+C
+
+prepaid
+
+inventory
+
+held,
+
+higher
+
+year
+
+end
+
+clearing
+
+accounts
+
+and
+
+vendor
+
+wallet
+
+balances,
+
+and
+
+utilization
+
+of
+
+our 
+
+borrowings facilities
+
+to fund
+
+certain components
+
+of our
+
+operations, which
+
+was partially
+
+offset by
+
+the utilization
+
+of cash
+
+reserves to 
+
+fund certain scheduled and
+
+other repayments of our borrowings,
+
+pay transaction related expenses,
+
+purchase ATMs
+
+and vaults, and to 
+
+make an investment in working capital. 
+
+We generally
+
+invest any surplus cash held by our
+
+South African operations in overnight
+
+call accounts that we maintain at
+
+South 
+
+African banking institutions,
+
+and any surplus
+
+cash held by
+
+our non-South African
+
+companies in
+
+U.S. dollar-denominated money market 
+
+accounts.
+
+Historically,
+
+we have financed
+
+most of our
+
+operations, research and
+
+development, working capital,
+
+and capital expenditures,
+
+as 
+
+well
+
+as
+
+acquisitions
+
+and
+
+strategic
+
+investments,
+
+through
+
+internally
+
+generated
+
+cash
+
+and
+
+our
+
+financing
+
+facilities.
+
+When
+
+considering 
+
+whether to borrow under our financing
+
+facilities, we consider the cost
+
+of capital, cost of financing, opportunity cost
+
+of utilizing surplus 
+
+cash and
+
+availability of
+
+tax efficient
+
+structures to
+
+moderate financing
+
+costs. For
+
+instance, in
+
+fiscal 2022,
+
+we obtained
+
+loan facilities 
+
+from RMB
+
+to fund
+
+a portion
+
+of our
+
+acquisition of
+
+Connect.
+
+Following the
+
+acquisition of
+
+Connect, we
+
+now utilize
+
+a combination
+
+of 
+
+short
+
+and
+
+long-term
+
+facilities to
+
+fund our
+
+operating
+
+activities and
+
+a long-term
+
+asset-backed
+
+facility to
+
+fund
+
+the acquisition
+
+of POS 
+
+devices and
+
+safe assets.
+
+Refer to
+
+Note 12
+
+to our
+
+consolidated financial
+
+statements for
+
+the year
+
+ended June
+
+30, 2024,
+
+for additional 
+
+information related to our borrowings. 
+
+
+Available short-term
+
+borrowings 
+
+Summarized below are our short-term facilities available and utilized as of
+
+June 30, 2024: 
+
+Table 15 
+
+RMB Facility E 
+
+RMB Indirect 
+
+RMB Connect 
+
+Nedbank 
+
+$ ’000 
+
+ZAR ’000 
+
+$ ’000 
+
+ZAR ’000 
+
+$ ’000 
+
+ZAR ’000 
+
+$ ’000 
+
+ZAR ’000 
+
+Total
+
+short-term facilities 
+
+available, comprising: 
+
+Overdraft
+
+\- 
+
+\- 
+
+\- 
+
+\- 
+
+11,276 
+
+205,014 
+
+\- 
+
+\- 
+
+Overdraft restricted as to 
+
+use
+
+49,503 
+
+899,996 
+
+\- 
+
+\- 
+
+\- 
+
+\- 
+
+\- 
+
+\- 
+
+Total overdraft 
+
+49,503 
+
+899,996 
+
+\- 
+
+\- 
+
+11,276 
+
+205,014 
+
+\- 
+
+\- 
+
+Indirect and derivative 
+
+facilities
+
+\- 
+
+\- 
+
+7,425 
+
+134,991 
+
+\- 
+
+\- 
+
+8,611 
+
+156,553 
+
+Total
+
+short-term facilities 
+
+available 
+
+49,503 
+
+899,996 
+
+7,425 
+
+134,991 
+
+11,276 
+
+205,014 
+
+8,611 
+
+156,553 
+
+Utilized short-term 
+
+facilities: 
+
+Overdraft
+
+\- 
+
+\- 
+
+\- 
+
+\- 
+
+9,351 
+
+170,011 
+
+\- 
+
+\- 
+
+Overdraft restricted as to 
+
+use
+
+6,737 
+
+122,480 
+
+\- 
+
+\- 
+
+\- 
+
+\- 
+
+\- 
+
+\- 
+
+Indirect and derivative 
+
+facilities
+
+\- 
+
+\- 
+
+1,821 
+
+33,106 
+
+\- 
+
+\- 
+
+
+2,105 
+
+Total
+
+short-term facilities 
+
+available 
+
+6,737 
+
+122,480 
+
+1,821 
+
+33,106 
+
+9,351 
+
+170,011 
+
+
+2,105 
+
+Interest rate, based on South 
+
+African prime rate 
+
+11.75% 
+
+11.65% 
+
+Overdraft may only be used to fund ATMs
+
+and upon utilization is considered restricted cash. 
+
+Indirect and derivative facilities may only be used for guarantees, letters of credit and forward
+
+exchange contracts to support 
+
+guarantees issued by RMB and Nedbank to various third parties on our behalf. 
+
+Long-term borrowings 
+
+We have aggregate long-term
+
+borrowings
+
+outstanding of ZAR 2.6 billion ($143.2 million translated at exchange rates as of June 
+
+30, 2024) as
+
+described in Note
+
+12\. These borrowings
+
+include outstanding
+
+long-term borrowings
+
+obtained by Lesaka
+
+SA of ZAR
+
+1.0 
+
+billion,
+
+including
+
+accrued
+
+interest,
+
+which
+
+was
+
+used
+
+to
+
+partially
+
+fund
+
+the
+
+acquisition
+
+of
+
+Connect.
+
+The
+
+Lesaka
+
+SA
+
+borrowing 
+
+arrangements
+
+were amended
+
+in March
+
+2023 to
+
+include
+
+a ZAR
+
+
+million
+
+revolving
+
+credit facility.
+
+We
+
+used this
+
+revolving
+
+credit 
+
+facility
+
+during
+
+the
+
+year
+
+ended
+
+June
+
+30,
+
+2024,
+
+and
+
+ZAR
+
+70.0
+
+million
+
+was
+
+drawn
+
+as
+
+of
+
+June
+
+30,
+
+2024,
+
+with
+
+the
+
+remaining
+
+balance 
+
+available for utilization in the future. In contemplation of
+
+the Connect transaction, Connect obtained total facilities of ZAR
+
+1.3 billion, 
+
+which were
+
+utilized to
+
+repay its existing
+
+borrowings, to
+
+fund a
+
+portion of
+
+its capital
+
+expenditures and
+
+to settle
+
+obligations under
+
+the 
+
+transaction documents,
+
+and which has
+
+subsequently been
+
+upsized for its
+
+operational requirements
+
+and has an
+
+outstanding balance
+
+as 
+
+of June 30, 2024, of ZAR 1.2
+
+billion, We also have a revolving credit facility, of ZAR 300.0 million which is utilized to fund a
+
+portion 
+
+of our merchant finance loans receivable book.
+
+Restricted cash 
+
+We
+
+have credit
+
+facilities with RMB
+
+in order
+
+to access cash
+
+to fund
+
+our ATMs
+
+in South Africa.
+
+Our cash, cash
+
+equivalents and 
+
+restricted cash
+
+presented in
+
+our consolidated
+
+statement of
+
+cash flows
+
+as of
+
+June 30,
+
+2024, includes
+
+restricted cash
+
+of approximately 
+
+$6.7
+
+million
+
+related
+
+to
+
+cash
+
+withdrawn
+
+from
+
+our
+
+debt
+
+facility
+
+to
+
+fund
+
+ATMs.
+
+This
+
+cash
+
+may
+
+only
+
+be
+
+used
+
+to
+
+fund
+
+ATMs
+
+and
+
+is 
+
+considered restricted as to use and therefore is classified as restricted cash on
+
+our consolidated balance sheet. 
+
+We
+
+have also
+
+entered into
+
+cession and
+
+pledge agreements
+
+with Nedbank
+
+related to
+
+our Nedbank
+
+credit facilities
+
+and we
+
+have 
+
+ceded and
+
+pledged certain
+
+bank accounts
+
+to Nedbank.
+
+The funds
+
+included in
+
+these bank
+
+accounts are
+
+restricted as
+
+they may
+
+not be 
+
+withdrawn without
+
+the express permission
+
+of Nedbank. Our
+
+cash, cash equivalents
+
+and restricted cash
+
+presented in our
+
+consolidated 
+
+statement of cash flows as of June 30, 2024, includes restricted cash of approximately
+
+$0.1 million that has been ceded and pledged.
+
+
+Cash flows from operating activities 
+
+Net cash
+
+provided by
+
+operating activities
+
+during fiscal
+
+
+was $28.8
+
+million (ZAR
+
+537.9 million)
+
+compared to
+
+$0.4 million 
+
+(ZAR 7.4 million) during fiscal
+
+2023\. Excluding the impact of
+
+income taxes, our cash
+
+provided by operating activities during
+
+the fiscal 
+
+2024 was positively impacted by the contribution from Merchant and
+
+Consumer, the sale of Cell C inventory and temporary
+
+working 
+
+capital movements within
+
+our merchant business
+
+as a result
+
+of quarter-end
+
+transaction processing activities
+
+closing on a
+
+Sunday and 
+
+which were settled in the following week, which was partially offset
+
+by growth in our consumer finance loans receivable book. 
+
+Net cash provided
+
+by operating activities
+
+during fiscal
+
+2023 was $0.4
+
+million (ZAR 7.4
+
+million) compared
+
+to net cash
+
+utilized 
+
+by
+
+operating
+
+activities
+
+of
+
+$37.2
+
+million
+
+(ZAR
+
+565.3
+
+million)
+
+during
+
+fiscal
+
+2022.
+
+Excluding
+
+the
+
+impact
+
+of
+
+income
+
+taxes,
+
+our
+
+cash 
+
+provided by operating activities
+
+during fiscal 2023 was
+
+impacted by the positive
+
+contribution from Connect and
+
+certain business within 
+
+our consumer
+
+business, which was
+
+partially offset
+
+by growth
+
+in our consumer
+
+and merchant finance
+
+loans receivable
+
+books. During 
+
+fiscal 2023, we
+
+observed fluctuations in
+
+our working capital, primarily
+
+within our merchant business,
+
+as a result of
+
+monthly changes 
+
+in our inventory and prepayment
+
+account balances as a result of
+
+payments made to secure prepaid
+
+airtime inventory.
+
+Certain of these 
+
+purchases were funded from our borrowing arrangements and the impact
+
+of the funding is included in financing activities. 
+
+During fiscal 2024,
+
+we paid our
+
+first provisional South
+
+African tax payments
+
+of $2.7 million
+
+(ZAR 49.5 million)
+
+related to our 
+
+
+tax year. During fiscal 2024, we
+
+also made our second
+
+provisional South African tax
+
+payments
+
+of $2.9 million (ZAR
+
+52.7 million 
+
+related to our 2024
+
+tax year and received
+
+tax refunds of $0.04
+
+million (ZAR 0.8 million).
+
+We
+
+also paid taxes totaling
+
+$0.4 million in 
+
+other tax jurisdictions, primarily in the Botswana. 
+
+During fiscal 2023,
+
+we paid our
+
+first provisional South
+
+African tax payments
+
+of $3.0 million
+
+(ZAR 50.8 million)
+
+related to our 
+
+2023 tax year. During fiscal 2023,
+
+we also made
+
+our second provisional South
+
+African tax payments of
+
+$4.1 million (ZAR 76.1
+
+million 
+
+related to our
+
+2023 tax year
+
+and received
+
+tax refunds of
+
+$0.2 million (ZAR
+
+3.8 million).
+
+We
+
+also paid taxes
+
+totaling $0.4
+
+million in 
+
+other tax jurisdictions, primarily in the Botswana. 
+
+During fiscal 2022,
+
+we made our
+
+first provisional South
+
+African tax payments
+
+of $0.6 million
+
+(ZAR 9.1 million)
+
+related to our 
+
+
+tax year. During fiscal 2022, we
+
+also made our second
+
+provisional South African tax
+
+payments
+
+of $0.7 million (ZAR
+
+10.9 million 
+
+related to our 2022 tax year and made an additional tax payment of $0.001 million (ZAR
+
+0.02 million) related to our 2021 tax year.
+
+Taxes paid during
+
+fiscal 2024, 2023 and 2022 were as follows: 
+
+Table 16 
+
+Year
+
+ended June 30, 
+
+
+
+
+
+
+
+$ 
+
+$ 
+
+$ 
+
+ZAR 
+
+ZAR 
+
+ZAR 
+
+‘000 
+
+‘000 
+
+‘000 
+
+‘000 
+
+‘000 
+
+‘000 
+
+First provisional payments
+
+2,663 
+
+2,955 
+
+
+49,534 
+
+50,798 
+
+9,142 
+
+Second provisional payments
+
+2,861 
+
+4,079 
+
+
+52,721 
+
+76,089 
+
+10,929 
+
+Taxation paid related
+
+to prior years
+
+
+
+
+12,187 
+
+
+
+Tax refund received 
+
+(3,756) 
+
+(4,542) 
+
+Total South African
+
+taxes paid
+
+6,127 
+
+6,839 
+
+
+113,674 
+
+123,404 
+
+15,548 
+
+Foreign taxes paid 
+
+
+
+
+7,063 
+
+6,482 
+
+2,482 
+
+Total
+
+tax paid
+
+6,506 
+
+7,200 
+
+1,138 
+
+120,737 
+
+129,886 
+
+18,030 
+
+We expect to make additional provisional
+
+income tax payments in South Africa related to our 2024 tax year in the first quarter of 
+
+fiscal 2025, however, the amount was not quantifiable
+
+as of the date of the filing of this Annual Report. 
+
+Cash flows from investing activities 
+
+Cash used
+
+in investing
+
+activities for
+
+fiscal 2024
+
+included capital
+
+expenditures of
+
+$12.7 million
+
+(ZAR 236.6
+
+million), primarily 
+
+due
+
+to
+
+the
+
+acquisition
+
+of
+
+vaults
+
+and
+
+POS
+
+devices.
+
+During
+
+fiscal
+
+2024,
+
+we
+
+received
+
+proceeds
+
+of
+
+$3.5
+
+million
+
+related
+
+to
+
+the
+
+sale of 
+
+remaining interest in Finbond and $0.25 million related to the second (and final) tranche from the
+
+disposal of our entire equity interest 
+
+in Carbon. 
+
+Cash used
+
+in investing
+
+activities for
+
+fiscal 2023
+
+included capital
+
+expenditures of
+
+$16.2 million
+
+(ZAR 289.8
+
+million), primarily 
+
+due to the
+
+acquisition of ATMs
+
+.
+
+During fiscal 2023,
+
+we received proceeds
+
+of $0.25 million
+
+related to the
+
+first tranche (of
+
+two) from 
+
+the disposal of our entire equity interest in Carbon and $0.4 million related to
+
+the sale of minor positions in Finbond. 
+
+
+During fiscal
+
+2022, we
+
+paid approximately
+
+$4.6 million
+
+(ZAR 69.3
+
+million), primarily
+
+due to
+
+the roll
+
+out of
+
+our new
+
+express 
+
+branches, acquisitions of ATMs and the acquisition of
+
+computer equipment. During fiscal
+
+2022, we paid approximately
+
+$202.2 million 
+
+(ZAR 2.9 billion), net of cash acquired, for 100% of Connect. We
+
+also received funds totaling approximately $11.4
+
+million related to 
+
+the sale of Bank
+
+Frick in fiscal
+
+2021, proceeds from sale of
+
+property, plant and equipment of $4.2 million,
+
+and proceeds of $0.9
+
+million 
+
+and $0.7 million, respectively, related to the sale of minor positions in Finbond and from the disposal of our entire interest in Revix in 
+
+fiscal 2022. 
+
+Cash flows from financing activities 
+
+During fiscal 2024, we utilized approximately $183.0
+
+million from our South African overdraft facilities to fund
+
+our ATMs
+
+and 
+
+repaid $199.6 million of these facilities. We utilized approximately
+
+$23.7 million of our long-term borrowings to fund the acquisition 
+
+of certain
+
+capital expenditures
+
+and for
+
+working capital
+
+requirements.
+
+We
+
+repaid approximately
+
+$20.1 million
+
+of these
+
+long-term in 
+
+accordance with our repayment schedule as
+
+well as to settle
+
+a portion of our revolving credit
+
+facility utilized. We received $0.1
+
+million 
+
+from the exercise of stock options. We also paid $1.5 million to repurchase shares from employees in order for the
+
+employees to settle 
+
+taxes due related to the vesting of shares of restricted stock. 
+
+During fiscal 2023, we utilized approximately $520.1 million
+
+from our South African overdraft facilities to fund our ATMs
+
+and 
+
+our cash management business through Connect and
+
+repaid $547.3 million of these facilities.
+
+We utilized approximately $24.4 million 
+
+of our long-term
+
+borrowings to settle approximately
+
+$10.5 million of our
+
+revolving credit facilities, fund
+
+our merchant finance
+
+loans 
+
+receivable business, and to fund the acquisition of certain capital expenditures.
+
+We repaid approximately
+
+$17.5 million of these long-
+
+term, including approximately $10.5 million to settle our
+
+revolving credit balance in full. We
+
+received $0.5 million from the exercise 
+
+of stock options. We also paid $1.3 million to repurchase shares from employees in order for the employees to settle taxes due related 
+
+to the vesting of shares of restricted stock and to settle the strike price due and taxes
+
+due related to the exercise of stock options. 
+
+During fiscal 2022, we utilized approximately $570.9 million
+
+from our South African overdraft facilities to fund our ATMs
+
+and 
+
+our cash management business through Connect and
+
+repaid $525.5 million of these facilities.
+
+We utilized approximately $78.9 million 
+
+of our long-term borrowings
+
+to fund a portion
+
+of the acquisition of Connect,
+
+to fund our merchant
+
+finance loans receivable business, 
+
+and to fund the acquisition
+
+of certain capital expenditures. We
+
+repaid approximately $5.6 million
+
+of these long-term borrowings.
+
+We 
+
+also received $0.8 million from the exercise of stock options. 
+
+Contractual Obligations 
+
+The following table sets forth our contractual obligations as of June 30, 2024: 
+
+Table 17 
+
+Payments due by Period, as of June 30, 2024 (in $ ’000s) 
+
+Total 
+
+Less than 1 
+
+year 
+
+2-3 years 
+
+3-5 years 
+
+Thereafter 
+
+Short-term credit facilities
+
+(A)
+
+16,088 
+
+16,088 
+
+\- 
+
+\- 
+
+\- 
+
+Long-term borrowings 
+
+Principal repayments
+
+(A)(B)
+
+143,186 
+
+3,878 
+
+83,404 
+
+55,904 
+
+\- 
+
+Interest payments
+
+(A)(B)
+
+34,010 
+
+10,136 
+
+18,291 
+
+5,583 
+
+\- 
+
+Operating lease liabilities, including imputed interest
+
+(C)
+
+8,831 
+
+3,143 
+
+4,306 
+
+1,382 
+
+\- 
+
+Purchase obligations 
+
+2,478 
+
+2,478 
+
+\- 
+
+\- 
+
+\- 
+
+Capital commitments 
+
+
+
+\- 
+
+\- 
+
+\- 
+
+Other long-term obligations reflected on our balance 
+
+sheet
+
+(D)(E)
+
+2,595 
+
+\- 
+
+\- 
+
+\- 
+
+2,595 
+
+Total 
+
+207,517 
+
+36,052 
+
+106,001 
+
+62,869 
+
+2,595 
+
+(A) – Refer to Note 12 to our audited consolidated financial statements. 
+
+(B) – Long-term
+
+borrowings principal
+
+repayments for the
+
+3-5 year period
+
+includes all unamortized
+
+fees as of
+
+June 30, 2024. 
+
+Interest payments based on
+
+applicable interest rates as of
+
+June 30, 2024, and expected
+
+outstanding long-term borrowings over 
+
+the period. All amounts converted from ZAR to USD using the June 30, 2024,
+
+USD/ ZAR exchange rate. 
+
+(C) – Refer to Note 8 to our audited consolidated financial statements. 
+
+(D) – Includes policyholder liabilities of $2.6 million related to
+
+our insurance business. All amounts are translated at exchange 
+
+rates applicable as of June 30, 2024.
+
+(E) –
+
+We
+
+have excluded
+
+cross-guarantees in
+
+the aggregate
+
+amount of
+
+$0.1 million
+
+issued as
+
+of June
+
+30, 2024,
+
+to RMB
+
+and 
+
+Nedbank
+
+to secure
+
+guarantees it
+
+has issued
+
+to third
+
+parties on
+
+our behalf
+
+as the
+
+amounts that
+
+will be
+
+settled in
+
+cash are
+
+not 
+
+known and the timing of any payments is uncertain. 
+
+
+Off-Balance Sheet Arrangements
+
+We have no off
+
+-balance sheet arrangements. 
+
+Capital Expenditures
+
+Capital expenditures for the years ended June 30, 2024, 2023 and 2022
+
+were as follows: 
+
+Table 18 
+
+
+
+
+
+
+
+$ 
+
+$ 
+
+$ 
+
+ZAR 
+
+ZAR 
+
+ZAR 
+
+‘000 
+
+‘000 
+
+‘000 
+
+‘000 
+
+‘000 
+
+‘000 
+
+Consumer 
+
+1,317 
+
+3,170 
+
+1,712 
+
+24,607 
+
+56,870 
+
+26,019 
+
+Merchant 
+
+11,348 
+
+12,986 
+
+2,846 
+
+212,030 
+
+232,969 
+
+43,253 
+
+Total 
+
+12,665 
+
+16,156 
+
+4,558 
+
+236,637 
+
+289,839 
+
+69,272 
+
+Our capital expenditures
+
+for fiscal 2024,
+
+2023 and 2022, are
+
+discussed under “—Liquidity
+
+and Capital Resources—Cash
+
+flows 
+
+from investing activities.” 
+
+All of our capital expenditures
+
+for the past three fiscal
+
+years were funded through
+
+internally-generated funds, except
+
+for certain 
+
+capital
+
+expenditures
+
+of
+
+POS devices
+
+and
+
+safe
+
+assets, made
+
+by
+
+Connect
+
+which
+
+were funded
+
+through
+
+the utilization
+
+of asset-backed 
+
+borrowings.
+
+We
+
+had
+
+outstanding
+
+capital commitments
+
+as of
+
+June 30,
+
+2024,
+
+of $0.3
+
+million.
+
+We
+
+expect
+
+to fund
+
+these expenditures 
+
+through
+
+internally-generated
+
+funds.
+
+In
+
+addition
+
+to
+
+these
+
+capital
+
+expenditures,
+
+we
+
+expect
+
+that
+
+capital
+
+spending
+
+for
+
+fiscal
+
+
+will 
+
+include acquisition
+
+of POS devices,
+
+safe assets, vehicles,
+
+computer and office
+
+equipment, as well
+
+as for our
+
+ATM
+
+infrastructure and 
+
+branch
+
+network
+
+in
+
+South
+
+Africa.
+
+These
+
+assets
+
+will
+
+be
+
+funded
+
+through
+
+the
+
+use
+
+of
+
+internally-generated
+
+funds
+
+and
+
+our
+
+asset-backed 
+
+borrowing arrangement. 
+

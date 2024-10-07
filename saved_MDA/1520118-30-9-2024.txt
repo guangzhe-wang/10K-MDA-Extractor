@@ -1,0 +1,197 @@
+Item 7. Management’s Discussion and Analysis or Financial Condition and Results of Operations. 
+
+SPECIAL NOTE CONCERNING FORWARD-LOOKING STATEMENTS
+
+We believe that it is important to communicate our future expectations to our security holders and to the public. This report, therefore, contains statements about future events and expectations which are “forward-looking statements” within the meaning of Sections 27A of the Securities Act of 1933 and 21E of the Securities Exchange Act of 1934, including the statements about our plans, objectives, expectations and prospects under the heading “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” You can expect to identify these statements by forward-looking words such as “may,” “might,” “could,” “would,” “will,” “anticipate,” “believe,” “plan,” “estimate,” “project,” “expect,” “intend,” “seek” and other similar expressions. Any statement contained in this report that is not a statement of historical fact may be deemed to be a forward-looking statement. Although we believe that the plans, objectives, expectations and prospects reflected in or suggested by our forward-looking statements are reasonable, those statements involve risks, uncertainties and other factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by these forward-looking statements, and we can give no assurance that our plans, objectives, expectations and prospects will be achieved.
+
+Important factors that might cause our actual results to differ materially from the results contemplated by the forward-looking statements are contained in the “Risk Factors” section of and elsewhere in this Annual Report and in our subsequent filings with the Securities and Exchange Commission. The following discussion of our results of operations should be read together with our financial statements and related notes included elsewhere in this report.
+
+GENERAL
+
+We were incorporated in the State of Nevada on March 22, 2011 under the name Lightcollar, Inc. In March 2015, we changed our name to EMS Find, Inc. On May 30, 2017, Integrated Ventures, Inc. (“Integrated Ventures”), a Nevada corporation, was formed as a wholly owned subsidiary of the Company. Pursuant to an Agreement and Plan of Merger dated May 30, 2017, Integrated Ventures was merged into the Company, with the Company being the surviving corporation and changing its name to Integrated Ventures, Inc. In July 2024, the Company formed three wholly-owned subsidiaries, MedWell Direct, LLC (“MedWell Direct”), MedWell Facilities, LLC (“MedWell Facilities”), and MedWell USA, LLC, all of which were organized in the State of Nevada. 
+
+We are a diversified holdings company that develops, acquires, operates, and invests in unique and profitable businesses. Our business focus is acquiring, launching, and operating companies in the digital asset sector, mainly in digital asset mining and sales of branded mining rigs. Subsequent to June 30, 2024, we strategically entered into the rapidly growing health and wellness sector. 
+
+As of June 30, 2024, the Company owned a total of approximately 2,300 miners in one location, Granbury, Texas. All miners previously located in Tioga, Pennsylvania were relocated to Granbury, Texas during September 2023.
+
+On April 21, 2023, the Company effected a 1-for-125 reverse split of the Company’s common stock. The reverse split has been given retroactive effect in the financial statements for all periods presented.
+
+Financial 
+
+Through June 6, 2024, we operated our digital asset mining operations in one hosted facility in Granberry, Texas. The hosting and power purchase agreement for this facility requires the Company to pay monthly a contractual rate per kilowatt hour of electricity consumed in the Company’s digital asset mining operations. As of June 7, 2024, all miners were disconnected from their power source and have not been reconnected through the date of the issuance of these financial statements. 
+
+Revenues from our digital asset mining operations were $5,863,935 and $3,862,849 for the years ended June 30, 2024 and 2023, respectively. 
+
+When funds are available and market conditions allow, we also invest in certain denominations of digital assets to complement our mining operations. As of June 30, 2024, our digital assets at fair value totaled $1,714,076 and was comprised of Bitcoin (BTC).
+
+Historically, we have funded our operations primarily from cash generated from our digital asset mining operations and proceeds from notes payable and preferred stock. During the year ended June 30, 2024, we generated negative cash flow from operations. We did not incur additional debt or issue securities for cash.
+
+Recent Material Developments 
+
+As of June 7, 2024, our host disconnected all of our miners from their power source. At this time, the Company is actively exploring options regarding what to do with their digital asset miners. Potential options include finding another hosted facility, selling our digital assets miners as is, or refurbishing broken digital asset miners and selling them. 
+
+Acquisition of Healthy Lifestyle
+
+On August 29, 2024, the Company, through MedWell Direct, a Nevada limited liability company and a wholly-owned subsidiary of the Company, consummated its acquisition of 51% of the membership interests (the “Membership Interests”) of Healthy Lifestyle USA LLC, a Florida limited liability company (“Healthy Lifestyle”), pursuant to execution and delivery of that certain membership interest purchase agreement, dated as of August 14, 2024 (the “Purchase Agreement”), between MedWell Direct, Healthy Lifestyle, and the members (the “Selling Members”) of Healthy Lifestyle.
+
+The purchase price for the Membership Interests was $350,000, consisting of $250,000 in cash and 97,088 shares of the Company’s common stock (the “Purchase Shares”) with a market value of $100,000. The number of Purchased Shares was based on the $1.03 closing price of the Company’s common stock on the OTCQB marketplace on August 28, 2024, the date immediately preceding the closing date. The Selling Members are also entitled to a potential post-closing earn-out payment based on Healthy Lifestyle’s financial performance.
+
+Pursuant to the Purchase Agreement, MedWell Direct shall facilitate (i) an operating loan for Healthy Lifestyle in the aggregate amount of $182,000 for working capital and (ii) an advertising credit line for Healthy Lifestyle up to $300,000 on commercially reasonable terms for advertising expenses.
+
+Promissory Note
+
+Effective August 27, 2024, Healthy Lifestyle made a promissory note in favor of MedWell Direct (the “Note”) in the principal amount of $182,000, for working capital purposes, with such principal to be issued as follows: (i) $42,000 on the effective date of the Note; (ii) $60,000 15 days after such effective date of the Note and (iii)$80,000 45 days after such effective date of the Note. The Note shall not bear any interest, and the repayment of the principal amount is due on or before the six-month anniversary of the Note.
+
+Line of Credit to Healthy Lifestyle
+
+On August 27, 2024, MedWell Direct entered into a line of credit agreement (the “Line of Credit Agreement”) with Healthy Lifestyle whereby MedWell Direct agreed to loan Healthy Lifestyle $100,000 to be used exclusively for pay-per-click advertising (“PPC”). Pursuant to the Line of Credit Agreement, if Healthy Lifestyle repays the $100,000 loan amount and achieves a certain cost to acquire a customer (“CPA”) of $225 (not including marketing admin fees/commissions), MedWell Direct shall lend Healthy Lifestyle $200,000 to be used exclusively for PPC, and if Healthy Lifestyle repays the $200,000 loan amount and achieves a CPA of $225, MedWell Direct shall lend Healthy Lifestyle $300,000 to be used exclusively for PPC. Such $100,000 initial funding was made on August 27, 2024.
+
+The principal amount of the loan bears interest at 0.00% per annum. The principal amount of the loan shall be due and payable in full on or before the six month anniversary of August 26, 2024.
+
+Financial Operations Review
+
+We are incurring increased costs because of being a publicly traded company. As a public company, we incur significant legal, accounting, and other expenses that we did not incur as a private company. We also have paid compensation through the issuance of shares of our common stock, Series B preferred stock and warrants, the valuation of which has resulted in significant stock-based compensation. In addition, the Sarbanes-Oxley Act of 2002, as well as new rules subsequently implemented by the Securities and Exchange Commission, have required changes in corporate governance practices of public companies and will require us to comply with these rules. These new rules and regulations have will increase our legal and financial compliance costs and have made some activities more time-consuming and costlier. In addition, these new rules and regulations have made it more difficult and more expensive for us to obtain director and officer liability insurance, which we currently cannot afford to do. As a result of the new rules, it may become more difficult for us to attract and retain qualified persons to serve on our Board of Directors or as executive officers. We cannot predict or estimate the amount of additional costs we may incur as a result of being a public company or the timing of such costs.
+
+RESULTS OF OPERATIONS
+
+YEAR ENDED JUNE 30, 2024 COMPARED TO THE YEAR ENDED JUNE 30, 2023
+
+Revenues
+
+Our digital asset mining revenues increased to $5,863,935 in the year ended June 30, 2024 from $3,862,849 in the year ended June 30, 2023. This increase in revenues resulted primarily due to the strengthening of the Bitcoin market and increased miners.
+
+Cost of Revenues
+
+Cost of revenues was $3,930,335 and $2,700,122 in the years ended June 30, 2024 and 2023, respectively. Expenses associated with running our digital asset mining operations, such as energy and hosting costs, operating supplies, and consulting services are recorded as cost of revenues. The increase in cost of revenues in the current fiscal period is due primarily to an increase in energy and hosting costs.
+
+General and administrative expenses decreased to $9,279,756 in the year ended June 30, 2024 from $15,994,944 in the year ended June 30, 2023. The decrease resulted primarily from non-cash stock-based compensation expense. We reported non-cash, related party stock-based compensation of $8,300,000 and $15,247,500 in the year ended June 30, 2024 and 2023, respectively. 
+
+Depreciation and amortization decreased to $2,835,225 in the year ended June 30, 2024 from $3,597,345 in the year ended June 30, 2023. The decrease is depreciation and amortization in the current fiscal year is due primarily to a reduction in the cost basis of the Company’s digital asset miners.
+
+Change in fair value of Bitcoin for the year ended June 30, 2024, was a gain of $327,126, and was recognized as a result of adopting Accounting Standards Update (“ASU”) No. 2023-08, Intangibles-Goodwill and Other-Crypto Assets (Subtopic 350-60): Accounting for and Disclosure of Crypto Assets (“ASU 2023-08”), effective July 1, 2023, under which Bitcoin is recognized at fair value with changes in fair value recognized in net income. The gain recognized was attributable to increases in the price of Bitcoin. 
+
+In addition to the digital assets received as compensation for our mining services, we purchased various digital assets totaling $1,718,278 and $306,912 during the year ended June 30, 2024 and 2023, respectively. We also converted digital assets from one denomination to another based on our assessment of market conditions for each respective digital asset. The market values of individual digital asset denominations continually fluctuate, and the fluctuations may be material from day to day. During the year ended June 30, 2024 and 2023, we received total proceeds of $5,891,683 and $3,552,596, respectively, from the sale of digital assets and incurred transactions fees totaling $110,864 and $48,910, respectively, which are recorded in General and administrative expenses in our Statement of Operations. We realized a gain (loss) on sale of digital assets of $(118,110) and $29,412 in the year ended June 30, 2024 and 2023, respectively.
+
+During the year ended June 30, 2024 and 2023, we disposed of and write off non-serviceable, defective mining equipment with a net book value of $367,404 and $1,197,522, respectively, and impaired mining equipment and recognized impairment expense of $1,101,542 and $5,574,363, respectively. 
+
+Other Income (Expense)
+
+Our other income (expense) was comprised of the following for the years ended June 30:
+
+Our interest expense includes the amortization of debt discount for our notes payable. These amounts vary from period to period depending on the timing of new borrowings and the conversion of the debt to common stock by the lenders. During the years ended June 30, 2024 and 2023, we had one note payable outstanding for $500,000. During the year ended June 30, 2023, we recognized $114,564 of interest expense for the amortization of debt discount. During the year ended June 30, 2024, we had the same note payable outstanding with a fully amortized debt discount, thus resulting in a decrease in interest expense compared to the prior period. Additionally, the lender agreed to decrease the default interest rate on the note payable from 18% per annum to 10% per annum, effective April 1, 2024, resulting in a further decrease in interest expense compared to the prior year. 
+
+During the years ended June 30, 2024 and 2023, we recognized a loss on exercise of warrants of $0 and $11,000, respectively.
+
+Net Loss
+
+As a result, we reported a net loss of $11,524,357 in the year ended June 30, 2024, compared to a net loss of $25,459,967 in the year ended June 30, 2023.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Overview
+
+As of June 30, 2024, we had total current assets of $2,599,238, including cash of $57,815, digital assets of $1,714,076, prepaid expenses and other current assets of $249,200, and deposits, current of $578,147 and total current liabilities of $3,683,142. We had total stockholders’ deficit of $3,865,451 as of June 30, 2024 compared to a stockholders’ deficit of $509,883 as of June 30, 2023.
+
+Sources and Uses of Cash
+
+During the year ended June 30, 2024, we used cash in operations of $4,128,698 as a result of our net loss of $11,524,357, revenue recognized from bitcoin mined of $5,863,935, a gain from the change in fair value of digital assets of $327,126, and an increase in prepaid expenses of $242,035, offset by increases in accounts payable of $681,947, accrued expenses of $81,389, amounts due to related party of $390,294, non-cash expenses of $12,604,171, and operating expenses paid with digital assets of $70,954.
+
+During the year ended June 30, 2023, we used cash in operations of $3,427,966 as a result of our net loss of $25,459,967, revenue recognized from bitcoin mined of $3,862,849, increases in prepaid expenses of $4,665, equipment deposits of $32,513, deposits of $499,300, offset by increases in accounts payable of $237,750, accrued expenses of $162,131, amounts due to related party of $318,565, and net non-cash expenses of $25,712,882.
+
+During the year ended June 30, 2024, net cash provided by investing activities was $4,171,665, comprised of net proceeds from the sale of digital assets of $5,891,683 offset by the purchase of digital assets of $1,718,278 and the purchase of property and equipment of $1,740.
+
+During the year ended June 30, 2023, net cash provided by investing activities was $3,245,684, comprised of net proceeds from the sale of digital assets of $3,552,596 offset by the purchase of digital assets of $306,912.
+
+During the year ended June 30, 2024, we had net cash used in financing activities of $243,150 comprised of a repayment of notes payable of $125,000 and repayment of a related party short term advance of $118,150.
+
+During the year ended June 30, 2023, we had net cash used in financing activities of $50,000 comprised of a repayment of notes payable of $50,000.
+
+Going Concern
+
+Historically, the Company has reported recurring net losses from operations and used net cash in operating activities. As of June 30, 2024, the Company’s current liabilities exceeded its current assets by $1,083,904 and the Company had an accumulated deficit of $85,066,735. These conditions raise substantial doubt about the Company’s ability to continue as a going concern.
+
+The accompanying financial statements have been prepared in conformity with U.S. GAAP, which contemplate continuation of the Company as a going concern and the realization of assets and satisfaction of liabilities in the normal course of business. The ability of the Company to reach a successful level of operations is dependent on the execution of management’s plans, which include the raising of capital through the debt and/or equity markets, until such time that funds provided by operations are sufficient to fund working capital requirements. If the Company were not to continue as a going concern, it would likely not be able to realize its assets at values comparable to the carrying value or the fair value estimates reflected in the balances set out in the preparation of the financial statements.
+
+There can be no assurances that the Company will be successful in attaining a profitable level of operations or in generating additional cash from the equity/debt markets or other sources fund its operations. The financial statements do not include any adjustments relating to the recoverability of assets and classification of assets and liabilities that might be necessary. Should the Company not be successful in its business plan or in obtaining the necessary financing to fund its operations, the Company would need to curtail certain or all operational activities and/or contemplate the sale of its assets, if necessary.
+
+SIGNIFICANT ACCOUNTING POLICIES
+
+Our significant accounting policies are disclosed in Note 2 to the accompanying financial statements. The following is a summary of those accounting policies that involve significant estimates and judgment of management.
+
+Use of Estimates
+
+The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. Because of the use of estimates inherent in the financial reporting process, actual results could differ significantly from those estimates.
+
+Digital Assets
+
+Digital assets are included in current assets in the Balance Sheets due to the Company’s ability to sell bitcoin in a highly liquid marketplace and the sale of bitcoin to fund operating expenses to support operations. The proceeds from the sale of digital assets and the purchase of digital assets are included within investing activities in the accompanying Statement of Cash Flows. Digital Assets awarded to the Company through its mining activities are accounted for in connection with the Company’s revenue recognition policy. Following the adoption of ASU 2023-08 effective July 1, 2023, the Company measures digital assets at fair value with changes recognized in operating expenses in the Statement of Comprehensive Income (Loss). The Company tracks its cost basis of digital assets by-wallet in accordance with the first-in-first-out (“FIFO”) method of accounting.
+
+Property and Equipment
+
+Property and equipment, consisting primarily of computer and other digital asset mining equipment (transaction verification servers), is stated at the lower of cost or estimated realizable value and is depreciated when placed into service using the straight-line method over estimated useful lives. The Company operates in an emerging industry for which limited data is available to make estimates of the useful economic lives of specialized equipment. Management has assessed the basis of depreciation of these assets and believes they should be depreciated over a three-year period due to technological obsolescence reflecting rapid development of hardware that has faster processing capacity and other factors. Maintenance and repairs are expensed as incurred and improvements are capitalized. Gains or losses on the disposition of property and equipment are recorded upon disposal.
+
+During the years ended June 30, 2024 and 2023, the Company discontinued the use of damaged or non-serviceable mining equipment and wrote off its net book value of $367,404 and $1,197,522, respectively, to loss on disposition of property and equipment.
+
+During the year ended June 30, 2024 and 2023, we impaired mining equipment and recognized impairment expense of $1,101,542 and $5,574,363, respectively.
+
+Management has determined that the three-year diminishing value best reflects the current expected useful life of transaction verification servers. This assessment takes into consideration the availability of historical data and management’s expectations regarding the direction of the industry including potential changes in technology. Management will review this estimate annually and will revise such estimates as and when data becomes available.
+
+To the extent that any of the assumptions underlying management’s estimate of useful life of its transaction verification servers are subject to revision in a future reporting period, either as a result of changes in circumstances or through the availability of greater quantities of data, then the estimated useful life could change and have a prospective impact on depreciation expense and the carrying amounts of these assets.
+
+Payments to equipment suppliers prior to shipment of the equipment are recorded as equipment deposits.
+
+Impairment of Long-Lived Assets
+
+All assets, including intangible assets subject to amortization, are reviewed for impairment when changes in circumstances indicate that the carrying amount of the asset may not be recoverable in accordance with ASC 350 and ASC 360. If the carrying amount of the asset exceeds the expected undiscounted cash flows of the asset, an impairment charge is recognized equal to the amount by which the carrying amount exceeds fair value or net realizable value. The testing of these intangibles under established guidelines for impairment requires significant use of judgment and assumptions. Changes in forecasted operations and other assumptions could materially affect the estimated fair values. Changes in business conditions could potentially require adjustments to these asset valuations. During the year ended June 30, 2024 and 2023, we impaired mining equipment and recognized impairment expense of $1,101,542 and $5,574,363, respectively. 
+
+Mezzanine
+
+Series C and D preferred stock that contain certain default provisions requiring mandatory cash redemption that are outside the control of the Company are recorded as Mezzanine in the accompanying balance sheets.
+
+Stock-Based Compensation
+
+The Company accounts for all equity-based payments in accordance with ASC Topic 718, Compensation – Stock Compensation. ASC Topic 718 requires companies to recognize in the statement of operations the grant-date fair value of stock awards, stock options, warrants and other equity-based compensation issued to employees. The value of the portion of an award that is ultimately expected to vest is recognized as an expense over the requisite service periods using the straight-line attribution method. The fair value of a stock award is recorded at the fair market value of a share of the Company’s stock on the grant date. The Company estimates the fair value of stock options and warrants at the grant date by using an appropriate fair value model such as the Black-Scholes option pricing model or multinomial lattice models.
+
+The Company accounts for non-employee share-based awards based upon ASC 505-50, Equity-Based Payments to Non-Employees. ASC 505-50 requires the costs of goods and services received in exchange for an award of equity instruments to be recognized using the fair value of the goods and services or the fair value of the equity award, whichever is more reliably measurable. The fair value of the equity award is determined on the measurement date, which is the earlier of the date that a performance commitment is reached or the date that performance is complete. Generally, our awards do not entail performance commitments. When an award vests over time such that performance occurs over multiple reporting periods, we estimate the fair value of the award as of the end of each reporting period and recognize an appropriate portion of the cost based on the fair value on that date. When the award vests, we adjust the cost previously recognized so that the cost ultimately recognized is equivalent to the fair value on the date the performance is complete. 
+
+Revenue Recognition
+
+We recognize revenue in accordance with ASC 606, Revenue from Contracts with Customers. This standard provides a single comprehensive model to be used in the accounting for revenue arising from contracts with customers, including industry-specific guidance. The standard’s stated core principle is that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. To achieve this core principle, ASC 606 includes provisions within a five-step model that includes identifying the contract with a customer, identifying the performance obligations in the contract, determining the transaction price, allocating the transaction price to the performance obligations, and recognizing revenue when, or as, an entity satisfies a performance obligation.
+
+Our revenues currently consist of digital asset mining revenues recognized in accordance with ASC 606 as discussed above. 
+
+To generate revenue from mining bitcoin, the Company has entered into a digital asset mining pool by executing a contract, as amended from time to time, with the mining pool operator to provide computing power to the mining pool. The contract is terminable at any time by either party without penalty and the Company’s enforceable right to compensation only begins when the Company provides computing power to the mining pool operator. In exchange for providing computing power, we are entitled to a Full-Pay-Per-Share payout of Bitcoin based on a contractual formula, which primarily calculates the hash rate provided by us to the mining pool as a percentage of total network hash rate, and other inputs. We are entitled to consideration even if a block is not successfully placed by the mining pool operator.
+
+Providing computing power to solve complex cryptographic algorithms in support of the Bitcoin blockchain (in a process known as “solving a block”) is an output of the Company’s ordinary activities. The provision of providing such computing power is the only performance obligation in the Company’s contracts with the mining pool operator. The transaction consideration the Company receives is net of a contractually agreed upon “pool fee percentage” charged and kept by the mining pool operator and is noncash, in the form of Bitcoin, which the Company measures at fair value on the date Bitcoin is received. This value is not materially different than the fair value at the moment we meet the performance obligation, which can be recalculated based on the contractual formula. The consideration is variable. The amount of consideration recognized is constrained to the amount of consideration received, which is when it is probable a significant reversal will not occur. There is no significant financing component or risk of a significant revenue reversal in these transactions due to the performance obligations and settlement of the transactions being on a daily basis.
+
+Fair Value of Financial Instruments 
+
+Assets and liabilities measured at fair value on a recurring basis
+
+We recognize financial instruments under the following fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value into three levels as follows:
+
+The fair value hierarchy also requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. Assets and liabilities measured at fair value are classified in their entirety based on the lowest level of input that is significant to the fair value measurement. 
+
+The Company will update its assumptions each reporting period based on new developments and record such amounts at fair value based on the revised assumptions until the agreements expire or contingency is resolved, as applicable. 
+
+The following tables present the Company’s assets and liabilities measured at fair value on a recurring basis:
+
+The Company did not have assets or liabilities measured at fair value on a recurring basis as of June 30, 2023.
+
+Assets and liabilities not measured at fair value on a recurring basis
+
+In addition to assets and liabilities that are measured at fair value on a recurring basis, we also measure certain assets and liabilities at fair value on a nonrecurring basis. Our non-financial assets, including property and equipment, are measured at fair value when there is an indication of impairment and the carrying amount exceeds the asset’s projected undiscounted cash flows. These assets are recorded at fair value only when an impairment charge is recognized.
+
+As of June 30, 2024 and 2023, the fair values of cash, prepaid expenses and other current assets, accounts payable, and accrued expenses approximated their carrying values because of their short-term nature.
+
+OFF BALANCE SHEET ARRANGEMENTS
+
+We do not have any off-balance sheet arrangements that are reasonably likely to have a current or future effect on our financial condition, revenues, and results of operations, liquidity, or capital expenditures.
+
+RECENTLY ISSUED ACCOUNTING POLICIES
+
+In December 2023, the FASB issued ASU No. 2023-08, Intangibles—Goodwill and Other—Crypto Assets (Subtopic 350-60): Accounting for and Disclosure of Crypto Assets. The amendments in ASU No. 2023-08 are intended to improve the accounting for certain crypto assets by requiring an entity to measure those crypto assets at fair value each reporting period with changes in fair value recognized in net income. The amendments also improve the information provided to investors about an entity’s crypto asset holdings by requiring disclosure about significant holdings, contractual sale restrictions, and changes during the reporting period. The amendments are effective for all entities for fiscal years beginning after December 15, 2024, including interim periods within those fiscal years. Early adoption is permitted for both interim and annual financial statements. The Company elected to early adopt ASU 2023-08 for the year ended June 30, 2024, effective as of July 1, 2023, which had a material impact on the Financial Statements.
+
+There were no new accounting pronouncements issued or proposed by the FASB during the year ended June 30, 2024 and through the date of filing this report which the Company believes will have a material impact on its financial statements.
+
+Item 7A. Quantitative and Qualitative

@@ -1,0 +1,663 @@
+Item 6. [Reserved]
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion and analysis of the financial condition and results of operations of Sonder Holdings Inc. (“Sonder,” “we,” “us” or “our”) should be read together with Sonder’s audited consolidated financial statements and related notes included elsewhere in this Annual Report on Form 10-K. This discussion contains forward-looking statements based upon current expectations that involve risks and uncertainties. Sonder’s actual results may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth under the section entitled “Risk Factors” herein or in other parts of this Annual Report on Form 10-K. Sonder’s historical results are not necessarily indicative of the results that may be expected for any period in the future. Except as otherwise noted, all references to 2023 refer to the year ended December 31, 2023, and references to 2022 refer to the year ended December 31, 2022.
+
+Overview
+
+We are a leading global brand of premium, design-forward apartments and intimate boutique hotels serving the modern traveler. Launched in 2014, Sonder offers inspiring, thoughtfully designed accommodations and innovative, tech-enabled service combined into one seamless experience. Sonder properties are found in prime locations in over 40 markets, spanning ten countries and three continents. The Sonder app gives guests full control over their stay. Complete with self-service features, simple check-in and 24/7 on-the-ground support, amenities and services at Sonder are just a tap away, making a world of better stays open to all. In summer 2024, the company announced a strategic licensing agreement with Marriott International.
+
+Restatement of Previously Issued Financial Statements
+
+Subsequent to the issuance of our consolidated financial statements for the year ended December 31, 2022, management identified errors in previously issued financial statements. As a result, our consolidated financial statements as of and for the years ended December 31, 2021 and December 31, 2022 have been restated from amounts previously reported. The following management’s discussion and analysis gives effect to the restatement discussed in Note 2, Restatement of Previously Issued Financial Statements, to the consolidated financial statements for the year ended December 31, 2023, included elsewhere in this Annual Report on Form 10-K.
+
+The relevant unaudited interim financial information for the quarterly periods March 31, 2022, June 30, 2022, September 30, 2022, March 31, 2023, June 30, 2023, and September 30, 2023 has also been restated from amounts previously reported and is included in Note 19, Quarterly Financial Information (Unaudited) to the consolidated financial statements. 
+
+Recent Developments
+
+The following summary of certain events and developments subsequent to December 31, 2023 should be read in conjunction with the additional information contained elsewhere in this report, including in Part I, Item 1. Business, the Explanatory Note concerning the Restatement of Previously Issued Financial Statements appearing above, and the information in Note 18. Subsequent Events to the consolidated financial statements included in this report.
+
+As part of our previously announced effort to improve our cash flow, on February 15, 2024, we announced a reduction in force affecting approximately 106 corporate roles, or 17% of the corporate workforce. See “Restructuring” below.
+
+On June 11, 2024 and July 15, 2024, we announced that we had issued an aggregate of $10 million and $6 million, respectively, of delayed draw subordinated secured notes, and issued warrants to purchase 475,264 shares of our common stock to the note purchasers, pursuant to amendments to our Note and Warrant Purchase Agreement dated as of December 10, 2021, as amended. The warrants to purchase 123,750 shares of our common stock that were originally issued to the note purchasers were canceled in connection with such amendments.
+
+See Item 1. Business, Portfolio Optimization Update, for information about developments in our portfolio optimization program and our Live Units and Contracted Units as of June 30, 2024.
+
+Sonder’s Business Model
+
+We lease properties that meet our standards, furnish and decorate them to provide a design-led, technology-enabled experience, and then make them available for guests to book directly (through the Sonder app, our website, or our sales personnel) or through indirect channels (such as Airbnb, Expedia, and Booking.com). Additionally, we operate boutique hotels designated as Powered by Sonder properties, each with its own unique design elements and features, and which are available for guests to book in the same manner as our other properties. We manage our properties using proprietary and third-party technologies and deliver services to guests via the Sonder app and 24/7 on-the-ground support. Incorporating technology into all aspects of the business, we offer consistent quality at a compelling value to our guests. 
+
+Our accommodations come in a variety of shapes and sizes to suit guests’ needs – from a multiple-bedroom apartment with fully-equipped kitchen and private laundry facilities, to a hotel room or suite. Our guests include leisure travelers, families, digital nomads, and business travelers. 
+
+We currently lease all of our properties. In many of our leases, we have negotiated an upfront allowance paid by the real estate owner to help offset the capital invested to prepare and furnish a building and the individual units. 
+
+Management Discussion Regarding Opportunities, Challenges, and Risks
+
+Cash Flow Positive Plan
+
+Our primary focus is to put the business on a solid path to achieving sustainable positive free cash flow (“FCF”) as soon as possible. FCF is a non-GAAP measure, and the most directly comparable GAAP measure is cash used in operating activities, which was $(110.9) million for the year ended December 31, 2023, a $39.1 million improvement compared to 2022. We have continued to make progress toward this goal as our FCF, excluding restructuring costs and lease termination costs, of $(119.6) million for the year ended December 31, 2023 was a $56.4 million improvement compared to the year ended December 31, 2022. 
+
+As part of our efforts to reach positive FCF, we have undertaken a portfolio optimization program, which involves discussions with landlords about renegotiating the terms of our leases at certain properties. This process has resulted and may result in contract modifications resulting in changes to rent amounts, lease durations, or other provisions of our lease agreements and has resulted and may result in the termination of certain leases leading to the transition of certain properties over time and the incurrence of certain expenses including but not limited to termination fees and impairment charges, which could be material. The goal of this initiative is to reduce those properties’ impact on our profitability and cash flow through mutually agreeable solutions. The scope of the initiative can be expected to change over time, and we cannot predict the number or product mix of the units that may be ultimately affected. Although we are optimistic about reaching mutually beneficial outcomes in many of these continuing discussions, the terms, scope, and timing of any additional changes to our lease obligations, as well as any other effects on our landlord relationships or reputation with future real estate owners and guests who are affected by property transitions, are uncertain.
+
+Our ability to reach our FCF goal is subject to certain risks, including potential changes in travel demand due to macroeconomic factors or other developments affecting travel; inflation; uncertainties associated with the timing and scope of new property openings; uncertainties associated with the portfolio optimization program described above; our ability to achieve our other intended cost reductions and efficiencies; and the other risks and uncertainties described under Part I, Item 1A, “Risk Factors,” in this report.
+
+Supply Growth
+
+A key driver of our revenue growth is our ability to convert units for which we have signed real estate contracts but are not yet available for guests to book (“Contracted Units”) into units available for guest booking (“Live Units”) and, to a lesser extent, to continue signing properties with favorable terms. Certain signed leases have contingencies or conditions that we or the landlord must satisfy before we take over the units, and from time to time, we exclude some of these leases from our Contracted Units total based on our judgment about the likelihood that the contingencies or conditions will be satisfied.
+
+As part of our Cash Flow Positive Plan, we slowed our planned pace of new unit signings to focus on growth primarily through the conversion of our Contracted Units into Live Units. Our Live Units grew by 25.8% from December 31, 2022 to December 31, 2023 to over 12,200 units, driven by strong conversion of our Contracted Units to Live Units. See “Recent Developments” above for information about our Live Units as of June 30, 2024. We are also focused on targeting high 
+
+quality, 100% capital light deals (pursuant to which property owners fund the majority of up-front capital expenditures) for incremental unit signings. While we continue to sign high quality, capital light units, development cost uncertainty and augmented risk around financing and landlord sentiment surrounding our stock price performance began to slow the pace of signings starting in the second half of 2022. These challenges were more acute in the second, third and fourth quarters of 2023, resulting in fewer units signed in these periods than in prior quarters, and persisted in 2024. Despite these challenges, we continue to meaningfully scale the business, primarily by continuing to convert Contracted Units into Live Units. 
+
+Ability to Attract and Retain Guests
+
+Another key driver of our revenue growth is our ability to bring back repeat guests and to attract new guests through various channels. We source demand from a variety of channels, including directly, through Sonder.com, the Sonder app, or our sales personnel, and indirectly, through OTAs such as Airbnb, Booking.com, and Expedia. While bookings made through OTAs incur channel transaction fees, they allow us to attract new guests who may not be familiar with the Sonder brand. In general, direct bookings are more advantageous to us as they do not incur channel transaction fees and also allow us to have a more direct relationship with our guests. Direct revenue as a percentage of total revenue has fluctuated in recent years due to the COVID-19 pandemic but has stabilized above 40% (47.0% for the year ended December 31, 2023). Additionally, we continue to focus on expanding our corporate sales business.
+
+Technology
+
+We have invested, and will continue to invest, resources in our technology architecture and infrastructure and in integrating our properties and systems into Marriott’s platform and systems pursuant to the Marriott Agreement. Technology is essential to our user experience, as it leads guests through their entire Sonder stay, from booking through check-out. Technology also underpins our hospitality operations, from underwriting and supply growth, to building openings, pricing and revenue management, demand generation, interior design, and day-to-day operations. By leveraging technology, our goal is to reduce operating costs and provide a better guest experience at a compelling value. 
+
+Restructuring 
+
+In conjunction with the Cash Flow Positive Plan, in June 2022, we completed a restructuring of our operations resulting in an approximate 21.0% reduction of corporate roles and a 7.0% reduction of frontline roles. As part of this restructuring, we incurred $4.0 million in one-time restructuring costs in the year ended December 31, 2022, of which approximately $3.7 million was paid out in 2022, and the remainder was paid out by early 2023.
+
+On March 1, 2023, we announced an additional restructuring affecting approximately 14.0% of the corporate workforce. As part of this restructuring, we incurred $2.1 million in one-time restructuring costs in the year ended December 31, 2023, all of which was paid out as of December 31, 2023. 
+
+On February 20, 2024, the Company announced a reduction in force plan affecting 106 corporate roles, or 17% of the corporate workforce, which is estimated to lead to approximately $11 million in annualized cost savings. We substantially completed these efforts during the first quarter of 2024. Total costs and cash expenditures were approximately $3 million, primarily related to employee severance and benefits costs, and were recognized and paid in the first quarter of 2024.
+
+The Business Combination 
+
+On January 18, 2022, we consummated the Business Combination, pursuant to which Legacy Sonder merged into one of our subsidiaries and we changed our corporate name to Sonder Holdings Inc. Legacy Sonder has been deemed the accounting predecessor and as such, Legacy Sonder’s financial statements for previous periods are disclosed in Sonder’s periodic reports filed with the SEC subsequent to January 18, 2022. The Business Combination was accounted for as a reverse recapitalization. Under this method of accounting, Gores Metropoulos II, Inc. (“GMII”) was treated as the acquired company for financial statement reporting purposes. 
+
+Key Business Metrics 
+
+We track the following key business metrics to evaluate our performance, identify trends, formulate financial projections, and make strategic decisions. Accordingly, we believe these key business metrics provide useful information to investors and others in understanding and evaluating our results of operations in the same manner as our management team. These key business metrics may be different from similarly titled metrics presented by other companies. 
+
+The following table provides the key metrics (rounded):
+
+Total Portfolio consists of Live Units and Contracted Units at the end of the period noted. 
+
+2022 is As Restated.
+
+Live Units
+
+Live Units generate Bookable Nights (as defined below) which generate revenue. Live Units are a key driver of revenue, and a key measure of the scale of our business, which in turn drives our financial performance. 
+
+Growth in Live Units is driven by the number of units contracted in prior periods, and the lead time and opening period associated with making those units available to guests. The time from contract signing to building opening varies widely, ranging from relatively short periods for hotels that already meet our brand standards and/or that are already live hotels operating under another brand, to many months or even years for projects under renovation or construction. The number of Live Units at the end of a period is also affected by the number of units that were removed from our portfolio during that same period, which we refer to as dropped units.
+
+The increase in Live Units year-over-year was driven by our continued focus on converting Contracted Units into Live Units. As of December 31, 2023, our five largest cities (New York City, Mexico City, Dubai, Los Angeles and Philadelphia) accounted for approximately 35.4% of our Live Units, and our 10 largest cities accounted for approximately 56.8% of our Live Units.
+
+Bookable Nights / Occupied Nights
+
+Bookable Nights represent the total number of nights available for stays across all Live Units. Occupied Nights represent the total number of nights occupied across all Live Units. Occupancy Rate (“OR”) is calculated as Occupied Nights divided by Bookable Nights. Bookable Nights, Occupied Nights, and OR are key drivers of revenue, which in turn drives financial performance. 
+
+The increase in Bookable Nights and Occupied Nights year-over-year was largely driven by the increase in Live Units. 
+
+RevPAR and Average Daily Rate
+
+RevPAR represents the average revenue earned per available night and can be calculated either by dividing revenue by Bookable Nights, or by multiplying ADR by OR. ADR represents the average revenue earned per night occupied and is calculated as Revenue divided by Occupied Nights. RevPAR and ADR are key drivers of revenue, and key measures of our ability to attract and retain guests, which in turn drives financial performance. 
+
+Several factors may explain period-to-period RevPAR variances, including: 
+
+•Live Units that became live in recent months and have not yet reached mature economics. Typically, new Live Units take several months to achieve mature ADR and OR as buildings stabilize and drive organic bookings. If a period has a significant increase in Live Units, this may reduce the portfolio’s RevPAR. 
+
+•Market mix represents the composition of our portfolio based on geographic presence. Certain markets such as New York or London typically earn higher RevPARs, while certain other markets such as Houston or Phoenix typically earn lower RevPARs. Therefore, if the market mix shifts toward lower RevPAR markets, it may adversely impact the portfolio’s RevPAR. 
+
+•Product mix represents the composition of our portfolio between apartment and hotel style units. In general, apartments are higher RevPAR bookings because they typically offer more amenities (e.g., kitchen, in-unit washer/dryer) and have higher square footage compared to hotel units. Therefore, if the product mix shifts towards hotel units, it may reduce the average portfolio-wide RevPAR.
+
+•Seasonality drives typical period-to-period variances in a particular property’s RevPAR depending upon seasonal factors (e.g., weather patterns, local attractions and events, holidays) as well as property location and type. Based on results prior to the COVID-19 pandemic, RevPAR tends to be lower across our portfolio in the first quarter and fourth quarters of each year due to seasonal factors such as weather and holidays and the market mix and product mix of our portfolio at the time. However, the effect of seasonality will vary as our market mix and product mix continues to evolve.
+
+RevPAR remained flat year-over-year due to a 1.2% increase in Occupancy Rate as a result of our strategy shift targeting higher occupancy, offset by a 2.6% decrease in ADR due to moderate pressure on pricing for our apartment product during the year.
+
+Impact of COVID-19 and Macroeconomic Factors on the Business 
+
+Our financial results for the first half of 2022 were materially adversely affected by the COVID-19 pandemic, which could adversely impact business operations, results of operations, and liquidity if additional serious variants or resurgences of the virus occur. Additionally, the uncertainty surrounding macroeconomic factors in the U.S. and globally, characterized by inflationary pressures, rising interest rates, significant volatility of global markets and geopolitical conflicts, could have a material adverse effect on our business and could lead to further economic disruption and expose us to greater risk of a potential deceleration or reversal of the current travel market recovery trends.
+
+Reverse Stock Split
+
+On September 20, 2023, the Company effected the 1-for-20 Reverse Stock Split of the outstanding shares of the Company’s common stock (including special voting common stock). The par value of one share of common stock and one share of special voting stock remained unchanged as a result of the Reverse Stock Split. Refer to Note 1, Basis of Presentation, in the notes to our consolidated financial statements included in this Annual Report on Form 10-K for additional details regarding the Reverse Stock Split. All share and per share information within the consolidated financial statements have been retroactively restated to reflect the Reverse Stock Split.
+
+Results of Operations
+
+Year Ended December 31, 2023 Compared to Year Ended December 31, 2022
+
+The following table sets forth our results of operations as a percentage of revenue (in thousands, except percentages):
+
+Revenue
+
+Sonder generates revenues by providing accommodations to its guests. Direct revenue is generated from stays booked through Sonder.com, the Sonder app, or directly with our sales personnel, while indirect revenue is generated from stays booked through OTAs.
+
+The following table sets forth our revenue (in thousands, except percentages):
+
+Revenue increased, primarily due to an increase of 25.8% in Live Units contributing to a 32.7% increase in Occupied Nights.
+
+Costs and Operating Expenses
+
+The following table sets forth our total costs and operating expenses (in thousands, except percentages):
+
+Cost of Revenue (excluding depreciation and amortization): Cost of revenue expenses primarily consists of lease costs to real estate owners for our Live Units, cleaning costs, and payment processing charges. We expect our cost of revenue will continue to increase on an absolute dollar basis for the foreseeable future as we experience growth in bookings and expand our portfolio of properties. Cost of revenue may vary as a percentage of revenue from period-to-period based on the timing and seasonality of bookings. Additionally, our cost of revenue does not necessarily increase at a rate commensurate with the increase in revenue, given that drivers of increases in revenue, such as increases in ADR, do not necessarily require additional costs.
+
+Cost of revenue increased, primarily due to: (i) a $48.4 million increase in rent expense related to leases as a result of a 2,500 unit increase in Live Units; (ii) a $8.3 million increase in cleaning expenses as a result of an increase in the number of Occupied Nights; and (iii) a $5.5 million increase in payment processing fees due to an increase in bookings, driven by solid demand for travel and our Live Unit growth.
+
+Operations and support: Operations and support expenses are related to guest-facing functions and variable expenses associated with property-level operations, such as customer service and hospitality, depreciation of property and equipment, utilities, costs to open new properties, and the cost of guest-room consumable items and low-cost furnishings. We expect operations and support costs to increase on an absolute dollar basis, but decrease or remain stable on a percentage of revenue basis, for the foreseeable future to the extent that we continue to grow our Live Units.
+
+Operations and support increased, primarily due to: (i) a $19.3 million increase in unit-related expenses due to an increase in Live Units, along with an increase in Occupied Nights; partially offset by (ii) a $12.0 million decrease in certain pre-opening costs primarily due to the timing of costs related to onboarding new units.
+
+General and administrative: General and administrative expenses primarily consist of personnel-related expenses for administrative functions, such as legal, finance and accounting, public policy, and human resources. It also includes certain professional services fees, technology expenses, bad debt expense, general corporate and director and officer insurance, and other corporate-level expenses we incur to manage and support our operations. We expect to continue to incur certain general and administrative costs as a result of operating as a public company, including expenses to comply with the rules and regulations of the SEC and Nasdaq, as well as expenses for corporate insurance, director and officer insurance, investor relations, and professional services. Overall, we expect our general and administrative costs will decrease as a percentage of revenue in 2024 as compared to 2023 through cost reductions.
+
+General and administrative decreased, primarily due to: (i) a $12.5 million decrease in legal and professional fees due to audit, consulting, and other professional fees incurred as a result of the Company focusing on identifying more cost-efficient alternatives; (ii) a $6.5 million decrease in taxes due to a decrease in sales tax as a result of reduced tax leakage; and (iii) a $5.9 million decrease in employee compensation cost, due to a decrease in average headcount. 
+
+Research and development: Research and development expenses primarily consist of personnel-related expenses and an allocation of our facility expenses incurred in connection with the development of our existing and new services. Our research and development efforts in the short- to mid-term are focused primarily on increasing the functionality and enhancing the ease of use of existing services, and to a lesser extent, adding new features and services. We capitalize the portion of our software development costs that meets the criteria for capitalization. We expect that our research and development expenses will decrease as a percentage of revenue in 2024 as compared to 2023.
+
+Research and development decreased, primarily due to: (i) a $4.5 million decrease in employee compensation expense, driven by a decrease in average headcount; (ii) a $1.1 million decrease in depreciation, primarily due to a decrease in capitalized software costs; and (iii) a $0.6 million decrease in legal and professional fees. 
+
+Sales and marketing: Sales and marketing expenses primarily consist of service charges for bookings made through OTAs, personnel-related expenses for sales, marketing, advertising costs, and branding. We expect our sales and marketing expense will decrease or remain stable as a percentage of revenue in 2024 as compared to 2023.
+
+Sales and marketing increased, primarily due to: (i) a $15.9 million increase in channel transaction fees resulting from an increase in revenue booked through OTAs, consistent with total revenue growth; and (ii) a $8.9 million increase in performance marketing expense. 
+
+Impairment losses: Impairment loss charges includes impairment of long lived assets.
+
+Impairment losses decreased, primarily due to improved factors related to the valuation of our operating lease right-of-use (“ROU”) assets, that triggered an impairment charge identified by the Company, relating to both 2023 and 2022.
+
+Restructuring and other charges: Restructuring and other charges consists primarily of employee termination benefits of approximately $2.1 million for the year ended December 31, 2023 as a result of the restructuring announced in March 2023, and approximately $4.0 million for the year ended December 31, 2022 from the restructuring completed in conjunction with the Cash Flow Positive Plan. The entirety of the decrease in restructuring and other charges is due to the difference in amounts recognized for each of the restructurings discussed above.
+
+On February 20, 2024, the Company announced a reduction in force plan affecting 106 corporate roles, or 17% of the corporate workforce, which is estimated to lead to approximately $11 million in annualized cost savings. We substantially completed these efforts during the first quarter of 2024. Total costs and cash expenditures were approximately $3 million, primarily related to employee severance and benefits costs, and were recognized and paid in the first quarter of 2024.
+
+Total Non-operating Expense (Income), Net
+
+Total non-operating expense (income), net consists primarily of the change in fair value of the Earn Out Liability, SPAC Warrants, and other instruments carried at fair value, realized and unrealized gains and losses on foreign currency transactions and balances, and interest expense related to the term loans and convertible debt.
+
+The following table sets forth our total non-operating expense (income), net (in thousands, except percentages):
+
+Interest expense, net: Interest expense, net increased primarily due to interest expense recognized on the Company’s Delayed Draw Notes.
+
+Change in fair value of SPAC Warrants. The change in the fair value of this line item resulted primarily from a decrease in our stock price period-over-period.
+
+Change in fair value of Earn Out Liability. The change in the fair value of this line item resulted from a decrease in our stock price period-over-period.
+
+Change in fair value of share-settled redemption feature and gain on conversion of convertible notes. This change is a result of fair value adjustments due to the decrease in our stock price period-over-period and as a result of the conversion of the Company’s convertible notes.
+
+Other expense (income), net. The change in other (income) expense, net is primarily due to fluctuations in foreign currency rates which impacted the remeasurement of foreign balances to reporting currency.
+
+Provision for income taxes
+
+As of December 31, 2023 and 2022, except for Canada, we have recorded a full valuation allowance against our deferred tax assets due to our history of losses.
+
+We are subject to income taxes in the United States and foreign jurisdictions in which we do business. Foreign jurisdictions have different statutory tax rates than those in the United States. Additionally, certain of our foreign earnings may also be taxable in the United States.
+
+We recognize the effect of income tax positions only if those positions are more likely than not of being sustained. Recognized income tax positions are measured as the largest amount that is greater than 50% likely of being realized. Changes in recognition or measurement are reflected in the period in which the change in judgment occurs. We recognize interest and penalties, if any, related to income tax matters as a component of income tax expense.
+
+The following table sets forth the provision for income taxes (in thousands, except percentages):
+
+The (benefit) provision for income taxes change is primarily due to taxes related to operations in foreign jurisdictions. 
+
+Year Ended December 31, 2022 Compared to Year Ended December 31, 2021
+
+The following table sets forth our results of operations as a percentage of revenue (in thousands, except percentages):
+
+Revenue
+
+The following table sets forth our revenue (in thousands, except percentages):
+
+Revenue increased, primarily due to a 34.5% increase in RevPAR, driven by continued travel market recovery and our strategy targeting higher occupancy, along with an increase of 27.6% in Live Units contributing to a 78.7% increase in Occupied Nights.
+
+Costs and Operating Expenses
+
+The following table sets forth our total costs and operating expenses (in thousands, except percentages):
+
+Cost of Revenue (excluding depreciation and amortization): Cost of revenue increased, primarily due to: (i) a $94.4 million increase in rent expense related to leases as a result of a 2,100 unit increase in Live Units; (ii) a $20.0 million increase in cleaning expenses as a result of an increase in the number of Occupied Nights; and (iii) a $8.2 million increase in payment processing fees due to an increase in bookings, driven by continued travel recovery and our Live Unit growth.
+
+Operations and support: Operations and support increased, primarily due to: (i) a $23.1 million increase in unit-related expenses due to an increase in Live Units, along with an increase in Occupied Nights; (ii) a $22.8 million increase in employee compensation expense, inclusive of stock compensation expense, due to an increase in average headcount; (iii) a $6.5 million increase in onboarding costs as a result of our focus on converting Contracted Units into Live Units; and (iv) a $5.7 million increase in customer service costs, driven by an increase in Occupied Nights.
+
+General and administrative: General and administrative increased, primarily due to: (i) a $6.7 million increase in legal and professional fees due to ongoing routine legal and professional costs; (ii) a $6.2 million increase in tax expense related to transaction (sales and value-added tax) taxes, largely driven by an increase in bookings due to continued travel recovery during the period and our Live Unit growth; (iii) a $5.1 million increase in employee compensation expense, inclusive of stock compensation expense, due to an increase in average headcount; and (iv) a $4.9 million increase in insurance expense due to additional costs incurred in connection with becoming a public company.
+
+Research and development: Research and development increased, primarily due to: (i) a $5.8 million increase in employee compensation expense, inclusive of stock compensation expense, driven by an increase in average headcount; (ii) a $1.6 million increase in computer software expense related to the growth of our business; and (iii) a $1.3 million increase in professional fees related to the growth of our business and in connection with becoming a public company.
+
+Sales and marketing: Sales and marketing increased, primarily due to: (i) a $24.3 million increase in channel transaction fees resulting from an increase in revenue booked through third-party OTAs, consistent with total revenue growth; and (ii) a $3.4 million increase in compensation expense, inclusive of stock compensation expense, driven by an increase in average headcount.
+
+Impairment losses: Impairment losses increased, primarily due to factors related to the valuation of our operating lease right-of-use (“ROU”) assets, that triggered an impairment charge identified by the Company, relating to 2022.
+
+Restructuring and other charges: Restructuring and other charges consists primarily of employee termination benefits of approximately $4.0 million for the year ended December 31, 2022 as part of our Cash Flow Positive Plan announced in the second quarter of 2022.
+
+Total Non-operating Expense (Income), Net
+
+Total non-operating expense (income), net consists primarily of the change in fair value of the Earn Out Liability, SPAC Warrants, and other instruments carried at fair value, realized and unrealized gains and losses on foreign currency transactions and balances, and interest expense related to the term loans and convertible debt.
+
+The following table sets forth our total non-operating expense (income), net (in thousands, except percentages):
+
+Interest expense, net: Interest expense, net decreased due to the conversion of the Convertible Notes to equity in January 2022, offset by interest expense recognized in connection with the payoff of the term loan in January 2022 and interest expense on the Delayed Draw Notes issued in January 2022.
+
+Change in fair value of SPAC Warrants: The change in the fair value of the SPAC Warrants is impacted by the initial recognition of, and subsequent fair value adjustments to, the SPAC Warrants. The decrease in the fair value of this line item resulted from a decrease in our stock price period-over-period and is recognized as a credit on the consolidated statements of operations and comprehensive loss, thereby decreasing our net loss.
+
+Change in fair value of Earn Out Liability: The change in the fair value of the Earn Out Liability is impacted by the initial recognition of, and subsequent fair value adjustments to, the Earn Out Liability. The decrease in the fair value of this line item resulted from a decrease in our stock price period-over-period and is recognized as a credit on the consolidated statements of operations and comprehensive loss, thereby decreasing our net loss.
+
+Change in fair value of share-settled redemption feature and gain on conversion of convertible notes: The change in fair value of the share-settled redemption feature related to the Convertible Notes resulted from an increase in other income as a result of the conversion of the Convertible Notes.
+
+Other expense (income), net: Other expense (income), net increased primarily due to a decrease in the fair value adjustments for preferred stock warrant liabilities that were converted to equity as a result of the consummation of the Business Combination and fluctuations in foreign currency which impacted the remeasurement of foreign balances to reporting currency.
+
+Provision for income taxes
+
+As of December 31, 2022 and 2021, we have recorded a full valuation allowance against our deferred tax assets due to our history of losses.
+
+We recognize the effect of income tax positions only if those positions are more likely than not of being sustained. Recognized income tax positions are measured as the largest amount that is greater than 50% likely of being realized. Changes in recognition or measurement are reflected in the period in which the change in judgment occurs. We recognize interest and penalties, if any, related to income tax matters as a component of income tax expense.
+
+The following table sets forth the provision for income taxes (in thousands, except percentages):
+
+The provision for income taxes change is primarily due to taxes related to operations in foreign jurisdictions. 
+
+Interim Period Results of Operations (As Restated)
+
+Three, Six and Nine Months Periods of Year Ended December 31, 2023 compared to periods within the Year Ended December 31, 2022
+
+Three months ended March 31, 2023 (As Restated) compared to three months ended March 31, 2022 (As Restated) 
+
+The following table sets forth our results of operations as a percentage of revenue (in thousands, except percentages):
+
+The following table sets forth our revenue (in thousands, except percentages):
+
+Revenue increased, primarily due to a 14.5% increase in RevPAR, driven by continued travel market recovery, along with a 35.1% increase in Live Units contributing to a 43.5% increase in Occupied Nights.
+
+Costs and Operating Expenses
+
+The following table sets forth our total costs and operating expenses (in thousands, except percentages):
+
+Cost of Revenue (excluding depreciation and amortization): Cost of revenue increased, primarily due to: (i) a $11.2 million increase in rent expense due to an increase in Live Units; (ii) a $3.3 million increase in cleaning expenses as a result of an increase in the number of checkouts; and (iii) a $1.6 million increase in credit card fees due to an increase in bookings.
+
+Operations and support: Operations and support expenses increased, primarily due to: (i) an $8.5 million increase in unit-related expenses such as utilities, property insurance, and property security services as a result of an increase in Live Units; and (ii) a net $2.1 million increase in employee compensation expense, inclusive of stock compensation expense, due to vesting of stock options during the period; partially offset by (iii) a $3.0 million decrease in certain pre-opening costs due primarily to the timing of costs related to onboarding new units in first quarter 2022 compared to first quarter 2023.
+
+General and administrative: General and administrative expenses decreased, primarily due to: (i) a $3.3 million decrease in taxes related to a decrease in non-claimable value added tax and property taxes; and (ii) a $3.1 million decrease in non-recurring legal and professional fees due to audit, consulting, and other professional fees incurred during the three months ended March 31, 2022 in connection with Sonder becoming a public company; partially offset by (iii) a net $0.5 million increase in employee compensation cost, inclusive of stock compensation expense, due to vesting of stock options during the period; and (iv) a $1.0 million increase in depreciation expense related to an increase in our fixed asset balance.
+
+Research and development: Research and development expenses decreased, primarily due to (i) a net $0.8 million decrease in employee compensation expense, inclusive of stock compensation expense, driven by a decrease in average headcount, and (ii) a $0.7 million decrease in consultant spend.
+
+Sales and marketing: Sales and marketing expenses increased, primarily due to: (i) a $4.4 million increase in channel transaction fees resulting from an increase in revenue booked through OTAs, consistent with total revenue growth; and (ii) a $1.3 million increase in performance marketing expense.
+
+Restructuring and other charges: Restructuring and other charges consists primarily of employee termination benefits of approximately $2.1 million for the three months ended March 31, 2023 as a result of the restructuring announced in March 2023. The entirety of the increase in restructuring and other charges is due to the restructuring discussed above.
+
+Total Non-operating (Income) Expense, Net
+
+The following table sets forth our total interest expense, net and other expense (income), net (in thousands, except percentages):
+
+Interest expense, net. Interest expense, net decreased due to the conversion of our convertible promissory notes (the “Convertible Notes”) to equity.
+
+Change in fair value of SPAC Warrants. The change in the fair value of the SPAC Warrants is impacted by the initial recognition of, and subsequent fair value adjustments to, the SPAC Warrants. The change in the fair value of this line item resulted primarily from a decrease in our stock price period-over-period.
+
+Change in fair value of Earn Out Liability. The change in the fair value of the Earn Out Liability is impacted by the initial recognition of, and subsequent fair value adjustments to, the Earn Out Liability. The change in the fair value of this line item resulted from a decrease in our stock price period-over-period.
+
+Other expense (income), net. Other expense, net decreased, primarily due to fluctuations in foreign currency rates which impacted the remeasurement of foreign balances to reporting currency.
+
+Provision for income taxes
+
+As of March 31, 2023 and 2022, we have recorded a full valuation allowance against our deferred tax assets due to our history of losses.
+
+The following table sets forth the provision for income taxes (in thousands, except percentages):
+
+The provision for income taxes increased, primarily as a result of taxes related to operations in foreign jurisdictions. 
+
+Three months ended June 30, 2023 (As Restated) compared to three months ended June 30, 2022 (As Restated)
+
+The following table sets forth our results of operations as a percentage of revenue (in thousands, except percentages):
+
+Revenue
+
+The following table sets forth our revenue (in thousands, except percentages):
+
+Revenue increased, primarily due to a 32.1% increase in Live Units contributing to a 31.9% increase in Occupied Nights, on a slight decline in ADR.
+
+Costs and Operating Expenses
+
+The following table sets forth our total costs and operating expenses (in thousands, except percentages):
+
+Cost of Revenue (excluding depreciation and amortization): Cost of revenue increased, primarily due to: (i) a $3.3 million increase in rent expense due to an increase in Live Units; (ii) a $1.7 million increase in cleaning expenses as a result of an increase in the number of checkouts; and (iii) a $1.2 million increase in credit card fees due to an increase in bookings.
+
+Operations and support: Operations and support expenses decreased, primarily due to: (i) a $3.1 million decrease in indirect taxes due to decreases in customs as a result of decreased FF&E spend; (ii) a $2.9 million decrease in pre-opening costs due primarily to the timing of costs related to onboarding new units in the second quarter of 2022 compared to the second quarter of 2023; and (iii) a $1.1 million decrease in non-recurring legal and professional fees due to audit, consulting, and other professional fees incurred during the three months ended June 30, 2022 in connection with Sonder becoming a public company, partially offset by (iv) a $4.7 million increase in unit-related expenses such as utilities, property insurance, and property security services as a result of an increase in Live Units. 
+
+General and administrative: General and administrative expenses decreased, primarily due to: (i) a $2.4 million decrease in non-recurring legal and professional fees due to audit, consulting, and other professional fees incurred during the three months ended June 30, 2022 in connection with Sonder becoming a public company; and (ii) a $0.6 million decrease in in employee compensation cost, due to a decrease in average headcount partially offset by (iii) a $2.2 million increase in taxes due to increased property tax assessments; and (iv) a $0.8 increase in other general and administrative costs. 
+
+Research and development: Research and development expenses decreased, primarily due to: (i) a $1.4 million decrease in employee compensation expense, driven by a decrease in average headcount; (ii) a $0.5 million decrease in professional fees due to audit, consulting, and other professional fees incurred during the three months ended June 30, 2022 in connection with Sonder becoming a public company; and (iii) a $0.3 million decrease in computer software expense.
+
+Sales and marketing: Sales and marketing expenses increased, primarily due to: (i) a $3.6 million increase in channel transaction fees resulting from an increase in revenue booked through OTAs, consistent with total revenue growth; and (ii) a $1.9 million increase in performance marketing expense.
+
+Restructuring and other charges: Restructuring and other charges consists primarily of employee termination benefits of approximately $4.0 million for the three months ended June 30, 2022 as a result of the restructuring completed in conjunction with the Cash Flow Positive Plan.
+
+Total Non-operating Expense (Income), Net
+
+The following table sets forth our total non-operating expense (income), net (in thousands, except percentages):
+
+Interest expense, net. Interest expense, net increased, primarily due to interest expense recognized on the Company’s Delayed Draw Term Loan.
+
+Change in fair value of SPAC Warrants. The change in the fair value of the SPAC Warrants is impacted by the initial recognition of, and subsequent fair value adjustments to, the SPAC Warrants. The change in the fair value of this line item resulted primarily from a decrease in our stock price period-over-period.
+
+Change in fair value of Earn Out Liability. The change in the fair value of the Earn Out Liability is impacted by the initial recognition of, and subsequent fair value adjustments to, the Earn Out Liability. The change in the fair value of this line item resulted from a decrease in our stock price period-over-period.
+
+Other (income) expense, net. The change in other (income) expense, net is primarily due to fluctuations in foreign currency rates which impacted the remeasurement of foreign balances to reporting currency.
+
+Provision for income taxes
+
+As of June 30, 2023 and 2022, we have recorded a full valuation allowance against our deferred tax assets due to our history of losses.
+
+The following table sets forth the provision for income taxes (in thousands, except percentages):
+
+The provision for income taxes decreased, primarily as a result of taxes related to operations in foreign jurisdictions.
+
+Six months ended June 30, 2023 (As Restated) compared to six months ended June 30, 2022 (As Restated)
+
+The following table sets forth our results of operations as a percentage of revenue (in thousands, except percentages):
+
+Revenue
+
+The following table sets forth our revenue (in thousands, except percentages):
+
+Revenue increased primarily due to a 4.9% increase in RevPAR, along with a 32.1% increase in Live Units contributing to a 37.2% increase in Occupied Nights.
+
+Costs and Operating Expenses
+
+The following table sets forth our total costs and operating expenses (in thousands, except percentages):
+
+Cost of Revenue (excluding depreciation and amortization): Cost of revenue increased primarily due to: (i) a $14.4 million increase in rent expense due to an increase in Live Units; (ii) a $5.0 million increase in cleaning expenses as a result of an increase in the number of checkouts; and (iii) a $2.8 million increase in credit card fees due to an increase in bookings.
+
+Operations and support: Operations and support expenses increased, primarily due to: (i) an $13.2 million increase in unit-related expenses such as utilities, property insurance, and property security services as a result of an increase in Live Units; (ii) a net $2.0 million increase in employee compensation expense, inclusive of stock compensation expense, due to vesting of stock options during the period; partially offset by (iii) a $6.0 million decrease in certain pre-opening costs due primarily to the timing of costs related to onboarding new units in second quarter 2022 compared to second quarter 2023; (iv) a $5.2 million decrease in indirect taxes due to decreases in customs as a result of decreased FF&E spend; and (v) a $1.2 million decrease in non-recurring legal and professional fees due to audit, consulting, and other professional fees incurred during the six months ended June 30, 2022 in connection with Sonder becoming a public company.
+
+General and administrative: General and administrative expenses decreased, primarily due to: (i) a $5.6 million decrease in non-recurring legal and professional fees due to audit, consulting, and other professional fees incurred during the six months ended June 30, 2022 in connection with Sonder becoming a public company; (ii) a $1.2 million decrease in certain taxes and (iii) offset by net increases of approximately $4.1 million comprised of increases in the areas of location acquisition cost, facilities, depreciation, bad debt and other expenses. 
+
+Research and development: Research and development expenses decreased, primarily due to a net $2.2 million decrease in employee compensation expense, inclusive of stock compensation expense, driven by a decrease in average headcount and a $1.2 million decrease in consultant spend.
+
+Sales and marketing: Sales and marketing expenses increased, primarily due to: (i) an $8.0 million increase in channel transaction fees resulting from an increase in revenue booked through OTAs, consistent with total revenue growth; and (ii) a $3.2 million increase in performance marketing expense.
+
+Restructuring and other charges: Restructuring and other charges consists primarily of employee termination benefits of approximately $2.1 million for the six months ended June 30, 2023 as a result of the restructuring announced in March 2023, and approximately $4.0 million for the six months ended June 30, 2022 from the restructuring completed in conjunction with the Cash Flow Positive Plan. The entirety of the decrease in restructuring and other charges is due to the difference in amounts recognized for each of the restructurings discussed above.
+
+Total Non-operating Expense (Income), Net
+
+The following table sets forth our total non-operating expense (income), net (in thousands, except percentages):
+
+Interest expense, net. Interest expense, net decreased due to the conversion of our convertible promissory notes to equity.
+
+Change in fair value of SPAC Warrants. The change in the fair value of this line item resulted primarily from a decrease in our stock price period-over-period.
+
+Change in fair value of Earn Out Liability. The change in the fair value of this line item resulted from a decrease in our stock price period-over-period.
+
+Change in fair value of share-settled redemption feature and gain on conversion of convertible notes. This change is a result of fair value adjustments due to the decrease in our stock price period-over-period and as a result of the conversion of the Company’s convertible notes.
+
+Other expense (income), net. The change in other (income) expense, net is primarily due to fluctuations in foreign currency rates which impacted the remeasurement of foreign balances to reporting currency.
+
+Provision for income taxes
+
+The following table sets forth the provision for income taxes (in thousands, except percentages):
+
+The provision for income taxes decreased, primarily as a result of taxes related to operations in foreign jurisdictions.
+
+Three months ended September 30, 2023 (As Restated) compared to three months ended September 30, 2022 (As Restated)
+
+The following table sets forth our results of operations as a percentage of revenue (in thousands, except percentages):
+
+Revenue
+
+The following table sets forth our revenue (in thousands, except percentages):
+
+Revenue increased, primarily due to a 31.1% increase in Live Units contributing to a 31.3% increase in Occupied Nights, on a slight decline in ADR as a result of broader travel industry trends, product mix between hotels and apartments, geographic mix, cohort mix and the impact of corporate sales and pricing strategies.
+
+Costs and Operating Expenses
+
+The following table sets forth our total costs and operating expenses (in thousands, except percentages):
+
+Cost of Revenue (excluding depreciation and amortization): Cost of revenue increased, primarily due to: (i) a $15.6 million increase in rent expense due to an increase in Live Units; (ii) a $1.7 million increase in cleaning expenses as a result of an increase in the number of checkouts; and (iii) a $2.2 million increase in credit card fees due to an increase in bookings.
+
+Operations and support: The decrease in operations and support was primarily due to: (i) a $3.8 million decrease in pre-opening costs due primarily to the timing of costs related to onboarding new units in the third quarter 2023 compared to the third quarter 2022; (ii) a $2.4 million decrease in facilities costs, primarily due to decreases in warehouse and other facility rent; (iii) a $2.1 million decrease in certain taxes; (iv) and a $1.0 million decrease in non-recurring legal and professional fees due to consulting and other professional fees incurred as a result of the Company focusing on maintaining only those services with a clear and beneficial business need or identifying more cost-efficient alternatives; partially offset by (v) a $5.3 million increase in unit-related expenses such as utilities, property insurance, and property security services as a result of an increase in Live Units; and (vi) a $1.1 million increase in other operation expenses. 
+
+General and administrative: General and administrative decreased, primarily due to: (i) a $3.1 million decrease in non-recurring legal and professional fees due to audit, consulting, and other professional fees incurred as a result of the Company focusing on maintaining only those services with a clear and beneficial business need or identifying more cost-efficient alternatives; partially offset by (ii) a $2.3 million increase in unit related expenses such as utilities, property insurance, and property security services as a result of an increase in Live Units. 
+
+Research and development: Research and development decreased, primarily due to: (i) a $1.1 million decrease in employee compensation expense, driven by a decrease in average headcount; (ii) a $0.3 million decrease in depreciation, primarily due to a decrease in capitalized software costs; and (iii) a $0.2 million decrease in computer software expense.
+
+Sales and marketing: The increase in sales and marketing was primarily due to: (i) a $4.0 million increase in channel transaction fees resulting from an increase in revenue booked through OTAs, consistent with total revenue growth; and (ii) a $3.4 million increase in performance marketing expense.
+
+Total Non-operating Expense (Income), Net
+
+The following table sets forth our total non-operating expense (income), net (in thousands, except percentages):
+
+Interest expense, net. Interest expense, net increased, primarily due to interest expense recognized on the Company’s Delayed Draw Term Loan.
+
+Change in fair value of SPAC Warrants. The change in the fair value of the SPAC Warrants is impacted by the initial recognition of, and subsequent fair value adjustments to, the SPAC Warrants. The change in the fair value of this line item resulted primarily from a decrease in our stock price period-over-period.
+
+Change in fair value of Earn Out Liability. The change in the fair value of the Earn Out Liability is impacted by the initial recognition of, and subsequent fair value adjustments to, the Earn Out Liability. The change in the fair value of this line item resulted from a decrease in our stock price period-over-period.
+
+Other (income) expense, net. The change in other (income) expense, net is primarily due to fluctuations in foreign currency rates which impacted the remeasurement of foreign balances to reporting currency.
+
+Provision for income taxes
+
+As of September 30, 2023 and 2022, we have recorded a full valuation allowance against our deferred tax assets due to our history of losses.
+
+The following table sets forth the provision for income taxes (in thousands, except percentages):
+
+The provision for income taxes decreased, primarily as a result of taxes related to operations in foreign jurisdictions.
+
+Nine months ended September 30, 2023 (As Restated) compared to nine months ended September 30, 2022 (As Restated)
+
+The following table sets forth our results of operations as a percentage of revenue (in thousands, except percentages):
+
+Revenue
+
+The following table sets forth our revenue (in thousands, except percentages):
+
+Revenue increased primarily due to 31.1% increase in Live Units contributing to a 35.0% increase in Occupied Nights.
+
+Costs and Operating Expenses
+
+The following table sets forth our total costs and operating expenses (in thousands, except percentages):
+
+Cost of Revenue (excluding depreciation and amortization): Cost of revenue increased primarily due to: (i) a $30.0 million increase in rent expense due to an increase in Live Units; (ii) a $6.7 million increase in cleaning expenses as a result of an increase in the number of checkouts; and (iii) a $4.9 million increase in credit card fees due to an increase in bookings. 
+
+Operations and support: The increase in operations and support was primarily due to: (i) a $12.3 million increase in unit-related expenses such as utilities, property insurance, and property security services as a result of an increase in Live Units, and partially offset by (ii) a $9.8 million decrease in certain pre-opening costs due primarily to the timing of costs related to onboarding new units in the third quarter 2023 compared to the third quarter 2022, and (iii) a $2.1 million decrease in legal and professional fees.
+
+General and administrative: General and administrative expenses decreased, primarily due to: (i) a $8.7 million decrease in non-recurring legal and professional fees due to audit, consulting, and other professional fees as a result of the Company focusing on maintaining only those services with a clear and beneficial business need or identifying more cost-efficient alternatives; partially offset by (ii) a $3.8 million increase to unit related costs, depreciation and other general and administrative costs.
+
+Research and development: Research and development decreased, primarily due to: (i) a net $3.3 million decrease in employee compensation expense, driven by a decrease in average headcount; a (ii) $0.7 million decrease in depreciation, primarily due to a decrease in capitalized software costs; and (iii) a $0.7 million decrease in consultant spend.
+
+Sales and marketing: The increase in sales and marketing was primarily due to: (i) an $12.0 million increase in channel transaction fees resulting from an increase in revenue booked through OTAs, consistent with total revenue growth; and (ii) a $6.6 million increase in performance marketing expense.
+
+Restructuring and other charges: Restructuring and other charges consists primarily of employee termination benefits of approximately $2.1 million for the nine months ended September 30, 2023 as a result of the restructuring announced in March 2023, and approximately $4.0 million for the nine months ended September 30, 2022 from the restructuring completed in conjunction with the Cash Flow Positive Plan. The entirety of the decrease in restructuring and other charges is due to the difference in amounts recognized for each of the restructurings discussed above. 
+
+Total Non-operating Expense (Income), Net
+
+The following table sets forth our total non-operating expense (income), net (in thousands, except percentages):
+
+Interest expense, net. Interest expense, net increased primarily due to interest expense recognized on the Company’s Delayed Draw Term Loan.
+
+Change in fair value of SPAC Warrants. The change in the fair value of this line item resulted primarily from a decrease in our stock price period-over-period.
+
+Change in fair value of Earn Out Liability. The change in the fair value of this line item resulted from a decrease in our stock price period-over-period.
+
+Change in fair value of share-settled redemption feature and gain on conversion of convertible notes. This change is a result of fair value adjustments due to the decrease in our stock price period-over-period and as a result of the conversion of the Company’s convertible notes.
+
+Other expense (income), net. The change in other (income) expense, net is primarily due to fluctuations in foreign currency rates which impacted the remeasurement of foreign balances to reporting currency.
+
+Provision for income taxes
+
+The following table sets forth the provision for income taxes (in thousands, except percentages):
+
+The provision for income taxes decreased, primarily as a result of taxes related to operations in foreign jurisdictions.
+
+Non-GAAP Financial Measures
+
+We prepare our consolidated financial statements in conformity with accounting principles generally accepted in the United States of America (“GAAP” or “U.S. GAAP”). However, some of the financial measures discussed herein are non-GAAP financial measures. In accordance with SEC rules, we classify a financial measure as being a non-GAAP financial measure if that financial measure excludes or includes amounts, or is subject to adjustments that have the effect of excluding or including amounts, that are included or excluded, as the case may be, in the most directly comparable measure calculated and presented in accordance with GAAP in our consolidated statements of operations and comprehensive loss, balance sheets, or statements of cash flows.
+
+To supplement the consolidated financial statements, which are prepared and presented in accordance with GAAP, we use the following non-GAAP financial measures: Free Cash Flow (“FCF”), Cash Contribution, and Cash Contribution Margin (“CCM”) (collectively, the “non-GAAP financial measures”). We may periodically review and update our non-GAAP financial measures based on our determination of their relevance to our business which could result in the addition or elimination of select non-GAAP financial measures in the future. 
+
+Free Cash Flow
+
+The following table presents the calculation of FCF, excluding restructuring costs and lease termination costs (in thousands):
+
+FCF, excluding restructuring costs and lease termination costs, represents cash used in operating activities plus cash used in investing activities, excluding the impact of restructuring charges. The most directly comparable GAAP financial measure is cash used in operating activities. Our near-term focus is to reach sustainable positive FCF, as detailed in our Cash Flow Positive Plan.
+
+We believe FCF, excluding restructuring costs and lease termination costs, is meaningful to investors as it is the primary liquidity measure that we focus on internally to evaluate our progress towards the objectives outlined in our Cash Flow Positive Plan. We believe that achieving our goals around this measure will put us on a path to financial sustainability and will help fund our future growth.
+
+Our FCF may differ from similarly titled measures used by other companies due to different methods of calculation. Presentation of these measures is not intended to be considered in isolation or as a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP. In addition, this measure may not provide a complete understanding of our cash flow as a whole. As such, these measures should be reviewed in conjunction with our GAAP cash flow.
+
+The change in FCF, excluding restructuring costs and lease termination costs, year-over-year represented a 32.0% improvement, primarily driven by a decrease in cash used in operating activities, excluding the impact of restructuring costs, of $39.1 million, and a decrease in cash used in investing activities of $17.3 million. Refer to the section entitled “Liquidity and Capital Resources – Cash Flow Information” below for further discussion surrounding the changes in our cash flow figures period-over-period. 
+
+Cash Contribution and CCM 
+
+The following table presents the calculation of Cash Contribution and CCM (in thousands):
+
+Cash used in operating activities includes the benefit of furniture, fixtures, and equipment (“FF&E”) allowance realized, and therefore, Cash Contribution and CCM include the benefit of FF&E allowance realized. FF&E allowance realized represents payments received from the real estate owner to help offset the capital invested to prepare and furnish a building and the individual units during the period.
+
+Cash contribution is defined as operating cash flow before non-property level costs and the impact of restructuring charges, if any. CCM is defined as cash contribution as a percentage of revenue. The most directly comparable GAAP financial measure is cash used in operating activities. CCM is a unit economics measure for our property-level cash performance. We use CCM as one of several metrics to assess the cash performance of our Live Units portfolio, taking into account the benefit of upfront rent abatement, which is common in the deals we sign. We believe CCM is meaningful to investors as it functions as a useful measure of property-level unit cash economics. We may change or reevaluate our metrics to most accurately reflect our business.
+
+Our CCM may differ from similarly titled measures used by other companies due to different methods of calculation. Presentation of this measure is not intended to be considered in isolation or as a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP. In addition, this measure may not provide a complete understanding of our operating cash flow as a whole. As such, this measure should be reviewed in conjunction with our GAAP cash flow.
+
+CCM increased by 100 basis points, driven primarily by an increase in cash contribution of $16.8 million, which increased at a greater rate than the increase in revenue of $137.1 million. Refer to the section entitled “Liquidity and Capital Resources – Cash Flow Information” below for further discussion surrounding the changes in our cash flow figures period-over-period. 
+
+Liquidity and Capital Resources
+
+Going Concern Considerations
+
+In accordance with ASC Topic 205-40, Going Concern, the Company’s management evaluates whether there are certain conditions and events, considered in the aggregate, that raise substantial doubt about the Company’s ability to continue as a going concern. This evaluation includes considerations related to the Company’s forecasted liquidity and cash consumption requirements for one year from the date of issuance of this Annual Report on Form 10-K. 
+
+As discussed in Note 18, Subsequent Events, to the consolidated financial statements included in this Annual Report on Form 10-K, the Company has, throughout 2024, announced a series of financing arrangements and cost optimization initiatives. Additionally, in August 2024, the Company entered into the Marriott Agreement, whereby the Company’s portfolio of properties is expected to join the Marriott system under a newly-created collection called “Sonder by Marriott Bonvoy.”
+
+While the 2024 actions discussed in Note 18, Subsequent Events demonstrate a series of material steps taken to improve the Company’s financial condition, the Company has a history of net losses and negative operating cash flows and expects to continue to incur additional losses in the near future. Additionally, the benefits of the Company’s recent financing arrangements and licensing agreement are contingent upon the successful execution of a number of critical milestones. The timing of the completion of these milestones cannot be guaranteed to ensure liquidity is available when needed to meet the Company’s obligations. As a result of these considerations, the Company’s management has concluded that there is substantial doubt, which is not alleviated, about the Company’s ability to continue as a going concern for at least one year from the date of issuance of this Annual Report on Form 10-K. 
+
+To address the substantial doubt about the Company's ability to continue as a going concern, as described above, the Company has embarked on the following actions:
+
+•engaged a financial advisor to assist in identifying and securing strategic alternatives and financing arrangements,
+
+•launched a portfolio optimization program, which involves discussions with landlords about renegotiating the terms of our leases, including terminations, at certain properties; As of June 10, 2024, the Company has signed agreements to exit or reduce rent for approximately 105 buildings, or 4,300 units, which is expected to lead to estimated annualized run-rate free cash flow improvements of over $40 million of which the Company expects termination fees of less than $20 million associated with these agreements; Of the approximately 80 buildings, or 3,200 units, with finalized exit agreements, the Company has already exited approximately 60 buildings, or 2,300 units, as of June 10, 2024 and expects to exit the remaining buildings throughout the remainder of 2024,
+
+•implemented a series of deep cost-cutting initiatives; In February 2024, the Company announced a reduction in force plan affecting 17% of the corporate workforce, which is estimated to result in approximately $11 million in annualized cost savings; The Company continues to be focused on identifying and executing cost optimization initiatives, including further rent reductions, better sourcing contracts that lower property-level direct costs, and further savings in overhead costs,
+
+•entered into the Marriott Agreement which allows us to integrate our properties with Marriott’s systems, distribution channels, and branding, and, subject to meeting certain conditions, entitles the Company to receive $15 million of Key Money in two tranches by March 31, 2025; this agreement provides the opportunity for the Company to increase its financial performance through the potential to increase revenue by integrating with Marriott’s commercial engine, deliver costs savings through synergies and scale and power future growth,
+
+•received financing from the Company’s existing noteholders in the amount of $16 million during June and July 2024, as previously announced, and 
+
+•secured financing arrangements that provide the Company with access to approximately $139 million in additional liquidity, including 
+
+◦issuing approximately $43 million in Series A Convertible Preferred Stock to certain qualified institutional buyers or accredited investors, of which $14.7 million was received in August 2024 and commitments have been received to purchase an additional $28.6 million, subject to certain milestones and customary closing conditions,
+
+◦approximately $83 million in additional liquidity, including $4 million in financing funded in August 2024, and approximately $79 million in the form of a 30-month extension (through the end of 2026) of the paid-in-kind feature of the Note Purchase Agreement (21 months of which is at Sonder’s option), and
+
+◦other sources of liquidity totaling $13 million.
+
+The Company’s management considered the mitigating effect of management’s plans in evaluating whether substantial doubt is alleviated. As previously discussed, the Company’s recent financing arrangements and licensing agreement are contingent upon the successful execution of a number of critical milestones, of which the timing of completion cannot be guaranteed to ensure liquidity is available when needed to meet the Company’s obligations. As a result of these considerations, the Company’s management has concluded that substantial doubt about the Company’s ability to continue as a going concern has not been alleviated for at least one year from the date of issuance of this Annual Report on Form 10-K.
+
+Because the Company’s management has concluded that there is substantial doubt, which is not alleviated, about our ability to continue as a going concern for at least one year from the date of issuance of these financial statements, the associated financial statement opinion includes a going concern explanatory paragraph. Accordingly, this going concern determination and related financial statement opinion that includes a going concern explanatory paragraph is not in compliance with our affirmative covenants. If not cured within 30 days by obtaining a waiver from the purchasers under the Delayed Draw Notes Purchase Agreement, it would then constitute an Event of Default as defined therein.
+
+We are in discussions with the Purchasers under the Delayed Draw Notes Purchase Agreement to obtain a waiver for this potential Event of Default. As a result of the potential Event of Default, the indebtedness related to our Delayed Draw Notes as of December 31, 2023 has been reclassified from long-term debt, net to current portion of long term-debt, net. These events could further limit our ability to obtain adequate or satisfactory financing when we require it.
+
+Sources and Uses of Cash
+
+At December 31, 2023, we had a cash balance, not including restricted cash, of $95.8 million, which was held for working capital purposes. Cash consists of checking and interest-bearing accounts. Reaching sustainable positive Free Cash Flow is our primary focus in the near-term, as detailed in our Cash Flow Positive Plan. Once we reach sustainable positive Free Cash Flow, we expect cash from operations will provide our principal source of liquidity. We generate cash from transactions with customers booking directly through Sonder.com and the Sonder app, which are settled through a payment processor, from transactions with third-party corporate customers which are settled based on contractual terms, and indirectly through OTAs, which are also settled based on contractual terms. The most significant source of cash in 2023 was cash inflows from both current period and future guest bookings.
+
+We have incurred losses since inception, and we expect to continue to incur additional losses in the future. Our operations to date have been financed primarily by private equity investments in our common and convertible preferred stock, convertible notes, and other note and warrant purchase agreements, as described in Note 8, Debt, and Note 18, Subsequent Events, in the notes to our audited consolidated financial statements included in this Annual Report on Form 10-K. 
+
+We believe that our existing cash on hand combined with our anticipated estimated free cash flow may be insufficient to fund our operations and debt obligations for at least the next 12 months. Our management has concluded there is substantial doubt about the Company’s ability to continue as a going concern, which is not alleviated, for one year from the date of issuance of this Annual Report on Form 10-K. Our future capital requirements will depend on many factors, including, but not limited to, our successful execution of a number of critical milestones required under our recent financing arrangements and licensing agreement, our rate of RevPAR growth, our ability to achieve cost efficiencies, our ability to provide security instruments such as letters of credit in lieu of cash deposits pursuant to leases, and the extent of real estate owners’ funding of capital expenditures and other pre-opening costs at our leased properties. To the extent that our existing cash balance and ongoing cash from operations are insufficient to fund our future activities, we may need to raise additional funds through public or private equity or debt financing, including convertible debt, short-term bridge financing, or otherwise, but such funds may not be available on acceptable terms. If sufficient cash from operations or external funding is not available, we may be unable to adequately fund our business plans and it could have a negative effect on our business, operating cash flows, financial condition, and cash flows. 
+
+Most of our cash was held in the United States as of December 31, 2023. Our foreign subsidiaries held $15.4 million of cash in foreign jurisdictions. We currently do not intend or foresee a need to repatriate these foreign funds. As a result of the Tax Cuts and Jobs Act of 2017, however, we anticipate the U.S. federal tax impact to be minimal if these foreign funds 
+
+are repatriated and would not repatriate funds where there was a material tax cost. In addition, based on our current and future needs, we believe our current funding and capital resources for our international operations are adequate. 
+
+Debt Arrangements
+
+Debt arrangements, such as our credit facilities and Delayed Draw Notes, have been a source of cash for our day-to-day operations. Refer to Note 8, Debt and Note 18, Subsequent Events, in the notes to our audited consolidated financial statements included in this Annual Report on Form 10-K for discussion of our debt arrangements, including the timing of expected maturity of such arrangements. These arrangements include our $60.0 million loan and security agreement with SVB, now a division of First Citizens Bank & Trust Company. In November 2023, this facility was amended which reduced the letter of credit sublimit from $60.0 million to $45.0 million. As of December 31, 2023, for so long as we are unable to satisfy a minimum consolidated adjusted EBITDA covenant, we are required to cash collateralize our obligations under the SVB loan agreement.
+
+Future Cash Obligations
+
+Our estimated future obligations as of December 31, 2023 include both current and long-term obligations. Our debt obligations, including both capitalized to-date and future paid-in-kind interest through the election date of June 2024, totaled $196.3 million as of December 31, 2023, of which $168.7 million was short-term, and the remainder was long-term. Interest on the foregoing debt obligations is payable in cash after the June 2024 election date. Additionally, we had $37.6 million of irrevocable standby letters of credit outstanding which were collateralized by our restricted cash, all of which represents a long term cash obligation. Under our operating leases as discussed in Note 9, Leases, in the notes to our consolidated financial statements included in this Annual Report on Form 10-K, we had a current obligation, before imputed interest, of $288.9 million and a long-term obligation, before imputed interest, of $1.5 billion as of December 31, 2023. 
+
+Operating lease obligations primarily represent the initial contracted term for leases that have commenced as of December 31, 2023, not including any future optional renewal periods. In addition, as of December 31, 2023, we have entered into leases that have not yet commenced with no short-term future lease payments and long-term future lease payments totaling $0.8 billion, excluding purchase options, that are not yet recorded on the consolidated balance sheets and are not reflected in the figure above. These leases will commence between 2024 and 2026 with lease terms of five to 20 years.
+
+The Company has undertaken a portfolio optimization program, which involves discussions with landlords about renegotiating the terms of leases primarily at certain underperforming properties. This process has resulted and may result in contract modifications resulting in changes to rent amounts, lease durations, or other provisions of our lease agreements and in the termination of certain leases leading to the transition of certain properties over time and the incurrence of certain expenses, including but not limited to impairment charges, which could be material. 
+
+Cash Flow Information
+
+The following table sets forth our cash flows (in thousands):
+
+Operating Activities
+
+Net cash used in operating activities decreased year-over year, primarily due to an improvement in our operating loss performance on the 29.5% increase in revenue. Cash used in operating activities is subject to variability period-over-period as a result of timing differences, including with respect to the collection of receivables and payments of interest expense, accounts payable, and other items, as well as variability in our stock price as it relates to fair value of the SPAC Warrants and Earn Out Liability.
+
+Investing Activities
+
+Net cash used in investing activities decreased year-over-year, primarily as a result of a decrease in purchases of property and equipment of $16.3 million, largely related to a decrease in purchases for furnishings and fixtures for our Live Units.
+
+Financing Activities
+
+Net cash provided by (used in) financing activities decreased year-over-year, primarily related to proceeds received in the year ended December 31, 2022 of $159.2 million from the Delayed Draw Notes, net of issuance costs and proceeds of $325.9 million from the Business Combination and PIPE offering, partially offset by an increase in proceeds from the issuance of debt of $3.0 million and an increase in cash outflows of $58.6 million for common stock issuance costs, primarily related to the close of the Business Combination, and to the $35.2 million partial repayment of the Delayed Draw Notes in the year ended December 31, 2023.
+
+Off-Balance Sheet Arrangements
+
+As of December 31, 2023, we had the following off-balance sheet arrangements:
+
+Letters of Credit
+
+We had $37.6 million of irrevocable standby letters of credit outstanding, which were collateralized by our restricted cash, of which $36.0 million were under our revolving credit facilities. Letters of credit are primarily used as a form of security deposits for the buildings and partial buildings we lease. 
+
+Surety Bonds
+
+A portion of our leases are supported by surety bonds provided by affiliates of certain insurance companies. As of December 31, 2023, we had assembled commitments from six surety providers in the amount of $44.5 million, of which $40.8 million was outstanding and was an off-balance sheet arrangement. The availability, terms and conditions, and pricing of bonding capacity are dependent on, among other things, continued financial strength and stability of the insurance company affiliates providing the bonding capacity, general availability of such capacity, our corporate credit rating, and the general perception of our financial performance.
+
+Indemnification Agreements
+
+See Note 13, Commitments and Contingencies, to the consolidated financial statements included within Part II, Item 8 of this Annual Report on Form 10-K for additional information regarding our indemnification agreements. 
+
+Effect of Exchange Rates
+
+Our changes in cash can be impacted by the effect of fluctuating exchange rates. Foreign exchange had a negative effect on cash in the year ended December 31, 2022, decreasing our total cash balance by $1.7 million at December 31, 2022, and a positive effect on cash in the year ended December 31, 2023, increasing our total cash balance by $2.8 million at December 31, 2023. 
+
+Critical Accounting Estimates
+
+Our consolidated financial statements are prepared in accordance with U.S. GAAP. The preparation of these consolidated financial statements requires management to make estimates and assumptions that affect the reported amounts of our assets, liabilities, revenue, and expenses. We have identified certain policies and estimates as critical to our business operations and the understanding of our past or present consolidated results of operations, financial condition, and cash flows. These policies and estimates are considered critical because they have a material impact, or they have the potential to have a material impact, on our consolidated financial statements and because they require us to make significant judgments, assumptions, or estimates. We believe that the judgments, estimates, and assumptions used in the preparation of our financial statements are reasonable and appropriate, based on the information available at the time they were made. However, actual results may differ from those estimates, and these differences may be material.
+
+Leases
+
+Our cost of revenue primarily consists of rental expenses from buildings or portions of buildings that serve as accommodations for our guests. We also lease other properties such as warehouses to store furniture. Our rent payment schedules vary by lease term per executed lease agreements and can be monthly, quarterly, or bi-annually. A large majority of our leases contain provisions for rent abatement periods, rent escalation, and tenant improvement allowances. Certain leases require the payment of real estate taxes, insurance, utilities, and certain common area maintenance costs in addition to minimum rent payments. These amounts are expensed as incurred and are included within cost of revenue on our consolidated statement of operations if paid directly to the lessor, or in operations and support if paid to the authority assessing the cost for guest properties and within general and administrative on our consolidated statement of operations for our warehouses.
+
+In accordance with Accounting Standards Update (“ASU”) 2016-02, Leases (Topic 842), (“ASU 2016-02” or Accounting Standards Codification (“ASC”) 842), at the inception of an arrangement, we determine whether the arrangement is or contains a lease based on the unique facts and circumstances present in the arrangement. Leases with a term greater than one year are recognized on the balance sheet as right-of-use assets and short-term and long-term lease liabilities, as applicable. We do not have material financing leases.
+
+Operating lease liabilities and their corresponding right-of-use assets are initially recorded based on the present value of lease payments over the expected remaining lease term. Certain adjustments to the right-of-use asset may be required for items such as incentives received. The interest rate implicit in lease contracts is typically not readily determinable. As a result, we utilize our incremental borrowing rate to discount lease payments, which reflects the fixed rate at which we could borrow on a collateralized basis the amount of the lease payments in the same currency, for a similar term, in a similar economic environment. The determination of our incremental borrowing rate requires estimates surrounding our credit rating, credit spread, and the impact of collateral. To estimate our incremental borrowing rate, a credit rating applicable to us is estimated using a synthetic credit rating analysis since we do not currently have an agency-based credit rating. Prospectively, we will adjust the right-of-use assets for straight-line rent expense or any incentives received and remeasure the lease liability at the net present value using the same incremental borrowing rate that was in effect as of the lease commencement or transition date.
+
+We have elected not to recognize leases with an original term of one year or less on the balance sheet. We typically only include an initial lease term in our assessment of a lease arrangement. Options to renew a lease are not included in our assessment unless there is reasonable certainty that we will renew. Assumptions that we made at the commencement date are re-evaluated upon occurrence of certain events, including a lease modification. A lease modification results in a separate contract when the modification grants the lessee an additional right of use not included in the original lease and 
+
+when lease payments increase commensurate with the standalone price for the additional right of use. When a lease modification results in a separate contract, it is accounted for in the same manner as a new lease.
+
+In accordance with ASC 842, components of a lease should be split into three categories: lease components; non-lease components; and non-components. The fixed and in-substance fixed contract consideration (including any consideration related to non-components) must be allocated based on the respective relative fair values to the lease components and non-lease components. Entities may elect not to separate lease and non-lease components. Rather, entities would account for each lease component and related non-lease component together as a single lease component. We have elected to account for lease and non-lease components together as a single lease component for all underlying assets and allocate all of the contract consideration to the lease component only. ASC 842 allows for the use of judgment in determining whether the assumed lease term is for a major part of the remaining economic life of the underlying asset and whether the present value of lease payments represents substantially all of the fair value of the underlying asset. We apply the bright line thresholds referenced in ASC 842-10-55-2 to assist in evaluating leases for appropriate classification. The aforementioned bright lines are applied consistently to our entire portfolio of leases.
+
+Upon termination of a lease, related lease balances on the consolidated balance sheet are written-off. A liability for costs to terminate a lease before the end of its term is recognized in accordance with the lease terms and recorded in operations and support on the consolidated statement of operations and comprehensive loss.
+
+Impairment of Long-Lived Assets
+
+Long-lived assets that are held and used by the Company are reviewed for impairment when events or changes in circumstances indicate that the carrying amount of the asset may not be recoverable. Determination of recoverability of long-lived assets is based on an estimate of the undiscounted cash flows resulting from the use of the asset and its eventual disposition. If the carrying value of the long-lived asset is not recoverable on an undiscounted cash flow basis, impairment is recognized to the extent that the carrying value exceeds its fair value. Fair value is determined through various valuation techniques including discounted cash flow models, as well as other methods and approaches, as necessary.
+
+Any impairments to ROU assets, leasehold improvements, or other assets as a result of a sublease, abandonment, or other similar factor are recorded as an operating expense. Similar to other long-lived assets, management tests ROU assets for impairment whenever events or changes in circumstances occur that could impact the recoverability of these assets. For ROU assets, such circumstances may include subleases that do not fully recover the costs of the associated leases or a decision to abandon the use of all or part of an asset. 
+
+Income Taxes 
+
+We are subject to income taxes in the United States and foreign jurisdictions in which we operate. We account for income taxes under the asset and liability method, whereby deferred tax assets and liabilities are recognized based on the future tax consequences attributable to temporary differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases, and attributable to operating loss and tax credit carry-forwards. We account for uncertainty in tax positions by recognizing a tax benefit from uncertain tax positions when it is more likely than not that the position will be sustained upon examination. Evaluating our uncertain tax positions, determining our provision for income taxes, and evaluating the impact of tax law changes, are inherently uncertain and require making judgments, assumptions, and estimates.
+
+In determining the need for a valuation allowance, we weigh both positive and negative evidence in the various jurisdictions in which we operate to determine whether it is more likely than not that our deferred tax assets are recoverable. We regularly assess all available evidence, including cumulative historic losses and forecasted earnings. Due to cumulative losses in the U.S. during the current and prior two years, including tax deductible stock compensation, and based on all available positive and negative evidence, we do not believe it is more likely than not that our net U.S. deferred tax assets will be realized as of December 31, 2023. Accordingly, a full valuation allowance has been established in the United States, and no deferred tax assets and related tax benefit have been recognized in the consolidated financial statements. 
+
+While we believe that we have adequately reserved for our uncertain tax positions, no assurance can be given that the final tax outcome of these matters will not be different. We adjust these reserves in light of changing facts and circumstances, such as the closing of a tax audit. To the extent that the final tax outcome of these matters is different than the amounts recorded, such differences may impact the provision for income taxes and the effective tax rate in the period in which such determination is made.
+
+Stock-Based Compensation
+
+Stock-based compensation expense attributable to equity awards granted to employees is measured at the grant date based on the fair value of the award. The expense is recognized on a straight-line basis over the requisite service period for awards that vest, which is generally the period from the grant date to the end of the vesting period. We estimate the fair value of stock option awards granted using the Black-Scholes option pricing model. This model requires various significant judgmental assumptions in order to derive a fair value determination for each type of award, including the fair value of our common stock, the expected term, expected volatility, expected dividend yield, and risk-free interest rate. These assumptions used in the Black-Scholes option-pricing model are estimated as follows:
+
+•Expected term — The expected term for options granted to employees, officers, and directors is calculated based on our historical pattern of option exercise behavior and the period of time they are expected to be outstanding. 
+
+•Risk-free interest rate — The risk-free interest rate used in the valuation method is the implied yield currently available on the United States treasury zero-coupon issues, with a remaining term equal to the expected term of our options. 
+
+•Expected volatility — The expected volatility is based on the average volatility of similar public entities within our peer group as our stock has not been publicly trading for a long enough period to rely on our own expected volatility.
+
+•Expected dividend yield — Expected dividend yield is zero, as we have not paid and do not anticipate paying dividends on our common stock.
+
+All grants of stock options have an exercise price equal to or greater than the fair value of our common stock on the date of grant. We account for forfeitures as they occur. 
+
+Recent Accounting Standards
+
+See Note 3, Recently Issued Accounting Standards, to the consolidated financial statements included within Part II, Item 8 of this Annual Report on Form 10-K for additional information regarding recently adopted accounting standards and recently issued accounting standards not yet adopted.
+
+Emerging Growth Company Status
+
+Section 102(b) of the JOBS Act exempts emerging growth companies from being required to comply with new or revised financial accounting standards until private companies are required to comply with the new or revised financial accounting standards. The JOBS Act provides that a company can choose not to take advantage of the extended transition period and comply with the requirements that apply to non-emerging growth companies, and any such election to not take advantage of the extended transition period is irrevocable.
+
+We are an emerging growth company as defined in Section 2(a) of the Securities Act and have elected to take advantage of the benefits of the extended transition period for new or revised financial accounting standards. We will remain an emerging growth company until the earliest of: (i) the last day of the fiscal year in which the market value of Common Stock that is held by non-affiliates exceeds $700 million as of the end of that year’s second fiscal quarter; (ii) the last day of the fiscal year in which we have total annual gross revenue of $1.235 billion or more during such fiscal year (as indexed for inflation); (iii) the date on which we have issued more than $1 billion in non-convertible debt in the prior three-year period; or (iv) December 31, 2026, and we expect to continue to take advantage of the benefits of the extended transition period, although we may decide to early adopt such new or revised accounting standards to the extent permitted by such standards. This may make it difficult or impossible to compare our financial results with the financial results of another public company that is either not an emerging growth company or is an emerging growth company that has chosen not to take advantage of the extended transition period exemptions because of the potential differences in accounting standards used.
+
+Item 7A. Quantitative and Qualitative

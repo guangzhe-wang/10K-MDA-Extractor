@@ -1,0 +1,131 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis should be read in conjunction with our consolidated financial statements and the accompanying notes thereto included in this Form 10-K and is qualified in its entirety by the foregoing and by more detailed financial information appearing elsewhere in this Form 10-K. See “Consolidated Financial Statements.” In addition to historical financial information, the following discussion and analysis contains forward-looking statements that involve risks, uncertainties and assumptions. Some of the numbers included herein have been rounded for the convenience of presentation. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of many factors, including those discussed in the “Special Note Regarding Forward Looking Statements” found on page 4 of this Form 10-K.
+
+Our audited financial statements are stated in United States Dollars and are prepared in accordance with United States Generally Accepted Accounting Principles.
+
+Introduction
+
+The Marygold Companies, Inc. (“The Marygold Companies” or the “Company”) conducts business through its wholly-owned operating subsidiaries operating in the U.S., New Zealand and Canada. The operations of the Company’s wholly-owned subsidiaries are more particularly described herein but are summarized as follows:
+
+| ● | Fund Management - USCF Investments, Inc., a Delaware corporation (“USCF Investments”), with corporate headquarters in Walnut Creek, California and its wholly-owned subsidiaries: 
+---|---|--- 
+
+| ● | Food Products – Gourmet Foods, Ltd., a registered New Zealand company located in Tauranga, New Zealand and its wholly-owned subsidiary, Printstock Products Limited, a registered New Zealand company, with is principal manufacturing facility in Napier, New Zealand. 
+---|---|--- 
+| ● | Security Systems – Brigadier Security Systems Ltd., a Canadian registered corporation, with locations in Regina and Saskatoon, Saskatchewan, Canada. 
+| ● | Beauty Products - Kahnalytics, Inc., a California corporation, doing business as “Original Sprout,” located in San Clemente, California. 
+| ● | Financial Services – United States and Great Britain: 
+
+Critical Accounting Policies
+
+We have chosen accounting policies that we believe are appropriate to report accurately and fairly our operating results and financial position, and we apply those accounting policies in a consistent manner. Our significant policies are summarized in Note 2 to the Consolidated Financial Statements.
+
+The preparation of financial statements in conformity with U.S. generally accepted accounting principles (“US GAAP” or “GAAP”) requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue and expenses and related disclosures of contingent assets and liabilities. We base our estimates on historical experience and other factors we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may vary from those estimates.
+
+We believe the following accounting policies are the most critical in the preparation of our financial statements because they involve the most difficult, subjective or complex judgments about the effect of matters that are inherently uncertain.
+
+Business Combinations - Valuation of Intangible Assets
+
+We are a diversified holding company whose activities involve the acquisition of operating companies through stock purchase or asset purchase transactions. We account for business combinations using the acquisition method of accounting. All the assets acquired, liabilities assumed and amounts attributable to intangible assets, including goodwill, are recorded at their respective fair values at the date of acquisition. Determination of fair value involves estimates and assumptions which can be complex, most notably with respect to intangible assets. Critical estimates used in the valuation of intangible assets include, but are not limited to, the amount and timing of projected cash flows, useful lives, and discount rates. While management’s estimates of fair value are based on assumptions that are believed to be reasonable, these assumptions are inherently uncertain as they pertain to forward-looking views of our business and market conditions. The judgments made in this valuation process could materially impact our consolidated financial statements.
+
+Revenue Recognition
+
+Our operating subsidiaries derive revenues from a number of sources including sales of hardware, services, food items, printing, financial services, and consumer products. The company recognizes the revenue when the product or service is delivered, or the ownership of the product is deemed to have been transferred to the buyer. We carefully monitor the outgoings of product shipments and service completions to ensure revenues are properly recorded. In the case of continued support services, such as warranty or extended contracts, the company makes an assessment at each reporting period as to the significance of the cost of such support or warranty. This estimate is based on historical experience and careful monitoring of costs throughout the reporting period to determine if any reserve should be recorded for estimated expenses. We believe we have made careful and reasonable estimates, however adjustments may be required in the future if actual results vary from our estimates.
+
+Impairments
+
+Goodwill and other intangible assets are tested for impairment at the reporting unit level on an annual basis and between annual tests if an event occurs or circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying value. These events or circumstances could include a significant change in the business climate, legal factors, operating performance indicators, competition, or sale or disposition of a significant portion of a reporting unit. Application of the goodwill and other intangible assets impairment test requires judgment in the determination of the fair value of each reporting unit. The fair value of each reporting unit is estimated primarily through the use of a discounted cash flow methodology. This analysis requires significant judgments, including estimation of future cash flows, which is dependent on internal forecasts, estimation of the long-term rate of growth for our business, estimation of the useful life over which cash flows will occur, and determination of our weighted average cost of capital. Changes in these estimates and assumptions could materially affect the determination of fair value and impairment for each reporting unit.
+
+Legal and Other Contingencies
+
+The outcomes of legal proceedings and claims brought against us are subject to significant uncertainty. We evaluate developments in these matters on a regular basis and a contingency loss is accrued by a charge to income when we believe it is both probable that a loss has been incurred and the amount can be reasonably estimated. In determining whether a loss should be accrued, we evaluate among other factors, the degree of probability of an unfavorable outcome and the ability to make a reasonable estimate of the amount of loss. Changes in these factors could materially impact our consolidated financial statements.
+
+Income Taxes
+
+The objectives of accounting for income taxes are to recognize the amount of taxes payable or refundable for the current year, and deferred tax liabilities and assets for the future tax consequences of events that have been recognized in an entity’s financial statements or tax returns. We recognize the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the financial statements from such a position are measured based on the largest benefit that has a greater than 50% likelihood of being realized upon ultimate settlement. Accounting literature also provides guidance on derecognition of income tax assets and liabilities, classification of deferred income tax assets and liabilities, accounting for interest and penalties associated with tax positions, and income tax disclosures. Judgment is required in assessing the future tax consequences of events that have been recognized in our consolidated financial statements or tax returns. Variations in the actual outcome of these future tax consequences could materially impact our consolidated financial statements.
+
+SUMMARY RESULTS OF OPERATIONS
+
+Fiscal Year 2024 Compared with Fiscal Year 2023
+
+Revenue decreased by $2.0 million or 6% for fiscal 2024 driven by reduced average Assets Under Management (“AUM”) in our fund management business. Average AUM for fiscal 2024 was $3.3 billion compared to $3.7 billion for fiscal 2023. The reduction in AUM in fiscal 2024 was due to commodity price fluctuations, rising interest rate environment as well as geopolitical and economic uncertainty.
+
+Gross profit decreased by $2.0 million or 8% for the reasons described above for the reduced revenue as cost of revenue was relatively flat from fiscal 2024 at $8.7 million compared to fiscal 2023 at $8.8 million.
+
+Operating expenses increased by $5.7 million or 23% as a result of the following. General and administrative expenses, including marketing and advertising, increased by $2.4 million or 25% driven by increased costs associated with our Fintech app development including additional software and security infrastructure. We recorded a $1.4 million impairment charge relating to the goodwill and other intangible assets in our beauty products unit as a result of increased losses resulting from pandemic-related changes in its distribution channels and increased costs from the introduction of new product lines. Salaries and compensation increased by $1.1 million or 11% compared to fiscal 2023 driven by increased hiring for the buildout of our mobile Fintech app. Fund operations increased by $0.8 million or 17% driven by increased costs associated with managing more funds.
+
+Other income, net increased by $0.6 million or 364% driven by unrealized gains on investments.
+
+Income tax went from a provision of $0.4 million in fiscal 2023 to a tax benefit of $1.4 million in fiscal 2024 as a result of generating pre-tax income in the prior year to incurring a pre-tax loss in the current year.
+
+Net loss of $4.1 million generated in fiscal 2024 compared to net income of $1.2 million in fiscal 2023 was driven by the increased costs associated with the investment in our mobile Fintech app, the increased losses including the impairment charge relating to our beauty products unit and the decreased profits from our fund management business due to lower AUM.
+
+SEGMENT RESULTS OF OPERATIONS
+
+Reportable Segments
+
+Fiscal Year 2024 Compared with Fiscal Year 2023
+
+Fund Management - USCF Investments
+
+Revenue decreased by $1.9 million or 9% driven by reduced average Assets Under Management (“AUM”) in our fund management business. Average AUM for fiscal 2024 was $3.3 billion compared to $3.7 billion for fiscal 2023. The reduction in AUM in fiscal 2024 was due to commodity price fluctuations, rising interest rate environment as well as geopolitical and economic uncertainty.
+
+Operating income decreased by $2.7 million or 36% driven by the decrease in average AUM as described above and increased fund operations expenses of $0.8 million or 17% as a result of increased licenses and fees as well as fund accounting and administration costs due to an increase in the number of funds managed.
+
+Food Products - Gourmet Foods
+
+Revenue decreased by $0.4 million or 5% and operating income increased slightly driven by changing our product mix and refocusing production capacity to higher profit margin customers.
+
+Beauty Products – Original Sprout
+
+Revenue increased by $0.3 million or 9% and operating loss increased by $1.9 million or 650% driven by a $1.4 million impairment charge relating to the goodwill and other intangible assets in our beauty products unit as a result of increased losses resulting from pandemic-related changes in its distribution channels and increased costs from the introduction of new product lines.
+
+Security Systems - Brigadier
+
+Revenue decreased by $0.2 million or 6% and operating income decreased by $0.3 million or 46% driven by market timing and weather patterns.
+
+Financial Services – Marygold US and Marygold UK
+
+Revenue increased by $0.1 million or 26% driven by increased revenues at Tiger and the incremental revenue from Step-By-Step which was acquired in April 2024. Operating loss increased by $2.6 million or 77% driven by increased costs incurred in connection with the launch, marketing and roll-out of our mobile Fintech app in June 2023.
+
+Corporate Headquarters
+
+Operating loss for the corporate headquarters increased by $0.3 million or 10% driven by higher stock-based compensation expenses as we began granting equity awards in fiscal 2023 and increased the grants in fiscal 2024.
+
+Liquidity and Capital Resources
+
+The Marygold Companies is a holding company that conducts its individual business operations through its subsidiaries. At the holding-company level, its liquidity needs relate to operational expenses, the funding of additional business acquisitions and new investment opportunities. Our operating subsidiaries’ principal liquidity requirements arise from cash used in operating activities, debt service, and capital expenditures, including purchases of equipment and services, operating costs and expenses, and income taxes. Cash is managed at the holding company and the subsidiary level. There are no limitations or constraints on the movement of funds between the entities.
+
+As of June 30, 2024, we had $5.5 million of cash and cash equivalents on a consolidated basis as compared to $8.2 million as of June 30, 2023, a decrease of $2.7 million or 33%. Our cash used in operating activities for fiscal 2024 was $1.9 million. For fiscal 2024, USCF Investments invested $3.0 million by seeding one new fund and we made additional expenditures of $5.7 million in Marygold for the mobile Fintech app. We have invested a total of $15.1 million in the Fintech app since Marygold’s inception. We expect that Marygold will require additional capital to fund its losses over the coming 12 months. As the funding requirements become known, we will decide upon the source of the additional capital investment to be made as the need arises. During fiscal 2024, we made a deposit of $1.8 million in connection with the potential acquisition of a 9.9% equity interest in a domestic financial institution that is currently seeking certain regulatory approval. Despite these cash investments and expenses, our working capital position remains strong at $19.0 million as of June 30, 2024.
+
+Based on our current operating plan which includes continued significant investments in the mobile Fintech app, we intend to raise additional capital through one or more debt and/or equity financing to meet our operating and cash needs. There can be no assurance we will be able to raise additional financing or obtain terms that are acceptable to us. In the event we are unable to find additional financing at terms that are acceptable to us, we would slow down the investment in the development of our Fintech app.
+
+Lease Liability
+
+The Company has various operating leases for offices, warehouses and manufacturing facilities. The total amount due under these obligations was $1.0 million as of June 30, 2024. The obligations will reduce over the passage of time through periodic lease payments. See Note 14 to our Financial Statements for further analysis of this obligation.
+
+Borrowings
+
+As of June 30, 2024, we had $0.4 million of third-party indebtedness on a consolidated basis. Brigadier owed $0.3 million under a loan that was secured with the land and building in Canada. In July 2024, Brigadier repaid the loan in full.
+
+In addition, Gourmet Foods has a finance lease liability of $0.1 million related to a solar energy system which is included under Loans \- property and equipment on our consolidated balance sheets.
+
+Investments
+
+USCF Investments, from time to time, provides initial investments in the creation of ETP funds that USCF Investments manages. USCF Investments classifies these investments as current assets as these investments are generally sold within one year from the balance sheet date. As of June 30, 2024, USCF Investments held investment positions totaling $7.5 million in four of its registered Investment Company Act funds. These investments along with other investments, as applicable, are described further in “Note 5 – Investments” to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
+
+Dividends
+
+Our strategy on dividends is to declare and pay dividends only from retained earnings and only when our Board of Directors deems it prudent and in the best interests of the Company to declare and pay dividends. We paid no dividends during fiscal 2024 and 2023.
+
+Off-Balance Sheet Arrangements
+
+At June 30, 2024, and through the date of this Annual Report on Form 10-K, we have not entered into any transaction, agreement or other contractual arrangement with an entity unconsolidated with us under which we have:
+
+| ● | An obligation under a guarantee contract, 
+---|---|--- 
+| ● | A retained or contingent interest in assets transferred to the unconsolidated entity or similar arrangement that serves as credit, liquidity or market risk support to such entity for such assets, 
+| ● | An obligation, including a contingent obligation, arising out of a variable interest in an unconsolidated entity that is held by, and material to, us where such entity provides financing, liquidity, market risk or credit risk support to, or engages in leasing, hedging, or research and development services with us. 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE

@@ -1,0 +1,101 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion and analysis should be read in conjunction with the consolidated financial statements and notes to the consolidated financial statements filed as part of this Annual Report.
+
+Forward-Looking Statements
+
+The following discussion and analysis contains forward-looking statements within the meaning of the federal securities laws. You are urged to carefully review our description and examples of forward-looking statements included earlier in this Annual Report on Form 10-K (this “Annual Report”) immediately prior to Part I, under the heading “Special Note Regarding Forward-Looking Statements.” Forward-looking statements are subject to risk that could cause actual results to differ materially from those expressed in the forward-looking statements. You are urged to carefully review the disclosures we make concerning risks and other factors that may affect our business and operating results, including those made in Part I, Item 1A of this Annual Report, and any of those made in our other reports filed with the SEC. You are cautioned not to place undue reliance on the forward-looking statements included herein, which speak only as of the date of this document. We do not intend, and undertake no obligation, to publish revised forward-looking statements to reflect events or circumstances after the date of this document or to reflect the occurrence of unanticipated events.
+
+Introduction
+
+Palatin Technologies, Inc. is a biopharmaceutical company developing first-in-class medicines based on molecules that modulate the activity of the melanocortin receptor system. The Company’s product candidates are targeted, receptor-specific therapeutics for the treatment of diseases with significant unmet medical need and commercial potential. 
+
+Our prior commercial product, Vyleesi®, was approved by the U.S. Food and Drug Administration (“FDA”) in June 2019 for the treatment of hypoactive sexual desire disorder (“HSDD”) in premenopausal women. This product was acquired by Cosette Pharmaceuticals, Inc. (“Cosette”) on December 19, 2023.
+
+Our new product development activities focus primarily on use of bremelanotide, or other MC4r agonists, with tirzepatide, a GLP-1 agonist for treatment of obesity, which entered Phase 2 in the second quarter of calendar year 2024, and a co-formulation of bremelanotide with a PDE5i for treatment of erectile dysfunction in patients that do not respond to PDE5i monotherapy. We are also developing MC1r agonists, with potential to treat inflammatory and autoimmune diseases, such as dry eye disease, uveitis, diabetic retinopathy, and inflammatory bowel disease.
+
+Critical Accounting Policies and Estimates
+
+Our significant accounting policies are described in Note 2 to the consolidated financial statements included in this Annual Report. We believe that our accounting policies and estimates relating to revenue recognition, the carrying value of inventory, purchase commitment liabilities, accrued expenses, and stock-based compensation are the most critical.
+
+Revenue Recognition (Prior to the sale of Vyleesi)
+
+We recognize product revenues in accordance with Accounting Standards Codification (“ASC”) Topic 606, Revenue from Contracts with Customers. The provisions of ASC Topic 606 require the following steps to determine revenue recognition: Identify the contract(s) with a customer; Identify the performance obligations in the contract; Determine the transaction price; Allocate the transaction price to the performance obligations in the contract; and Recognize revenue when (or as) the entity satisfies a performance obligation. 
+
+In accordance with ASC Topic 606, we recognize product revenue when our performance obligation is satisfied by transferring control of the product to a customer. Per our contracts with customers, control of the product is transferred upon the conveyance of title, which occurs when the product is sold to and received by a customer. Trade accounts receivable due to us from contracts with our customers are stated separately in the consolidated balance sheet, net of various allowances as described in the Trade Accounts Receivable policy in Note 2- Summary of Significant Accounting Policies in the accompanying consolidated financial statements.
+
+Product revenues consisted of sales of Vyleesi in the United States prior to the sale of the Vyleesi product line to Cosette Pharmaceuticals, Inc. (“Cosette”) in December 2023. Prior to the sale of Vyleesi product line, we sold Vyleesi to a specialty pharmacy at the wholesale acquisition cost with payment made within approximately 30 days. In addition to distribution agreements with customers, we had entered into arrangements with healthcare payers that provide for privately negotiated rebates, chargebacks, and discounts with respect to the purchase of our products.
+
+We recorded product revenues net of allowances for direct and indirect fees, discounts, co-pay assistance programs, estimated chargebacks, and rebates. Certain of these allowances represent estimates of the related obligations and, as such, knowledge and judgement are required when estimating the impact of these allowances on gross product sales for a reporting period. If any of our judgments made during a reporting period are not indicative or accurate estimates of our future experience, our results could be materially affected. Product sales are also subject to return rights, which have not been significant to date.
+
+Purchase Commitment Liabilities
+
+Losses on firm commitment contractual obligations are recognized based upon the terms of the respective agreement and similar factors considered for the write-down of inventory, including expected sales requirements as determined by internal sales forecasts.
+
+Accrued Expenses 
+
+Third parties perform a significant portion of our development activities. We review the activities performed under all contracts each quarter and accrue expenses and the amount of any reimbursement to be received from our collaborators based upon the estimated amount of work completed considering milestones achieved. Estimating the value or stage of completion of certain services requires judgment based on available information. If we do not identify services performed for us but not billed by the service-provider, or if we underestimate or overestimate the value of services performed as of a given date, reported expenses will be understated or overstated.
+
+Stock-Based Compensation 
+
+We expense the fair value of stock options and other equity awards granted to employees and nonemployees for services. Compensation costs for stock-based awards with time-based vesting are determined using the quoted market price of our common stock on the grant date or for stock options, the value determined utilizing the Black-Scholes option pricing model, and are recognized on a straight-line basis, while awards containing a market condition are valued using multifactor Monte Carlo simulations and are recognized over the derived service period. Compensation costs for awards containing a performance condition are determined using the quoted price of our common stock on the grant date or for stock options, the value is determined utilizing the Black Scholes option pricing model and are recognized based on the probability of achievement of the performance condition over the service period. The Black-Scholes option pricing model requires us to make estimates of expected volatility and interest rates, which we estimate based on prior experience and public sources of information. The expected term of the option used is based upon the simplified method, which represents the average of the vesting and contractual term. Compensation expense is not adjusted for subsequent changes in the estimates used to calculate fair value or for actual experience. Forfeitures are recognized as they occur. As the amount and timing of compensation expense to be recorded in future periods may be affected by the achievement of performance conditions and employee terminations, stock-based compensation may vary significantly period to period.
+
+See Note 3 to the consolidated financial statements included in this Annual Report for a description of recent accounting pronouncements that affect us.
+
+Results of Operations
+
+Year Ended June 30, 2024 Compared to the Year Ended June 30, 2023:
+
+Revenue – For the fiscal year ended June 30, 2024 (“fiscal 2024”) we recognized $4,490,090 of product revenue, net of allowances. For the fiscal year ended June 30, 2023 (“fiscal 2023”) we recognized $4,850,678 of product revenue, net of allowances, and $3,000 in license and contract revenue pursuant to our license agreement with Fosun. The decrease in net revenue is a result of the sale of Vyleesi’s worldwide rights to Cosette during fiscal 2024.
+
+Cost of Products Sold – Cost of products sold was $97,637 for fiscal 2024 compared to $418,470 for fiscal 2023. The decrease in cost of products sold is a result of the sale of Vyleesi’s worldwide rights to Cosette during fiscal 2024. 
+
+Research and Development – Total research and development expenses, including general research and development spending, were $22,400,372 for fiscal 2024 compared to $22,630,577 for fiscal 2023. The decrease is a result of lower spending on our MCr programs. 
+
+Research and development expenses related to our Vyleesi, MCr programs, and other preclinical programs were $15,512,149 for fiscal 2024 compared to $16,202,432 for fiscal 2023. The decrease is primarily related to a decrease in spending on our MCr programs.
+
+The amounts of program spending above exclude general research and development spending, which were $6,888,233 for fiscal 2024 compared to $6,428,145 for fiscal 2023. The increase in general research and development spending is primarily attributable to increased compensation costs.
+
+Cumulative spending from inception to June 30, 2024 was approximately $311,900,000 on our Vyleesi program and approximately $234,000,000 on all our other programs (which include PL8177, PL9643, other melanocortin receptor agonists and terminated programs). Due to various risk factors described herein under “Risk Factors,” including the difficulty in currently estimating the costs and timing of future Phase 1 clinical trials and larger-scale Phase 2 and Phase 3 clinical trials for any product under development, we cannot predict with reasonable certainty when, if ever, a program will advance to the next stage of development or be successfully completed, or when, if ever, related net cash inflows will be generated. 
+
+Selling, General and Administrative – Selling, general and administrative expenses, which consist of costs related to Vyleesi in addition to compensation and related costs, were $12,270,046 for fiscal 2024, compared to $15,290,836 for fiscal 2023. The decrease is primarily attributable to $1,912,243 of selling expenses related to Vyleesi in fiscal 2024 compared to $4,621,001 of selling expenses related to Vyleesi in fiscal 2023.
+
+Gain on Purchase Commitment \- Gain on purchase commitments was $1,027,322 for fiscal 2023 as a result of the Company amending the minimum purchase commitment that was previously reserved under the Lonza Agreement.
+
+Gain on Sale of Vyleesi – On December 19, 2023, the Company entered into an asset purchase agreement (the “Cosette Purchase Agreement”) with Cosette pursuant to which Cosette acquired from the Company worldwide rights to Vyleesi. As a result of the transaction, the Company recorded a gain of $7,781,844 on the sale of Vyleesi for the year ended June 30, 2024. The gain represents the upfront purchase price of $9,500,000 less the cost of net assets transferred to the purchaser. 
+
+Other Income (Expense)– Total other income (expense), net was ($7,239,992) for fiscal 2024 compared to $3,747,143 for fiscal 2023. For fiscal 2024, we recognized an increase in the fair value of warrant liabilities of $6,962,562, offering expense of $696,912 and interest expense of $17,114 offset by investment income of $376,843 and unrealized foreign currency gain of $59,753. For fiscal 2023, we recognized a decrease in the fair value of warrant liabilities of $4,620,911 and investment income of $691,981 offset by $1,115,765 of offering expenses, $429,971 of unrealized foreign currency loss and $20,013 of interest expense. 
+
+Income Tax Benefit – Income tax benefit for fiscal 2023 was $4,674,999 as a result of the Company selling New Jersey state net operating losses (“NOLs”) and R&D credits.
+
+Effects of Inflation - We do not believe that inflation has had a material impact on our business, revenues or operating results during the periods presented.
+
+Liquidity and Capital Resources 
+
+Since inception, we have generally incurred net operating losses, primarily related to spending on our research and development programs. We have financed our net operating losses primarily through debt and equity financings and amounts received under collaborative and license agreements.
+
+Our product candidates are at various stages of development and will require significant further research, development, and testing and some may never be successfully developed or commercialized. We may experience uncertainties, delays, difficulties, and expenses commonly experienced by early-stage biopharmaceutical companies, which may include unanticipated problems and additional costs relating to:
+
+Failure to enter into or successfully perform under collaboration agreements and obtain timely regulatory approval for our product candidates and indications would impact our ability to generate revenues and could make it more difficult to attract investment capital for funding our operations. Any of these possibilities could materially and adversely affect our operations and require us to curtail or cease certain programs.
+
+During fiscal 2024, net cash used in operating activities was $31,461,441 compared to net cash used in operating activities of $29,271,346 in fiscal 2023. The increase in cash used in operations in fiscal 2024 compared with fiscal 2023 was a result of a higher net loss in fiscal 2023 due to a change in fair value off warrant liabilities, offset by the gain on the sale of Vyleesi and working capital changes. 
+
+During fiscal 2024, net cash provided by investing activities was $12,450,364 which consisted of $9,500,000 related to proceeds from the sale of Vyleesi and $2,992,890 for the maturity of marketable securities offset by $42,526 used for the purchases of property and equipment. During fiscal 2023, net cash used in investing activities was $3,426,757 which consisted of $2,992,830 used for the purchase of marketable securities and $433,927 of leasehold improvements.
+
+During fiscal 2024, net cash provided by financing activities was $20,548,891 which consisted of proceeds from the sale of common stock and warrants, net of issuance costs of $14,693,779 and the exercise of outstanding warrants of $6,045,642 offset by payment of withholding taxes related to restricted stock units of $56,401, and payment of finance lease obligations of $106,392. During fiscal 2023, net cash provided by financing activities was $10,748,591 which consisted of proceeds from the sale of common stock and warrants, net of issuance costs of $10,995,497 and the exercise of outstanding warrants of $78 offset by payment of withholding taxes related to restricted stock units of $146,062, and payment of finance lease obligations of $100,922.
+
+We had a net loss for fiscal 2024 of $29,736,113. We may not attain profitability in future years, which is dependent on numerous factors, including, but not limited to whether and when development and sales milestones are met, regulatory actions by the FDA and other regulatory bodies, the performance of our licensees, and market acceptance of our products.
+
+We expect to incur significant expenses as we continue to develop our MCr product candidates. These expenses, among other things, have had and will continue to have an adverse effect on our stockholders’ equity, total assets, and working capital.
+
+We have incurred cumulative negative cash flows from operations since our inception, and have expended, and expect to continue to expend in the future, substantial funds to complete our planned product development efforts. Continued operations are dependent upon existing licenses, including royalties and milestones, to complete equity or debt financing activities and enter into additional licensing or collaboration arrangements. As of June 30, 2024, our cash, cash equivalents and marketable securities were $9,527,396 with current liabilities of $9,657,681. 
+
+Our obligations include aggregate lease obligations of $426,556 for the year ending June 30, 2025 and $163,782 for the years ending June 30, 2026 and 2027, and aggregate inventory purchase commitments of $1,976,450 which include $944,150 in current liabilities as of June 30, 2024 and $1,032,300 included in other long-term liabilities. 
+
+We intend to utilize existing capital resources for general corporate purposes and working capital, including preclinical and clinical development of our MC1r and MC4r programs, and development of other portfolio products. 
+
+Based on our June 30, 2024, cash and cash equivalents, we have concluded that substantial doubt exists about our ability to continue as a going concern for one year from the date our consolidated financial statements are issued. We are evaluating strategies to obtain additional funding for future operations which include but are not limited to obtaining equity financing, issuing debt, or reducing planned expenses. A failure to raise additional funding or to effectively implement cost reductions could harm our business, results of operations, and future prospects. If we are not able to secure adequate additional funding in future periods, we would be forced to make additional reductions in certain expenditures. This may include liquidating assets and suspending or curtailing planned programs. We may also have to delay, reduce the scope of, suspend, or eliminate one or more research and development programs or its commercialization efforts or pursue a strategic transaction. If we are unable to raise capital when needed or enter into a strategic transaction, then we may be required to cease operations, which could cause our stockholders to lose all or part of their investment. Based on our current existing cash and cash equivalents as of the date of this filing will be sufficient to fund currently anticipated operating expenses through the second half of calendar year 2024. 
+
+We will need additional funding to complete required clinical trials for our product candidates and development programs and, if those clinical trials are successful (which we cannot predict), to complete submission of required regulatory applications to the FDA. However, the COVID-19 pandemic and its resulting impact to economic conditions may negatively impact our operations, including possible effects on our financial condition, ability to access the capital markets on attractive terms or at all, liquidity, operations, suppliers, industry, and workforce. We will continue to evaluate the impact that these events could have on the operations, financial position, and the results of operations and cash flows during fiscal year 2025 and beyond.
+
+Item 7A. Quantitative and Qualitative

@@ -1,0 +1,237 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Management’s discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States (“GAAP”). GAAP represents a comprehensive set of accounting and disclosure rules and requirements, the application of which requires management judgments and estimates including, in certain circumstances, choices between acceptable GAAP alternatives. The preparation of these consolidated financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities, if any, at the date of the financial statements, and the reported amounts of revenue and expenses during the reporting period. We base our estimates on historical experience and various other assumptions that are believed to be reasonable under the circumstances. Actual results could differ from these estimates under different assumptions or conditions. Note 1 - Summary of Significant Accounting Policies of the Notes to Consolidated Financial Statements included in Part II, Item 8 - Financial Statements and Supplementary Data in this Annual Report on Form 10-K, contains a comprehensive summary of our significant accounting policies. The following is a discussion of our most critical accounting policies, estimates, judgments and uncertainties that are inherent in our application of GAAP.
+
+RESULTS OF OPERATIONS
+
+Reportable Segments
+
+We operate our business through three reportable segments:
+
+•Storage and Terminal Solutions: primarily consists of engineering, procurement, fabrication, and construction services related to cryogenic and other specialty tanks and terminals for LNG, NGLs, hydrogen, ammonia, propane, butane, liquid nitrogen/liquid oxygen, and liquid petroleum. We also perform work related to traditional aboveground crude oil and refined product storage tanks and terminals. This segment also includes terminal balance of plant work, truck and rail loading/offloading facilities, and marine structures as well as storage tank and terminal maintenance and repair. Finally, we manufacture and sell precision engineered specialty tank products, including geodesic domes, aluminum internal floating roofs, floating suction and skimmer systems, roof drain systems and floating roof seals.
+
+•Utility and Power Infrastructure: primarily consists of engineering, procurement, fabrication, and construction services to support growing demand for LNG utility peak shaving facilities. We also perform traditional electrical work for public and private utilities, including construction of new substations, upgrades of existing substations, transmission and distribution line installations, and upgrades and maintenance including live wire work. Work may also include emergency and storm restoration services. We also provide construction services to a variety of power generation facilities, including natural gas fired facilities in simple or combined cycle configurations.
+
+•Process and Industrial Facilities: primarily consists of plant maintenance, repair, and turnarounds in the downstream and midstream markets for energy clients including refining and processing of crude oil, fractionating, and marketing of natural gas and natural gas liquids. We also perform engineering, procurement, fabrication, and construction for refinery upgrades and retrofits for renewable fuels, including hydrogen processing, production, loading and distribution facilities. We also construct thermal vacuum test chambers for aerospace and defense industries and other infrastructure for industries including petrochemical, sulfur, mining and minerals primarily in the extraction of non-ferrous metals, cement, agriculture, wastewater treatment facilities and other industrial customers.
+
+Overview
+
+Significant period to period changes in revenue, gross profits and operating results between fiscal 2024 and fiscal 2023 are discussed below on a consolidated basis for each segment. A discussion of results of operations changes between fiscal 2023 and fiscal 2022 is included in Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations of our Annual Report on Form 10-K for the year ended June 30, 2023, which was filed with the SEC on September 12, 2023.
+
+Matrix Service Company
+
+Results of Operations
+
+(In thousands)
+
+Operational Update
+
+During fiscal 2024, our markets and project opportunities remained strong, driving $1.1 billion of awards added to backlog during the year, and producing a total backlog of $1.4 billion and a book-to-bill ratio of 1.5. Many of these project awards are large construction projects that we expect to generate revenues and efficiently utilize our cost structure over a multi-year period with expected gross margins at our pre-pandemic historical gross margin range. The time to convert these awards to revenue is dependent on a variety of factors, many outside of our control. Despite these challenges, the company generated positive cash flows from operations during fiscal year 2024, which improved our overall cash balance by $60.8 million, reflecting our ability to efficiently manage capital and maintain financial stability. Combining expected forthcoming revenues from effective project execution and conversion of our historic backlog, we believe we are on a trajectory of upward growth and profitability. 
+
+Backlog
+
+We define backlog as the total dollar amount of revenue that we expect to recognize as a result of performing work that has been awarded to us through a signed contract, limited notice to proceed ("LNTP") or other type of assurance that we consider firm. The following arrangements are considered firm:
+
+•fixed-price awards;
+
+•minimum customer commitments on cost plus arrangements; and
+
+•certain time and material arrangements in which the estimated value is firm or can be estimated with a reasonable amount of certainty in both timing and amounts.
+
+For long-term maintenance contracts with no minimum commitments and other established customer agreements, we include only the amounts that we expect to recognize as revenue over the next 12 months. For arrangements in which we have received a LNTP, we include the entire scope of work in our backlog if we conclude that the likelihood of the full project proceeding is high. For all other arrangements, we calculate backlog as the estimated contract amount less revenue recognized as of the reporting date.
+
+The following table provides a summary of changes in our backlog for fiscal 2024:
+
+Calculated by dividing project awards by revenue recognized.
+
+Backlog was reduced primarily to account for a reduction of work available to us under an existing refinery maintenance program.
+
+In the Storage and Terminal Solutions segment, backlog increased by 194.9% as we booked $804.4 million of project awards during fiscal 2024. This segment includes significant opportunities for storage infrastructure projects related to natural gas, LNG, ammonia, hydrogen, NGLs and other forms of renewable energy. We believe LNG and hydrogen projects in particular will be key growth drivers for this segment. Bidding activity on LNG projects has been strong and we expect that to continue. 
+
+In the Utility and Power Infrastructure segment, we booked $104.1 million of project awards in fiscal 2024. Our opportunity pipeline for LNG peak shaving projects continues to be promising, however those awards, while significant, can be less frequent. Power delivery opportunities are expected to be driven over the long-term by increasing electrical demand and the 
+
+related electrical grid requirements. Project opportunities and bidding activity are strong for both the power delivery portion of the business and LNG peak shaving.
+
+In the Process and Industrial Facilities segment, we booked $182.4 million of project awards in fiscal 2024. Included in project awards is contract growth on a capital project at a biodiesel facility. Backlog in this segment was adjusted during the year to account for a reduction of work available under an existing refinery maintenance program. Client spending related to refinery maintenance and turnaround operations has continued to be strong, which also contributed significantly to project awards during the year. We continue to see demand for thermal vacuum chambers in the coming quarters, as well as increasing opportunities in mining and minerals, chemicals, and renewables. 
+
+Project awards in all segments are cyclical and are typically the result of a sales process that can take several months or years to complete. It is common for awards to shift from one period to another as the timing of awards is dependent upon a number of factors including changes in market conditions, permitting, off take agreements, project financing and other factors. Backlog volatility may increase for some segments from time to time when individual project awards are less frequent, but more significant. There is an inherent lag between the time a project is awarded and when it begins to have a material impact on revenue. This lag normally extends up to six months or longer in unique circumstances, depending on finalization of scopes, contracts, permits, and facility process requirements. Additionally, awards for larger construction projects may be recognized as revenue over a multi-year period as the projects may take a few years to complete. We expect to recognize approximately 47% of our total backlog reported as of June 30, 2024 as revenue within fiscal 2025.
+
+Fiscal 2024 Versus Fiscal 2023 
+
+Consolidated Results of Operations
+
+Revenue \- The decrease in overall revenue of $66.8 million, or 8%, was primarily attributable to reduced revenue volumes in our Process and Industrial Facilities segment partially offset by increases in the Storage and Terminal Solutions and Utility and Power Infrastructure segments.
+
+Gross profit \- Gross profit during fiscal 2024 increased by $9.7 million, or 31%. Gross margin was 5.6% compared to 3.9% in fiscal 2023. Strong project execution and improved margin opportunity on projects in progress during fiscal 2024 was partially offset by the under-recovery of construction overhead costs due to low revenue. The gross margin in fiscal 2023 was also negatively impacted by the under-recovery of construction overhead costs, as well as unfavorable changes in the estimated recovery of change orders, increased forecasted costs to complete certain midstream gas processing projects, and continued work on previously-booked projects with reduced gross margins awarded in a highly competitive time period.
+
+Selling, general and administrative expenses \- The increase in SG&A expenses of $1.8 million, or 3%, is primarily due to an increase in cash-settled stock-based compensation of $3.5 million, which increased due to a substantially higher stock price year over year. The increase was partially offset by a decrease in project pursuit costs of $2.2 million due to the timing of project 
+
+pursuits, however, we remain active in the market as we pursue additional project opportunities. We continue to focus on cost control in a high inflationary period as we work to leverage our cost control structure.
+
+Goodwill Impairment \- The Company did not record any goodwill impairment during fiscal 2024. In fiscal 2023 we recorded a goodwill impairment of $12.3 million. See Item 8. Financial Statements, Note 4 - Goodwill and Other Intangible Assets, for more information about the impairment.
+
+Restructuring costs - The Company incurred $0.5 million of restructuring costs during fiscal 2024. During fiscal 2023, we incurred $3.1 million of restructuring costs, which included severance and other personnel-related costs in connection with our restructuring plan and our closure of an underperforming office. See Item 8. Financial Statements, Note 14 - Restructuring Costs, for more information about our business improvement plan. 
+
+Interest expense \- The decrease in interest expense of $0.9 million, or 44%, is primarily due to lower average outstanding borrowings as the Company repaid all outstanding borrowings under its revolving credit facility during fiscal 2024.
+
+Interest income \- The increase in interest income of $1.0 million is primarily due to an increase in our cash balance. In fiscal 2024 we invested excess cash balances in interest-bearing cash accounts.
+
+Provision for income taxes \- Our effective tax rates for the fiscal years 2024 and 2023 were 0.1% and 0.8%, respectively The effective tax rates during both periods were impacted by valuation allowances of $8.5 million and $12.6 million, respectively, placed on deferred tax assets generated during the fiscal year. We will continue to place valuation allowances on newly generated deferred tax assets and will realize the benefit associated with the deferred tax assets for which the valuation allowance has been provided to the extent we generate taxable income in the future.
+
+Other income - The increase in other income of $3.0 million, is primarily due to gains on sales of assets recorded during the year. In the first quarter of fiscal 2024, we recognized a gain of $2.5 million on the sale of a previously utilized facility in Burlington, Ontario. We received $2.5 million in net proceeds from the sale. During the second quarter of fiscal 2024, we recognized a gain of $2.0 million from the sale of a facility in Catoosa, Oklahoma for $2.7 million in net proceeds. The facility was previously utilized for our industrial cleaning business, which was sold during the fourth quarter of fiscal 2023. We recorded a $2.9 million gain on the sale of our industrial cleaning business in the fourth quarter of fiscal 2023.
+
+Results of Operations by Business Segment
+
+Storage and Terminal Solutions
+
+Storage and Terminal Solutions revenues increased by $21.1 million, or 8%, in fiscal 2024 compared to fiscal 2023. The increase is primarily attributable to increases in work performed for specialty vessel projects awarded in previous fiscal years. Storage and Terminal Solutions gross profit increased by $0.8 million, or 8%, in the fiscal 2024 compared to fiscal 2023. The segment gross margin was 4.1% for both fiscal years 2024 and 2023. Project execution was strong for the segment; however, the segment continues to be impacted by the under-recovery of construction overhead costs. 
+
+Utility and Power Infrastructure
+
+Utility and Power Infrastructure revenues increased by $14.4 million, or 9%, in fiscal 2024 compared to fiscal 2023. The increase is primarily attributable to higher volumes of work from peak shaving projects, partially offset by lower volumes of power delivery.
+
+Utility and Power Infrastructure gross profit decreased by $1.5 million, or 6%, in fiscal 2024 compared to fiscal 2023. The segment gross margin was 5.0% for the fiscal 2024 compared to 6.3% in fiscal 2023. During fiscal 2024, project execution was strong for the segment; however, margin was impacted by the under-recovery of construction overhead costs as we have shifted resources to this segment to support large construction projects which are in their early stages. The segment gross margin for fiscal 2023 was negatively impacted by work on now-completed projects with previously reduced gross margins and projects that were bid competitively. These negative impacts were partially offset by strong execution of cost reimbursable power delivery work.
+
+Process and Industrial Facilities
+
+Process and Industrial Facilities revenues decreased by $103.6 million, or 28%, in fiscal 2024 compared to fiscal 2023. The decrease is primarily attributable to lower revenue volumes for midstream gas processing projects, mining and minerals, industrial facilities and refinery maintenance and turnarounds. These decreases were offset by revenue increases for a renewable energy facility in addition to increases in revenue associated with thermal vacuum chambers.
+
+Process and Industrial Facilities gross profit increased by $11.1 million, or 103% in fiscal 2024 compared to fiscal 2023. The segment gross margin was 8.2% for fiscal 2024 compared to 2.9% for fiscal 2023. The segment gross margin for the fiscal 2024 was positively impacted by strong project execution. The segment gross margin for fiscal 2023 was negatively impacted by unfavorable changes in the estimated recovery of change orders and increased forecasted costs to complete certain midstream gas processing construction projects, which resulted in the projects reducing gross profit by $12.6 million for the year. 
+
+Corporate
+
+Unallocated corporate revenue and expenses net to $33.2 million during fiscal 2024 compared to $28.5 million in fiscal 2023. The increase was primarily due to higher cash-settled stock-based compensation due to an increase in the price of our stock, higher stock compensation expense, and legal costs related to a jury trial that resulted in a verdict in our favor, partially offset by the recognition of $1.2 million of revenue due to the favorable resolution of that dispute, see Note 7 - Commitments and Contingencies, Litigation, for more information.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Overview
+
+We define liquidity as the ongoing ability to pay our liabilities as they become due, fund business operations and meet all monetary contractual obligations. Our primary sources of liquidity at June 30, 2024 were unrestricted cash and cash equivalents on hand, capacity under our ABL Facility (see "ABL Credit Facility" in this Liquidity and Capital Resources section and Item 8. Financial Statements and Supplementary Data, Note 5 - Debt, for more information), and cash generated from operations. Unrestricted cash and cash equivalents at June 30, 2024 totaled $115.6 million and availability under the ABL Facility totaled $54.0 million, resulting in total liquidity of $169.6 million. During fiscal 2024, liquidity increased $77.0 million, primarily as a result of cash provided by operations.
+
+The following table provides a reconciliation of cash, cash equivalents and restricted cash in the Consolidated Balance Sheets to the total cash, cash equivalents and restricted cash shown in the Consolidated Statements of Cash Flows (in thousands):
+
+The following table provides a summary of changes in our liquidity for the fiscal year ended June 30, 2024 (in thousands):
+
+Includes $5.4 million of net proceeds in total from the sale of our Burlington, Ontario facility and Catoosa, Oklahoma facility that were disposed of in the first and second quarter of fiscal 2024, respectively. See Part II. Item 8, Financial Statements, Note 3 - Property, Plant and Equipment, for more information. The remaining asset sales comprised of equipment sold in the normal course of business.
+
+Factors that routinely impact our short-term liquidity and may impact our long-term liquidity include, but are not limited to:
+
+•changes in costs and estimated earnings in excess of billings on uncompleted contracts and billings on uncompleted contracts in excess of costs due to contract terms that determine the timing of billings to customers and the collection of those billings:
+
+◦some cost-plus and fixed price customer contracts are billed based on milestones which may require us to incur significant expenditures temporarily prior to collections from our customers;
+
+◦some fixed-price customer contracts allow for significant upfront billings at the beginning of a project, which temporarily increases liquidity near term;
+
+◦time and material contracts are normally billed in arrears. Therefore, we are routinely required to carry these costs until they can be billed and collected; and
+
+◦some of our large construction projects may require security in the form of letters of credit or significant retentions. Retentions are normally held until certain contractual milestones are achieved;
+
+•other changes in working capital, including the timing of tax payments and refunds; and
+
+•capital expenditures.
+
+Other factors that may impact both short and long-term liquidity include:
+
+•contract disputes;
+
+•collection issues, including those caused by weak commodity prices, economic slowdowns or other factors which can lead to credit deterioration of our customers;
+
+•strategic investments in new operations;
+
+•borrowing constraints under our ABL Facility and maintaining compliance with all covenants contained in the ABL Facility;
+
+•acquisitions and disposals of businesses or assets; and
+
+•purchases of shares under our stock buyback program.
+
+ABL Credit Facility
+
+On September 9, 2021, the Company and our primary U.S. and Canada operating subsidiaries entered into an asset-based credit agreement, which was most recently amended on May 3, 2024 (as amended, the "ABL Facility"), with Bank of Montreal, as Administrative Agent, Swing Line Lender and a Letter of Credit Issuer, and the lenders named therein. The maximum amount of loans under the ABL Facility is limited to $90.0 million. The ABL Facility is intended to be used for working capital, capital expenditures, issuances of letters of credit and other lawful purposes. Our obligations under the ABL Facility are guaranteed by substantially all of our U.S. and Canadian subsidiaries and are secured by a first lien on all our assets under the ABL Facility. The ABL Facility matures, and any outstanding amounts become due and payable, on September 9, 2026.
+
+The maximum amount that we may borrow under the ABL Facility is subject to a borrowing base, which is based on restricted cash plus a percentage of the value of certain accounts receivable, inventory and equipment, reduced for certain reserves. We are required to maintain a minimum of $25.0 million of restricted cash at all times, but such amounts are also included in the borrowing base. The borrowing base is recalculated on a monthly basis and at June 30, 2024, our borrowing base was $60.9 million. During fiscal 2024, the Company repaid all outstanding borrowings under the ABL Facility. The Company had $6.9 million in letters of credit outstanding, which resulted in availability of $54.0 million under the ABL Facility. Our borrowing base has ranged from $60.9 million to $74.6 million during fiscal 2024.
+
+Borrowings under the ABL Facility bear interest through maturity at a variable rate based upon, at our option, an annual rate of either a base rate (“Base Rate”), an Adjusted Term Secured Overnight Financing Rate ("Adjusted Term SOFR"), or at the Canadian Prime Rate, plus an applicable margin. The Adjusted Term SOFR is defined as (i) the SOFR plus (ii) 11.448 basis points for a one-month tenor and 26.161 basis points for a three-month tenor; provided that the Adjusted Term SOFR cannot be below zero. The Base Rate is defined as a fluctuating interest rate equal to the greater of: (i) rate of interest announced by Bank of Montreal from time to time as its prime rate; (ii) the U.S. federal funds rate plus 0.50%; (iii) Adjusted Term SOFR for one month period plus 1.00%; or (iv) 1.00%. Depending on the amount of average availability, the applicable margin is between 1.00% to 1.50% for Base Rate and Canadian Prime Rate borrowings, which includes either U.S. or Canadian prime rate, and between 2.00% and 2.50% for Adjusted Term SOFR borrowings. Interest is payable either (i) monthly for Base Rate or Canadian Prime Rate borrowings or (ii) the last day of the interest period for Adjusted Term SOFR borrowings, as set forth in the ABL Facility. The fee for undrawn amounts is 0.25% per annum and is due quarterly. 
+
+The ABL Facility contains customary conditions to borrowings, events of default and covenants, including, but not limited to, covenants that limit our ability to sell assets, engage in mergers and acquisitions, incur, assume or permit to exist additional indebtedness and guarantees, create or permit to exist liens, pay cash dividends, issue equity instruments, make distribution or redeem or repurchase capital stock. In the event that our availability is less than the greater of (i) $15.0 million and (ii) 15.00% of the commitments under the ABL Facility then in effect, a consolidated Fixed Charge Coverage Ratio of at least 1.00 to 1.00must be maintained. We were in compliance with all covenants of the ABL Facility as of June 30, 2024
+
+Cash Flows Provided by Operating Activities
+
+Cash flows provided by operating activities for the fiscal year ended June 30, 2024 totaled $72.6 million. Major components of cash flows provided by operating activities for the year ended June 30, 2024 are as follows: 
+
+Gain on sale of property, plant and equipment includes a $4.5 million total gain on the sale of our Burlington, Ontario facility and Catoosa, Oklahoma facility that were disposed of in the first quarter of fiscal 2024 and the second quarter of fiscal 2024, respectively. (see Part II. Item 8-Financial Statements and Supplementary Data, Note 3 - Property, Plant and Equipment, for more information.) The remaining gain on the sale of property, plant and equipment comprised of equipment sold in the normal course of business.
+
+Cash effect of changes in operating assets and liabilities at June 30, 2024 in comparison to June 30, 2023 include the following:
+
+•Accounts receivable, excluding credit losses recognized during the period and including retention amounts classified as non-current, increased $12.1 million during fiscal 2024, which decreased cash flows from operating activities. The variance is primarily attributable to the timing of billing and collections.
+
+•Costs and estimated earnings in excess of billings on uncompleted contracts ("CIE") decreased $11.0 million, which increased cash flows from operating activities. Billings on uncompleted contracts in excess of costs and estimated earnings ("BIE") increased $85.9 million, which increased cash flows from operating activities. CIE and BIE balances can experience significant fluctuations based on business volume and the timing of when job costs are incurred and the timing of customer billings and payments.
+
+•Accounts payable decreased by $10.4 million during the fiscal year ended June 30, 2024, which decreased cash flows from operating activities. These operating liabilities can fluctuate based on the timing of vendor payments; accruals; lease commencement, lease payments, expiration, or termination of operating leases; business volumes; and other timing differences.
+
+•Inventories, income taxes receivable, prepaid expenses, other current assets, operating right-of-use lease assets and other assets, non-current, decreased $4.9 million, during fiscal year 2024, which increased cash flows from operating activities. These operating assets can fluctuate based on the timing of inventory builds and draw-downs, accrual and receipt of income taxes receivable; prepayments of certain expenses; lease commencement, passage of time, expiration, or termination of operating leases; business volumes; and other timing differences. 
+
+•Accrued wages and benefits, accrued insurance, operating lease liabilities, other accrued expenses, and other liabilities, non-current increased by $3.0 million during fiscal year 2024, which increased cash flows from operating activities. These operating liabilities can fluctuate based on the timing of vendor payments; accruals; lease commencement, lease payments, expiration, or termination of operating leases; business volumes; and other timing differences.
+
+Cash Flows Used by Investing Activities
+
+Investing activities used $0.9 million of cash in the fiscal 2024 primarily due to capital expenditures, offset by proceeds from asset sales. In the first quarter of fiscal 2024, we sold a previously utilized facility in Burlington, Ontario for $2.7 million in net proceeds. In the second quarter of fiscal 2024, we sold a facility in Catoosa, Oklahoma. We closed these previously utilized facilities as they were no longer strategic to the future of the business. In the third quarter of fiscal 2024 we purchased a fabrication facility in Bakersfield, California for $4.1 million to replace a facility currently being leased by the Company. 
+
+Cash Flows Used by Financing Activities
+
+Financing activities used $10.4 million of cash in the fiscal 2024 primarily due to $10.0 million in advances and $20.0 million in repayments under our ABL facility. As of June 30, 2024 we had no outstanding borrowings under our ABL facility.
+
+Dividend Policy
+
+We have never paid cash dividends on our common stock and the terms of our Credit Agreement prohibit us from paying cash dividends. Any future dividend payments will depend on the terms of our ABL Facility, our financial condition, capital requirements and earnings as well as other relevant factors.
+
+Stock Repurchase Program
+
+We may repurchase common stock pursuant to the Stock Buyback Program, which was approved by the board of directors in November 2018. Under the program, the aggregate number of shares repurchased may not exceed 2,707,175 shares. We may repurchase our stock from time to time in the open market at prevailing market prices or in privately negotiated transactions and are not obligated to purchase any shares. The program will continue unless and until it is modified or revoked by the Board of Directors. We made no repurchases under the program during fiscal 2024 and have no current plans to repurchase stock. As of June 30, 2024, there were 1,349,037 shares available for repurchase under the Stock Buyback Program. The terms of our ABL Facility limit share repurchases to $2.5 million per fiscal year provided that we meet certain availability thresholds and do not violate our Fixed Charge Coverage Ratio financial covenant.
+
+Treasury Shares
+
+We had 579,422 treasury shares as of June 30, 2024 and intend to utilize these treasury shares in connection with equity awards under our stock incentive plans and for sales to the Employee Stock Purchase Plan.
+
+Material Cash Requirements from Contractual and Other Obligations
+
+As of June 30, 2024, our short-term and long-term material cash requirements for known contractual and other obligations were as follows:
+
+•Operating Leases: In the normal course of business, we lease real estate and equipment under various arrangements which are classified as operating leases. Future payments for such leases, excluding leases with initial terms of one year or less, were $29.6 million at June 30, 2024, with $5.3 million payable within the next 12 months. Refer to Part II. Item 8, Financial Statements, Note 8 - Leases, for more information about our lease obligations and the timing of expected future payments.
+
+Off-Balance Sheet Arrangements and Other Commitments
+
+The terms of our construction contracts frequently require that we obtain from surety companies, and provide to our customers, surety bonds as a condition to the award of such contracts. These surety bonds are issued in return for premiums, which vary depending on the size and type of the bond, and secure our payment and performance obligations under such contracts. We have agreed to indemnify the surety companies for amounts, if any, paid by them in respect of surety bonds issued on our behalf. Surety bonds expire at various times ranging from final completion of a project to a period extending beyond contract completion in certain circumstances. Such amounts can also fluctuate from period to period based upon the mix and level of our bonded operating activity. As of June 30, 2024, there were $101.3 million of surety bonds in force, of which we expect $93.5 million to expire within the next 12 months. Of the bonds in force, $70.6 million related to performance bonds for ongoing projects and the remainder related to contractor licensing, liens, and other bonds. We are not aware of any losses in connection with surety bonds that have been posted on our behalf, and we do not expect to incur significant losses in the foreseeable future.
+
+We issue letters of credit under our ABL Facility in the normal course of business to support workers' compensation insurance programs or certain construction contracts. As of June 30, 2024, we had $6.9 million of letters of credit outstanding, nearly all of which expire within the next 12 months. The letters of credit that support our workers’ compensation programs are expected to renew annually through the term of our credit facility. The letters of credit that support construction contracts carry expiration dates that expire in fiscal 2025.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+Revenue Recognition
+
+Revenue for contracts that satisfy the criteria for over time recognition is recognized as the work progresses. The Company measures transfer of control of the performance obligation utilizing the percentage-of-completion method, which is based on costs incurred to date compared to the total estimated costs at completion, since it best depicts the transfer of control of assets being created or enhanced to the customer. Costs incurred may include direct labor, direct materials, subcontractor costs and indirect costs, such as salaries and benefits, supplies and tools, equipment costs and insurance costs. Indirect costs are charged to projects based upon direct costs and overhead allocation rates per dollar of direct costs incurred or direct labor hours worked. 
+
+Under the percentage-of-completion method, the use of estimated costs to complete each performance obligation is a significant variable in the process of determining recognized revenue and is a significant factor in the accounting for such performance obligations. Significant estimates that impact the cost to complete each performance obligation are materials, components, equipment, labor and subcontracts; labor productivity; schedule durations, including subcontractor or supplier progress; unpriced change orders; contract disputes including claims; achievement of contractual performance requirements; and contingencies, among others. 
+
+The cumulative impact of revisions in total cost estimates during the progress of work is reflected in the period in which these changes become known, including, to the extent required, the reversal of profit recognized in prior periods and the recognition of losses expected to be incurred on performance obligations in progress. Due to the various estimates inherent in contract accounting, actual results could differ from those estimates, which could result in material changes to the Company’s Consolidated Financial Statements and related disclosures. See Note 2 - Revenue for further discussion.
+
+Goodwill
+
+Goodwill represents the excess of the purchase price of acquisitions over the acquisition date fair value of the net identifiable tangible and intangible assets acquired. In accordance with current accounting guidance, goodwill is not amortized and is tested at least annually for impairment at the reporting unit level, which is a level below our reportable segments.
+
+We perform our annual impairment test in the fourth quarter of each fiscal year, or in between annual tests whenever events or changes in circumstances indicate the carrying value of goodwill may not be recoverable, to determine whether an impairment exists and to determine the amount of headroom. We define "headroom" as the percentage difference between the fair value of a reporting unit and its carrying value excluding working capital. The goodwill impairment test involves comparing management’s estimate of the fair value of a reporting unit with its carrying value, including goodwill. If the fair value of a reporting unit exceeds its carrying value, then goodwill is not impaired. If the fair value of a reporting unit is less than its carrying value, then goodwill is impaired to the extent of the difference, but the impairment may not exceed the balance of goodwill assigned to that reporting unit.
+
+We utilize a discounted cash flow analysis, referred to as an income approach, and market multiples, referred to as a market approach, to determine the estimated fair value of our reporting units. For the income approach, significant judgments and assumptions including forecasted project awards, discount rate, anticipated revenue growth rate, gross margins, operating expenses, working capital needs and capital expenditures are inherent in the fair value estimates, which are based on our operating and capital budgets and on our strategic plan. As a result, actual results may differ from the estimates utilized in our income approach. For the market approach, significant judgments and assumptions include the selection of guideline companies, forecasted guideline company EBITDA (as defined in Note 4 - Goodwill) and our forecasted EBITDA (as defined in Note 4 - Goodwill). The use of alternate judgments and/or assumptions could result in a fair value that differs from our estimate and could result in the recognition of additional impairment charges in the financial statements. As a test for reasonableness, we also consider the combined fair values of our reporting units to our market capitalization.
+
+We performed our annual goodwill impairment test as of May 31, 2024, which resulted in no impairment. The fiscal 2024 test indicated that two reporting units with a combined total of $16.6 million of goodwill as of June 30, 2024 were at higher risk of future impairment. If our view of project opportunities or gross margins deteriorates, particularly for the higher risk reporting units, then we may be required to record an impairment of goodwill. 
+
+We considered the amount of headroom for each reporting unit when determining whether an impairment existed. The amount of headroom varies by reporting unit. Our significant assumptions, including revenue growth rates, gross margins, discount rate and other factors may change in the future based on the changing economic and competitive environment in which we operate. Assuming that all other components of our fair value estimate remain unchanged, a change in the following assumptions would have the following effect on headroom:
+
+Income Taxes
+
+We use the asset and liability approach for financial accounting and reporting for income taxes. Deferred income tax assets and liabilities are computed annually for differences between the financial statement and tax bases of assets and liabilities that will result in taxable or deductible amounts in the future based on enacted tax laws and rates applicable to the periods in which the differences are expected to affect taxable income. Valuation allowances based on our judgments and estimates are established when necessary to reduce deferred tax assets to the amount expected to be realized in future operating results. Our estimates are based on facts and circumstances in existence as well as interpretations of existing tax regulations and laws applied to the facts and circumstances, with the help of professional tax advisors. Therefore, we estimate and provide for amounts of additional income taxes that may be assessed by the various taxing authorities.
+
+Loss Contingencies
+
+Various legal actions, claims and other contingencies arise in the normal course of our business. Contingencies are recorded in the consolidated financial statements, or are otherwise disclosed, in accordance with ASC 450-20, “Loss Contingencies”. We use a case-by-case evaluation of the underlying data and update our evaluation as further information becomes known. Specific reserves are provided for loss contingencies to the extent we conclude that a loss is both probable and estimable. However, the results of litigation are inherently unpredictable and the possibility exists that the ultimate resolution of one or more of these matters could result in a material effect on our financial position, results of operations or liquidity.
+
+Item 7A. Quantitative and Qualitative

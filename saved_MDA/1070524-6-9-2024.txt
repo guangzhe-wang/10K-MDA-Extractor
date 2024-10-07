@@ -1,0 +1,407 @@
+. | 
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+---|--- 
+
+The following discussion is an analysis of the Company’s results of operations for years shown and was derived from the audited consolidated financial statements of Greene County Bancorp, Inc. This discussion and analysis should be read in conjunction with the consolidated financial statements and related notes.
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+This annual report contains forward-looking statements. Greene County Bancorp, Inc. desires to take advantage of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995 and is including this statement for the express purpose of availing itself of the protections of the safe harbor with respect to all such forward-looking statements. These forward-looking statements, which are included in this annual report, describe future plans or strategies and include Greene County Bancorp, Inc.’s expectations of future financial results. The words “believe,” “may,” “will,” “intend,” “expect,” “anticipate,” “project,” and similar expressions identify forward-looking statements. Greene County Bancorp, Inc.’s ability to predict results or the effect of future plans or strategies or qualitative or quantitative changes based on market risk exposure is inherently uncertain. Factors that could affect actual results include but are not limited to:
+
+These factors should be considered in evaluating the forward-looking statements, and undue reliance should not be placed on such statements, since results in future periods may differ materially from those currently expected because of various risks and uncertainties.
+
+Index 
+
+Selected Financial Data
+
+Ratio of net income to average total assets.
+
+Ratio of net income to average shareholders’ equity.
+
+The difference between the weighted average yield on interest-earning assets and the weighted average cost of interest-bearing liabilities.
+
+Net interest income as a percentage of average interest-earning assets.
+
+Noninterest expense divided by the sum of net interest income and noninterest income.
+
+Dividends per share divided by basic earnings per share. This calculation does not take into account the waiver of dividends by Greene County Bancorp, MHC.
+
+Dividends declared divided by net income.
+
+Shareholders’ equity divided by outstanding shares.
+
+The Company adopted the CECL accounting standard effective July 1, 2023. For periods subsequent to adoption, the allowance is calculated under the CECL methodology. The periods prior to adoption, the allowance calculation was based on the incurred loss methodology.
+
+Index 
+
+GENERAL
+
+Greene County Bancorp, Inc. (the “Company”) is the holding company for The Bank of Greene County (the “Bank”), a community-based bank offering a variety of financial services to meet the needs of the communities it serves. Greene County Bancorp, Inc.’s stock is traded on the NASDAQ Capital Market under the symbol “GCBC.” Greene County Bancorp, MHC is a mutual holding company that owns 54.1% of the Company’s outstanding common stock. The Bank of Greene County is a federally chartered savings bank. The Bank of Greene County’s principal business is attracting deposits from customers within its market area and investing those funds primarily in loans, with excess funds used to invest in securities. At June 30, 2024, The Bank of Greene County operated 18 full-service branches, an administration office, lending centers, an operations center, customer call center, and a wealth management center in New York’s Hudson Valley and Capital District Regions of New York State. In June 2004, Greene County Commercial Bank (“Commercial Bank”) was opened for the limited purpose of providing financial services to local municipalities. The Commercial Bank is a subsidiary of The Bank of Greene County, and is a New York State-chartered commercial bank. In June 2011, Greene Property Holdings, Ltd. was formed as a New York corporation that has elected under the Internal Revenue Code to be a real estate investment trust. Greene Properties Holding, Ltd. is a subsidiary of The Bank of Greene County. Certain mortgages and notes held by The Bank of Greene County were transferred to and are beneficially owned by Greene Property Holdings, Ltd. The Bank of Greene County continues to service these loans.
+
+Overview of the Company’s Activities and Risks
+
+The Company’s results of operations depend primarily on its net interest income, which is the difference between the income earned on the Company’s loan and securities portfolios and its cost of funds, consisting of the interest paid on deposits and borrowings. Results of operations are also affected by the Company’s provision for credit losses, noninterest income and noninterest expense. Noninterest income consists primarily of fees and service charges. The Company’s noninterest expense consists principally of compensation and employee benefits, occupancy, equipment and data processing, and other operating expenses. Results of operations are also significantly affected by general economic and competitive conditions, changes in interest rates, as well as government policies and actions of regulatory authorities. Additionally, future changes in applicable law, regulations or government policies may materially affect the Company.
+
+To operate successfully, the Company must manage various types of risk, including but not limited to, market or interest rate risk, credit risk, transaction risk, liquidity risk, security risk, strategic risk, reputation risk and compliance risk.
+
+Market risk is the risk of loss from adverse changes in market prices and/or interest rates. Since net interest income (the difference between interest earned on loans and investments and interest paid on deposits and borrowings) is the Company’s primary source of revenue. Net interest income is affected by changes in interest rates as well as fluctuations in the level and duration of the Company’s assets and liabilities.
+
+Interest rate risk is the most significant market risk affecting the Company. It is the exposure of the Company’s net interest income to adverse movements in interest rates. In addition to directly impacting net interest income, changes in interest rates can also affect the amount of new loan originations, the ability of borrowers and debt issuers to repay loans and debt securities, the volume of loan repayments and refinancing, and the flow and mix of deposits.
+
+Credit risk is the risk to the Company’s earnings and shareholders’ equity that results from customers, to whom loans have been made and to the issuers of debt securities in which the Company has invested, failing to repay their obligations. The magnitude of risk depends on the capacity and willingness of borrowers and debt issuers to repay and the sufficiency of the value of collateral obtained to secure the loans made or investments purchased.
+
+Liquidity risk is the risk the Company may not be able to satisfy current or future financial commitments or may become unduly reliant on alternate funding sources. The Company’s objective is to fund balance sheet growth while meeting the cash flow requirements of depositors. Management is responsible for liquidity monitoring and has available different sources of liquidity as requirements and demands change. These demands include loan growth and repayments, security purchases and maturities, deposit inflows and outflows, and payments on borrowings. Management continually monitors trends to identify patterns that might improve the predictability and timing of the Company’s liquidity position.
+
+Operational risk is the risk to current or anticipated earnings or capital arising from inadequate or failed internal processes or systems, the misconduct or errors of people, and adverse external events. Operational losses result from internal fraud; external fraud including cybersecurity risks; employment practices and workplace safety, clients, products, and business practices; damage to physical assets; business disruption and system failures; and execution, delivery, and process management.
+
+Index 
+
+Critical Accounting Policies
+
+The accounting and reporting policies followed by the Company conform, in all material respects, to accounting principles generally accepted in the United States of America (“GAAP”) and to general practices within the financial services industry. In the course of normal business activity, management must select and apply many accounting policies and methodologies and make estimates and assumptions that lead to the financial results presented in the Company’s consolidated financial statements and accompanying notes. There are uncertainties inherent in making these estimates and assumptions, which could materially affect the Company’s financial condition or results of operations.
+
+Critical accounting estimates as those estimates made in accordance with GAAP that involve a significant level of estimation uncertainty and have had or are reasonably likely to have a material impact on the financial condition or results of operations. The more significant of these policies are summarized in Note 1 to the consolidated financial statements of this Annual Report Form 10-K. Not all significant accounting policies require management to make difficult, subjective or complex judgments. The allowance for credit losses on loans and unfunded commitments policies noted below are deemed the Company’s critical accounting estimate.
+
+The allowance for credit losses consists of the allowance for credit losses for loans and unfunded commitments. The measurement of Current Expensed Credit Losses (“CECL”) on financial instruments requires an estimate of the credit losses expected over the life of an exposure (or pool of exposures). The estimate of expected credit losses under the CECL approach is based on relevant information about past events, current conditions, and reasonable and supportable forecasts that affect the collectability of the reported amounts. Historical loss experience is generally the starting point for estimating expected credit losses. The Company then considers whether the historical loss experience should be adjusted for asset-specific risk characteristics or current conditions at the reporting date that did not exist over the period from which historical experience was used. Finally, the Company considers forecasts about future economic conditions that are reasonable and supportable. The allowance for credit losses for loans, as reported in our consolidated statements of financial condition, are adjusted by a provision (expense) for credit losses, which is recognized in earnings, and reduced by the charge-off of loans, net of recoveries. The allowance for credit losses on unfunded commitments represents the expected credit losses on off-balance sheet commitments such as unfunded commitments to extend credit and standby letters of credit. However, a liability is not recognized for commitments unconditionally cancellable by the Company. The allowance for credit losses on unfunded commitments is determined by estimating future draws and applying the expected loss rates on those draws, and is included in accrued expenses and other liabilities on the Company’s consolidated statements of financial condition.
+
+Management of the Company considers the accounting policy relating to the allowance for credit losses to be a critical accounting estimate given the uncertainty in evaluating the level of the allowance required to cover management’s estimate of all expected credit losses over the expected contractual life of our loan portfolios. Determining the appropriateness of the allowance is complex and requires judgment by management about the effect of matters that are inherently uncertain. Subsequent evaluations of the then-existing loan portfolios, in light of the factors then prevailing, may result in significant changes in the allowance for credit losses in those future periods. While management’s current evaluation of the allowance for credit losses indicates that the allowance is appropriate, the allowance may need to be increased under adversely different conditions or assumptions. Going forward, the impact of utilizing the CECL approach to calculate the allowance for credit losses will be significantly influenced by the composition, characteristics and quality of our loan portfolios, as well as the prevailing economic conditions and forecasts utilized. Changes in the national unemployment rate and national GDP could have a material impact on the model’s estimation of the allowance. Material changes to these and other relevant factors may result in greater volatility to the allowance for credit losses, and therefore, greater volatility to our reported earnings. This critical accounting policy and its application are periodically reviewed with the Audit Committee and the Board of Directors.
+
+Management’s methodology in determining the allowance for credit losses on loans and unfunded commitments can be found in Note 1 to the consolidated financial statements of this Annual Report Form 10-K. The activity in the allowance for credit losses on loans and unfunded commitments is depicted in supporting tables in Note 4 to the consolidated financial statements of this Annual Report Form 10-K.
+
+Management of Credit Risk
+
+Management considers credit risk to be an important risk factor affecting the financial condition and operating results of the Company. The potential for loss associated with this risk factor is managed through a combination of policies approved by the Company’s Board of Directors, the monitoring of compliance with these policies, and the periodic reporting and evaluation of loans with problem characteristics. Policies relate to the maximum amount that can be granted to a single borrower and such borrower’s related interests, the aggregate amount of loans outstanding by type in relation to total assets and capital, loan concentrations, loan-to-collateral value ratios, approval limits and other underwriting criteria. Policies also exist with respect to the rating of loans, determination of when loans should be placed on a non-performing status and the factors to be considered in establishing the Company’s allowance for credit losses. Management also considers credit risk when evaluating potential and current holdings of securities. Credit risk is a critical component in evaluating corporate debt securities. The Company has purchased municipal securities as part of its strategy based on the fact that such securities can offer a higher tax-equivalent yield than other similar investments.
+
+Index 
+
+FINANCIAL OVERVIEW
+
+Net income for the year ended June 30, 2024 amounted to $24.8 million, or $1.45 per basic and diluted share, as compared to $30.8 million, or $1.81 per basic and diluted share, for the year ended June 30, 2023, a decrease of $6.0 million, or 19.5%. The decrease in net income was due to an increase of $29.3 million in interest expense partially offset by an increase of $19.0 million in interest income. The provision for credit losses amounted to a charge of $766,000 for the year ended June 30, 2024 and a benefit of $1.1 million for the year ended June 30, 2023. Net interest income decreased $10.2 million when comparing the years ended June 30, 2024 and 2023. The decrease in net interest income resulted from an increase in interest rates paid on interest-bearing liabilities outpacing the interest rates earned on interest-earning assets, offset by interest-earnings assets growing faster than interest-bearing liabilities when comparing the years ended June 30, 2024 and 2023. Growth in interest-earning assets was due to interest bearing bank balances and loans. Growth in loans was primarily in residential and commercial real estate.
+
+Net interest rate spread and margin both decreased when comparing the years ended June 30, 2024 and 2023. Net interest rate spread decreased 58 basis points to 1.75% for the year ended June 30, 2024, compared to 2.33% for the year ended June 30, 2023. Net interest margin decreased 47 basis points to 1.98% for the year ended June 30, 2024, compared to 2.45% for the year ended June 30, 2023. The decrease during the year ended June 30, 2024 was due to the higher interest rate environment, which caused competitive pressure to increase rates paid on deposits, resulting in higher interest expense. This was partially offset by increases in interest income on securities and loans, as they repriced at higher yields and interest rates earned on new balances were higher than the low levels from the prior periods.
+
+Total assets grew $127.5 million, or 4.7%, to $2.8 billion at June 30, 2024 as compared to $2.7 billion at June 30, 2023. Net loans increased $92.6 million, or 6.7%, to $1.5 billion at June 30, 2024 as compared to $1.4 billion at June 30, 2023. Securities classified as available-for-sale and held-to-maturity remained unchanged at $1.0 billion at June 30, 2024 and June 30, 2023. Deposits decreased $47.9 million, or 2.0%, to $2.39 billion at June 30, 2024 as compared to $2.44 billion at June 30, 2023. Total shareholders’ equity increased to $206.0 million at June 30, 2024 from $183.3 million at June 30, 2023, resulting primarily from net income of $24.8 million and a decrease in accumulated other comprehensive loss of $1.7 million, partially offset by dividends declared and paid of $3.2 million and the day-one CECL adoption impact of $510,000.
+
+Comparison of Financial Condition as of June 30, 2024 and 2023
+
+CASH AND CASH EQUIVALENTS
+
+Total cash and cash equivalents decreased $6.0 million to $190.4 million at June 30, 2024 from $196.4 million at June 30, 2023. The level of cash and cash equivalents is a function of the daily account clearing needs and deposit levels as well as activities associated with securities transactions and loan funding. All of these items can cause cash levels to fluctuate significantly on a daily basis. As of June 30, 2024, the Company believes it has maintained a strong liquidity position.
+
+SECURITIES
+
+Securities available-for-sale and held-to-maturity for the Company remained unchanged at $1.0 billion at June 30, 2024 and June 30, 2023. Securities purchases totaled $329.6 million during the year ended June 30, 2024 and consisted primarily of $245.1 million of state and political subdivision securities, $51.1 million of U.S. Treasury securities, $29.8 million of mortgage-backed securities and $3.6 million of corporate debt securities. Principal pay-downs and maturities during the year ended June 30, 2024 amounted to $297.8 million, primarily consisting of $240.4 million of state and political subdivision securities, $37.0 million of U.S. Treasury securities, $17.4 million of mortgage-backed securities, and $2.7 million of collateralized mortgage obligations.
+
+The Company adopted ASU 2016-13 (CECL), including all subsequent amendments, as of July 1, 2023. For periods subsequent to adoption, the allowance for credit losses (ACL) is calculated under the CECL methodology and the resulting provision for credit losses includes expected credit losses on securities held-to-maturity. The periods prior to adoption did not have an allowance for credit losses under applicable Generally Accepted Accounting Principles (GAAP) for those periods.
+
+U.S. Treasury and mortgage-backed securities are issued by U.S. government entities and agencies. These securities are either explicitly and/or implicitly guaranteed by the U.S. government as to timely repayment of principal and interest, are highly rated by major rating agencies, and have a long history of zero credit losses. Therefore, the Company determined a zero credit loss assumption, and did not calculate or record an allowance for credit loss for these securities. An allowance for credit losses on investment securities held-to-maturity has been recorded for certain municipal securities issued by state and political subdivisions and corporate debt securities to account for expected lifetime credit loss using the CECL methodology.
+
+Index 
+
+There was no ACL recorded on available-for-sale securities as of either period presented as each of the securities in the portfolio are investment grade, current as to principal and interest and their price changes are consistent with interest and credit spreads when adjusting for convexity, rating, and industry differences.
+
+Securities held-to-maturity are evaluated for credit losses on a quarterly basis under the CECL methodology. At June 30, 2024, the ACL on securities held-to-maturity was $483,000.
+
+The Company holds 59.7% of its securities portfolio at June 30, 2024 in state and political subdivision securities to take advantage of tax savings and to promote the Company’s participation in the communities in which it operates. Mortgage-backed securities and asset-backed securities held within the portfolio do not contain sub-prime loans and are not exposed to the credit risk associated with such lending.
+
+Investment Maturity Schedule
+
+The following table set forth information with regard to contractual maturities of debt securities shown in amortized cost ($) and weighted average yield (%) at June 30, 2024. Weighted-average yields are an arithmetic computation of income not fully tax equivalent (“FTE”) adjusted divided by amortized cost. Mortgage-backed securities balances are presented based on final maturity date and do not reflect the expected cash flows from monthly principal repayments. Expected maturities may differ from contractual maturities, because issuers may have the right to call or prepay obligations with or without call or prepayment penalties. No tax-equivalent adjustments were made in calculating the weighted average yield.
+
+LOANS
+
+Net loans receivable increased $92.6 million, or 6.7%, to $1.5 billion at June 30, 2024 from $1.4 billion at June 30, 2023. The loan growth experienced during the year ended consisted primarily of $54.3 million in commercial real estate loans, $26.7 million in residential real estate loans, $6.3 million in home equity loans, $3.3 million in commercial loans, and a $2.0 million decrease in the allowance for credit losses on loans. The Company continues to experience loan growth as a result of continued growth in its customer base and its relationships with other financial institutions in originating loan participations. The Company continues to use a conservative underwriting policy in regard to all loan originations, and does not engage in sub-prime lending or other exotic loan products. Updated appraisals are obtained on loans when there is a reason to believe that there has been a change in the borrower’s ability to repay the loan principal and interest, generally, when a loan is in a delinquent status. Additionally, if an existing loan is to be modified or refinanced, generally, an appraisal is ordered to ensure continued collateral adequacy.
+
+Index 
+
+Loan Portfolio Composition
+
+The following tables present the composition of the Company’s loan portfolio in dollar amounts and percentages as of the dates indicated. The Company adopted ASU 2016-13 (CECL) effective July 1, 2023. Our loan segmentation has been redefined under CECL. Prior year loan tables are presented separately and loan segments presented may not align with how the Company assessed credit risk in the estimate for credit losses under CECL.
+
+Set forth below is selected information concerning the composition of the Company’s loan portfolio in dollar amounts and in percentages (before deductions for deferred fees and costs, unearned discounts and allowances for losses) as of the dates indicated.
+
+Includes direct automobile loans (on both new and used automobiles) and personal loans.
+
+The Company adopted CECL July 1, 2023.
+
+Index 
+
+The following table presents commercial real estate loans by concentrations:
+
+Commercial real estate loans are the largest segment of the Company’s loan portfolio and are comprised of 82.3% in non-owner occupied loans and 17.7% in owner occupied loans. These loans are generally secured by commercial, residential investment or industrial property types. The Company’s commercial real estate loan portfolio generally consists of standalone loans supported by both sufficient cash flows and collateral. On a portfolio basis, the Company’s non-owner occupied commercial real estate loans have a weighted average LTV of approximately 55.4%, and the Company’s owner occupied commercial real estate loans have a weighted average LTV of approximately 50.5%, as of June 30, 2024. The Company’s commercial real estate loans are primarily made within our market area in Greene, Columbia, Albany, Ulster and Rensselaer Counties of New York State. The Company actively monitors economic and credit trends for borrower industries and manages our commercial real estate portfolio concentrations to mitigate its credit risk exposure.
+
+As of June 30, 2024, the Company’s largest commercial real estate concentration was non-owner occupied multi-family loans, at $233.3 million or 24.9% of total commercial real estate loans. Non-owner occupied multi-family loans provide much needed housing for the residents located in our market area, and have historically performed well with strong credit metrics. As of June 30, 2024, the weighted average LTV was approximately 55.8% for the non-owner occupied multi-family loan segment.
+
+As of June 30, 2024, non-owner occupied construction loans were $108.3 million or 11.6% of total commercial real estate loans. Construction loans are typically 12 to 24 months in duration with active monitoring, which may include pre-engineering review and third party site inspections for more complex projects. High volatility commercial real estate loan exposure totaled $1.1 million or 1.0% of the Company’s construction exposure. Construction loans are primarily comprised of approximately 35.5% mixed use real estate, 32.6% multi-family buildings and 13.1% pre-construction and land loans.
+
+The Company’s outstanding balance of non-owner occupied commercial real estate office loans were $55.6 million or 5.9% of total commercial real estate loans as of June 30, 2024. The office loans are primarily low-rise, non-metropolitan buildings, located within our geographic footprint. As of June 30, 2024, the weighted average LTV was approximately 64.8% for the non-owner occupied office loan segment.
+
+Loan Maturity Schedule and Interest Rate Sensitivity
+
+The following table sets forth certain information as of June 30, 2024 regarding the amount of loans maturing or re-pricing in the Company's portfolio. Adjustable-rate loans are included in the period in which interest rates are next scheduled to adjust rather than the period in which they contractually mature and fixed-rate loans are included in the period in which the final contractual repayment is due. Lines of credit with no specified maturity date are included in the category “1 year or less.”
+
+Index 
+
+Potential Problem Loans
+
+Management continually identifies, analyzes and monitors the quality of the loan portfolio and has established a loan review process designed to help grading credit risk inherent in the commercial loan portfolio. The credit quality grade helps management make a consistent assessment of each loan relationship’s credit risk. Consistent with regulatory guidelines, the Company provides for the classification of loans and other assets considered being of lesser quality. Such ratings coincide with the “Substandard”, “Doubtful” and “Loss” classifications used by federal regulators in their examination of financial institutions. Assets that do not currently expose the insured financial institutions to sufficient risk to warrant classification in one of the aforementioned categories but otherwise possess weaknesses are designated “Special Mention.” The components of the Company’s underwriting and monitoring functions are critical to the timely identification, classification and resolution of problem credits. For further discussion regarding how management determines when a loan should be classified, see Part II, Item 8 Financial Statements and Supplemental Data, Note 4, Loans and Allowance for Credit Losses on Loans of this Annual Report.
+
+Non-accrual Loans and Non-performing Assets
+
+Non-performing assets consist of non-accrual loans, loans over 90 days past due and still accruing, other real estate owned that has been acquired in partial or full satisfaction of the loan obligation or upon foreclosure, and nonperforming securities. Effective July 1, 2023, the Company concurrently adopted ASU 2016-13 and ASU 2022-02, which eliminated the troubled debt restructuring accounting guidance while providing for additional disclosures for loan modifications.
+
+Generally, management places loans on non-accrual status once the loans have become 90 days or more delinquent. A non-accrual loan is defined as a loan in which collectability is questionable and therefore interest on the loan will no longer be recognized on an accrual basis. A loan is not placed back on accrual status until the borrower has demonstrated the ability and willingness to make timely payments on the loan. A loan does not have to be 90 days delinquent in order to be classified as non-performing and may be placed on nonaccrual when circumstances indicate that the borrower may be unable to meet the contractual principal or interest payments. The threshold for evaluating classified and nonperforming loans specifically evaluated for individual credit loss is $250,000. Foreclosed real estate represents property acquired through foreclosure and is vale lower of the carrying amount or fair value, less any estimated disposal costs. The Company monitors loan modifications made to borrowers experiencing financial difficulty. As of June 30, 2024 there were three loans being monitored under ASU 2022-02 with a total amortized basis of $4.1 million.
+
+Index 
+
+Analysis of Non-accrual Loans and Non-performing Assets
+
+The table below details additional information related to non-accrual loans at the date indicated:
+
+The following table relates to non-performing loans in prior periods. Non-performing loans are summarized by loan segment which may not align with how the Company assessed credit risk in the estimate for credit losses under CECL.
+
+Index 
+
+Effective July 1, 2023, the Company began analyzing loans on an individual basis when management determined that the individual loan no longer exhibited risk characteristics consistent with the risk characteristics existing in its designated pool of loans, under the Company’s CECL methodology. This differs from the definition of loans considered to be impaired as of June 30, 2023. Individually analyzed loans at June 30, 2024 totaled $1.4 million compared to impaired loans which totaled $10.3 million at June 30, 2023.
+
+Non-performing assets amounted to $3.7 million at June 30, 2024 and $5.8 million at June 30, 2023, respectively.
+
+Loans on non-accrual status totaled $3.7 million at June 30, 2024 of which there were four residential real estate loans totaling $686,000 and three commercial real estate loans totaling $1.6 million in the process of foreclosure. Included in non-accrual loans were $1.5 million of loans which were less than 90 days past due at June 30, 2024, but have a recent history of delinquency greater than 90 days past due. These loans will be returned to accrual status once they have demonstrated a history of timely payments. Loans on non-accrual status totaled $5.5 million at June 30, 2023 of which $2.0 million were in the process of foreclosure at that date. At June 30, 2023, there were three residential real estate loans totaling $625,000 and two commercial real estate loan totaling $1.4 million in the process of foreclosure. Included in non-accrual loans were $3.1 million of loans which were less than 90 days past due at June 30, 2023, but have a recent history of delinquency greater than 90 days past due. These loans will be returned to accrual status once they have demonstrated a history of timely payments.
+
+In addition to non-performing assets discussed above, the Company has identified potential problem loans classified as substandard or special mention, totaling $48.6 million at June 30, 2024 compared to $41.9 million at June 30, 2023, an increase of $6.7 million. During the year ended June 30, 2024, the Company downgraded 12 commercial and commercial real estate relationships from special mention to substandard, and downgraded 14 commercial and commercial real estate relationships from pass to special mention, due to the deterioration in the borrower cash flows and financial performance. This was offset by 14 commercial and commercial real estate relationships that were either upgraded, paid-off, or charged-off during the year ended June 30, 2024. Management continues to monitor classified loan relationships closely. No loans were classified as doubtful or loss at June 30, 2024 or 2023.
+
+For additional details on non-performing loans, see the table in Part II, Item 8 Financial Statements and Supplemental Data, Note 4, Loans and Allowance for Credit Losses on Loans of this Annual Report.
+
+ALLOWANCE FOR CREDIT LOSSES
+
+The allowance for credit losses on loans (the “ACL”) is established through a provision made periodically by charges or benefits to the provision for credit losses. This is necessary to maintain the ACL at a level which management believes is reasonably reflective of the overall loss expected over the contractual life of the loan portfolio. Management has an established ACL policy to govern the use of judgments exercised in evaluating the ACL required to estimate the expected credit losses over the expected contractual life of the loan portfolios and the material effect that such judgments can have on the consolidated financial statements. While management uses available information to recognize losses on loans, additions or reductions to the allowance may fluctuate from one reporting period to another. These fluctuations are reflective of changes in the reasonable and supportable forecast, analysis of loans evaluated individually, and/or changes in management’s assessment of factors.
+
+The ACL is based on the results of life of loan quantitative models, reserves associated with collateral-dependent loans evaluated individually and adjustments for the impact of current economic conditions not accounted for in the quantitative models. The discounted cash flow methodology is used to calculate the CECL reserve for the residential real estate, commercial real estate, home equity and commercial loan segments. The remaining life method is utilized to determine the CECL reserve for the consumer loan segment. The Company elected to use the practical expedient to evaluate loans individually, if they are collateral dependent loans that are on nonaccrual status with a balance of $250,000 or greater, which is consistent with regulatory requirements. The fair value of collateral for collateral dependent loans less selling expenses will be compared to the loan balance to determine if a CECL reserve is required. A qualitative factor framework has been developed to adjust the quantitative loss rates for asset-specific risk characteristics or current conditions at the reporting date.
+
+The Company charges loans off against the ACL when it becomes evident that a loan cannot be collected within a reasonable amount of time or that it will cost the Company more than it will receive, and all possible avenues of repayment have been analyzed, including the potential of future cash flow, the value of the underlying collateral, and strength of any guarantors or co-borrowers. Generally, consumer loans and smaller business loans (not secured by real estate) in excess of 90 days are charged-off against the ACL, unless equitable arrangements are made. Included within consumer installment loan charge-offs and recoveries are deposit accounts that have been overdrawn in excess of 60 days. For loans secured by real estate, a charge-off is recorded when it is determined that the collection of all or a portion of a loan may not be collected and the amount of that loss can be reasonably estimated. The ACL is increased by a provision for credit losses (which results in a charge to expense) and recoveries of loans previously charged off, and is reduced by charge-offs.
+
+The ACL totaled $19.2 million at June 30, 2024, compared to $21.2 million at June 30, 2023 and $19.9 million at July 1, 2023. The ACL to total loans receivable was 1.28% at June 30, 2024 compared to 1.51% at June 30, 2023 and 1.42% at day-one CECL adoption (July 1, 2023). The ACL as of June 30, 2024 decreased as compared to the July 1, 2023 day-one ACL, primarily attributable to a decrease in the reserve for individually evaluated loans due to improved credit risk, and a decrease in the modeled pooled reserve due to favorable economic forecasts as of June 30, 2024. This was partially offset by an increase in the ACL due to growth in gross loans as of June 30, 2024.
+
+Index 
+
+Net charge-offs on loans totaled $1.4 million and $478,000 for the years ended June 30, 2024 and 2023, respectively. The increase in net charge-offs for the year ended June 30, 2024, was due to one commercial loan being charged-off, which was fully reserved for as an individually evaluated loan through the allowance for credit losses.
+
+Analysis of Allowance for Credit Losses Activity
+
+The following table set forth the activity and allocation of the allowance for credit losses on loans at June 30, 2024. The Company adopted ASU 2016-13 (CECL) effective July 1, 2023. Our loan segmentation has been redefined under CECL. Prior year loan tables are presented separately and loan segments presented may not align with how the Company assessed credit risk in the estimate for credit losses under CECL.
+
+Index 
+
+The following table set forth the activity and allocation of the allowance for loan losses by loan category in prior periods at the dates indicated under the incurred methodology.
+
+Allocation of Allowance for Credit Losses
+
+The following table sets forth the allocation of the allowance for credit losses by loan category at June 30, 2024. The Company adopted ASU 2016-13 (CECL) effective July 1, 2023. Our loan segmentation has been redefined under CECL. Prior year loan tables are presented separately and loan segments presented may not align with how the Company assessed credit risk in the estimate for credit losses under CECL.
+
+Index 
+
+The following table sets forth the allocation of the allowance for loan losses by loan category in prior periods at the dates indicated under the incurred methodology.
+
+The allowance for credit losses on unfunded commitments
+
+The allowance for credit losses on unfunded commitments represents the amount held against credit exposures that are not represented on the consolidate balance sheets. The allowance is recognized as a liability, a component of other liabilities, with adjustments as an expense in other noninterest expense. The Company estimates expected credit losses over the contractual period in which the Company has exposure to a contractual obligation to extend credit, unless that obligation in unconditionally cancellable by the Company. The estimate includes consideration of the likelihood that funding will occur and an estimate of expected credit losses on commitments expected to be funded over the estimated contractual life. The Company considers the following segments of unfunded commitments exposure; home equity line of credits, commercial line of credits, consumer loans, the residential and commercial real estate loans committed but not closed and the unfunded portion of the construction loans. The probable funding amount by segment is multiplied by the respective reserve percentage calculated in the allowance for credit losses on loans to calculate a reserve on unfunded commitments.
+
+The allowance for credit losses on unfunded commitments as of June 30, 2024 was $1.3 million.
+
+For further discussion and detail regarding the Allowance for Credit Loss, please refer to Part II, Item 8 Financial Statements and Supplemental Data, Note 4 Loans and Allowance for Credit Losses on Loans of this Annual Report. Management considers the ACL to be appropriate based on evaluation and analysis of the loan portfolio.
+
+DERIVATIVES
+
+The Company enters into interest rate swap agreements with its commercial customers to provide them with a long-term fixed rate, while simultaneously entering into offsetting interest rate swap agreements with a counterparty to swap the fixed rate to a variable rate to manage interest rate exposure. These interest rate swap agreements are not designated as hedges for accounting purposes. As the interest rate swap agreements have substantially equivalent and offsetting terms, they do not present any material exposure to the Company’s consolidated statements of income. The Company records its interest rate swap agreements at fair value and is presented on a gross basis within other assets and other liabilities on the consolidated statements of financial condition. Changes in the fair value of assets and liabilities arising from these derivatives are included, net, in other operating income in the consolidated statement of income.
+
+The Company is exposed to credit loss equal to the fair value of the interest rate swaps, not the notional amount of the derivatives, in the event of nonperformance by the counterparty to the interest rate swap agreements.
+
+The Company also participates in the credit exposure of certain interest rate swaps in which it participates in the related commercial loan. The Company receives an upfront fee for participating in the credit exposure of the interest rate swap and recognizes the fee to other operating income. Under the terms of these risk participation agreements (“RPAs”), the “participating bank” receives a fee from the “lead bank” in exchange for the guarantee of reimbursement if the customer defaults on an interest rate swap. The interest rate swap is transacted such that any and all exchanges of interest payments (favorable and unfavorable) are made between the lead bank and the customer. In the event that an early termination of the swap occurs and the customer is unable to make a required close out payment, the participating bank assumes that obligation and is required to make this payment.
+
+Index 
+
+RPAs in which the Company acts as the lead bank are referred to as “participations-out,” in reference to the credit risk associated with the customer derivatives being transferred out of the Company. Participations-out generally occur concurrently with the sale of new customer derivatives. At June 30, 2024, the Company’s exposure was reduced due to participations-outs in the amount of $105,000, with a notional amount of $8.0 million. There were no participations-out at June 30, 2023.
+
+RPAs in which the Company acts as the participating bank are referred to as “participations-in,” in reference to the credit risk associated with the counterparty’s derivatives being assumed by the Company. The Company’s maximum credit exposure is based on its proportionate share of the settlement amount of the referenced interest rate swap. Settlement amounts are generally calculated based on the fair value of the swap plus outstanding accrued interest receivables from the customer. The credit exposure associated with risk participations-ins was $276,000 and zero as of June 30, 2024 and June 30, 2023, respectively. The RPAs participations-ins are spread out over four financial institution counterparties and terms range between 4 to 13 years. At June 30, 2024 and June 30, 2023, the Company held RPAs with a notional amount of $112.3 million and $82.0 million, respectively.
+
+PREMISES AND EQUIPMENT
+
+Premises and equipment amounted to $15.6 million and $15.0 million at June 30, 2024 and 2023, respectively. Purchases totaled $1.5 million during the year ended June 30, 2024, consisting primarily of building improvements and equipment for a new lending center located in Albany, New York and a new office building located in Catskill, New York, and IT equipment. Purchases totaled $1.5 million during the year ended June 30, 2023, consisting primarily of building improvements and equipment for a new branch located in East Greenbush, New York and a new office building located in Catskill, New York, and IT equipment. Depreciation for the year ended June 30, 2024 totaled $928,000, compared to $871,000 for the year ended June 30, 2023. There were no disposals of premises and equipment during the fiscal years ended June 30, 2024 and 2023.
+
+PREPAID EXPENSES AND OTHER ASSETS
+
+Prepaid expenses and other assets totaled $17.2 million at June 30, 2024, compared to $17.5 million at June 30, 2023, a decrease of $300,000. The decrease was primarily due to a decrease of $545,000 in deferred taxes due to the decrease in unrealized losses on available for sale securities and a decrease of $137,000 in income tax receivable, offset by an increase of $430,000 in prepaid expenses.
+
+Real estate acquired as a result of foreclosure, or in-substance foreclosure deed in lieu of foreclosure or in full or partial satisfaction of loans, is classified as foreclosed real estate (“FRE”) until such time as it is sold. When real estate is classified as FRE, it is recorded at the estimated fair value of the property less estimated costs to dispose at the time of acquisition to establish a new carrying value. Write downs from the carrying value of the loan to estimated fair value, which are required at the time of foreclosure, are charged to the allowance for credit losses. Subsequent adjustments to the carrying value of such properties resulting from declines in fair value result in the establishment of a valuation allowance and are charged to operations in the period in which the declines occur. There were zero and $302,000 in FRE assets as of June 30, 2024 and 2023, respectively.
+
+DEPOSITS
+
+Deposits totaled $2.39 billion at June 30, 2024 and $2.44 billion at June 30, 2023, a decrease of $47.9 million, or 2.0%. The Company had zero and $60 million of brokered deposits, included in certificates of deposits, as of June 30, 2024 and 2023, respectively. The Company’s core deposit, net of brokered deposits, increased $12.1 million or 0.5%. NOW deposits increased $23.7 million, or 1.4%, certificates of deposits increased $10.4 million, or 8.1%, when comparing June 30, 2024 and June 30, 2023. Savings deposits decreased $46.7 million, or 15.6%, noninterest-bearing deposits decreased $33.6 million, or 21.1%, and money market deposits decreased $1.8 million, or 1.5%, when comparing June 30, 2024 and June 30, 2023.
+
+The following table summarizes deposits by major categories:
+
+Index 
+
+The following table summarizes deposits by depositor type:
+
+The Company’s deposit base and liquidity position continues to be strong, and the deposit base is well diversified across segments to meet the transactional and investment needs of our customers. Municipal deposits are primarily from local New York State government entities, such as counties, cities, villages and towns, as well as school districts and fire departments. There is a seasonal component to municipal deposits levels associated with annual tax collections and fiscal spending patterns. In general, municipal balances increase at the end of the first and third quarters of our fiscal year. Municipal deposits above the FDIC insured limit are required to be collateralized by irrevocable municipal letters of credits issued by the Federal Home Loan Bank, municipal bonds, US Treasuries or government agency securities. Additionally, the Company offers large retail, business and municipal customers the ability to enhance FDIC insurance coverage, by electing to participate their deposit balance into a national deposit network.
+
+The Company has many long-standing relationships with municipal entities throughout its market areas and their deposits have provided a stable funding source for the Company. The Company has a separate municipal department for the retention, management, and monitoring of municipal relationships.
+
+Uninsured deposits represents the portion of deposit accounts that exceed the FDIC insurance limit. The Company calculates its uninsured deposit balances based on the methodologies and assumptions used for regulatory reporting requirements, which includes affiliate deposits and collateralized deposits.
+
+The following table summarizes total uninsured deposits based on the same methodologies and assumptions used for the Bank’s regulatory reporting:
+
+All of Greene County Commercial Bank deposits in excess of FDIC insurance limits are fully collateralized.
+
+The following table estimates uninsured deposits after certain exclusions:
+
+Uninsured deposits after exclusions, represents 13.3% of total deposits as of June 30, 2024. The Company believes that this presentation provides a more accurate view of deposits at risk, given that affiliate deposits are not customer facing and therefore are eliminated upon consolidation, and collateralized deposits are fully secured by investments and municipal letters of credit. The Company continually monitors the level and composition of uninsured deposits.
+
+Index 
+
+The following table presents the maturity distribution of certificates of deposits of $250,000 or more:
+
+The amount of certificates of deposit by time remaining to maturity as of June 30, 2024 is set forth in Part II, Item 8 Financial Statements and Supplemental Data, Note 6, Deposits of this Annual Report.
+
+BORROWINGS
+
+Borrowings for the Company amounted to $199.1 million at June 30, 2024 compared to $49.5 million at June 30, 2023, an increase of $149.6 million. At June 30, 2024, borrowings included $115.3 million of overnight borrowings with the Federal Home Loan Bank of New York (“FHLB”), $49.7 million of Fixed-to-Floating Rate Subordinated Notes, $25.0 million in the Bank Term Funding Program with the Federal Reserve Bank, and $9.2 million of long-term borrowings with the FHLB.
+
+On September 17, 2020, the Company entered into Subordinated Note Purchase Agreements with 14 qualified institutional investors, issued at 4.75% Fixed-to-Floating Rate due September 15, 2030, in the aggregate principal amount of $20.0 million, carried net of issuance costs of $424,000 amortized over a period of 60 months. These notes are callable on September 15, 2025. At June 30, 2024, there were $19.9 million of Subordinated Note Purchases Agreements outstanding, net of issuance costs.
+
+On September 15, 2021, the Company entered into Subordinated Note Purchase Agreements with 18 qualified institutional investors, issued at 3.00% Fixed-to-Floating Rate due September 15, 2031, in the aggregate principal amount of $30.0 million, carried net of issuance costs of $499,000 amortized over a period of 60 months. These notes are callable on September 15, 2026. At June 30, 2024, there were $29.8 million of these Subordinated Note Purchases Agreements outstanding, net of issuance costs.
+
+The Company’s borrowing agreements and additional borrowing capacity are discussed further within Part II, Item 8 Financial Statements and Supplemental Data, Note 7 Borrowings of this Annual Report.
+
+OTHER LIABILITIES
+
+Other liabilities, consisting primarily of accrued liabilities, totaled $31.4 million at June 30, 2024, compared to $28.3 million at June 30, 2023, an increase of $3.1 million. The change was primarily due to an increase of $1.8 million in employee benefit plans, including short-term incentive plans and supplemental executive retirement plans and an increase of $1.3 million in accrued expenses for reserve liability accounts related to unfunded loan commitments. This was partially offset by a decrease of $136,000 in federal and state taxes payable when comparing the year ended June 30, 2024 to June 30, 2023.
+
+For further information regarding these changes, see Part II, Item 8 Financial Statements and Supplemental Data, Note 9 Employee Benefits Plans and Note 10 Stock-Based Compensation of this Annual Report.
+
+SHAREHOLDERS’ EQUITY
+
+Shareholders’ equity increased to $206.0 million at June 30, 2024 from $183.3 million at June 30, 2023, resulting primarily from net income of $24.8 million and a decrease in accumulated other comprehensive loss of $1.7 million, partially offset by dividends declared and paid of $3.2 million and the day-one CECL adoption impact of $510,000.
+
+On September 17, 2019, the Board of Directors of the Company adopted a stock repurchase program. Under the repurchase program, the Company may repurchase up to 400,000 shares of its common stock. Repurchases are made at management’s discretion at prices management considers to be attractive and in the best interests of both the Company and its stockholders, subject to the availability of stock, general market conditions, the trading price of the stock, alternative uses for capital, and the Company’s financial performance. As of June 30, 2024, the Company had repurchased a total of 48,000 shares of the 400,000 shares authorized by the repurchase program. The Company did not repurchase any shares during the year ended June 30, 2024.
+
+Index 
+
+The dividend payout ratio has been calculated based on the dividends declared per share divided by basic earnings per share. No adjustments have been made to account for dividends waived by Greene County Bancorp, MHC (“MHC”), the Company’s majority shareholder, owning 54.1% of the shares outstanding.
+
+Dividends declared divided by net income. The MHC waived its right to receive dividends declared during the three months ended, September 30, 2022, December 31, 2022, March 31, 2023, June 30, 2023, December 31, 2023, March 31, 2024 and June 30, 2024. Dividends declared during the three months ended September 30, 2023 were paid to the MHC. The MHC’s ability to waive the receipt of dividends is dependent upon annual approval of its members as well as receiving the non-objection of the Federal Reserve Board.
+
+Index 
+
+Comparison of Operating Results for the Years Ended June 30, 2024 and 2023
+
+Average Balance Sheet
+
+The following table sets forth certain information relating to the Company for the years ended June 30, 2024 and 2023. For the years indicated, the total dollar amount of interest income from average interest-earning assets and the resultant yields, as well as the interest expense on average interest-bearing liabilities, are expressed both in dollars and rates. No tax equivalent adjustments were made. Average balances are based on daily averages. Average loan balances include non-performing loans. The loan yields are calculated net amortization of certain deferred fees and costs that are considered adjustments to yields.
+
+Calculated net of deferred loan fees and costs, loan discounts, and loans in process.
+
+Effective July 1, 2023, the allowance calculation is based upon the CECL methodology. Prior to July 1, 2023, the allowance calculation was based upon the incurred loss methodology.
+
+Index 
+
+The following table summarizes the adjustments made to arrive at the fully taxable-equivalent net interest margins.
+
+Taxable-equivalent net interest income and net interest margin
+
+Interest income calculated on a taxable-equivalent basis (non-GAAP) includes the additional amount of interest income that would have been earned if the Company’s investment in tax-exempt securities and loans had been subject to federal and New York State income taxes yielding the same after-tax income. The rate used for this adjustment was 21% for federal income taxes, and 4.44% for New York State income taxes for the years ended June 30, 2024 and 2023.
+
+Rate / Volume Analysis
+
+The following table presents the extent to which changes in interest rates and changes in the volume of interest-earning assets and interest-bearing liabilities have affected the Company’s interest income and interest expense during the periods indicated. Information is provided in each category with respect to:
+
+The changes attributable to the combined impact of volume and rate have been allocated proportionately to the changes due to volume and the changes due to rate.
+
+Calculated net of deferred loan fees, loan discounts, and loans in process.
+
+As the above table shows, net interest income for the fiscal year ended June 30, 2024 has been affected most significantly by the increase in the volume of loans and the increase in rates on all interest-earning assets. This was partially offset by an increase in volume and rate of interest-bearing liabilities. Net interest rate spread decreased 58 basis points to 1.75% for the year ended June 30, 2024 compared to 2.33% for the year ended June 30, 2023. Net interest margin decreased 47 basis points to 1.98% for the year ended June 30, 2024 compared to 2.45% for the year ended June 30, 2023. The decrease during the year ended June 30, 2024 was due to the higher interest rate environment, which caused competitive pressure to increase rates paid on deposits, resulting in higher interest expense. This was partially offset by increases in interest income on securities and loans, as they reprice at higher yields and the interest rates earned on new balances were higher than the low levels from the prior periods.
+
+Index 
+
+INTEREST INCOME
+
+Interest income for the year ended June 30, 2024 amounted to $103.7 million as compared to $84.6 million for the year ended June 30, 2023, an increase of $19.0 million, or 22.5%. The increase in rate on interest-earning assets had the greatest impact on interest income when comparing the years ended June 30, 2024 and 2023. Interest income is derived from loans, securities and other interest-earning assets. Total average interest-earning assets increased to $2.6 billion for the year ended June 30, 2024 as compared to $2.5 billion for the year ended June 30, 2023, an increase of $73.1 million, or 2.9%. The yield earned on such assets increased 65 basis points to 4.04% for the year ended June 30, 2024 as compared to 3.39% for the year ended June 30, 2023.
+
+Interest income earned on loans increased to $71.5 million for the year ended June 30, 2024 as compared to $60.0 million for the year ended June 30, 2023. Average loans outstanding increased $83.6 million, or 6.1%, to $1.5 billion for the year ended June 30, 2024 as compared to $1.4 billion for the year ended June 30, 2023. The yield on such loans increased 54 basis points to 4.92% for the year ended June 30, 2024 as compared to 4.38% for the year ended June 30, 2023. At June 30, 2024, approximately 61.6% of the loan portfolio was adjustable rate, of which a large portion is tied to the Prime Rate.
+
+Interest income earned on securities (excluding FHLB stock) increased to $27.9 million for the year ended June 30, 2024 as compared to $22.8 million for the year ended June 30, 2023. The average balance of securities remained at $1.1 billion for the years ended June 30, 2024 and 2023. The average yield on securities non-taxable increased 65 basis points to 2.79% for the year ended June 30, 2024 as compared to 2.14% for the year ended June 30, 2023. The average yield on securities taxable increased 50 basis points to 2.53% for the year ended June 30, 2024 as compared to 2.03% for the year ended June 30, 2023. No adjustments were made to tax-effect the income for the state and political subdivision securities, which often carry a lower yield because of the offset expected from income tax benefits gained from holding such securities.
+
+Interest income earned on federal funds and interest-bearing bank balances amounted to $4.0 million for the year ended June 30, 2024 as compared to $1.6 million for the year ended June 30, 2023. The average balance of federal funds and interest-bearing bank balances increased $39.0 million, or 111.9% to $73.8 million for the year ended June 30, 2024 as compared to $34.8 million for the year ended June 30, 2023. Dividends on FHLB stock decreased to $195,000 for the year ended June 30, 2024 as compared to $215,000 for the year ended June 30, 2023.
+
+INTEREST EXPENSE
+
+Interest expense for the year ended June 30, 2024 amounted to $52.7 million as compared to $23.4 million for the year ended June 30, 2023, an increase of $29.3 million. The increase in rate on interest-bearing liabilities had the greatest impact on interest expense when comparing the years ended June 30, 2024 and 2023. The rate paid on interest-bearing liabilities increased 123 basis points to 2.29% for the year ended June 30, 2024 compared to 1.06% for the year ended June 30, 2023. Total average interest-bearing liabilities increased to $2.3 billion for the year ended June 30, 2024 as compared to $2.2 billion for the year ended June 30, 2023, an increase of $84.4 million, or 3.8%. The majority of the increase related to NOW accounts, primarily resulting from growth in new deposit relationships within our business and municipal accounts.
+
+Interest expense paid on savings and money market accounts amounted to $1.5 million for the year ended June 30, 2024 as compared to $929,000 for the year ended June 30, 2023, an increase of $537,000, or 19.6%. The average rate paid on savings and money market accounts increased 19 basis points to 0.39% for the year ended June 30, 2024 as compared to 0.20% for the year ended June 30, 2023. The average balance of savings and money market accounts decreased by $91.3 million to $373.7 million for the year ended June 30, 2024 as compared to $465.0 million for the year ended June 30, 2023.
+
+Interest expense paid on NOW accounts amounted to $43.6 million for the year ended June 30, 2024 as compared to $17.5 million for the year ended June 30, 2023, an increase of $26.1 million. The average rate paid on NOW accounts increased 141 basis points to 2.51% for the year ended June 30, 2024 as compared to 1.10% for the year ended June 30, 2023. The average balance of NOW accounts increased $140.3 million to $1.7 billion for the year ended June 30, 2024 as compared to $1.6 billion for the year ended June 30, 2023.
+
+Interest expense paid on certificates of deposit amounted to $4.6 million for the year ended June 30, 2024 as compared to $1.6 million for the year ended June 30, 2023, an increase of $3.0 million. The average rate paid on certificates of deposit increased 172 basis points to 4.04% for the year ended June 30, 2024 as compared to 2.32% for the year ended June 30, 2023. The average balance on certificates increased $45.4 million to $114.7 million for the year ended June 30, 2024 as compared to $69.3 million for the year ended June 30, 2023.
+
+Interest expense on borrowings amounted to $3.0 million for the year ended June 30, 2024 as compared to $3.4 million for the year ended June 30, 2023, as the average balance of borrowings decreased $10.1 million to $72.7 million for the year ended June 30, 2024 as compared to $82.8 million for the year ended June 30, 2023. The average rate paid on borrowings increased 4 basis points to 4.09% from 4.05% during the period.
+
+Index 
+
+PROVISION FOR CREDIT LOSSES
+
+Management continues to closely monitor asset quality and adjust the level of the allowance for credit losses. The amount recognized for the provision for credit losses is determined by management based on its ongoing analysis of the adequacy of the allowance for credit losses. Provision for credit losses on loans amounted to a charge of $786,000 for the year ended June 30, 2024 and a benefit of $1.1 million for the year ended June 30, 2023. The loan provision for the year ended June 30, 2024 was primarily due to the growth in gross loans, partially offset by improvement in the economic forecasts. The allowance for credit losses on loans to total loans receivable was 1.28% at June 30, 2024 compared to 1.51% at June 30, 2023 and 1.42% at day-one CECL adoption (July 1, 2023).
+
+For additional details relating to the allocation of the provision for credit losses, see Part II, Item 8 Financial Statements and Supplemental Data, Note 4, Loans and Allowance for Credit Losses on Loans of this report.
+
+NONINTEREST INCOME
+
+Noninterest income increased $1.8 million, or 14.5%, to $13.9 million for the year ended June 30, 2024 compared to $12.1 million for the year ended June 30, 2023. The increase during the year ended June 30, 2024 was primarily due to an increase in fee income earned on customer interest rate swap contracts, investment services income and income from bank owned life insurance (“BOLI”). During the quarter ended December 31, 2023, the Company restructured $23.0 million of BOLI contracts, by surrendering and simultaneously purchasing new higher-yielding policies, which resulted in $814,000 of additional noninterest income.
+
+NONINTEREST EXPENSE
+
+Noninterest expense decreased $1.3 million, or 3.4%, to $37.3 million for the year ended June 30, 2024 compared to $38.6 million for the year ended June 30, 2023. The decrease during the year ended June 30, 2024 was primarily due to a decrease in legal and professional fees due to non-recurring litigation expenses during the year ended June 30, 2023. This was partially offset by an increase in salaries and employee benefits due to new positions created during the period to support the Company’s continued growth.
+
+INCOME TAXES
+
+Provision for income taxes reflects the expected tax associated with the pre-tax income generated for the given period and certain regulatory requirements. The effective tax rate was 7.6% and 14.1% for the years ended June 30, 2024 and 2023, respectively. The statutory tax rate is impacted by the benefits derived from tax-exempt bond and loan income, the Company’s real estate investment trust subsidiary income and income received on the bank owned life insurance to arrive at the effective tax rate. The decrease in the current quarter’s effective tax rate primarily reflects historic preservation tax credits received on the Company’s new wealth management center, located at 345 Main Street, in Catskill New York. The wealth management center was originally built in 1910 and is located in Catskill’s historic district. The decrease in the current year’s effective tax rate primarily reflected a higher mix of tax-exempt income from municipal bonds, tax advantage loans, historic preservation tax credits and bank-owned life insurance in proportion to pre-tax income.
+
+Index 
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Liquidity resources. The Company’s primary sources of funds are deposits and proceeds from principal and interest payments on loans and securities, as well as lines of credit and term borrowing facilities available through the Federal Home Loan Bank as needed. While maturities and scheduled amortization of loans and securities are predictable sources of funds, deposit outflows, mortgage prepayments, and borrowings are greatly influenced by general interest rates, economic conditions and competition.
+
+The Company’s most liquid assets are cash and cash equivalent accounts. The levels of these assets are dependent on the Company’s operating, financing, lending and investing activities during any given period. At June 30, 2024, cash and cash equivalents totaled $190.4 million, or 6.7% of total assets.
+
+The Company’s primary investing activities are the origination of residential and commercial real estate mortgage loans, other consumer and commercial loans, and the purchase of securities. Loan originations exceeded repayments by $90.7 million and $157.9 million and purchases of securities totaled $329.6 million and $212.0 million for the years ended June 30, 2024 and 2023, respectively. These activities were funded primarily through deposit growth, and principal payments on loans and securities, and borrowings. Loan sales did not provide an additional source of liquidity during the years ended June 30, 2024 and 2023, as the Company originated loans for retention in its portfolio.
+
+In response to liquidity concerns in the banking system, the Federal Reserve Board created the Bank Term Funding Program (BTFP). The program made additional funding available to eligible depository institutions to help assure institutions can meet the needs of their depositors. As of June 30, 2024, the Company has $25.0 million outstanding through the BTFP.
+
+In efforts to enhance strong levels of liquidity and to fund strong loan demand, the Bank and Commercial Bank (the “Banks”) accept brokered deposits, generally in denominations of less than $250,000, from national brokerage networks, custodial deposit networks or through IntraFi’s one-way CDARS and ICS products, including IntraFi’s Insured Network Deposits (“IND”). The Banks combined can place and obtain brokered deposits up to 30% of total deposits, in the amount of $716.8 million based on policy. Additionally, the Banks participate in the IntraFi reciprocal (“two-way”) CDARS and the ICS products, which provides for reciprocal two-way transactions among other institutions, facilitated by IntraFi, for the purpose of maximizing FDIC insurance for depositors.
+
+The Company monitors its liquidity position on a daily basis. Excess short-term liquidity is usually invested in interest-earning deposits with the Federal Reserve Bank of New York. In the event the Company requires funds beyond its ability to generate them internally, additional sources of funds are available through the use of FHLB advance programs made available to The Bank of Greene County. During the year ended June 30, 2024, The Bank of Greene County’s maximum borrowing from the FHLB reached $372.1 million. As of the year ended June 30, 2024, there were $199.1 million of borrowings outstanding with the FHLB. The liquidity position can be significantly impacted on a daily basis by funding needs associated with Greene County Commercial Bank. These funding needs are also impacted by the collection of taxes and state aid for the municipalities using the services of Greene County Commercial Bank.
+
+At June 30, 2024, liquidity measures were as follows:
+
+Off-balance sheet arrangements. In the normal course of business the Company is party to certain financial instruments, which in accordance with accounting principles generally accepted in the United States, are not included in its Consolidated Statements of Condition. The Company is also a party to certain financial instruments with off balance sheet risk such as commitments under standby letters of credit, unused portions of lines of credit, commitments to fund new loans, interest rate swaps, and risk participation agreements. Loan commitments are agreements by the Company to lend monies at a future date. These loan commitments are subject to the same credit policies and reviews as the Company’s loans. The Company records such instruments when funded. Because most of these loan commitments expire within one year from the date of issue, the total amount of these loan commitments as of June 30, 2024, are not necessarily indicative of future cash requirements.
+
+Index 
+
+The Company’s unfunded loan commitments and unused lines of credit are as follows at June 30, 2024 and 2023:
+
+The Company anticipates that it will have sufficient funds available to meet current loan commitments and other funding needs based on the level of cash and cash equivalents and borrowing capacity. Certificates of deposit scheduled to mature in one year or less from June 30, 2024 totaled $127.8 million. Based upon the Company’s experience and its current pricing strategy, management believes that a significant portion of such deposits will remain with the Company.
+
+The Company has an Irrevocable Letter of Credit Reimbursement Agreement with the FHLB, whereby upon The Bank of Greene County’s request, on behalf of Greene County Commercial Bank, an irrevocable letter of credit is issued to secure municipal transactional deposit accounts above the FDIC insured limit. These letters of credit are secured by residential and commercial real estate mortgage loans. The amount of funds available to the Company through the FHLB line of credit is reduced by any letters of credit outstanding. There were $90.0 million in municipal letters of credit outstanding at June 30, 2024.
+
+Capital Resources. The Company and the Bank considers current needs and future growth, with the sources of capital being the retention of earnings, less dividends paid, and proceeds from the issuance of subordinated debt. The Company believes its current capital is adequate to support ongoing operations. As a result of the consistent earnings throughout the fiscal year, the Company did not push down any additional capital to The Bank of Greene County during the fiscal years ended June 30, 2024 and June 30, 2023. At June 30, 2024 and 2023, The Bank of Greene County and Greene County Commercial Bank exceeded all of their regulatory capital requirements, as illustrated in Part II, Item 8 Financial Statements and Supplementary Data Note 18. Regulatory Matters of this Annual Report. Shareholders’ equity represented 7.3% and 6.8% of total consolidated assets at June 30, 2024 and 2023, respectively.
+
+IMPACT OF INFLATION AND CHANGING PRICES
+
+The consolidated financial statements of Greene County Bancorp, Inc. and notes thereto, presented elsewhere herein, have been prepared in accordance with U.S. generally accepted accounting principles, which require the measurement of financial position and operating results in terms of historical dollars without considering the change in the relative purchasing power of money over time and due to inflation. The impact of inflation is reflected in the increased cost of Greene County Bancorp, Inc.’s operations. Unlike most industrial companies, nearly all the assets and liabilities of Greene County Bancorp, Inc. are monetary. As a result, interest rates have a greater impact on Greene County Bancorp, Inc.’s performance than do the effects of general levels of inflation. Interest rates do not necessarily move in the same direction or to the same extent as the price of goods and services.
+
+IMPACT OF RECENT ACCOUNTING PRONOUNCEMENTS
+
+Recent accounting pronouncements which may impact the Company’s financial statements are discussed within Part II, Item 8 Financial Statements and Supplementary Data, Note 1 Summary of significant accounting policies of this Annual Report.

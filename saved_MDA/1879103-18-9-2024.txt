@@ -1,0 +1,195 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+This discussion and analysis reflects our consolidated financial statements and other relevant statistical data and is intended to enhance your understanding of our financial condition and results of operations. The information in this section has been derived from our audited consolidated financial statements, which appear beginning on page F-1 of this Form 10-K. You should read the information in this section in conjunction with the business and financial information regarding the Bank provided elsewhere in this Form 10-K.
+
+Overview
+
+Our results of operations depend primarily on our net interest income and, to a lesser extent, non-interest income. Net interest income is the difference between the interest income we earn on our interest-earning assets, consisting primarily of loans, securities, and other interest-earning assets (primarily cash and cash equivalents), and the interest we pay on our interest-bearing liabilities, consisting of deposits and borrowings. Non-interest income consists primarily of earnings on bank-owned life insurance, service charges, on deposit accounts and other income. Our results of operations also are affected by our provision for credit losses and non-interest expense. Non-interest expense consists primarily of salaries and employee benefits, occupancy and equipment, data processing costs, advertising, FDIC deposit insurance premiums, and other expenses. Our results of operations also may be affected significantly by general and local economic and competitive conditions, changes in market interest rates, government policies and actions of regulatory authorities.
+
+Critical Accounting Policies
+
+The discussion and analysis of the financial condition and results of operations are based on our audited consolidated financial statements, which are prepared in conformity with generally accepted accounting principles used in the United States of America. The preparation of these consolidated financial statements requires management to make estimates and assumptions affecting the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities, and the reported amounts of income and expenses. We consider the accounting policy discussed below to be a critical accounting policy. The estimates and assumptions that we use are based on historical experience and various other factors and are believed to be reasonable under the circumstances. Actual results may differ from these estimates under different assumptions or conditions, resulting in a change that could have a material impact on the carrying value of our assets and liabilities and our results of operations.
+
+The Jumpstart Our Business Startups Act contains provisions that, among other things, reduce certain reporting requirements for qualifying public companies. As an “emerging growth company,” we may delay adoption of new or revised accounting pronouncements applicable to public companies until such pronouncements are made applicable to private companies. We intend to take advantage of the benefits of this extended transition period. Accordingly, our audited consolidated financial statements may not be comparable to companies that comply with such new or revised accounting standards.
+
+On July 1, 2023, the Company adopted Accounting Standards Update (ASU) 2016-13 Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments, which requires that the recognition of the allowance for credit losses be estimated using the CECL methodology. The measurement of expected credit losses under the CECL methodology is applicable to financial assets measured at amortized cost, including loan receivables and held-to-maturity debt securities. It also applies to off-balance sheet credit exposures not accounted for as insurance (loan commitments, standby letters of credit, financial guarantees, and other similar instruments) and net investments in leases recognized by a lessor in accordance with Topic 842 on leases. In addition, ASC 326 made changes to the accounting for available-for-sale debt securities, including the requirement that impairment related to credit losses be presented as an allowance rather than as a write-down. For further discussion related to the implementation of CECL please refer to Notes 1, 3 and 4 of the consolidated financial statements.
+
+Allowance for Credit Losses
+
+The allowance for credit losses (“ACL”) is an estimate of current expected losses within the Company's loan portfolio. The ACL, as reported on our consolidated balance sheet, is adjusted by a credit loss expense, which is reported in earnings, and reduced by loan charge-offs, net of recoveries. Accrued interest receivable on loans was $520,000 at June 30, 2024 and $506,000 at June 30, 2023, and is excluded from the allowance for credit losses.
+
+The credit loss estimation process involves procedures to appropriately consider the unique characteristics of loan portfolio segments, which are disaggregated by call code. For each of these pools, the Company collects historical loss data, dating back to March 2008, from a selection of peer banks and applies the annual historical loss rate over the estimated remaining average life of the loan portfolio segment. The use of peer banks' historical loss rates is due to the lack of loss history experienced by the Bank. The average remaining life of a loan portfolio segment is adjusted for estimated prepayment and curtailment expectations. The modeling for estimated prepayment speeds and curtailment rates is based on a combination of internal and market estimates. The quantitative component of the ACL on loans is model-based and utilizes a forward-looking macroeconomic forecast. The Company uses a Weighted Average Remaining Maturity (“WARM”) method, incorporating historical loss data based on statistically derived economic variable loss drivers, to estimate expected credit losses. This process includes estimates which involve modeling loss projections attributable to existing loan balances, and considers historical experience, current conditions, and future expectations for segments of loans over a reasonable and supportable forecast period. The historical information is collected from a selection of peer banks and is derived from a combination of recessionary and non-recessionary performance periods for which data is available.
+
+Although we believe that we use the best information available to establish the allowance for credit losses, future adjustments to the allowance may be necessary if economic conditions differ substantially from the assumptions used in making the evaluation. In addition, the OCC, as an integral part of its examination process, periodically reviews our allowance for credit losses, and as a result of such reviews, we may have to adjust our allowance for credit losses. However, regulatory agencies are not directly involved in establishing the allowance for credit losses as the process is our responsibility and any increase or decrease in the allowance is the responsibility of management. A large loss could deplete the allowance and require increased provisions to replenish the allowance, which would adversely affect earnings.
+
+The allowance for loan losses as of June 30, 2023 was calculated under the incurred loss model.
+
+For additional information on our critical accounting policies, please refer to the information contained in Note 1 of the audited consolidated financial statements contained elsewhere within this Form 10-K.
+
+Business Strategy
+
+Our current business strategy consists of the following:
+
+•
+
+Grow our balance sheet and improve profitability. Given our attractive market area, we believe we are well positioned to strategically grow our balance sheet without a proportional increase in overhead expense. Accordingly, we intend to increase, on a managed basis, our assets and liabilities, particularly loans and deposits. As we grow our assets, particularly by increasing our loans, in particular, one- to four-family residential, multi-family and commercial real estate loans, as a percentage of assets, while controlling our expenses, we anticipate improving our earnings. 
+
+•
+
+Grow our loan portfolio prudently with a focus on residential, multi-family and commercial real estate lending. Our principal business activity historically has been the origination of residential mortgage loans, supplemented, to a lesser extent, with multi-family and commercial real estate loans. We expect that one- to four-family residential real estate lending will remain our primary focus. We intend also to increase our focus on originating multi-family and commercial real estate loans. 
+
+•
+
+Continue to increase core deposits, with an emphasis on low-cost demand deposits. We seek core deposits to provide a stable source of funds to support loan growth at costs consistent with improving our net interest rate spread and margin. Core deposits also help us maintain loan-to-deposit ratios at levels consistent with regulatory expectations. We consider our core deposits to include NOW and demand accounts, savings accounts, and money market accounts. Core deposits decreased to $138.5 million, or 51.1% of total deposits, at June 30, 2024 from $152.7 million, or 58.0% of total deposits, at June 30, 2023.
+
+•
+
+Continue to manage credit risk to maintain a low level of non-performing assets. We believe strong asset quality is a key to our long-term financial success. Our strategy for credit risk management focuses on having an experienced team of credit professionals, well-defined policies and procedures, appropriate loan underwriting criteria and active credit monitoring. At both June 30, 2024 and 2023, we did not have any non-performing assets. At June 30, 2024, we had four loans with one borrower totaling $1.4 million classified as substandard and no loans classified as special mention, doubtful or loss.
+
+•
+
+Continue to provide value to our community. Our goal is to provide long-term value to our customers, employees, and the communities we serve by executing a safe and sound service-oriented business strategy that produces increased earnings. We believe there is a significant opportunity for a community-focused bank in our market area, and the increased capital we raised in the stock offering will enable us to compete more effectively with other financial institutions.
+
+Comparison of Financial Condition at June 30, 2024 and June 30, 2023
+
+Total Assets. Total assets increased $14.4 million, or 4.1%, to $363.4 million at June 30, 2024 from $349.0 million at June 30, 2023. The increase resulted primarily from an increase in cash and cash equivalents of $20.1 million, or 292.9%, partially offset by decreases in securities held to maturity of $908,000, or 0.6% and in net loans of $5.5 million, or 3.1%.
+
+Cash and Cash Equivalents. Cash and cash equivalents increased $20.1 million, or 292.9%, to $27.0 million at June 30, 2024 from $6.9 million at June 30, 2023. The increase in cash and cash equivalents was due to increases in deposits and FHLBB advances and decreases in loans and securities.
+
+Securities Available for Sale. Securities available for sale decreased $33,000 to $113,000 at June 30, 2024 from $146,000 at June 30, 2023. The decrease was due to principal payments on mortgage-backed securities.
+
+Securities Held to Maturity. Securities held to maturity decreased $908,000, or 0.6%, to $147.0 million at June 30, 2024 from $147.9 million at June 30, 2023, as maturities and prepayments slightly exceeded the purchase of securities.
+
+Net Loans. Net loans decreased $5.5 million, or 3.1% to $170.4, million at June 30, 2024 from $175.9 million at June 30, 2023. The decrease was due to a decrease of $3.5 million, or 17.2%, in commercial real estate loans, a decrease of $2.1 million, or 1.5%, in one- to four-family residential real estate loans, and a decrease of $572,000, or 4.5%, in multi-family real estate loans, partially offset by an increase of $673,000, or 24.9% in second mortgages and home equity lines of credit and a reduction in the allowance for credit losses of $194,000. The decreases in commercial real estate loans, one- to four-family residential real estate loans and multi-family real estate loans were primarily due to normal principal payments during June 30, 2024 outpacing originations.
+
+Total Liabilities. Total liabilities increased $14.3 million, or 5.2%, to $287.4 million at June 30, 2024 from $273.1 million at June 30, 2023. The increase was primarily the result of an increase in interest-bearing deposits of $6.1 million, or 2.6%, an increase in non-interest-bearing deposits of $1.4 million, or 4.2%, and an increase in Federal Home Loan Bank advances of $6.8 million, or 181.6%.
+
+Deposits. Deposits increased $7.5 million, or 2.8%, to $270.8 million at June 30, 2024 from $263.4 million at June 30, 2023. The increase was the result of an increase in interest-bearing deposits of $6.1 million, or 2.6%, and an increase in non-interest-bearing deposits of $1.4 million, or 4.2%. The increase in interest-bearing deposits was the result of increases in term certificates of $21.6 million, or 19.6%, and an increase in NOW and demand accounts of $848,000, or 1.4%, offset by a decrease of $10.0 million, or 15.6%, in regular and other account and a decrease of $5.0 million, or 18.7% in money market accounts as new and existing depositors moved funds to products offering higher interest rates. At June 30, 2024, the Bank held $42.9 million in uninsured deposits.
+
+Borrowings. Borrowings, consisting entirely of Federal Home Loan Bank advances, were $10.4 million at June 30, 2024 compared to $3.7 million at June 30, 2023, increasing short-term investments as we implemented a leverage strategy to increase liquidity and income during the year ended June 30, 2024.
+
+Stockholders' Equity. Total stockholders' equity increased $161,000, or 0.2%, to $76.1 million at June 30, 2024 from $75.9 million at June 30, 2023. The increase was due to net income of $33,000 for the year ended June 30, 2024, stock-based compensation of $358,000 and ESOP shares committed to be released of $102,000, primarily offset by the adoption of CECL of $223,000 and the repurchase of CFSB Bancorp stock of $78,000.
+
+Comparison of Operating Results for the Year Ended June 30, 2024 and 2023
+
+General. We had net income of $33,000 for the year ended June 30, 2024, compared to net income of $1.4 million for the year ended June 30, 2023, a decrease of $1.4 million, or 97.7%. The decrease in net income was primarily due to a decrease in net interest income of $2.1 million, or 23.3%, partially offset by a decrease in tax expense of $340,000, or 112.9%, and a decrease in the provision for credit losses of $322,000.
+
+Interest and Dividend Income. Interest and dividend income increased $993,000, or 9.3%, to $11.7 million for the year ended June 30, 2024 from $10.7 million for the year ended June 30, 2023. The increase was due to an increase of $508,000, or 15.7%, in interest and dividends on taxable debt securities, an increase of $325,000, or 4.8%, in interest and fees on loans and an increase of $211,000, or 61.8%, in interest on short-term investments, offset by a decrease of $51,000 or 12.3% in interest and dividends on tax-exempt debt securities. Interest income on loans increased due to an increase in the average yield on loans of 25 basis points to 4.01% for the year ended June 30, 2024, from 3.76% for the year ended June 30, 2023, offset by a decrease in the average balance of loans of $3.0 million to $175.0 million for the year ended June 30, 2024 from $178.0 million for the year ended June 30, 2023. Interest income on securities increased due to an increase in the average yield on securities of 31 basis points to 2.81% for the year ended June 30, 2024 from 2.50% for the year ended June 30, 2023, offset by a decrease in the average balance of securities of $1.1 million to $149.2 million for the year ended June 30, 2024 from $150.3 million for the year ended June 30, 2023. The interest income on short-term investments increased due to an increase in the average yield of 197 basis points to 5.09% for the year ended June 30, 2024, from 3.12% for the year ended June 30, 2023. The increased yields were due to the higher interest rate environment.
+
+Interest Expense. Interest expense increased $3.0 million, or 157.8%, to $5.0 million for the year ended June 30, 2024 from $1.9 million for the year ended June 30, 2023. The increase was primarily due to an increase of $2.7 million, or 159.4%, in interest expense on certificates of deposit. The average cost of certificates of deposit increased 204 basis points to 3.67% for the year ended June 30, 2024 from 1.63% for the year ended June 30, 2023, due to increased market rates and intense competition, while the average balance of certificates of deposit increased $16.0 million to $119.4 million for the year ended June 30, 2024 from $103.4 million for the year ended June 30, 2023. Additionally, interest expense on borrowings, consisting entirely of FHLB advances, increased $399,000, to $453,000 for the year ended June 30, 2024 from $54,000 for the year ended June 30, 2023 due to the increase in the average balance of borrowings to $9.1 million for the year ended June 30, 2024 from $1.0 million for the year ended June 30, 2023, offset by a decrease in the average cost of 23 basis points to 4.98% for the year ended June 30, 2024 from 5.21% for the year ended June 30, 2023 as we lengthened the terms of the borrowings.
+
+Net Interest Income. Net interest income decreased $2.1 million, or 23.3%, to $6.7 million for the year ended June 30, 2024 from $8.8 million for the year ended June 30, 2023. The decrease was primarily due to an increase in the cost of certificates of deposit and in the average balance of interest-bearing liabilities, offset by an increase in the average rate earned on interest-earning assets of 33 basis points to 3.51% for the year ended June 30, 2024 from 3.18% for the year ended June 30, 2023. Our net interest margin decreased to 2.03% for the year ended June 30, 2024 compared to 2.61% for the year ended June 30, 2023.
+
+Provision for Credit Losses. A reversal of $322,000 to the provision for credit losses was recorded for the year ended June 30, 2024. A reversal of $127,000 to the provision for credit losses on investments was primarily due to the aging of the portfolio and the impact that aging can have on the probability of default. The $8,000 provision for credit losses for off-balance sheet exposures was primarily due to an increase of $1.3 million in unfunded commitments for multifamily real estate loans for the year ended June 30, 2024. A reversal of $203,000 to the provision for credit losses on loans was primarily due to strong asset quality, improving economic factors and reduced loan balances. The allowance for credit losses for loans was $1.6 million, or 0.90% of total loans, at June 30, 2024, compared to $1.7 million, or 0.98% of total loans, at June 30, 2023. At June 30, 2024, the Company had $1.4 million in residential one- to four-family loans rated substandard and individually evaluated due to the borrowers' inability to show sufficient rent receipts to support the debt coverage with a provision of $10,000. These loans are current as the borrower
+
+continues to make timely payments. There were no loans categorized as special mention, doubtful or loss and no non-performing loans. We had $3,000 in charge-offs related to overdrawn deposit accounts and no recoveries for the years ended June 30, 2024 and 2023.
+
+Non-Interest Income. Non-interest income information is as follows.
+
+Non-interest income increased $1,000, or 0.2%, to $665,000 for the year ended June 30, 2024 from $664,000 for the year ended June 30, 2023. The increase was due to a $9,000 increase in customer service fees and a $10,000 increase in income on bank-owned life insurance, offset by a $18,000 decrease in other income.
+
+Non-Interest Expense. Non-interest expense information is as follows.
+
+Non-interest expense increased $29,000, or 0.4%, to $7.7 million for the year ended June 30, 2024. The increase was due primarily to a $41,000 increase in salaries and employee benefit expense due to normal employee annual merit salary benefit increases and stock-based compensation, a $34,000 increase in other non-interest expense, a $27,000 increase in deposit insurance and a $25,000 increase in data processing fees, offset by a $53,000 decrease in occupancy and equipment expense and a $45,000 decrease in advertising expense.
+
+Provision for Income Taxes. The Company recorded an income tax benefit of $39,000 for the year ended June 30, 2024, compared to a provision for income taxes of $301,000 for the year ended June 30, 2023. Our effective tax (benefit) rate was (650.0%) and 17.2% for the years ended June 30, 2024 and 2023, respectively. The lower effective tax rate for the years ended June 30, 2024 and 2023 as compared to the statutory rate reflected the benefit of our investment in tax-advantaged municipal securities and bank-owned life insurance as well as reduced state taxes through utilization of a Massachusetts securities corporation to hold our investment securities. The benefit for income taxes for the year ended June 30, 2024 was due to the reduced income as well as a recovery of income tax payable on a post-retirement benefit.
+
+Average Balance and Yields. The following tables set forth average balance sheets, average yields and costs, and certain other information for the periods indicated. All average balances are daily average balances. Tax-equivalent adjustments have been made. The yields set forth below include the effect of deferred fees, discounts, and premiums that are amortized or accreted to interest income or interest expense. Deferred loan fees totaled $387,000 and $351,000 at June 30, 2024 and 2023, respectively.
+
+Includes tax equivalent adjustments for municipal securities, based on a statutory rate of 21%, of $96,000 and $110,000 for the years ended June 30, 2024 and 2023, respectively.
+
+Net interest rate spread represents the difference between the weighted average yield earned on interest-earning assets and the weighted average rate paid on interest-bearing liabilities.
+
+Net interest-earning assets represent total interest-earning assets less total interest-bearing liabilities.
+
+Net interest margin represents net interest income divided by average total interest-earning assets.
+
+A reconciliation of income presented on a GAAP basis as compared to a fully-tax equivalent basis is below:
+
+Rate/Volume Analysis
+
+The following table presents the effects of changing rates and volumes on our net interest income for the periods indicated. The rate column shows the effects attributable to changes in rate (changes in rate multiplied by prior volume). The volume column shows the effects attributable to changes in volume (changes in volume multiplied by prior rate). The total column represents the sum of the prior columns. For purposes of this table, changes attributable to both rate and volume, which cannot be segregated, have been allocated proportionately based on the changes due to rate and the changes due to volume. There were no out-of-period items or adjustments required to be excluded from the table below.
+
+Includes tax equivalent adjustments for municipal securities, based on a statutory rate of 21%, of $96,000 and $110,000 for the years ended June 30, 2024 and 2023, respectively.
+
+Management of Market Risk
+
+General. The majority of our assets and liabilities are monetary in nature. Consequently, our most significant form of market risk is interest rate risk. Our assets, consisting primarily of mortgage loans and investment securities, have longer maturities than our liabilities, consisting primarily of deposits. As a result, a principal part of our business strategy is to manage the impact of changes in market interest rates on net interest income and capital. We have an Asset/Liability Committee that is responsible for evaluating the interest rate risk inherent in our assets and liabilities, for determining the level of risk that is appropriate, given our business strategy, operating environment, capital, liquidity and performance objectives, and for managing this risk consistent with the guidelines approved by the board of directors. The Asset/Liability Committee establishes and monitors the amount, maturities, pricing and mix of assets and funding sources with the objective of managing assets and funding sources to provide results that are consistent with liquidity, growth, risk limits and profitability goals.
+
+As part of our ongoing asset-liability management, we use the following strategies to manage our interest rate risk:
+
+•
+
+market our non-interest-bearing demand, money market, savings and demand accounts;
+
+•
+
+diversify our loan mix;
+
+•
+
+invest in short- to medium-term repricing and/or maturing securities whenever the market allows; and
+
+•
+
+maintain a strong capital position.
+
+We do not engage in hedging activities, such as engaging in futures, options, or interest rate swap transactions, or investing in high-risk mortgage derivatives, such as collateralized mortgage obligation residual interests, real estate mortgage investment conduit residual interests or stripped mortgage-backed securities.
+
+We consider two types of simulations impacted by changes in interest rates, which are net interest income and changes in the economic value of equity.
+
+Net Interest Income Analysis. We analyze our sensitivity to changes in interest rates through our net interest income simulation model, the results of which are provided to us by an independent third party. Net interest income is the difference between the interest income we earn on our interest-earning assets, such as loans and securities, and the interest we pay on our interest-bearing liabilities, such as deposits and borrowings. We estimate what our net interest income would be for a one-year period based on current interest rates. We then calculate what the net interest income would be for the same period under different interest rate assumptions. The following table shows the estimated impact on net interest income for the one-year period beginning June 30, 2024 resulting from potential changes in interest rates, expressed in basis points. These estimates require certain assumptions to be made, including loan and mortgage-related investment prepayment speeds, reinvestment rates, and deposit maturities and decay rates. These assumptions are inherently uncertain. As a result, no simulation model can precisely predict the impact of changes in interest rates on our net interest income.
+
+Although the net interest income table below provides an indication of our interest rate risk exposure at a particular point in time, such estimates are not intended to, and do not, provide a precise forecast of the effect of changes in market interest rates on our net interest income and will differ from actual results.
+
+Assumes an immediate uniform change in interest rates at all maturities. 
+
+Economic Value of Equity. We monitor interest rate risk through the use of a simulation model that estimates the amounts by which the fair value of our assets and liabilities (our economic value of equity or “EVE”) would change in the event of a range of assumed changes in market interest rates. The quarterly reports developed in the simulation model assist us in identifying, measuring, monitoring, and controlling interest rate risk to ensure compliance within our policy guidelines.
+
+The table below sets forth, as of June 30, 2024, the calculation of the estimated changes in the Company's EVE that would result from the designated immediate changes in the United States Treasury yield curve.
+
+Assumes an immediate uniform change in interest rates at all maturities.
+
+EVE is the discounted present value of expected cash flows from assets, liabilities and off-balance sheet contracts.
+
+Present value of assets represents the discounted present value of incoming cash flows on interest-earning assets.
+
+EVE Ratio represents EVE divided by the present value of assets.
+
+The table above indicates that at June 30, 2024, in the event of an instantaneous 200 basis point increase in interest rates, we would experience a 19.6% decrease in EVE, and in the event of an instantaneous 200 basis point decrease in interest rates, we would experience a 14.7% increase in EVE.
+
+Certain shortcomings are inherent in the methodologies used in the above interest rate risk measurements. Modeling changes require making certain assumptions that may or may not reflect the manner in which actual yields and costs respond to changes in market interest rates. In this regard, the net interest income and EVE tables presented assume that the composition of our interest-sensitive assets and liabilities existing at the beginning of a period remains constant over the period being measured and assume that a particular change in interest rates is reflected uniformly across the yield curve regardless of the duration or repricing of specific assets and liabilities. Accordingly, although the tables provide an indication of our interest rate risk exposure at a particular point in time, such measurements are not intended to and do not provide a precise forecast of the effect of changes in market interest rates and will differ from actual results.
+
+Interest rate calculations also may not reflect the fair values of financial instruments. For example, decreases in market interest rates can increase the fair values of our loans, deposits, and borrowings.
+
+Liquidity and Capital Resources
+
+Liquidity. Liquidity describes our ability to meet the financial obligations that arise in the ordinary course of business. Liquidity is primarily needed to meet the borrowing and deposit withdrawal requirements of our customers and to fund current and planned expenditures. Our primary sources of funds are deposits, principal and interest payments on loans and securities and proceeds from maturities and calls of securities. We also have the ability to borrow from the Federal Home Loan Bank of Boston. At June 30, 2024, we had $10.4 million outstanding in advances from the Federal Home Loan Bank of Boston. At June 30, 2024, we had the ability to borrow an additional $48.3
+
+million in Federal Home Loan Bank of Boston advances. Additionally, at June 30, 2024, we had a $2.4 million line of credit with the Federal Home Loan Bank of Boston, none of which was drawn at June 30, 2024.
+
+While maturities and scheduled amortization of loans and securities are predictable sources of funds, deposit flows and loan prepayments are greatly influenced by general interest rates, economic conditions, and competition. Our most liquid assets are cash and cash equivalents. The levels of these assets are dependent on our operating, financing, lending, and investing activities during any given period.
+
+Our cash flows are comprised of three primary classifications: cash flows from operating activities, investing activities, and financing activities. Net cash provided by operating activities was $405,000 and $2.1 million for the years ended June 30, 2024 and 2023, respectively. Net cash provided by investing activities, which consists primarily of disbursements for loan originations and the purchase of investment securities, offset by principal collections on loans and proceeds from maturing securities and pay downs on securities, was $5.7 million for the year ended June 30, 2024, primarily due to a net decrease in loans of $5.6 million, and maturities, prepayments and calls of securities of $17.1 million, partially offset by the purchase of $16.7 million of securities. Net cash flows used in investing activities for the year ended June 30, 2023 was $6.9 million, primarily related to purchases of securities held to maturity of $16.8 million and an increase in net loans of $3.3 million, partially offset by maturities, prepayments and calls of securities held to maturity of $13.7 million. Net cash provided by financing activities was $14.0 million for the year ended June 30, 2024, primarily due to a net increase in deposits of $7.5 million and the net increase in FHLB advances of $6.7 million. Net cash used in financing activities was $20.0 million for the year ended June 30, 2023, primarily from the net decrease in deposits, offset by a $3.7 million increase in FHLB advances.
+
+We are committed to maintaining a strong liquidity position and monitor our liquidity position on a daily basis. We anticipate that we will have sufficient funds to meet our current funding commitments based on our current strategy to increase loans with an increase in core deposits as supplemented by the use of Federal Home Loan Bank of Boston advances as needed.
+
+Capital Resources. At June 30, 2024 and 2023 the Bank exceeded all of its regulatory capital requirements. See Note 9 to the consolidated financial statements of this annual report.
+
+Off-Balance Sheet Arrangements and Contractual Obligations
+
+Off-Balance Sheet Arrangements. We are a party to financial instruments with off-balance sheet risk in the normal course of business to meet the financing needs of our customers. The financial instruments include commitments to originate loans, unused lines of credit and standby letters of credit, which involve elements of credit and interest rate risk in excess of the amount recognized in the consolidated balance sheets. Our exposure to credit loss is represented by the contractual amount of the instruments. We use the same credit policies in making commitments as we do for on-balance sheet instruments.
+
+At June 30, 2024, we had $775,000 of commitments to originate loans and $6.1 million of unadvanced funds under home equity lines of credit. See Note 10 to the audited consolidated financial statements for further information.
+
+Contractual Obligations. In the ordinary course of our operations, we enter into certain contractual obligations. Such obligations include data processing services, operating leases for premises and equipment, agreements with respect to borrowed funds and deposit liabilities.
+
+Recent Accounting Pronouncements
+
+For a discussion of the impact of recent accounting pronouncements, see Note 1 of the notes to our consolidated financial statements beginning on page F-1 of this Form 10-K. As an emerging growth company, we have elected to use the extended transition period to delay the adoption of new or re-issued accounting pronouncements applicable to public companies until such pronouncements are applicable to non-public companies.
+
+Impact of Inflation and Changing Prices
+
+The audited consolidated financial statements and related data presented herein have been prepared in accordance with generally accepted accounting principles in the United States of America, which requires the measurement of financial position and operating results in terms of historical dollars without considering changes in the relative purchasing power of money over time due to inflation. The primary impact of inflation on our operations is reflected in increased operating costs. Unlike most industrial companies, virtually all of the assets and liabilities of a financial institution are monetary in nature. As a result, interest rates, generally, have a more significant impact on a financial institution’s performance than does inflation. Interest rates do not necessarily move in the same direction or to the same extent as the prices of goods and services.
+
+Item 7A. Quantitative and Qualitative

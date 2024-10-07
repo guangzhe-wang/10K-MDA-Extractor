@@ -1,0 +1,258 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+In addition to historical information, the following discussion contains forward-looking statements, including, but not limited to, statements regarding our expectations for future performance, liquidity and capital resources that involve risks, uncertainties and assumptions that could cause actual results to differ materially from our expectations. Our actual results may differ materially from those contained in or implied by any forward-looking statements. Factors that could cause such differences include those identified below and those described under “Risk Factors” and “Cautionary Note Regarding Forward-Looking Statements,” and elsewhere in this report. Unless the context otherwise requires, references in this section to “we,” “us,” “our,” “Aeries” and “the Company” refer to the business and operations of AARK and its consolidated subsidiaries prior to the Business Combination (excluding the associated legacy financial technology and investing business activities) and to Aeries Technology, Inc. and its consolidated subsidiaries, following the consummation of the Business Combination.
+
+Overview
+
+Aeries Technology is a global provider of professional and management services and technology consulting, specializing in the establishment and management of dedicated delivery centers known as “Global Capability Centers” (“GCCs”) for portfolio companies of private equity firms and mid-market enterprises. Our engagement models are designed to provide a mix of deep vertical specialty, functional expertise, and digital systems and solutions to scale, optimize and transform a client’s business operations. By leveraging AI, implementing process improvements, and recruiting talent in cost-effective geographies, we are positioned to deliver significant cost savings to our clients. With over a decade of experience, we are committed to delivering transformative business solutions that drive operational efficiency, innovation, and strategic growth.
+
+We support and drive our clients’ global growth by providing a range of services, including professional advisory services and operations management services, to build and manage GCCs in suitable and cost-effective locations based on client business needs. With a focus towards digital enterprise enablement, these GCCs are designed to act as seamless extensions of the client organization, providing access to top-tier resources. We believe this empowers our clients to remain competitive and nimble and to achieve their goals of enduring cost efficiencies, operational excellence, and value creation, without sacrificing functional control and flexibility.
+
+Our advisory services involve the active participation of senior leadership, recommending strategies and best practices related to operating model design, consultation on various areas, market availability for resources with appropriate skillsets required for specific roles contemplated in the service model, regulatory compliance, optimization of tax structure, and more. Our clients can customize the services based on options we provide, and we subsequently firm up the execution plan with the clients.
+
+A key aspect of our service is our focus on digital transformation. We aim to leverage cutting-edge technologies, including AI, to drive innovation and streamline operations. Our technology services are designed to enhance decision-making, automate processes, and deliver significant business value. We believe this approach through GCC set-up improves operational efficiencies, enabling us to deliver digital transformation services that align with our clients’ growth strategies and support their competitiveness in an evolving digital landscape.
+
+Our clients also use our services to manage their organizational operations, including software development, information technology, data analytics, cybersecurity, finance, human resources, customer service and operations. We hire appropriate talent and personnel on our payroll for deployment on client operations. We work with our clients collaboratively to select the appropriate candidates and create functional alignment with the clients’ organizations. While our talent becomes an extension of our clients’ team, Aeries continues to provide them with the opportunity for promotion, recognition and career path progression, which we believe results in higher employee satisfaction and lower voluntary attrition rates. We manage the regulatory, tax, recruiting, human resources compliance and branding for each of our GCCs.
+
+Our purpose-built business model aims to create a more flexible and cost-effective talent pool for deployment on clients’ operations, while fostering innovation through strategic alignment at senior levels and visibility across the organization. The model also aims to insulate our clients from regulatory and tax issues and provides flexibility in scaling teams up or down based on their changing business needs. We are committed to delivering best practices and success factors by leveraging our visibility into successful strategies from multiple companies, addressing many of the deficiencies associated with the traditional outsourcing and offshoring models.
+
+As of March 31, 2024, Aeries had more than 30 clients spanning across industry segments, including companies in the industries of e-commerce, telecom, security, healthcare, engineering and others.
+
+
+Recent Developments
+
+Business Combination, and the Recent Exchange
+
+The information disclosed under “Corporate History, the Business Combination, and the Recent Exchange” in Item 1 “Business” above is incorporated herein by reference.
+
+Private Placements Around the Closing Date of the Business Combination
+
+Pursuant to those certain Non-Redemption Agreements entered into on or about March 31, 2023, October 9, 2023, November 3, 2023 and November 5, 2023, in connection with the closing of the Business Combination, we issued an aggregate of 2,677,227 of Class A ordinary shares to the holders who elected not to redeem their shares pursuant to the Non-Redemption Agreements.
+
+On November 3, 2023 and November 5, 2023, we entered into Forward Purchase Agreements with certain investors for an OTC Equity Prepaid Forward Transaction. In connection with the Forward Purchase Agreements, we entered into the Subscription Agreements with the FPA holders, pursuant to which, subject to certain limitations contained therein, each FPA holder agreed to purchase from us that number of Class A ordinary shares up to the Maximum Number of Shares (as set forth in the applicable Forward Purchase Agreement) for a purchase price per share equal to the redemption price of $10.69, less the number of Class A ordinary shares the FPA holder purchased through the open market or via redemption reversals (the “Recycled Shares”). The aggregate number of shares purchased by the FPA holders pursuant to the Subscription Agreements and the Forward Purchase Agreements (other than the Recycled Shares) was 3,711,667. The FPA holders may sell the FPA Shares during the term of the applicable Forward Purchase Agreements. If the FPA holders hold some or all of the FPA Shares at the end of the one-year term, then we will be required to make a cash payment of $2.00 per FPA Share then held, or issue additional Class A ordinary shares to such FPA holders at a price of $2.50 per share, at the election of the FPA holders.
+
+Recent Private Placement
+
+On April 8, 2024, we entered into a Share Subscription Agreement with an institutional accredited investor, pursuant to which we agreed to sell an aggregate of 2,261,778 newly issued Class A ordinary shares at a purchase price of $2.21 per share; provided, that the issuance of delivery of the shares thereunder shall be subject to a 4.99% beneficial ownership limitation as describe in the agreement, as elected by the investor. At the closing of the private placement, we received net proceeds of approximately $4.68 million, after deducting a 6.5% commission paid to a placement agent. We have used, and intend to continue using, the net proceeds for general corporate and working capital purposes.
+
+Key Factors Affecting Performance and Comparability
+
+Market Opportunity
+
+Our current markets are North America, Asia Pacific, and the Middle East, with a primary focus on the United States. Within these regions we are focused on two primary areas, the private equity ecosystem and the mid-market enterprises.
+
+
+Companies are looking for service providers who not only have the experience and expertise in providing the right-sized solution in this age of ever shortening business cycles but also a trusted partner with a transparent engagement model to lead the customers through the digital transformation journey. Aeries’ model is purpose-built to provide this experience and expertise through a transparent engagement model to accelerate and enhance our clients’ businesses.
+
+Private Markets
+
+As private market investing evolves and the landscape of venture-backed and late-stage private growth companies transform, our service offerings will adapt accordingly to align with the shifting dynamics of potential investors and portfolio companies seeking our expertise. While periods of macroeconomic growth in the United States, particularly in private equity markets, typically foster an upsurge in overall investment activity, any economic slowdowns, downturns, or volatility in the broader market and private equity landscape could potentially dampen this growth momentum.
+
+Macro-economic headwinds
+
+Our operational performance is influenced by prevailing economic conditions, including macroeconomic conditions, the overall inflationary climate, and business sentiment. During the year ended March 31, 2024, there was persistent economic and geopolitical uncertainty in many markets around the world, including concerns over wage inflation, the potential of decelerating global economic growth, and increased volatility in foreign currency exchange rates. These factors have impacted and may continue to impact our business operations.
+
+Customer Retention and Early Termination of Long-Term Contracts
+
+Maintaining long-term customer relationships is important to our business, as a significant portion of our revenue is derived from these contracts. Although we have auto-renewal service agreements with clients, they may choose to terminate or not renew, in which case they must provide a notice period, typically ranging from 90 to 180 days, and pay a termination fee based on the commercial margin if termination occurs without cause. There is an increasing likelihood that clients may choose to terminate our service agreements after we have established and operated delivery centers for them, as it becomes more feasible and cost-efficient for them to take over. While the above-described contractual provisions provide some financial protection, the termination fee may not fully offset the long-term revenue loss, and replacing clients can be challenging due to the lengthy customer acquisition cycle. To mitigate this risk, we focus on maintaining strong relationships, expanding our customer base, diversifying service offerings, and delivering high-quality service to encourage renewals or alternative service arrangements when terminations occur. Our operational results and financial condition may still be negatively affected if multiple key customers terminate their agreements around the same time, as replacing this revenue can take time.
+
+Income Taxes
+
+We are incorporated in the Cayman Islands and have operations in India, Mexico, Singapore, the UAE and the United States. Our effective tax rate has historically varied and will continue to vary from year to year based on several factors: the tax rate in the jurisdiction of our organization, the geographical sources of our earnings and the tax rates in those countries, the tax relief and incentives available to us, the financing and tax planning strategies employed by us, changes in tax laws or the interpretation thereof, and movements in our tax reserves, if any.
+
+Currently, the Company is liable to pay income tax in India, Mexico, Singapore, the UAE and the United States. In India, the Company has chosen to pay taxes according to the newly introduced tax regime in 2019 while forgoing some exemptions and deductions. Consequently, the Company calculates its consolidated provision for income taxes based on the asset and liability method. Deferred income taxes are recognized on the tax consequences of temporary differences by applying enacted statutory tax rates applicable in future years to differences between the financial statement carrying amounts and the tax bases of existing assets and liabilities, as determined under tax laws and rates. A valuation allowance is provided when it is more likely than not that all or some portion of the deferred tax assets will not be realized. These deferred tax assets and liabilities are measured using the enacted tax rates that are expected to apply to taxable income in the year in which these temporary differences are anticipated to be settled or recovered. If there is evidence that indicates some portion or all of the recorded deferred tax assets will not be realized in future periods, the deferred tax assets are recorded net of a valuation allowance. The Company evaluates uncertain tax positions to determine if they are likely to be sustained upon examination, and a liability is recorded when such uncertainties fail to meet the “more likely than not” threshold.
+
+
+Financing Costs
+
+We regularly evaluate our variable and fixed-rate debt obligations. We have historically used short and long-term debt to finance our working capital requirements, capital expenditures and other investments. In May 2023, Aeries amended its revolving credit facility with Kotak Mahindra Bank (“Amended Credit Facility”), whereby the total borrowing capacity was increased to $3.8 million (at the exchange rate in effect on March 31, 2024). The revolving facility is available for Aeries’ operational requirements. The interest rate is equal to the 6 months Marginal Cost of Funds based Lending Rate (“MCLR”) plus a margin of 0.80% and 1.20 % as of March 31, 2024 and 2023, respectively. Aeries is required to pay interest on the outstanding balance of the credit facility at this financing cost basis, calculated based on the actual number of days for which the funds are utilized. Any changes in the prevailing MCLR rates and the interest rate charged by the bank will affect the financing cost basis and the overall cost of borrowing.
+
+Additionally, Aeries has an outstanding unsecured loan from a director of ATG, Mr. Vaibhav Rao, amounting to $0.8 million at an interest rate of 10% per annum. The principal amount of the loan was outstanding in entirety as of and for the years ended March 31, 2024 and 2023.
+
+The Company also has an outstanding four-year vehicle loan of $0.1 million (at the exchange rate in effect on March 31, 2024) at an interest rate of 10.75% per annum.
+
+Refer to the notes to our consolidated financial statements titled “Short-term borrowings” and “Long-term debt” included elsewhere in this Annual Report on Form 10-K for additional information on our indebtedness.
+
+For information about the risks we face, see “Risk Factors.”
+
+Results of Operations
+
+Overview
+
+The Company has one operating segment and presents and discusses revenues by client location. The Company believes this disaggregation best depicts how the nature, amount, timing and uncertainty of our revenues and cash flows are affected by industry, market and other economic factors.
+
+The following table shows the disaggregation of the Company’s revenues by major client location. Substantially all of the revenue in our North America region relates to business with clients in the United States.
+
+Our revenues were primarily earned in U.S. dollars. Our costs were primarily incurred in Indian rupees, U.S. dollars and Mexican pesos. We bear a substantial portion of the risk of inflation and fluctuations in currency exchange rates, and therefore our operating results could be negatively affected by adverse changes in inflation rates and foreign currency exchange rates.
+
+
+Comparison of the Year Ended March 31, 2024 and March 31, 2023
+
+The following table presents selected financial data for the year ended March 31, 2024, and 2023 (in thousands, except percentages):
+
+Revenue, net
+
+Revenue, net for the year ended March 31, 2024 was $72.5 million, a $19.4 million or a 37% increase compared to revenue, net of $53.1 million for the year ended March 31, 2023. This change is attributable to a $18.3 million increase in revenues generated due to addition of new clients and a net $1.1 million increase in revenues resulting from the ramp-up of our existing clients.
+
+Cost of Revenue
+
+Cost of revenue for the year ended March 31, 2024 was $50.9 million, a $11.4 million or a 29% increase compared to cost of revenue of $39.4 million for the year ended March 31, 2023. The primary drivers of the increase include $6.9 million attributed to higher compensation and benefit expenses, reflecting an expansion in client-serving headcount to support revenue growth. Additionally, $3.7 million increase in fees of external consultants and $0.9 million increase in rent and professional charges. These cost increases were partially offset by $0.7 million decrease in recruitment-related expenses.
+
+
+Gross Profit
+
+Gross profit for the year ended March 31, 2024 was $21.6 million, a $8.0 million or a 58% increase compared to gross profit of $13.7 million for the year ended March 31, 2023. This increase was primarily driven by a $19.4 million increase in revenue, resulting from heightened demand for services from new and existing clients. The revenue growth was primarily offset by a $11.4 million increase in cost of revenue, largely due to higher compensation expenses and other costs related to contract fulfillment.
+
+Gross Profit Margin
+
+Gross profit margin for the year ended March 31, 2024, was 30%, an increase of 413 basis points compared to gross profit margin of 26% for the year ended March 31, 2023. The improvement is primarily attributed to higher business volumes from the project-based consulting business, which typically generates higher margins due to fixed hourly rate billing.
+
+Selling, general and administrative
+
+Selling and administrative expenses for the year ended March 31, 2024, were $18.7 million, a $7.3 million and 65% increase, compared to selling and administrative expenses of $11.3 million for the year ended March 31, 2023. The increase was due to $3.2 million increase in legal and professional expenses due to business combination related expenses, $1.1 million of expected credit loss expense, and $3.9 million increase in operations costs, largely attributable to expanded support headcount, higher travel expenses and additional legal and professional expenses. These increases were partially offset by a $2.2 million reduction in ESOP-related expenses following the completion of the vesting period.
+
+Total other income, net
+
+Total other income, net for the year ended March 31, 2024, was $16.1 million, a $15.7 million and 3,610% increase, compared to other income, net of $0.4 million for the year ended March 31, 2023. The increase was primarily driven by a $16.2 million increase resulting due to change in fair value of derivative liabilities, partially offset by a reduction in exchange gains recorded in the year ended March 31, 2023.
+
+Income tax expense
+
+Provision from income taxes for the year ended March 31, 2024, was $1.9 million, an increase of $0.8 million and 77% increase compared to provision of income taxes of $1.1 million for the year ended March 31, 2023. The increase was primarily due to the significant rise in pre-tax income and higher non-deductible expenses during the year.
+
+Non-GAAP Financial Measures
+
+We use non-GAAP financial information and believe it is useful to investors as it provides additional information to facilitate comparisons of historical operating results, identify trends in our underlying operating results and provide additional insight and transparency on how we evaluate the business. We use non-GAAP financial measures to budget, make operating and strategic decisions, and evaluate our performance. We have detailed the non-GAAP adjustments that we make in our non-GAAP definitions below. The adjustments generally fall within the categories of non-cash items, other than costs related to the Business Combination. We believe the non-GAAP measures presented herein should always be considered along with, and not as a substitute for or superior to, the related US GAAP financial measures. We have provided the reconciliations between the US GAAP and non-GAAP financial measures below, and we also discuss our underlying US GAAP results throughout the Management’s Discussion and Analysis of Financial Condition and Results of Operations section. The non-GAAP financial measures we present may differ from similarly captioned measures presented by other companies. Investors are encouraged to review the related GAAP financial measures and the reconciliation of these non-GAAP financial measures to their most directly comparable US GAAP financial measures, and not to rely on any single financial measure to evaluate our business.
+
+
+Adjusted EBITDA and Adjusted EBITDA Margin
+
+We define Adjusted EBITDA as net income from operations before interest, income taxes, depreciation and amortization, further adjusted to exclude stock-based compensation, business combination-related costs, and changes in fair value of derivative liabilities. Adjusted EBITDA is a key performance indicator that we use to evaluate our operating performance and in making financial, operating, and planning decisions.
+
+We define Adjusted EBITDA margin as Adjusted EBITDA divided by revenue for the reporting period.
+
+We believe these non-GAAP measures are useful insight to investors by offering a clearer view of Aeries’ operating performance. This information is frequently utilized by securities analysts and other stakeholders as a measure of financial information and debt service capabilities, and it has been used by our management for internal reporting and planning procedures, including aspects of our consolidated operating budget and capital expenditures.
+
+The following table provides a reconciliation from net income (US GAAP measure) to Adjusted EBITDA and Adjusted EBITDA margin (Non-GAAP measures) for the year ended March 31, 2024, and 2023 (in thousands):
+
+Some of the limitations of Adjusted EBITDA and Adjusted EBITDA margin include that these measures do not reflect (i) our cash expenditures or future requirements for capital expenditures or contractual commitments or foreign exchange gain/loss, (ii) changes in, or cash requirements for, working capital, (iii) significant interest expense or the cash requirements necessary to service interest or principal payments on our outstanding debt, (iv) payments made or future requirements for income taxes, (v) cash requirements for future replacement or payment in depreciated or amortized assets, (vi) stock based compensation costs, (vii) Business Combination related costs, and (viii) change in fair value of derivative liabilities.
+
+Liquidity and Capital Resources
+
+The accompanying consolidated financial statements have been prepared using the going concern basis of accounting, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business. The going concern basis of presentation assumes that the Company will continue in operation one year after the date these financial statements are issued and will be able to realize its assets and discharge its liabilities and commitments in the normal course of business. As of March 31, 2024, the shareholders’ equity had a deficit of $1.9 million. This may raise substantial doubt regarding the Company’s ability to continue as a going concern for at least 12 months from the date when these financial statements are available to be filed with the SEC.
+
+
+The Company acquired approximately $8.7 million in cash shortly following the closing of the Business Combination, and as of March 31, 2024, it had $2.1 million in cash and cash equivalent. The outflow of cash since the closing is primarily attributed to payments of transaction expenses related to the Business Combination. In addition, pursuant to the FPAs entered in connection with the closing of the Business Combination, at the end of the contract period of one year under the FPAs, we may be required to pay the maturity consideration (approximately up to $8 million in cash or a number of Class A ordinary shares valued at $2.50 per share, at the option of the FPA holders) in respect of the FPA Shares held by the FPA holders. We may not have sufficient cash from operations or cash reserves to pay the maturity consideration in the event the FPA holders elect to receive the maturity consideration in cash. Therefore, we may need to rely on our available debt capacity to pay some or all of the maturity consideration. Payment of the maturity consideration in cash would reduce the amount of cash on hand or available debt capacity to fund our operations, which could adversely affect our ability to make necessary investments, and, therefore, could affect our results of operations.
+
+Our working capital needs are primarily to finance our payroll and other administrative and information technology expenses in advance of the receipt of accounts receivable, as well as increased expenses due to being a public reporting company. Our primary capital requirements include expanding existing operations to support our growth, financing acquisitions and enhancing capabilities, including building certain digital solutions.
+
+The Company has historically financed its operations and expansions with cash generated from operations, the revolving credit facility from Kotak Mahindra Bank, and loans from related parties. As of March 31, 2024, the Company had $2.1 million in cash and cash equivalents, and the Company also generated overall positive cash flows for the year ended March 31, 2024. Management expects to have sufficient cash from the operations, cash reserves and debt capacity for the next 12 months and for the foreseeable future to finance our operations, our growth and expansion plans. In addition, we may attempt to raise additional funds through public or private debt or equity financing. In April 2024, we received net proceeds of $4.68 million by selling 2,261,778 newly issued Class A ordinary shares in a private placement at a purchase price of $2.21 per share. We are in ongoing negotiations with relevant parties to potentially restructure certain of our current liabilities into equity or long-term liabilities. However, there is no guarantee that these measures will achieve the desired objectives, and these is no assurance that we may raise additional financing on terms acceptable to us or at all.
+
+Cash Flow for the Year ended March 31, 2024 and 2023
+
+The following table presents net cash provided by operating activities, investing activities and financing activities for the year ended March 31, 2024, and 2023 (in thousands):
+
+Operating Activities
+
+Net cash provided by operating activities for the year ended March 31, 2024, decreased by $6.4 million compared to the prior year. The decline was primarily driven by an increase of accounts receivable by $5.6 million.
+
+The Net income for the year ended March 31, 2024, increased by $15.6 million as compared to the prior year, which was offset mainly due to adjustment of $14.8 million decrease due to the change in fair value of the FPA put option liability and $1.4 million decrease due to the change in fair value of derivative warrant liabilities for the year ended March 31, 2024.
+
+
+Investing Activities
+
+Net cash used in investing activities during the year ended March 31, 2024, was $1.7 million, of which $1.5 million was used for the purchase of property and equipment and $2.3 million was used for the issuance of loans to affiliates, offset by $2.1 million generated from loan repayments received from affiliates.
+
+Net cash used in investing activities during the year ended March 31, 2023, was $1.6 million, of which $1.6 million was used for the purchase of property and equipment and $0.8 million was used for the issuance of loans to affiliates, offset by $0.8 million generated from loan repayments received from affiliates.
+
+Financing Activities
+
+Net cash provided by financing activities during the year ended March 31, 2024, was $7.1 million, primarily from proceeds from the Business Combination of $8.7 million, the net proceeds from short-term debt of $2.6 million and proceeds from long-term debt of $0.9 million; offset by the repayment of long-term debt of $0.4 million, payment of deferred transaction costs of $2.3 million, payment of promissory note liability of $1.5 million, payment of insurance financing liability of $0.4 million and payment of finance lease obligation of $0.4 million.
+
+Net cash provided by financing activities during the year ended March 31, 2023, was $0.3 million, primarily from net proceeds from short term borrowings of $1.2 million, proceeds from long-term debt of $0.4 million; partially offset by payment of deferred transaction costs of $0.8 million, payment of finance lease obligations of $0.4 million and repayment of long-term debt of $0.2 million.
+
+Off-balance Sheet Arrangements
+
+As of March 31, 2024 and currently, we do not have any material off-balance sheet arrangements.
+
+New Accounting Pronouncements
+
+See “Summary of Significant Accounting Policies”, in the notes to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K.
+
+Application of Significant Accounting Policies and Estimates
+
+General
+
+The following is a summary of the basis of preparation and significant accounting policies which have been applied in the preparation of the accompanying consolidated financial statements. The accounting policies have been applied consistently in the preparation of these consolidated financial statements. A full description of significant accounting policies is provided in our consolidated financial statements for the fiscal years ended March 31, 2024 and 2023.
+
+Critical Accounting Policies and Management Estimates
+
+Our discussion and analysis of financial condition and results of operations are based upon our consolidated financial statements included elsewhere in this Annual Report. The preparation of our consolidated financial statements in accordance with US GAAP requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue and expenses. Our critical accounting policies are those that materially affect our consolidated financial statements and involve difficult, subjective or complex judgments by management. A thorough understanding of these critical accounting policies is essential when reviewing our consolidated financial statements. We believe that the critical accounting policies listed below involve the most difficult management decisions because they require the use of significant estimates and assumptions as described above. Please see Note 2 to our consolidated financial statements included elsewhere in this Annual Report for the complete list of significant accounting policies and estimates.
+
+
+Forward Purchase Agreement
+
+On November 3, 2023 and November 5, 2023, WWAC entered into Forward Purchase Agreements (the “FPAs”) with Sandia Investment Management LP, Sea Otter Trading, LLC, YA II PN, Ltd and Meteora Capital Partners, LP (collectively known as “FPA holders”) for an OTC Equity Prepaid Forward Transaction. Subscription Agreements (the “Subscription Agreements”) were also executed alongside the FPA for subscription of the underlying FPA shares by the FPA holders either through a new issuance or purchase of shares from existing holders (“Recycled Shares”). The FPAs and Subscription Agreements have been accounted for separately as discussed subsequently.
+
+The FPAs stipulate a new issuance of 3,711,667 Class A ordinary shares to the FPA holders at the redemption price (i.e., $10.69 per share) and purchase of 288,333 Recycled Shares through redemption reversals. The amount to be received by the Company from the FPA holders on such issuance of approximately 3,711,667 shares is held with the FPA holders as prepaid with respect to the forward transaction. Pursuant to the FPA, the Company was obligated to pay a prepayment amount of $42.8 million which was settled as below:
+
+At the end of the contract period of one year, for each unsold share held by the FPA holders, the Company is obligated to pay the FPA holders an amount of $2 in cash or a variable number of the Company’s Class A ordinary shares in order to provide a return of $2.5 per FPA share determined based on the 30-day VWAP of the Company’s Class A ordinary shares (“Maturity Consideration”). The FPA holders have the option to select the form of Maturity Consideration.
+
+The Optional Termination Right held by the FPA holders economically results in the prepaid forward contract being akin to a written put option with the purchaser’s right to sell all or a portion of the 4,000,000 Class A ordinary shares to the Company. The Company is entitled over the 12-month maturity period to either a return of the prepayment or the underlying shares, which the FPA holders will determine at their sole discretion depending on the movement in the Company’s share price.
+
+The FPAs consist of two freestanding financial instruments that are accounted for as follows:
+
+
+Derivative Financial Instruments and FPA Put Option Liability
+
+The Company accounts for the warrants in accordance with the guidance contained in ASC 815-40 under which the Instruments (as defined below) do not meet the criteria for equity treatment and must be recorded as liabilities. The Company accounts for the FPA put option liability as a financial liability in accordance with the guidance in ASC 480-10. Warrants and FPA are collectively referred as the “Instruments”. The Instruments are subjected to re-measurement at each balance sheet date until exercised, and any change in fair value is recognized in the Company’s consolidated statement of operations. See Note 18 for further discussion of the pertinent terms of the warrants and Note 20 for further discussion of the methodology used to determine the value of the Instruments.
+
+In December 2023, the Company settled vendor balances amounting to $0.9 million owed to certain vendors by issuing 361,338 Class A ordinary shares. If the VWAP of the Class A ordinary shares over the three trading days immediately preceding the agreement date is higher than the VWAP over the three trading days immediately preceding the six-month anniversary from the agreement date, additional Class A ordinary shares of the Company would need to be issued for the difference. This represents a derivative financial instrument written by the Company which has been accounted for in accordance with the guidance contained in ASC 815-40 including subsequent re-measurement at fair value with the changes being recognized in Company’s consolidated statement of operations.
+
+For derivative financial instruments that are accounted for as liabilities, the derivative instrument is initially recorded at its fair value at inception and is then re-valued at each reporting date, with changes in the fair value reported in the statements of operations. The classification of derivative instruments, including whether such instruments should be recorded as liabilities or as equity, is evaluated at the end of each reporting period. Derivative liabilities are classified in the consolidated balance sheets as current or noncurrent based on whether or not net-cash settlement or conversion of the instrument could be required within 12 months of the balance sheet date.
+
+Fair Value Measurements
+
+Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. Valuation techniques used to measure fair value should maximize the use of observable inputs and minimize the use of unobservable inputs. Assets and liabilities recorded at fair value in the consolidated financial statements are categorized based upon the level of judgment associated with the inputs used to measure their fair value.
+
+Hierarchical levels which are directly related to the amount of subjectivity associated with the inputs to the valuation of these assets or liabilities are as follows:
+
+Level 1 – Inputs are unadjusted, quoted prices in active markets for identical assets or liabilities at the measurement date.
+
+Level 2 – Inputs that are observable, either directly or indirectly. Such prices may be based upon quoted prices for identical or comparable securities in active markets or inputs not quoted on active markets but corroborated by market data.
+
+Level 3 – Unobservable inputs that are supported by little or no market activity and reflect management’s best estimate of what market participants would use in pricing the asset or liability at the measurement date. Consideration is given to the risk inherent in the valuation technique and the risk inherent in the inputs to the model.
+
+A financial instrument’s categorization within the valuation hierarchy is based upon the lowest level of input that is significant to the fair value measurement.
+
+
+Fair Value of Financial Instruments
+
+Except for the warrants and FPA as described above, the fair value of the Company’s assets and liabilities, which qualify as financial instruments under the Financial Accounting Standards Board (the “FASB”) ASC 820, “Fair Value Measurements and Disclosures,” approximates the carrying amounts represented in the consolidated balance sheets.
+
+Redeemable Noncontrolling Interest
+
+Redeemable noncontrolling interest represents the portion of equity in a subsidiary that is not attributable, directly or indirectly, to the Company. Such redeemable noncontrolling interest include exchange agreements with a call and a put option where the minority interest investors’ respective ordinary shares in AARK and ATG will be exchanged for Class A ordinary shares based on the exchange ratio as set out in the Exchange agreements. The exchange is subject to certain exchange conditions and cash redemption features which are outside of the Company’s control. The redeemable noncontrolling interest has initially been measured at the proportionate share in the net assets of the subsidiaries in accordance with ASC 805-40-30-3. Subsequently, the carrying value is adjusted with an allocation of the subsidiaries’ earnings based on ownership interest. Noncontrolling interest that has redemption features outside the Company’s control is accounted for as redeemable noncontrolling interest and is recorded as mezzanine equity and is reported between liabilities and shareholders’ equity (deficit) in the consolidated balance sheets.
+
+Accounts receivable, net
+
+The Company records a receivable when an unconditional right to consideration exists, such that only the passage of time is required before payment of consideration is due. Timing of revenue recognition may differ from the timing of invoicing to customers. If revenue recognized on a contract exceeds the billings, then the Company records an unbilled receivable for that excess amount, which is included as part of accounts receivable, net in the Company’s consolidated balance sheets.
+
+Prior to the Company’s adoption of ASU 2016-13, Topic 326 Financial Instruments – Credit Losses (“Topic 326”), the accounts receivable balance was reduced by an allowance for doubtful accounts that was determined based on the Company’s assessment of the collectability of customer accounts. Under Topic 326, accounts receivable are recorded at the invoiced amount, net of allowance for credit losses. The Company regularly reviews the adequacy of the allowance for credit losses based on a combination of factors. In establishing any required allowance, management considers historical losses adjusted for current market conditions, the current receivables aging, current payment terms and expectations of forward-looking loss estimates. Allowance for credit losses was $1.2 million as of March 31, 2024 and allowance for doubtful accounts was $0 as of March 31, 2023, and is classified within “Accounts Receivable, net” in the consolidated balance sheets. See “Recent accounting pronouncements adopted” section below for information pertaining to the adoption of Topic 326.
+
+The following tables provides details of the Company’s allowance for credit losses (in thousands):
+
+
+Revenue recognition
+
+We account for revenue in accordance with ASC 606, Revenue from Contracts with Customers (ASC 606). A performance obligation is a promise in a contract to transfer a distinct good or service to the customer, and is the unit of account in ASC 606. Revenue is measured as the amount of consideration we expect to receive in exchange for transferring goods or providing services. The contract transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied. All of our material sources of revenue are derived from contracts with customers. Refer to Note 2 - Summary of Significant Accounting Policies to the consolidated financial statements included in this Annual Report for additional information regarding our revenue recognition policy.
+
+Internal Use Software Costs
+
+The Company capitalizes certain costs related to internal use software acquired, modified, or developed related to the Company’s platform. These capitalized costs are primarily related to salaries and other personnel costs. Costs incurred in the preliminary stages of development are expensed as incurred. Once the application development stage has been reached, internal and external costs, if direct and incremental, are capitalized until the software is substantially complete and ready for its intended use. Capitalization ceases upon completion of all substantial testing. Maintenance and training costs are expensed as incurred. Refer to Note 2 - Summary of Significant Accounting Policies to the consolidated financial statements included in this Annual Report for additional information regarding this policy.
+
+Employee Benefit Plan
+
+The Company provides for a gratuity obligation through a defined benefit retirement plan (the “Gratuity Plan”) covering eligible employees in India under Payments of Gratuity Act, 1972. The cost of providing benefits under this plan is determined based on actuarial valuation at each year end. Actuarial valuation is carried out for gratuity using the projected unit credit method. The Company reviews its assumptions on an annual basis and makes modifications to the assumptions based on current rates and trends when it is appropriate to do so. Refer to Note 2 - Summary of Significant Accounting Policies to the consolidated financial statements included in this Annual Report for additional information regarding this policy.
+
+
+Item 7A. Quantitative and Qualitative

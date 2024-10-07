@@ -1,0 +1,202 @@
+ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+The following discussion should be read in conjunction with our consolidated financial statements and the related notes contained elsewhere in this Annual Report on Form 10-K and in our other Securities and Exchange Commission filings. The following discussion may contain predictions, estimates, and other forward-looking statements that involve a number of risks and uncertainties, including those discussed under “Risk Factors” and elsewhere in this Annual Report on Form 10-K. These risks could cause our actual results to differ materially from any future performance suggested below.
+
+Overview 
+
+As stated in our corporate mission, we are committed to delivering superior products that challenge industry norms, with the goal of delivering an unmatched customer and adult consumer experience. In achieving this, risk reduction is central to our mission, and we aim to improve the lives of our consumers through cutting-edge research and development. Our technology platforms look to reduce youth access to vaping products, which in turn, will facilitate our ability to provide adult consumers with the products they desire.
+
+We are engaged in the research and development, design, commercialization, sales, marketing and distribution of branded and non-branded vaping hardware products in both the nicotine and cannabis spaces. Vaping refers to the practice of inhaling and exhaling the vapor produced by an electronic vaping device. These products are sold into the global nicotine and cannabis markets in the form of e-cigarettes or cartridges filled with oils by our customers, respectively.
+
+We sell our e-cigarette (or nicotine) products globally, in markets where we are legally permitted to do so. To date, our nicotine products are marketed under the “Aspire” brand name and are sold primarily through our expansive distribution network. However, we are currently preparing to expand our international presence via the launch of nicotine products under the Ispire platform. These products will be launched under licensing arrangements with the owner(s) of selected partner brand(s).
+
+We currently sell our cannabis vaping hardware in the United States, Canada, South Africa, and Germany. However, we are continuing to develop our sales network across Europe, South America, and other regions in preparation for legalization in these markets. Our cannabis products are sold under the Ispire brand name, primarily on an ODM basis to other cannabis vapor companies including multi and single-state operators, brand owners and co-packers. ODM generally involves the design and customization of the core products to meet each brand’s unique image and needs. Our hardware products are sold by our customers under their own brand names. We do not “touch the cannabis plant” in the production and sale of our hardware products and thus are not subject to the specific cannabis-related regulatory and taxation provisions of the industry(e.g., IRS Code Section 280E).
+
+Since our initial public offering in April 2023, we have completed three fundraising rounds. The first was executed as part of our initial public offering, from which we raised approximately $18.3 million after underwriting and other offering expenses.
+
+In June 2023, we raised net proceeds of approximately $7.4 million, after placement agent and offering expenses, from the private placement of our Common Stock to three investors.
+
+In March 2024, we raised net proceeds of approximately $10.6 million, after placement agent fees and offering expenses, through a public offering of our Common Stock priced at $6.00 per share. We used the net proceeds from this offering in connection with the establishment and operation of our manufacturing facility in Malaysia, the funding of our joint venture with Touch Point Worldwide Inc. d/b/a/ Berify and Chemular Inc. and for working capital and general corporate purposes, including research and development.
+
+
+Regulatory Risks
+
+The sale of nicotine and cannabis products is subject to regulations worldwide. Many countries prohibit the sale of any cannabis products, and many countries have regulations relating to nicotine products, with a particular emphasis on underage sales. We work closely with our various global distribution partners to help ensure our nicotine products comply with local regulations (e.g., packaging, ingredient disclosure, health warnings, etc.). Changes in the regulatory environment can be enacted swiftly and may lead to our products becoming non-compliant in one or more international markets. This regulatory scenario may severely disrupt our business in these markets while we resolve the deficiencies (if possible) with the current product offering.
+
+E-cigarette regulation
+
+Regulation regarding e-cigarettes varies across countries, from limited regulation to a total ban. The legal status of e-cigarettes is currently pending in many countries. As e-cigarettes have become more and more popular recently, many countries are considering imposing more stringent law and regulations to regulate this market. Changes in existing law and regulations and the imposition of new laws or regulations in countries and regions that our major customers are in may adversely affect our business.
+
+In many markets e-cigarettes and other nicotine products are subject to an excise tax. The amount of excise tax on our products is a key determining factor in our pricing and the value proposition to our adult consumer target market. The structure (i.e., ad valorem vs. specific) and tax burden can vary significantly from market to market. According to a 2023 study by Dauchy E, Fuss C. Global Taxation of Electronic Nicotine and Non-Nicotine Delivery Systems, the tax burden on nicotine vape products in Norway is 81.2% while the tax burden on the same products in Paraguay is 2.9%. The tax burden and resulting retail sales price is a key factor in determining how competitive our products are compared to illicit vaping products. The greater the price gap between legal and illicit vaping products the greater the incentive for adult consumers to buy illicit products. These illicit vaping products are not subject to the same quality standards as our products and undermine the efforts of legal operators seeking to help adult consumers switch from combustible tobacco products to vaping alternatives.
+
+United States E-Cigarette Market
+
+In the United States, the Federal Food, Drug, and Cosmetic Act requires all Electronic Nicotine Delivery Systems (“ENDS”) product manufacturers that market products in the United States to submit Premarket Tobacco Product Applications (“PMTAs”) to the FDA. For ENDS products that were on the U.S. market on or before August 8, 2016, a PMTA was required to be submitted to the FDA before September 9, 2020. For ENDS products that were not on the U.S. market prior to August 8, 2016, and for which a PMTA was not filed before September 9, 2020, a PMTA premarket authorization issued by FDA is required before the subject product may enter the U.S. market. We have submitted a PMTA filing for one ENDS product, and, under apparent FDA policies, the agency will not enforce the premarket review requirements for that product pending review of its PMTA. However, even with submission of the PMTA application, the FDA may reject our application and may prevent our ENDS products from being sold in U.S., which will adversely affect our business.
+
+As a result of ENDS regulation noted above, we can sell only one tobacco vaping product line, the Nautilus Prime, in the U.S. Our tobacco vaping sales related to this line in the U.S. were approximately $0.6 million and $0.2 million for the twelve months ended June 30, 2023, and 2024, respectively. Because the volume of sales did not justify the marketing and regulatory costs, we have ceased marketing tobacco vaping products in the U.S.
+
+On September 6, 2024, we submitted a PMTA application for a disposable ENDS product with 4 flavors. This is an important milestone for us, as it signals our re-entry into the US ENDS market. It is our intention to amend or resubmit this application in the coming months, once we have finalized the age-gating technology solution with our IKE Tech LLC joint venture. We have further plans to submit additional PMTA applications for pod-based ENDS systems, which will include age-gating technology, in the future as well.
+
+
+Amendments to the Prevent All Cigarette Trafficking (“PACT”) Act, which became law in 2021, extend the PACT Act to include e-cigarettes and all vaping products, and place significant burdens on sellers of vaping products in the United States which may make it difficult to operate profitably in the United States. Because of tighter government regulations, we have stopped marketing tobacco vaping products in the United States, as the volume of sales from the one tobacco vaping product which we may sell in the United States does not justify the marketing and regulatory costs involved.
+
+In the United States, cannabis vaping products are governed by state laws, which vary from state to state. Most states do not permit the adult recreational use of cannabis, and no states permit the sale of recreational cannabis products to minors.. Further, States may be more willing to permit recreational cannabis use in the future given the DEA’s intention to reschedule cannabis as a Schedule III controlled substance allowing for medicinal use. We cannot predict what action states will take or the nature and amount of taxes they may impose. However, to the extent the PACT Act applies to cannabis products that aerosolize liquids, it may be more difficult to sell our products in states that permit the sale of cannabis.
+
+However, cannabis and its derivatives containing more than 0.3% delta-9 tetrahydrocannabinol on a dry weight basis remain Schedule I controlled substances under U.S. federal law, meaning that federal law generally prohibits their manufacture and distribution. United States federal law also deems it unlawful to sell, offer for sale, transport in interstate commerce, import, or export “drug paraphernalia,” which includes “any equipment, product, or material of any kind which is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance” the possession of which federal law prohibits, including Schedule I “marijuana.” Limited exemptions exist, most notably when state or local law authorizes these items’ manufacture, possession, or distribution.
+
+European Market
+
+The European Commission issued the Tobacco Products Directive (the “TPD”), which became effective on May 19, 2014, and became applicable in the European Union member states on May 20, 2016. The TPD regulates e-cigarettes on the packaging, labelling and ingredients of the products on the European Union market, the creation of smoke-free environments, tax measures and activities against illegal trade and anti-smoke campaigns. Member states of the European Union are required to ensure that advertisements for any tobacco-related product are prohibited, and no promotion shall be made as to those devices with an intention to promote e-cigarettes. For the e-cigarettes released after May 20, 2016, TPD requires e-cigarette manufacturers to submit product sales applications to the regulatory market six months in advance and ensure their products can meet the TPD requirements before they can be released. We have complied with TPD requirements for all our tobacco products sold in Europe.
+
+The sale of cannabis vaping products is illegal in the European Union, save for Germany, and the United Kingdom.
+
+Accounts Receivable
+
+Our business relies on the collection of accounts receivable from our customers in a timely manner to maintain liquidity and support our ongoing operations. The balance of the allowance for credit losses was $1.5 million and $5.9 million at June 30, 2023 and June 30, 2024, respectively.
+
+Our failure or inability to collect accounts receivable when due results from a number of factors, including (i) our customer’s failure to pay as a result of adverse economic conditions affecting the customer’s cash flow; (ii) our failure to implement effective collection efforts; and (iii) disputes over contract terms, product quality or delays in delivery. Although we may implement strategies to mitigate these risks, there can be no assurance that such measures will be entirely effective, and we may continue to incur write-offs of accounts receivable, which may impair our ability to operate profitably.
+
+
+Key Factors that Affect Our Results of Operations
+
+We believe the following key factors may affect our financial condition and results of operations:
+
+| ●| The effect of legislation and regulations affecting tobacco and cannabis vaping products. 
+---|---|--- 
+
+| ●| If we elect to market tobacco vaping products in the United States, our ability to obtain regulatory approval to market additional tobacco vaping products in the United States and the significant cost of seeking such approval. 
+---|---|--- 
+
+| ●| Our ability to develop and market tobacco and cannabis vaping products to meet the changing tastes of adult consumers. 
+---|---|--- 
+
+| ●| The effects of competition. 
+---|---|--- 
+
+| ●| The development of an international market for cannabis vaping products, which is presently primarily limited to certain states in the United States. 
+---|---|--- 
+
+| ●| The effect of both the outbreak any other pandemic or other disease outbreak results in restrictions imposed by governments which may impact our ability to purchase or assemble products as well as the ability of end users to purchase our products. 
+---|---|--- 
+
+Results of Operations
+
+The following table sets forth a summary of our consolidated statements of operations and comprehensive income for the years ended June 30, 2023 (as restated) and 2024 (dollars in thousands except per share amounts). 
+
+
+Revenue 
+
+The following table sets out the breakdown of our revenue percentage by region based on information provided to us by our distributors.
+
+Our revenue increased by $36,303,155, or 31.4%, from $115,605,536 for the year ended June 30, 2023, to $151,908,691 for the year ended June 30, 2024. The increase in revenue is the combined effect of (i) increases in product sales in the United States of $21.5 million from $41.6 million for the year ended June 30, 2023, to $63.1 million for the year ended June 30, 2024, (ii) increases in sales of vaping products in Europe of $6.5 million from $58.8 million for the year ended June 30, 2023 to approximately $65.3 million for the year ended June 30, 2024, and (iii) increases in sales of vaping products in others of $5.7 million from $0.3 million for the year ended June 30, 2023 to approximately $6.0 million for the year ended June 30, 2024, mainly contributed by increase in sales to South Africa of $5.2 million.
+
+Cost of Revenue 
+
+Cost of revenue mainly consists of cost of purchases of vaping products, that are mostly purchased from Shenzhen Yi Jia though there has been decreased reliance on this factory in 2024 vs 2023\. Cost of revenue increased by $27,297,773, or 28.8%, from $94,828,472 for the year ended June 30, 2023 (as restated), to $122,126,245 for the year ended June 30, 2024. The increase in cost of revenue is in line with increase in sales.
+
+Gross Profit 
+
+The following tables show the revenue, cost of revenue and gross profit of our products (dollars in thousands).
+
+
+Gross profit increased by $9,005,382, or 43.3%, from $20,777,064 for the year ended June 30, 2023 (as restated), to $29,782,446 for the year ended June 30, 2024, while our gross margin increased from 18.0% to 19.6%.
+
+The increase in gross margin was primarily due to changes in product mix with more higher margin products being sold during the year ended June 30, 2024.
+
+Operating Expenses 
+
+Operating expenses increased $18,425,364, or 73.0%, from $25,251,221 for the year ended June 30, 2023 (as restated), to $43,676,585 for the year ended June 30, 2024.
+
+Our sales and marketing expenses mainly consist of employee salaries and benefits, marketing expenses, travel expenses, and other miscellaneous expenses.
+
+Sales and marketing expenses increased by $2,192,504, or 49.6%, from $4,416,220 for the year ended June 30, 2023 (as restated), to $6,608,724 for the year ended June 30, 2024. The increase in sales and marketing expenses was primarily due to an increase in (i) our marketing activities, marketing campaign and trade shows of $1.1 million, (ii) stock-based compensation expense related to selling personnels of $0.5 million incurred in 2024 and (iii) headcount and payroll expense for Aspire Science of $0.2 million.
+
+Our general and administrative expenses mainly consist of employee’s salaries and benefits, rental expense, professional fees, share based payment expenses and other administrative expenses. General and administrative expenses increased by $16,232,860, or 77.9%, from $20,835,001 for the year ended June 30, 2023 (as restated), to $37,067,861 for the year ended June 30, 2024. The increase was primarily due to (i) stock-based compensation expense of $5.9 million incurred in 2024, as compensation and incentive for management, employees and service providers, (ii) an increase of $4.8 million for payroll and contract worker expenses as more employees were hired and contract workers were engaged by us for expansion of our cannabis business and building our manufacturing plant, (iii) increase in bad debt expense as an allowance for credit losses of $2.7 million from accounts that are under dispute due to delayed shipment, (iv) an increase in professional fees of $2.3 million incurred for expansion of cannabis business.
+
+Other (expense) income, net 
+
+Other income, net includes interest income, interest expense, exchange gain (loss), net and other income (expense).
+
+Interest income increased $170,042, from $195,209 for the year ended June 30, 2023, to $365,251 for the year ended June 30, 2024. The increase in interest income is mainly due to increase in interest rate and more interest income from bank deposits.
+
+Other (expense) income mainly consists of interest expense, loss on equity method investment, credits from company credit card and other miscellaneous expenses. Other (expense) income increased by $268,555, or 173.1%, from net expense of $155,150 for the year ended June 30, 2023 to net income of $113,405 for the year ended June 30, 2024.
+
+Exchange loss, net decreased by $253,932, or 78.3%, from net exchange loss of $324,225 for the year ended June 30, 2023 to net exchange loss of $70,293 for the year ended June 30, 2024.
+
+As a result of these factors, total other (expense) income increased by $692,529, from other expense of $284,166 for the year ended June 30, 2023 to other expenses of $408,363 for the year ended June 30, 2024.
+
+Income Taxes 
+
+We account for income taxes under ASC 740. Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the consolidated financial statement carrying amounts of existing assets and liabilities and their respective tax bases.
+
+
+Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period including the enactment date. Valuation allowances are established, when necessary, to reduce deferred tax assets to the amount expected to be realized.
+
+The provisions of ASC 740-10 prescribe a more-likely-than-not threshold for consolidated financial statement recognition and measurement of a tax position taken (or expected to be taken) in a tax return. This interpretation also provides guidance on the recognition of income tax assets and liabilities, classification of current and deferred income tax assets and liabilities, accounting for interest and penalties associated with tax positions, and related disclosures. For the years ended June 30, 2023 and 2024, we did not incur any interest or penalties related to an uncertain tax position. We do not believe that there were any uncertain tax positions as of June 30, 2023 and 2024.
+
+Income taxes increased by $36,743 or 3.0%, from $1,245,303 for the year ended June 30, 2023 to $1,282,046 for the year ended June 30, 2024. We had a consolidated net loss for both year ended June 30, 2023 and 2024, which was the combined effect of a profit by Aspire Science and a loss by Aspire North America. The profit from Aspire Science resulted in a current tax expense. The increase in valuation allowance reflects our view that the taxable income in the future will not be sufficient to utilize the carryforward loss.
+
+Net Loss 
+
+As a result of the foregoing, net loss increased by $8,764,196, from net loss of $6,003,626, or $(0.12) per share (basic and diluted) for the year ended June 30, 2023 (as restated) to a net loss of $14,767,822, or $(0.27) per share (basic and diluted), for the year ended June 30, 2024.
+
+Liquidity and Capital Resources 
+
+The following table summarizes our changes in working capital from June 30, 2023 (as restated) to June 30, 2024 (dollars in thousands).
+
+The following table sets forth information as to consolidated cash flow information for the years ended June 30, 2023 and 2024 (dollars in thousands).
+
+Net cash flow used in operating activities for the year ended June 30, 2023 (as restated), of $8.5 million, reflected our net loss of $6.0 million, adjusted primarily as follows: add back of impairment of account receivable of $3.3 million, an increase in accounts payable of $10.6 million, a decrease in inventories of $7.1 million, offset by an increase in accounts receivable of $19.6 million, an increase in prepaid expenses and other current assets of $3.1 million and payment made for operating lease liabilities of $1.4 million.
+
+
+Net cash flow used in operating activities for the year ended June 30, 2024 of $18.3 million, reflected our net loss of $14.8 million, adjusted primarily as follows: add back of impairment of account receivable of $6.0 million, add back of shared based payment expenses of $6.4 million, add back of depreciation and amortization of $0.5 million, an increase in accounts payable of $17.9 million, an increase in accrued liabilities and other payables of $2.5 million, a decrease in inventory of $0.9 million, a decrease in prepaid expenses and other current assets of $2.4 million, an increase in contract liabilities of $1.2 million offset by an increase in accounts receivable of $41.3 million.
+
+Net cash flow used in investing activities for the year ended June 30, 2023 (as restated), of $10.2 million reflected primarily the purchase of short term investment of $9.1 million and purchase of property, plant and equipment of $1.0 million.
+
+Net cash flow generated from investing activities for the year ended June 30, 2024, of $3.0 million reflected primarily maturity of short term investment of $9.1 million offset by purchase of cost other investment of $2.0 million, purchase of property, plant and equipment of $2.0 million, acquisition of intangible assets of $1.2 million and purchase of equity method investment of $1.0 million.
+
+Net cash flow used in financing activities for the year ended June 30, 2023 (as restated), of $15.6 million reflected primarily proceeds from our initial public offering of $21.7 million, and proceeds from equity offering of $8.0 million, offset by repayment of advances to related parties of $37.9 million, payment of initial public offering costs of $3.5 million and dividend payment of $3.4 million.
+
+Net cash flow generated by financing activities for the year ended June 30, 2024, of $10.1 million reflected primarily proceeds from our equity offering of $12.3 million, offset by payment of equity offering costs of $1.5 million.
+
+To date, we have financed our operations primarily through cash flow from operations and working capital loans from our major stockholders, who are our co-chief executive officer and his wife, when necessary. We plan to support our future operations primarily from cash generated from our operations and cash on hand. As of the date of this Annual Report, we believe that our current cash and cash flows provided by operating activities, and the net proceeds from our equity offerings will be sufficient to meet our working capital needs in the next 12 months. If we experience an adverse operating environment or incur unanticipated capital expenditure requirements, or if we decide to accelerate our growth, then additional financing may be required. We cannot give any assurance that additional financing will not be required or, if required, would be available on favorable terms if at all. Such financing may include the use of additional debt or the sale of additional equity securities. Any financing which involves the sale of equity securities or instruments that are convertible into equity securities could result in dilution to our stockholders which may be substantial.
+
+The cash held at a bank by our Hong Kong operating subsidiary can be freely transferred within our corporate structure without restriction. If our Hong Kong operating subsidiary were to incur additional debt on its own behalf in the future, the instruments governing the debt may restrict the ability of our operating subsidiaries to transfer cash to our U.S. investors.
+
+Contractual Obligations 
+
+We are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item.
+
+
+Trend Information 
+
+Other than as disclosed elsewhere in this Form 10-K, we are not aware of any trends, uncertainties, demands, commitments, or events that are reasonably likely to have a material effect on our net revenues, income from operations, profitability, liquidity or capital resources, or that would cause reported financial information not necessarily to be indicative of future operating results or financial condition.
+
+Seasonality 
+
+Seasonality does not materially affect our business or the results of our operations.
+
+Off-Balance Sheet Arrangements 
+
+We do not have off-balance sheet arrangements.
+
+Critical Accounting Estimates
+
+Revenue recognition
+
+We sell our vaping products to customers and recognize revenue in accordance with the guidance of ASC 606, Revenue from Contracts with Customers. In certain sales contracts, a right of return is offered. With a right of return, a customer is given the right to return the products if they are not satisfied with the product, and a credit would be given. The return rate historically is low, and we recognize a sales return reserve based on historical return rate and apply the rate on sales for the latest three months, as it is unlikely to have sales return after the three-month period. Should there be a change in our estimate of the return rate, or a change in the periods in which we expect return, the return reserves would be affected, and our revenue would be affected as well.
+
+Allowance for credit losses
+
+We adopted Accounting Standards Update 2016-13 “Financial Instruments – Credit Losses (Topic 326), Measurement of Credit Losses on Financial Instruments” in July 2023. We estimate the allowance for current expected credit losses based on an expected loss model. Certain quantitative and qualitative factors used to estimate credit losses are subject to uncertainty. With this model, some of the factors that are considered are based on our judgment and estimates, including age of balance, past events, any historical default, current information available about the customers, current economic conditions, and certain forward-looking information, including reasonable and supportable forecasts. The assumptions and estimates have not changed significantly since the adoption of the standard. Although management believes it uses the best information necessary to establish the allowance for credit losses, future adjustments to the allowance for credit losses may be necessary and our results of operations could be adversely affected if circumstances differ substantially from the assumptions used in making the determinations.
+
+
+Recent Accounting Pronouncements
+
+The discussion of the recent accounting pronouncements contained in our consolidated financial statements, “Summary of Significant Accounting Policies,” is incorporated herein by reference.
+
+Emerging Growth Company
+
+As a company with less than $1.235 billion in revenue for our last fiscal year, we qualify as an “emerging growth company” pursuant to the JOBS Act. An emerging growth company may take advantage of specified reduced reporting and other requirements that are otherwise applicable generally to public companies. These provisions include exemption from the auditor attestation requirement under Section 404 of the Sarbanes-Oxley Act of 2002 in the assessment of the emerging growth company’s internal control over financial reporting. The JOBS Act also provides that an emerging growth company does not need to comply with any new or revised financial accounting standards until such date that a private company is otherwise required to comply with such new or revised accounting standards. We have elected to take advantage of such exemptions. We could lose Emerging Growth Company status if we become a “Large Accelerated Filer.” This would occur if we had a public float of $700 million or more, as of the last business day of our most recently completed second fiscal quarter.
+
+ITEM 7A. Quantitative and Qualitative

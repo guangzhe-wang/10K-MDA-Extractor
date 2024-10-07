@@ -1,0 +1,214 @@
+. | MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+---|--- 
+
+You should read the following discussion and analysis in conjunction with our consolidated financial statements and the accompanying notes thereto included in Part II, Item 8 of this Annual Report on Form 10-K for the fiscal year ended June 30, 2024 (this “Report”). This discussion and analysis contains forward-looking statements that are based on our management’s current beliefs and assumptions, which statements are subject to substantial risks and uncertainties. Our actual results may differ materially from those expressed or implied by these forward-looking statements as a result of many factors, including those discussed in “Risk Factors” included in Part I, Item 1A of this Report. Please also see “Cautionary Note Regarding Forward-Looking Statements” at the beginning of this Report.
+
+Overview
+
+Lantronix, Inc. is a global leader in compute and connectivity solutions, targeting high-growth industries such as Smart Cities, Automotive, and Enterprise markets. Our products and services empower companies to capitalize on the expanding internet of things (“IoT”) market by delivering customizable solutions that address each layer of the IoT stack.
+
+We conduct our business globally and manage our sales teams by three geographic regions: the Americas; Europe, Middle East, and Africa (“EMEA”); and Asia Pacific Japan (“APJ”).
+
+References to “fiscal 2024” refer to the fiscal year ended June 30, 2024 and references to “fiscal 2023” refer to the fiscal year ended June 30, 2023.
+
+Products and Solutions
+
+We organize our portfolio services and products into three product lines: Embedded IoT Solutions, IoT System Solutions, and Software & Services. Refer to “Products and Solutions” included in Part I, Item 1 of this Report, which is incorporated herein by reference, for further discussion.
+
+Our Embedded IoT Solutions product lines include Open-Q System on Modules and System in Packages, XPort®, XPort® Pro, Development Kits, xPico®, xPico® Wi-Fi, NICS and Optical SFPs.
+
+Our IoT System Solutions product lines include LM83X, LM80, SLC™8000, Spider™, EMG™, UDS, EDS, EDS-MD, xPress™, xDirect®, E21x, E22x, G52x, X30x, Bolero4x, FOX3-4G, FOX4, SGX™ and Power over Ethernet (“PoE”) Switches. In addition, Lantronix offers non-PoE Network Switches and Media Converters.
+
+Our Software and Services product lines include: Engineering Services, Percepxion™, ConsoleFlow™, Control Center and Level Services.
+
+Recent Accounting Pronouncements
+
+Refer to Note 1 of Notes to Consolidated Financial Statements included in Part II, Item 8 of this Report, which is incorporated herein by reference, for a discussion of recent accounting pronouncements.
+
+Critical Accounting Policies and Estimates
+
+The preparation of financial statements and related disclosures in accordance with U.S. generally accepted accounting principles (“GAAP”) requires us to make judgments, estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of net revenue and expenses during the reporting period. We regularly evaluate our estimates and assumptions related to revenue recognition, sales returns and allowances, inventory valuation, restructuring charges, valuation of deferred income taxes, valuation of goodwill and long-lived and intangible assets, share-based compensation, litigation and other contingencies. We base our estimates and assumptions on historical experience and on various other factors that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. To the extent there are material differences between our estimates and the actual results, our future results of operations will be affected.
+
+We believe the following critical accounting policies require us to make significant judgments and estimates in the preparation of our consolidated financial statements:
+
+Revenue Recognition
+
+Revenue is recognized upon the transfer of control of promised products or services to customers in an amount that reflects the consideration we expect to receive in exchange for those products or services. We apply the following five-step approach in determining the amount and timing of revenue to be recognized: (i) identifying the contract with a customer, (ii) identifying the performance obligations in the contract, (iii) determining the transaction price, (iv) allocating the transaction price to the performance obligations in the contract and (v) recognizing revenue when the performance obligation is satisfied.
+
+A significant portion of our products are sold to distributors under agreements which contain (i) limited rights to return unsold products and (ii) price adjustment provisions, both of which are accounted for as variable consideration when estimating the amount of revenue to recognize. Establishing accruals for product returns and pricing adjustments requires the use of judgment and estimates that impact the amount and timing of revenue recognition. When product revenue is recognized, we establish an estimated allowance for future product returns based primarily on historical returns experience and other known or anticipated returns. We also record reductions of revenue for pricing adjustments, such as competitive pricing programs and rebates, in the same period that the related revenue is recognized, based primarily on approved pricing adjustments and our historical experience. Actual product returns or pricing adjustments that differ from our estimates could result in increases or decreases to our net revenue.
+
+A portion of our revenues are derived from engineering and related consulting service contracts with customers. These contracts generally include performance obligations in which control is transferred over time because the customer either simultaneously receives and consumes the benefits provided or our performance on the contract creates or enhances an asset that the customer controls. These contracts typically provide services on the following basis:
+
+Performance obligations for T&M contracts qualify for the "Right to Invoice" practical expedient within the revenue guidance. Under this practical expedient, we may recognize revenue, over time, in the amount to which we have a right to invoice. In addition, we are not required to estimate variable consideration upon inception of the contract and reassess the estimate each reporting period. We determined that this method best represents the transfer of services as, upon billing, we have a right to consideration from a customer in an amount that directly corresponds with the value to the customer of our performance completed to date.
+
+We recognize revenue on fixed price contracts, over time, using an input method based on the proportion of our actual costs incurred (generally labor hours expended) to the total costs expected to complete the contract performance obligation. We determined that this method best represents the transfer of services as the proportion closely depicts the efforts or inputs completed towards the satisfaction of a fixed price contract performance obligation.
+
+From time to time, we may enter into contracts with customers that include promises to transfer multiple performance obligations that may include sales of products, professional engineering services and other product qualification or certification services. Determining whether the promises in these arrangements are considered distinct performance obligations, that should be accounted for separately versus together, often requires judgment. We consider performance obligations to be distinct when the customer can benefit from the promised good or service on its own or by combining it with other resources readily available and when the promised good or service is separately identifiable from other promised goods or services in the contract. In these arrangements, we allocate revenue on a relative standalone selling price basis by maximizing the use of observable inputs to determine the standalone selling price for each performance obligation. Additionally, estimating standalone selling prices for separate performance obligations within a contract may require significant judgment and consideration of various factors including market conditions, items contemplated during negotiation of customer arrangements and internally-developed pricing models. Changes to performance obligations that we identify, or the estimated selling prices pertaining to a contract, could materially impact the amounts of earned and unearned revenue that we record.
+
+Inventory Valuation
+
+We value inventories at the lower of cost (on a first-in, first-out basis) or net realizable value, whereby we make estimates regarding the market value of our inventories, including an assessment of excess and obsolete inventories. We determine excess and obsolete inventories based on an estimate of the future sales demand for our products within a specified time horizon, which is generally 12 to 24 months. In addition, specific reserve estimates are recorded to cover risks for end-of-life products, inventory located at our contract manufacturers and warranty replacement stock. The estimates we use for demand are also used for near-term capacity planning and inventory purchasing. Demand for our products can fluctuate significantly from period to period. A significant decrease in demand could result in an increase in the amount of excess inventory on hand. In addition, our industry is characterized by rapid technological change, frequent new product development and product obsolescence that could result in an increase in the amount of obsolete inventory quantities on hand. Our estimates of future product demand and judgement to determine excess inventory may prove to be inaccurate, in which case we may have understated or overstated the reduction to the total carrying value of our inventory for excess and obsolete inventory. In the future, if our inventory is determined to be overvalued, we would be required to recognize such costs in our cost of goods sold, resulting in a reduction in our gross margins, at the time of such determination. Although we make every effort to ensure the accuracy of our forecasts of future product demand, any significant unanticipated changes in demand or technological developments could have a significant impact on the value of our inventory and our results of operations.
+
+Restructuring Charges
+
+We recognize costs and related liabilities for restructuring activities when they are incurred. Our restructuring charges are primarily comprised of employee separation costs, asset impairments and contract exit costs. Employee separation costs include one-time termination benefits that are recognized as a liability at estimated fair value, at the time of communication to employees, unless future service is required, in which case the costs are recognized ratably over the future service period. Ongoing termination benefits are recognized as a liability at estimated fair value when the amount of such benefits are probable and reasonably estimable. Contract exit costs include contract termination fees and right-of-use asset impairments recognized on the date that we have vacated the premises or ceased use of the leased facilities. A liability for contract termination fees is recognized in the period in which we terminate the contract. Restructuring accruals are based upon management estimates at the time they are recorded and can change depending upon changes in facts and circumstances subsequent to the date the original liability is recorded. If actual results differ, or if management determines revised estimates are necessary, we may record additional liabilities or reverse a portion or existing liabilities.
+
+Valuation of Deferred Income Taxes
+
+We have recorded a valuation allowance to reduce our net deferred tax assets to zero, primarily due to historical net operating losses (“NOLs”) and uncertainty of generating future taxable income. We consider estimated future taxable income and ongoing prudent and feasible tax planning strategies in assessing the need for a valuation allowance. If we determine that it is more likely than not that we will realize a deferred tax asset that currently has a valuation allowance, we would be required to reverse the valuation allowance, which would be reflected as an income tax benefit in our consolidated statements of operations at that time.
+
+Business Combinations
+
+We allocate the fair value of the purchase consideration of a business acquisition to the tangible assets, liabilities, and intangible assets acquired, including in-process research and development (“IPR&D”), if applicable, based on their estimated fair values. The excess of the fair value of purchase consideration over the fair values of these identifiable assets and liabilities is recorded as goodwill. IPR&D is initially capitalized at fair value as an intangible asset with an indefinite life and assessed for impairment thereafter. When an IPR&D project is completed, the IPR&D is reclassified as an amortizable purchased intangible asset and amortized over the asset’s estimated useful life. The valuation of acquired assets and assumed liabilities requires significant judgment and estimates, especially with respect to intangible assets. The valuation of intangible assets, in particular, requires that we use valuation techniques such as the income approach. The income approach includes the use of a discounted cash flow model, which includes discounted cash flow scenarios and requires significant estimates such as future expected revenue, expenses, capital expenditures and other costs, and discount rates. We estimate the fair value based upon assumptions we believe to be reasonable, but which are inherently uncertain and unpredictable and, as a result, actual results may differ from our estimates. Estimates associated with the accounting for acquisitions may change as additional information becomes available regarding the assets acquired and liabilities assumed. Acquisition-related expenses and related restructuring costs are recognized separately from the business combination and are expensed as incurred.
+
+Goodwill Impairment Testing
+
+We evaluate goodwill for impairment on an annual basis on the last day of our fourth fiscal quarter or more frequently if we believe indicators of impairment exist that would more likely than not reduce the fair value of our single reporting unit below its carrying amount.
+
+We begin our evaluation of goodwill for impairment by assessing qualitative factors to determine whether it is more likely than not that the fair value of our single reporting unit is less than its carrying value. Some factors that we consider important in the qualitative assessment which could trigger a goodwill impairment review include:
+
+Based on our qualitative assessment, if we conclude that it is more likely than not that the fair value of our single reporting unit is less than its carrying value, we conduct a quantitative goodwill impairment test, which involves comparing the estimated fair value of our single reporting unit with its carrying value, including goodwill. We estimate the fair value of our single reporting unit using a combination of the income and market approach. If the carrying value of the reporting unit exceeds its estimated fair value, we recognize an impairment loss for the difference.
+
+Significant management judgment is required in estimating the reporting unit’s fair value and in the creation of the forecasts of future operating results that are used in the discounted cash flow method of valuation. These include (i) estimation of future cash flows, which is dependent on internal forecasts, (ii) estimation of the long-term rate of growth of our business, (iii) estimation of the period during which cash flows will be generated and (iv) the determination of our weighted-average cost of capital, which is a factor in determining the discount rate. Our estimate of the reporting unit’s fair value would also generally include the consideration of a control premium, which is the amount that a buyer is willing to pay over the current market price of a company as indicated by the traded price per share (i.e., market capitalization) to acquire a controlling interest. If our actual financial results are not consistent with our assumptions and judgments used in estimating the fair value of our reporting unit, we may be exposed to goodwill impairment losses.
+
+During the fourth quarter of fiscal 2024, we made a qualitative assessment of whether goodwill impairment existed. Since our assessment of the qualitative factors did not result in a determination that it was more likely than not that the fair value of our single reporting unit is less than its carrying value, we were not required to perform the quantitative goodwill impairment test.
+
+Long-Lived Assets and Intangible Assets
+
+We assess the impairment of long-lived assets and intangible assets whenever events or changes in circumstances indicate that the carrying value of such assets may not be recoverable. Circumstances that could trigger a review include, but are not limited to the following:
+
+Whenever events or changes in circumstances suggest that the carrying amount of long-lived assets and intangible assets may not be recoverable, we estimate the future cash flows expected to be generated by the asset from its use or eventual disposition. If the sum of the expected future cash flows is less than the carrying amount of those assets, we recognize an impairment loss based on the excess of the carrying amount over the fair value of the assets. Significant management judgment is required in the forecasts of future operating results that are used in the discounted cash flow method of valuation. These significant judgments may include future expected revenue, expenses, capital expenditures and other costs, discount rates and whether or not alternative uses are available for impacted long-lived assets.
+
+Share-Based Compensation
+
+We record share-based compensation in our consolidated statements of operations as an expense, based on the estimated grant date fair value of our share-based awards, with the fair values amortized to expense over the requisite service period. Our share-based awards are currently comprised of restricted stock units, performance stock units, common stock options, and common stock purchase rights granted under our 2013 Employee Stock Purchase Plan (“ESPP”).
+
+The fair value of our restricted stock units is based on the closing market price of our common stock on the date of grant.
+
+The fair value of our performance stock units is estimated as of the grant date based upon the expected achievement of the performance metrics specified in the grant and the closing market price of our common stock on the date of grant. To the extent a grant of performance share units contains a market condition, the grant date fair value is estimated using a Monte Carlo simulation, which incorporates estimates of the potential outcomes of the market condition on the grant date fair value of each award.
+
+The fair value of our common stock options and ESPP common stock purchase rights is generally estimated on the grant date using the Black-Scholes-Merton (“BSM”) valuation model. The determination of the fair value of share-based awards utilizing the BSM model is affected by our stock price and various assumptions, including the expected term, expected volatility, risk-free interest rate and expected dividend yields. The expected term of stock options granted is based on our recent historical exercise data. The expected volatility is based on the historical volatility of our stock price. The risk-free interest rate assumption is based on the U.S. Treasury interest rates appropriate for the expected term of our stock options and common stock purchase rights.
+
+If factors change and we employ different assumptions, share-based compensation expense may differ significantly from what we have recorded in the past. If there are any modifications or cancellations of the underlying unvested share-based awards, we may be required to accelerate, increase or cancel any remaining unearned share-based compensation expense. If these events were to occur, it could increase or decrease our share-based compensation expense, which would impact our operating expenses and gross margins.
+
+Results of Operations - Fiscal Years Ended June 30, 2024 and 2023
+
+Summary
+
+For fiscal 2024, our net revenue increased by $29,138,000, or 22.2%, compared to fiscal 2023. The increase in net revenue was driven by an 81.7% increase in net revenue in our IoT System Solutions product line partially offset by a decrease of 26.2% in net revenues in our Embedded IoT Solutions product line and a decrease of 11.3% in net revenues in our Software & Services product line. We had a net loss of $4,516,000 for fiscal 2024 compared to a net loss of $8,980,000 for fiscal 2023. The decrease in net loss was driven primarily by increased revenues, partially offset by an increase in operating expenses of 6.8% and a decrease in gross profit as a percentage of revenue from 42.9% in fiscal 2023 to 40.1% in fiscal 2024.
+
+Net Revenue 
+
+The following tables present our net revenue by product lines and by geographic region:
+
+Embedded IoT Solutions
+
+Net revenue decreased primarily due to lower unit sales of our embedded compute product line in the Americas and APJ regions as a result of two large design wins that reached end-of-life at the end of fiscal 2023\. To a lesser extent net revenue was impacted by lower unit sales of our network interface cards across all regions, and some of our legacy embedded ethernet connectivity products in the Americas and EMEA regions.
+
+IoT System Solutions
+
+Net revenue increased primarily due to increases in units sales of (i) our custom solutions, as we ramped to volume production for a European smart energy grid provider in the current period, (ii) our out-of-band products across all regions, and (iii) our converters and radio nodes products in the Americas region. These increases were partially offset by decreases in sales of our network switches in the Americas region.
+
+Software & Services
+
+Net revenue decreased primarily due to a year over year decline in our engineering services in the EMEA region as two of our large design services projects transitioned from the design phase to full production during fiscal 2024. This was partially offset by growth in our extended warranty services across all regions as a result of increased sales of our out-of-band products.
+
+Gross Profit
+
+Gross profit represents net revenue less cost of revenue. Cost of revenue consists primarily of the cost of raw material components, subcontract labor assembly by contract manufacturers, freight costs, personnel-related expenses, manufacturing overhead, inventory reserves for excess and obsolete products or raw materials, warranty costs, royalties and share-based compensation.
+
+The following table presents our gross profit:
+
+Gross profit as a percent of revenue (referred to as “gross margin”) decreased primarily due to a change in product mix and increased logistics and overhead costs related to our smart grid customer that grew to 26% of our net revenue during fiscal 2024. We expect this customer to contribute less revenue during fiscal 2025 which should lead to an improvement in our product mix and lower logistics and overhead costs as a percentage of revenue for fiscal 2025.
+
+Selling, General and Administrative
+
+Selling, general and administrative expenses consists of personnel-related expenses including salaries and commissions, share-based compensation, facility expenses, information technology, advertising and marketing expenses and professional legal and accounting fees.
+
+The following table presents our selling, general and administrative expenses:
+
+Selling, general and administrative expenses increased primarily due to higher personnel-related expenses arising from merit increases and variable and share-based compensation related to the Company’s improved financial performance in fiscal 2024. Merit increases and variable and share-based compensation were significantly lower and in many cases not earned during fiscal 2023. To a lesser extent, the increase in selling, general and administrative expenses were impacted by (i) an increase in depreciation expense related to new equipment and certain business analysis tools that we added in the current year, and (ii) increases in insurance premiums and various facility-related costs. These increases were partially offset by (i) reductions in headcount and (ii) lower professional fees and outside services related to audit and accounting compliance costs that were higher in the prior year as we implemented Section 404(b) of the Sarbanes-Oxley Act.
+
+Research and Development
+
+Research and development expenses consists of personnel-related expenses, share-based compensation, and expenditures to third-party vendors for research and development activities and product certification costs. Our costs from period-to-period related to outside services and product certifications vary depending on our level and timing of development activities.
+
+The following table presents our research and development expenses:
+
+Research and development expenses increased primarily due to higher personnel-related costs resulting from merit increases and variable and share-based compensation costs related to our improved financial performance in fiscal 2024. These increases were partially offset by (i) a reduction in headcount and (ii) a decrease in product certification expenses and outsourced development resources.
+
+Restructuring, Severance and Related Charges
+
+During fiscal 2024 and 2023, we incurred charges of approximately $1,423,000 and $693,000, respectively, related to headcount reductions and restructuring of certain non-essential operations.
+
+We may incur additional restructuring, severance and related charges in future periods as we continue to identify cost savings and synergies related to our acquisitions and general business operations.
+
+Acquisition-Related Costs
+
+During fiscal 2023 we incurred approximately $315,000 of costs primarily in connection with the acquisition of Uplogix, Inc. (“Uplogix”). These costs were mainly comprised of banking, legal and other professional fees.
+
+Amortization of Intangible Assets
+
+We acquired certain intangible assets through our recent acquisitions, which we recorded at fair-value as of the acquisition dates. These assets are generally amortized on a straight-line basis over their estimated useful lives and resulted in charges of $5,314,000 and $5,804,000 during fiscal 2024 and 2023, respectively.
+
+Interest Expense, Net
+
+For fiscal 2024 and 2023, we incurred net interest expense from interest incurred on borrowings on our credit facilities. We also earn interest on our domestic cash balances.
+
+Other Income (Expense), Net
+
+Other income (expense), net, is comprised primarily of foreign currency remeasurement and transaction adjustments related to our foreign subsidiaries whose functional currency is the U.S. dollar.
+
+Provision for Income Taxes
+
+The following table presents our provision for income taxes:
+
+The following table presents our effective tax rate based upon our provision for income taxes:
+
+We utilize the liability method of accounting for income taxes. The differences between our effective tax rate and the federal statutory rate in fiscal 2024 and fiscal 2023 were also impacted by the effect of our domestic losses recorded without a tax benefit, as well as the effect of certain state and foreign earnings taxed at rates differing from the federal statutory rate.
+
+We record net deferred tax assets to the extent we believe these assets are more likely than not to be realized. Aside from a net deferred tax liability of $179,000 and $146,000 that we recorded as of June 30, 2024 and 2023, respectively, based on our cumulative losses and uncertainty of generating future taxable income, we provided a full valuation allowance against our net deferred tax assets at June 30, 2024 and 2023. Refer to Note 8 of Notes to Consolidated Financial Statements, included in Part II, Item 8 of this Report, for additional information.
+
+Liquidity and Capital Resources
+
+Liquidity
+
+The following table presents our working capital and cash and cash equivalents:
+
+Our principal sources of cash and liquidity include our existing cash and cash equivalents, borrowings and amounts available under our existing term loan and revolving credit facility (together, the “Senior Credit Facilities”), and cash generated from operations. We are subject to a variable amount of interest on the principal balance of our Senior Credit Facilities and could be adversely impacted by rising interest rates in the future. We believe that our current cash holdings and net cash flows from operations are sufficient to satisfy our current obligations for the foreseeable future, and, assuming continued access to the undrawn amounts available under our Senior Credit Facilities, these combined sources will be sufficient to fund our material requirements for working capital, capital expenditures and other financial commitments for at least the next 12 months and beyond. We continue to monitor our existing banking relationships and the availability of potential alternate sources of credit based on market conditions and our ongoing capital requirements. There can be no guarantee that we would be able to obtain any needed alternate financing on acceptable terms, or at all, or that such a financing would not result in a default under the Loan Agreement (as defined in Note 5 of Notes to Consolidated Financial Statements, including in Part II, Item 8 of this Report). We anticipate that the primary factors affecting our cash and liquidity are net revenue, working capital requirements and capital expenditures.
+
+We define cash and cash equivalents as highly liquid deposits with original maturities of 90 days or less when purchased. We maintain cash and cash equivalents balances at certain financial institutions in excess of amounts insured by the Federal Deposit Insurance Corporation (“FDIC”). There can be no assurance that our deposits in excess of the FDIC limits will be backstopped by the U.S., or that any bank or financial institution with which we do business will be able to obtain needed liquidity from other banks, government institutions or by acquisition in the event of a failure or liquidity crisis.
+
+Our future working capital requirements will depend on many factors, including the following: timing and amount of our net revenue; our product mix and the resulting gross margins; research and development expenses; selling, general and administrative expenses; and expenses associated with any strategic partnerships, acquisitions or infrastructure investments.
+
+From time to time, we may seek additional capital from public or private offerings of our capital stock, borrowings under our existing or future credit lines or other sources in order to (i) develop or enhance our products, (ii) take advantage of strategic opportunities, (iii) respond to competition or (iv) continue to operate our business. We currently have a Form S-3 shelf registration statement on file with the SEC. If we issue equity securities to raise additional funds, our existing stockholders may experience dilution, and the new equity securities may have rights, preferences and privileges senior to those of our existing stockholders. If we issue debt securities to raise additional funds, we may incur debt service obligations, become subject to additional restrictions that limit or restrict our ability to operate our business, or be required to further encumber our assets. There can be no assurance that we will be able to raise any such capital on terms acceptable to us, if at all.
+
+Bank Loan Agreements
+
+Refer to Note 5 of Notes to Consolidated Financial Statements, included in Part II, Item 8 of this Report, which is incorporated herein by reference, for a discussion of our loan agreements.
+
+Cash Flows
+
+The following table presents the major components of the consolidated statements of cash flows:
+
+Operating Activities
+
+Cash provided by operating activities during fiscal 2024 increased compared to fiscal 2023. In fiscal 2023, we used a significant amount of cash in the build-up of our inventories and decreases in our accounts payable and accrued liabilities. For fiscal 2024, our net loss included $16,740,000 of non-cash charges, while the changes in operating assets and liabilities provided net cash of $6,399,000.
+
+Our net inventories decreased by $22,038,000, or 44.3%, from June 30, 2023 to June 30, 2024. The decrease resulted primarily from (i) current year shipments to a smart grid customer for which we had built up our stock levels and (ii) our efforts to reduce inventory levels that increased during the supply shortages we experienced during the pandemic.
+
+Accounts payable decreased by $2,054,000, or 16.6%, from June 30, 2023 to June 30, 2024. The reduction is primarily due to the decrease in our inventories and the timing of payments to our vendors.
+
+Accounts receivable increased by $3,597,000, or 13.0%, from June 30, 2023 to June 30, 2024. The increase is primarily due to the increased sales during the current year coupled with timing of payments received from our customers.
+
+Accrued payroll and related expenses increased by $3,405,000 or 140.1% from June 30, 2023 to June 30, 2024. The increase is primarily due to variable compensation costs incurred during the current year.
+
+Other current liabilities decreased by $17,842,000, or 61.9%, from June 30, 2023 to June 30, 2024. This was mostly driven by a reduction in deposits previously received related to shipments under a customer contract.
+
+Investing Activities
+
+Net cash used in investing activities for fiscal 2024 consisted of purchases of equipment amounting to $1,479,000, primarily for research and development and certain business analysis tools. Cash used in investing activities during fiscal 2023 included the acquisition of Uplogix, which used net cash of $4,650,000, as well as purchases of plant and equipment of $2,673,000 primarily related to building out and furnishing our new lease facilities in California and Minnesota.
+
+Financing Activities
+
+Net cash used in financing activities during fiscal 2024 resulted primarily from $2,853,000 of principal payments on the Senior Credit Facilities as well as $1,027,000 tax withholdings paid on behalf of employees for restricted shares. Additionally, we used cash of $1,262,000 to pay the contingent consideration earned related to the Uplogix acquisition. Net cash provided by financing activities during fiscal 2023 resulted primarily from $7,000,000 in gross proceeds received from our Senior Credit Facilities with SVB partially offset by payments of $3,994,000 on the term loan as well as tax withholdings paid of $821,000 on behalf of employees for restricted shares.

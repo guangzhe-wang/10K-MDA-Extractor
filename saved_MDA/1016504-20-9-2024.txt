@@ -1,0 +1,149 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations (dollars in thousands).
+
+Certain statements set forth under this caption constitute “forward-looking statements.” See “Cautionary Statement Regarding Forward-Looking Statements” on page 3 of this Annual Report on Form 10-K for additional factors relating to such statements.
+
+The Company is engaged primarily in the business of manufacturing, distributing, marketing and sale of vitamins, nutritional supplements and herbal products. The Company’s customers are located primarily throughout the United States and Luxembourg.
+
+Our financial results are substantially dependent on net sales. Net sales are partly dependent on the mix of contract manufactured products and other nutraceutical sales, which are difficult to forecast. Factors that could cause demand to be different from our expectations include: customer acceptance of our pricing and our competitors’ pricing; changes in customer order patterns; changes in the level of customer inventory; and changes in business and economic conditions, including conditions in the credit market that could affect consumer confidence and result in lower than expected demand for our manufactured products and to a lesser extent, our other nutraceutical business products and services.
+
+We believe that we have established and developed business relationships, facilities, personnel, product offerings, and competitive and financial resources in place for business success; however, future revenue, costs, gross margins, and profits are all influenced by a number of factors, including those discussed above, all of which are inherently difficult to forecast. Except as otherwise noted, all dollar amounts below are “in thousands”.
+
+-17- 
+
+In the fiscal year ended June 30, 2024, our net sales from operations decreased by $355 to approximately $50,317 from approximately $50,672 in the fiscal year ended June 30, 2023. Our net sales decreased by approximately $646 in our Other Nutraceuticals Segment primarily from decreased sales to the two major customers in this segment in the amounts of $585 and $133, respectively. This was offset by an increase in net sales in the Contract Manufacturing Segment of approximately $291, which was primarily due to increased sales volumes to Life Extension of $792 offset by a decrease in sales to Herbalife in the amount $542, in the fiscal year ended June 30, 2024, compared to the fiscal year ended June 30, 2023. In the fiscal year ended June 30, 2024, our gross profit decreased by approximately $177 to $3,884 from approximately $4,061 for the fiscal year ended June 30, 2023. Our profit margins decreased by 0.3% in the fiscal year ended June 30, 2024, from 8.0% in the fiscal year ended June 30, 2023 to 7.7% in the fiscal year ended June 30, 2024, primarily as a result of the decreased sales volume in the fiscal year ended June 30, 2024 compared to the fiscal year ended June 30, 2023. We had consolidated selling and administrative expenses of approximately $3,633 and $3,941 in the fiscal years ended June 30, 2024 and 2023, respectively. The decrease in the consolidated selling and administrative expenses of $308, or approximately 7.8%, was primarily from decreases in salaries and employee benefits, non-cash stock compensation and other general expenses of $112, $68 and $42, respectively in the fiscal year ended June 30, 2024 as compared to the fiscal year ended June 30, 2023. In the fiscal years ended June 30, 2024 and 2023, we had operating income of approximately $251 and $120, respectively.
+
+Our revenue from our two significant customers in our Contract Manufacturing Segment is dependent on their demand within their respective distribution channels for the products we manufacture for them. As in any competitive market, our ability to match or beat other contract manufacturers pricing for the same items may also alter our outlook and the ability to maintain or increase revenues. We will continue to focus on our core businesses and push forward in maintaining our cost structure in line with our sales and expanding our customer base.
+
+We are currently experiencing negative impacts on our margins due to inflation and tightened labor markets. We may not be able to timely increase our selling prices to our customers resulting from price increases from our suppliers due to various economic factors, including inflation, labor and shipping costs and our own increases in shipping, labor and other operating costs. Our results of operations may also be affected by economic conditions, including inflationary pressures, that can impact consumer disposable income levels and spending habits, thereby reducing the orders we may receive from our significant customers.
+
+We continue to experience minimal supply chain disruptions relating to fuel refinery and transportation issues as it pertains to shipping. These issues first arose as result of the COVID-19 pandemic and other geo-political events. 
+
+During the first quarter of calendar 2022, the war in Ukraine affected our customer’s business operations in Ukraine and Russia, resulting in the cancelation of some future orders. The war resulted in the imposition of sanctions by the United States, the United Kingdom, and the European Union, that affect the cross-border operations of businesses operating in Russia. In addition, many multinational companies ceased or suspended their operations in Russia. Therefore, the ability to continue operations in Russia by our customers remains uncertain.
+
+Additionally, the current Israel-Hamas war in the Middle East could negatively impact the sales and margins of the Company. Certain customers sell into Israel and the Company sources certain raw materials from Israel. If the Israel-Hamas war carries on for a significant time frame, it could have a negative impact on the sales and margins of the Company if the Company is unable to replace these sales with other sales and/or obtain the same raw materials at substantially the same price as currently paid.
+
+Critical Accounting Estimates
+
+Estimates
+
+The preparation of financial statements are prepared in conformity with generally accepted accounting principles in the United States of America (“GAAP”). In preparing these financial statements, we make assumptions, judgements and estimates that involve a level of estimation uncertainty and could affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Management bases its estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources.
+
+-18- 
+
+The most significant estimates include:
+
+● revenue recognition and allowances for credit losses;
+
+● inventory valuation;
+
+● impairment of long-lived assets; and
+
+● income taxes and valuation allowances on deferred income taxes.
+
+On a continual basis, management reviews its estimates utilizing currently available information, changes in facts and circumstances, historical experience and reasonable assumptions. After such reviews, and if deemed appropriate, those estimates are adjusted accordingly. Actual results could differ from those estimates.
+
+Revenue Recognition and Allowances for Credit Losses
+
+The Company recognizes product sales revenue, the prices of which are fixed and determinable, when title and risk of loss have transferred to the customer, when estimated provisions for product returns, rebates, charge-backs and other sales allowances are reasonably determinable, and when collectability is reasonably assured. Accruals for these items are presented in the consolidated financial statements as reductions to sales. The Company’s net sales represent gross sales invoiced to customers, less certain related charges for discounts, returns, rebates, charge-backs and other allowances. Cost of sales includes the cost of raw materials and all labor and overhead associated with the manufacturing and packaging of the products. Gross margins are affected by, among other things, changes in the relative sales mix among our products and valuation and/or charge off of slow moving, expired or obsolete inventories. To perform revenue recognition for arrangements within the scope of ASC 606, the Company performs the following five steps:
+
+Our return policy in our contract manufacturing business is to only accept returns for defective products. If defective products are returned, our agreement with our customers is to cure the defect and re-ship the product. Based on this policy, when the product is shipped we make an estimate of any potential returns or allowances.
+
+Our management makes judgments as to its ability to collect outstanding receivables and provides allowances for the portion of receivables for which collection becomes doubtful. Provisions are made based upon a specific review of all significant outstanding amounts. We continuously monitor payments from our customers and maintain allowances for estimated credit losses and other allowances for uncollectible accounts receivable in the period they become known.
+
+If the historical data we use to calculate the allowance provided for credit losses does not reflect the future ability to collect outstanding receivables, additional provisions for credit losses may be needed and the future results of operations could be materially affected. In recording any additional allowances, a respective charge against income is reflected in the general and administrative expenses; and would reduce the operating results in the period in which the increase is recorded. Amounts determined to be uncollectible are written off against the credit loss or other reserve accounts. In the fiscal years ended June 30, 2024 and 2023, we had an allowance for credit losses of less than $1 and $37, respectively.
+
+-19- 
+
+Inventory Valuation 
+
+Inventories are stated at the lower of cost or net realizable value, which reflects management’s estimates of net realizable value. Cost is determined using the first-in, first-out method based on specific lots. As a result of our inventory being manufactured primarily on a purchase order basis, the quantity of both raw materials and finished goods inventory provides for minimal risk of potential overstock or obsolescence. Another component of our inventory valuation includes the estimation of our inventory overhead costs that are capitalized and included in the cost of our inventory.
+
+Long Lived Assets
+
+We record impairment losses on long lived assets, which consists primarily of right-of-use assets and machinery and equipment, when events and circumstances indicate that such assets might be impaired and the estimated fair value of any such asset is less than its recorded amount. The Company reviews the value of its long-lived assets for impairment whenever events or changes in business circumstances indicate that the carrying amount of the assets may not be fully recoverable or that the useful lives of these assets are no longer appropriate. Conditions that would necessitate an impairment assessment include material adverse changes in operations, significant adverse differences in actual results in comparison with initial valuation forecasts prepared at the time of acquisition, a decision to abandon certain acquired products, services, or marketplaces, or other significant adverse changes that would indicate the carrying amount of the recorded asset might not be recoverable. Tests for impairment or recoverability are performed at least annually and require significant management judgment and the use of estimates which the Company believes are reasonable and appropriate at the time of the impairment test. The Company also re-evaluates the periods of amortization to determine whether circumstances warrant revised estimates of current useful lives. No impairment losses were identified in the fiscal years ended June 30, 2024 or 2023.
+
+Income Taxes
+
+The Company records deferred tax assets and liabilities for the estimated future tax effects of temporary differences between tax bases of assets and liabilities and amounts reported in the accompanying consolidated balance sheets, as well as operating losses and tax credit carry-forwards. The Company measures deferred tax assets and liabilities using enacted tax rates expected to be applied to taxable income in the years in which those temporary differences are expected to be recovered or settled. The Company reduces deferred tax assets by a valuation allowance if, based on available evidence, it is more likely than not that these benefits will not be realized.
+
+The Company uses a recognition threshold and measurement attribute for financial statement recognition and measurement of tax positions taken or expected to be taken in a tax return. For those benefits to be recognized, a tax position must be more likely than not to be sustained upon examination by taxing authorities.
+
+-20- 
+
+Results of Operations (in thousands, except share and per share amounts)
+
+The following table sets forth the income statement data of the Company as a percentage of net sales for the periods indicated:
+
+Year ended June 30, 2024 Compared to the Year ended June 30, 2023
+
+Sales, net. Net sales for the fiscal year ended June 30, 2024 and 2023 were $50,317 and $50,672, respectively, a decrease of $355 or 0.7%. The decrease is comprised of the following:
+
+In the fiscal years ended June 30, 2024 and 2023, a significant portion of our consolidated net sales, approximately 90% and 89%, respectively, were concentrated among two customers, Life Extension and Herbalife, customers in our Contract Manufacturing Segment. Life Extension and Herbalife represented approximately 71% and 23% and 70% and 24%, respectively, of our Contract Manufacturing Segment’s net sales in the fiscal years ended June 30, 2024 and 2023, respectively. Two other customers, Thermosource Tooling and Manufacturing and Hotpack Global, Inc. (customers of our Other Nutraceutical Businesses Segment), while not significant customers of our consolidated net sales, represented 43%, and 14% and 56%, and 16%, respectively, of the Other Nutraceutical Businesses net sales in the fiscal years ended June 30, 2024 and 2023, respectively. The loss of any of these customers could have a significant adverse impact on our financial condition and results of operations.
+
+-21- 
+
+The decrease in net sales of approximately $355 was primarily the result of decreased sales of approximately $646 in our Other Nutraceuticals Segment primarily from decreased sales to the two major customers in this segment in the amounts of $585 and $133, respectively. This was offset by an increase in the Contract Manufacturing Segment of approximately $291, which was primarily due to increased sales volumes to Life Extension of $792 offset by a decrease in sales to Herbalife in the amount $542, in the fiscal year ended June 30, 2024, compared to the comparable prior year.
+
+Cost of sales. Cost of sales decreased by $178 to $46,433 for the fiscal year ended June 30, 2024, as compared to $46,611 for the fiscal year ended June 30, 2023, a decrease of approximately 0.4%. Cost of sales as a percentage of sales was approximately 92.3% and 92.0% for the fiscal years ended June 30, 2024 and 2023, respectively. The decrease in the cost of goods sold amount is consistent and expected with the decrease in net sales.
+
+Selling and Administrative Expenses. There was a decrease in selling and administrative expenses of $308 or approximately 7.8% in the fiscal year ended June 30, 2024 as compared to the fiscal year ended June 30, 2023. As a percentage of sales, net, selling and administrative expenses were approximately 7.2% and 7.8% for the fiscal year ended June 30, 2024 and 2023, respectively. The decrease was primarily from decreases in salaries and employee benefits, non-cash stock compensation and other general expenses of $112, $68 and $42, respectively. Office salaries and employee benefits were lower due to the loss of our Executive Chairman, E. Gerald Kay in the fiscal year ended June 30, 2023, as his responsibilities were absorbed by our other executive officers. Non-cash stock compensation was lower due to less shares issued in the fiscal year ended June 30, 2024 compared to the prior year and our general expenses were lower primarily as the result of changing our PEO in January 2023, a decrease of $25 and a decrease of $23 in bank service charges. 
+
+Nearly every other category of expenses were down between $10 and $14, which includes, $14 each for: (i) professional and consulting fees; (ii) warehousing expenses; (iii) job placement costs; and (iv) travel and entertainment and $10 each for: (i) office expenses, (ii) insurance, and (iii) depreciation. No other individual expense component changed by more the $10.
+
+Other income (expense), net. Other income (expense), net was approximately $17 for the fiscal year ended June 30, 2024 compared to $ for the fiscal year ended June 30, 2023, and is composed of:
+
+Our interest expense, net of $14 in the fiscal year ended June 30 2023 changed to interest income, net of $18 in the fiscal year ended June 30, 2024, a change of $32, primarily resulting from a higher average daily balance in our cash operating accounts resulting in increased interest credited to our account which was offset by the substantially the same interest expense in both periods.
+
+Federal and state income tax, net. In the fiscal year ended June 30, 2024 and 2023, we had deferred federal income taxes of $124 and $55, respectively. We also had current state tax expense of approximately $31 and $61, respectively and deferred state tax expense of $1 and $18, in the fiscal years ended June 30, 2024 and 2023, respectively.
+
+We continue to maintain a reserve on a portion of our deferred tax assets as it has been determined that it is “more likely than not” that the Company’s deferred tax assets, other than federal net operating losses, may not be fully realized.
+
+-22- 
+
+The decrease in the state tax expense from 2024 to 2023 was the result of decreased taxable income for the combined group.
+
+Net income (loss). Our net income (loss) for the fiscal year ended June 30, 2024 and 2023 was approximately $112 and $, respectively. The increase of approximately $146 was primarily the result of increased operating income of $131.
+
+Liquidity and Capital Resources
+
+The following table sets forth, for the periods indicated, the Company’s net cash flows provided by or used in operating, investing and financing activities:
+
+At June 30, 2024 and 2023, the Company had working capital of $11,752 and $11,544, respectively. Our current assets and current liabilities increased by $1,503 and $1,295, respectively, from June 30, 2023 to June 30, 2024. The increase in current assets was primarily from increases in cash, inventory and accounts receivable of $361, $983 and $157, respectively. Our current assets liabilities increased primarily from the increases of $1,029 and $244 in accrued expenses and other current liabilities and accounts payable, respectively.
+
+Operating Activities
+
+Net cash provided by operating activities of $943 in the fiscal year ended June 30, 2024 includes a net income of approximately $112. After excluding the effects of non-cash expenses and income, such as depreciation and amortization, compensation expense for employee stock options, allowances for credit losses and changes in deferred tax assets, the adjusted cash used in operations before the effect of the changes in working capital components was an increase of approximately $1,721. Cash in the amount of approximately $744 from our working capital assets and liabilities was used in our operating activities and was primarily the result of decreases in operating lease obligations of approximately $902 and increases in inventories and accounts receivable of $983 and $120, respectively, offset, by increases in accounts payable of $244 and accrued expenses and other liabilities of $1,029.
+
+Net cash provided by operating activities of $1,232 in the fiscal year ended June 30, 2023 includes a net loss of approximately $34. After excluding the effects of non-cash expenses and income, depreciation and amortization, compensation expense for employee stock options, accretion of financial instruments, changes in deferred tax assets and unrealized gains on investments, the adjusted cash used in operations before the effect of the changes in working capital components was an increase of approximately $1,483. Cash in the amount of approximately $251 from our working capital assets and liabilities was used in our operating activities and was primarily the result of decreases in operating lease obligations of approximately $804 and accounts payable and accrued expenses and other liabilities of $429, offset, by increases in accounts receivable of $156 and inventories of $794.
+
+Investing Activities
+
+Cash used in investing activities was used for the purchase of machinery and equipment for approximately $553 and $116 in the fiscal years ended June 30, 2024 and 2023, respectively, offset in the fiscal year ended June 30, 2023 by proceeds (i) received from the sale of fixed assets in the amount of $1 and (ii) from the sale of shares of iBio Inc.’s common stock in the amount of $4, resulting in a net use of cash of approximately $111. 
+
+-23- 
+
+Financing Activities
+
+Cash used in financing activities was approximately $29 for the fiscal year ended June 30, 2024, and was primarily from payments under our financed lease obligation of $42 offset by proceeds from the exercise of stock options of $14.
+
+Cash used in financing activities was approximately $136 for the fiscal year ended June 30, 2023, and was primarily from repayments of net advances under our revolving credit facility of $101 and payments under our financed lease obligation of $35.
+
+As of June 30, 2024, we had cash of approximately $1,677, funds available under our revolving credit facility of approximately $5,000 and working capital of $11,752. We had income from operations of approximately $251 in the fiscal year ended June 30, 2024 and net income of approximately $112. Net income includes a net federal tax provision of $124 that is a non-cash item due to our Federal net operating loss carryforwards and deferred tax assets offsetting the amounts owed. After taking into consideration our interim results and current projections, management believes that operations, together with the revolving credit facility and equipment financing will support our working capital requirements at least through the twelve-month period ending September 20, 2025.
+
+Our current total annual commitments at June 30, 2024, for long term non-cancelable leases, is approximately $1,018 consisting of obligations under operating leases for office and warehouse facilities and operating and finance lease obligations for the use of machinery and office equipment.
+
+-24- 
+
+Capital Expenditures
+
+The Company's capital expenditures in the fiscal years ended June 30, 2024 and 2023 were approximately $553 and $116, respectively. The Company has budgeted approximately $500 for capital expenditures for the fiscal year ending June 30, 2025. The total amount is expected to be funded from cash provided from the Company’s operations and from lease financing.
+
+Off-Balance Sheet Arrangements
+
+The Company has no off-balance sheet arrangements.
+
+Impact of Inflation
+
+The Company may not be able to timely increase its selling prices to its customer resulting from price increases from its suppliers due to various economic factors, including inflation, labor and shipping costs and its own increases in shipping, labor and other operating costs. The Company’s results of operations may also be affected by economic conditions, including inflationary pressures, that can impact consumer disposable income levels and spending habits, thereby reducing the orders it may receive from the Company’s significant customers.
+
+Item 7A. Quantitative and Qualitative

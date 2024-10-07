@@ -1,0 +1,145 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion and analysis should be read in conjunction with our financial statements and the related notes thereto. The management's discussion and analysis contain forward-looking statements, such as statements of our plans, objectives, expectations, and intentions. Any statements that are not statements of historical fact are forward-looking statements. When used, the words "believe," "plan," "intend," "anticipate," "target," "estimate," "expect" and the like, and/or future tense or conditional constructions ("will," "may," "could," "should," etc.), or similar expressions, identify certain of these forward-looking statements. These forward-looking statements are subject to risks and uncertainties, including those under "Risk Factors," which appear in elsewhere in this Annual Report, that could cause actual results or events to differ materially from those expressed or implied by the forward-looking statements. Our actual results and the timing of events could differ materially from those anticipated in these forward-looking statements as a result of several factors. We do not undertake any obligation to update forward-looking statements to reflect events or circumstances occurring after the date of this Annual Report.
+
+Overview
+
+The Company was incorporated in Nevada as Jaguar Investments, Inc. during October 1987. During March 2003, a wholly owned subsidiary of the Company merged with Freight Rate, Inc., a development stage company in the logistics software business. During May 2003, the Company changed its name to Power2Ship, Inc. During October 2006, the Company merged with a newly formed, wholly owned subsidiary, Fittipaldi Logistics, Inc., a Nevada corporation, with the Company surviving but its name changed to Fittipaldi Logistics, Inc. effective November 2006. During December 2007, the Company merged with a newly formed, wholly owned subsidiary, NuState Energy Holdings, Inc., a Nevada corporation, with the Company surviving but renamed NuState Energy Holdings, Inc. effective December 2007. In March 2019, the Company changed its name to Visium Technologies, Inc.
+
+Since February 12, 2018 Mark Lucky has served as Chairman and CEO. He also currently serves as CFO. The Company’s headquarters is located at 4094 Majestic Lane, Suite 360, Fairfax, VA 22124. Since February 2018, the Company has focused on creating a world-class cybersecurity/digital risk management company, with a focus on network security, threat visualization, pinpoint threat identification, and big-data analytics. Our solutions address the growing security and compliance complexities and risks resulting from the increasing adoption of cloud computing and the proliferation of geographically dispersed IT assets.
+
+In March 2019, Visium entered into a software license agreement with MITRE Corporation to license a patented technology, known as Cygraph, a tool for cyber warfare analytics, visualization, and knowledge management. Cygraph is a military-grade highly scalable big data analytics tool for Cybersecurity, based on graph database technology. The development of the technology was sponsored by, and is currently in use by United States Army Cyber Command. Cygraph provides advanced analytics for cybersecurity situational awareness that is scalable, flexible, and comprehensive. Visium has completed significant proprietary product development efforts to commercialize Cygraph. During fiscal 2022 the Company rebranded Cygraph as TruContextTM to reflect the enhanced version of the software tool which resulted from significant proprietary development of the software.
+
+The Company is entering the digital transformation and data center design and construction market after it landed a contract in November, 2023 valued at over $20 million from its partner, Cybastion Institute of Technology. The contract is to oversee the design and construction of data centers in the Republic of Côte d’Ivoire and the Republic of Benin. Visium is tasked with creating data centers that meet specific requirements and standards, ensuring optimal performance and reliability. The scope of work includes data center architecture and design, power civil engineering, controls and distribution systems, rack layouts, network topology, vendor high availability, and a comprehensive security stack solution which will include Visium’s proprietary TruContextTM cybersecurity platform. As of June 30, 2024 no activity has occurred pursuant to this contract.
+
+Results of Operations
+
+Development Expense
+
+For the year ended June 30, 2024, development expense totaled $86,702 as compared to $214,965 for the year ended June 30, 2023, a decrease of $128,263 or approximately 60%.
+
+Selling, General, and Administrative Expenses
+
+For the year ended June 30, 2024, selling, general and administrative expenses were $2,501,775 as compared to $2,198,639 for the year ended June 30, 2023, an increase of $303,136 or approximately 14%. For the years ended June 30, 2024 and 2023 selling, general and administrative expenses consisted of the following:
+
+The increase in selling, general and administrative expenses during fiscal 2024, when compared with the prior year, is primarily due to an increase in stock-based consulting expense of $388,885, an increase in legal and professional fees of $25,694, and an increase in consulting fees of $29,980, offset by a decrease in salaries of $97,088, a decrease in investor relations expense of $13,688, and a decrease in stock-based compensation expense of $14,743.
+
+Change in Fair Value of Derivative Liability
+
+Changes in fair value of derivative liabilities results from the changes in the fair value of the derivative liability due to the application of ASC 815, resulting in either income or expense, depending on the difference in fair value of the derivative liabilities between their measurement dates. The increase in fair value of derivative liabilities recognized during fiscal 2024 is primarily due to a change in accounting estimate related to the accounting for derivative liabilities as a result of a decrease in share price.
+
+Derivative Liability Expense
+
+The Company issued convertible notes in January 2023 and June 2023 which provisions contained variable price conversion terms, resulting in a derivative liability expense, measured as of the issuance date of the notes.
+
+Interest Expense
+
+Interest expense represents the stated interest of notes and convertible notes payable as well as the amortization of debt discount. The decrease in interest expense during fiscal 2024 is primarily due to lower discount amortization expense of $59,600 in fiscal 2024.
+
+Loss on extinguishment of debt
+
+In September 2022 we issued 138,667 warrants with a five-year life, and a fixed exercise price of $1.35 per share, as part of a modification to three outstanding convertible notes payable. The Company evaluated these amendments under ASC 470-50, “Debt - Modification and Extinguishment”, and concluded that the issuance of these warrants in exchange for deferring the interim interest payments that were due resulted in significant and consequential changes to the economic substance of the debt and thus resulted in accounting for these modifications as an extinguishment of the debt. Under ASC 470-50, the issuance of these warrants resulted in a loss on the extinguishment of debt, as follows:
+
+During the year ended June 30, 2023, we recorded a loss on the payoff of convertible note totaling $12,062, which is recorded in the Consolidated Statement of Operations as loss on extinguishment of debt.
+
+A recap of the Loss on extinguishment of debt during fiscal 2023 is as follows:
+
+Liquidity and Capital Resources
+
+At June 30, 2024 our total assets consisted of cash. At June 30, 2023 100% our total assets consisted of cash.
+
+We do not have any material commitments for capital expenditures.
+
+The objective of liquidity management is to ensure that we have ready access to sufficient funds to meet commitments and effectively implement our growth strategy. Our primary sources are financing activities such as the issuance of notes payable and convertible notes payable. In the past, we have mostly relied on debt and equity financing to provide for our operating needs.
+
+We were unable to generate sufficient funds from operations to fund our ongoing operating requirements through June 30, 2024. As of September 30, 2024, we had approximately $11,000. We may need to raise funds to enhance our working capital and use them for strategic purposes. If such need arises, we intend to generate proceeds from either debt or equity financing.
+
+We intend to finance our operations using equity financing. We do not anticipate incurring capital expenditures for the foreseeable future. We anticipate that we will need to raise approximately $180,000 per year in the near term to finance the recurring costs of being a publicly traded company.
+
+Going Concern
+
+The accompanying financial statements have been prepared on a going concern basis. The Company has used net cash in its operating activities of $488,319 and $523,886 during the years ended June 30 2024 and 2023, respectively, and has a working capital deficit of approximately $5.1 million and $4.3 million at June 30, 2024 and 2023, respectively. The Company’s ability to continue as a going concern is dependent upon its ability to obtain the necessary financing to meet its obligations and repay its liabilities arising from normal business operations when they come due, to fund possible future acquisitions, and to generate profitable operations in the future, once a merger with an operating company is consummated. Management plans may continue to provide for its capital requirements by issuing additional equity securities and debt and the Company will continue to find possible acquisition targets. The outcome of these matters cannot be predicted at this time and there are no assurances that, if achieved, the Company will have sufficient funds to execute its business plan or generate positive operating results.
+
+Year ended June 30, 2024
+
+Net cash used in operations in fiscal year 2024 decreased by $35,567 or 6.8% from fiscal year 2023. Cash from financing activities was obtained through the sale of convertible notes that netted the Company $122,960, and the sale of promissory notes that netted the Company $465,000.
+
+Year ended June 30, 2023
+
+Net cash used in operations in fiscal year 2023 decreased by $1,691,435 or 76% from fiscal year 2022. Cash from financing activities was obtained through the sale of common stock that netted the Company $40,250, the sale of convertible notes that netted the Company $140,000, and the sale of promissory notes that netted the Company $190,000.
+
+Capital Raising Transactions
+
+Issuance of Convertible Notes Payable
+
+We generated net proceeds of $122,960 and $140,000 during fiscal 2024 and 2023, respectively, from the issuance of convertible notes payable. 
+
+Convertible Notes Payable
+
+The Company had convertible promissory notes aggregating approximately $534,361 and $937,576 outstanding at June 30, 2024 and 2023, respectively. The accrued interest amounted to approximately $251,455 and $324,031 at June 30, 2024 and 2023, respectively. There is no provision in the note agreements for adjustments to the interest rates on these notes in the event of default. The convertible notes payable bear interest at rates ranging between 0% and 18% per annum. Interest is generally payable monthly. The Convertible Notes Payable are generally convertible at rates ranging between $0.0042 and $30,375,000 per share, at the holders’ option.
+
+Notes Payable
+
+The Company had promissory notes aggregating approximately $777,954 at June 30, 2024 and $380,013 at June 30, 2023. The related accrued interest amounted to approximately $288,661 and $224,010 at June 30, 2024 and 2023, respectively. There is no provision in the note agreements for adjustments to the interest rates on these notes in the event of default. The notes payable bear interest at rates between 0% and 20% per annum. Interest is generally payable monthly. $355,000 of these notes have matured as of June 30, 2024. We generated net proceeds of $465,000 during fiscal 2024 from the issuance of short-term notes payable.
+
+Common Stock Warrants
+
+In January and February 2021, we issued 39,371 warrants with a two-year life, and fixed exercise prices ranging from $0.0055 to $0.02 per share. An additional 9,239,130 warrant shares were issued due to repricing certain warrants with a $0.02 exercise price to a $0.0115 exercise price.
+
+In September 2022, we issued 138,667 warrants with a five year life, and a fixed exercise price of $1.35 per share, as part of a modification to three outstanding convertible notes payable. The Company evaluated these amendments under ASC 470-50, “Debt - Modification and Extinguishment”, and concluded that the issuance of these warrants in exchange for deferring the interim interest payments that were due resulted in significant and consequential changes to the economic substance of the debt and thus resulted in accounting for these modifications as an extinguishment of the debt. Under ASC 470-50, the issuance of these warrants resulted in a loss on the extinguishment of debt, as follows:
+
+A summary of the status of the Company’s outstanding common stock warrants as of June 30, 2024 and changes during the fiscal year ending on that date is as follows:
+
+Derivative Liability
+
+The Company recognizes all derivative financial instruments on its balance sheet at fair value.
+
+Off-Balance Sheet Arrangements
+
+We have no off-balance sheet arrangements.
+
+Climate Change
+
+Our opinion is that neither climate change, nor governmental regulations related to climate change, have had, or are expected to have, any material effect on our operations.
+
+Critical Accounting Policies
+
+The financial statements have been prepared in accordance with accounting principles generally accepted in the US, (“US GAAP”.) The preparation of these financial statements in accordance with US GAAP requires us to make estimates, assumptions and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. On an on-going basis, we evaluate our estimates, assumptions and judgments. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. Actual results may differ from these estimates under different assumptions or conditions and the impact of such differences may be material to our financial statements.
+
+We consider an accounting estimate to be critical if: the accounting estimate requires us to make assumptions about matters that were highly uncertain at the time the accounting estimate was made, and changes in the estimate that are reasonably likely to occur from period to period, or use of different estimates that we reasonably could have used in the current period, would have a material impact on our financial condition or results of operations.
+
+The following critical accounting policies are those that are most important to the portrayal of our consolidated financial statements. For a summary of our significant accounting policies, including the critical accounting policies discussed below, refer to Note 2 - “Summary of Significant Accounting Policies” included in the notes to consolidated financial statements for the year ended June 30, 2024 included elsewhere in this Annual Report on Form 10-K.
+
+We consider the following accounting policies to be those most important to the portrayal of our results of operations and financial condition:
+
+Revenue Recognition
+
+The Financial Accounting Standards Board (“FASB”) Accounting Standards Update (“ASU”) No. 2014-09, Revenue from Contracts with Customers (Topic 606) outlines a single comprehensive model for entities to use in accounting for revenue arising from contracts with customers. The guidance provided in Accounting Standards Codification (“ASC”) Topic 606 (“ASC 606”) requires entities to use a five-step model to recognize revenue by allocating the consideration from contracts to performance obligations on a relative standalone selling price basis. Revenue recognition is evaluated through the following five steps: (i) identification of the contract, or contracts, with a customer; (ii) identification of the performance obligations in the contract; (iii) determination of the transaction price; (iv) allocation of the transaction price to the performance obligations in the contract; and (v) recognition of revenue when or as a performance obligation is satisfied.
+
+The Company recognizes revenue when performance obligations under the terms of a contract with the customer are satisfied. Product sales occur once control is transferred upon delivery to the customer. Revenue is measured as the amount of consideration the Company expects to receive in exchange for transferring products. In the event any discounts, sales incentives, or similar arrangements are agreed to with a customer, such amounts are estimated at time of sale and deducted from revenue. Sales taxes and other similar taxes are excluded from revenue.
+
+Convertible Instruments \- The Company evaluates and accounts for conversion options embedded in its convertible instruments in accordance with ASC 815.
+
+ASC 815 generally provides three criteria that, if met, require companies to bifurcate conversion options from their host instruments and account for them as free standing derivative financial instruments in accordance with EITF 00-19. These three criteria include circumstances in which (a) the economic characteristics and risks of the embedded derivative instrument are not clearly and closely related to the economic characteristics and risks of the host contract, (b) the hybrid instrument that embodies both the embedded derivative instrument and the host contract is not re-measured at fair value under otherwise applicable generally accepted accounting principles with changes in fair value reported in earnings as they occur and (c) a separate instrument with the same terms as the embedded derivative instrument would be considered a derivative instrument subject to the requirements of ASC 815. ASC 815 also provides an exception to this rule when the host instrument is deemed to be conventional (as that term is described).
+
+The Company accounts for convertible instruments (when it has determined that the embedded conversion options should not be bifurcated from their host instruments) in accordance with the provisions of ASC 470 20 “Debt with Conversion Options” Accordingly, the Company records, when necessary, discounts to convertible notes for the intrinsic value of conversion options embedded in debt instruments based upon the differences between the fair value of the underlying common stock at the commitment date of the note transaction and the effective conversion price embedded in the note. Debt discounts under these arrangements are amortized over the term of the related debt to their earliest date of redemption. The Company also records when necessary deemed dividends for the intrinsic value of conversion options embedded in preferred shares based upon the differences between the fair value of the underlying common stock at the commitment date of the note transaction and the effective conversion price embedded in the note.
+
+The Company believes the certain conversion features embedded in convertible notes payable are not clearly and closely related to the economic characteristics of the Company’s stock price. Accordingly, the Company has recognized derivative liabilities in connection with such instruments. The Company uses judgment in determining the fair value of derivative liabilities at the date of issuance at every balance sheet thereafter. The Company uses judgment in determining which valuation is most appropriate for the instrument (e.g., Cox, Ross & Rubinstein Binomial Tree valuation model), the expected volatility, the implied risk-free interest rate, as well as the expected dividend rate.
+
+Share-Based Compensation
+
+We compute share-based payments in accordance with the provisions of ASC Topic 718, Compensation – Stock Compensation and related interpretations. As such, compensation cost is measured on the date of grant at the fair value of the share-based payments. Such compensation amounts, if any, are amortized over the respective vesting periods of the grants.
+
+Restricted stock awards are granted at the discretion of the compensation committee of our board of directors (the “Board of Directors”). These awards are restricted as to the transfer of ownership and generally vest over the requisite service periods (vesting on a straight–line basis). The fair value of a stock award is equal to the fair market value of a share of our common stock on the grant date.
+
+We estimate the fair value of stock options and warrants by using the Cox, Ross & Rubinstein Binomial Tree model. The Cox, Ross & Rubinstein valuation model requires the development of assumptions that are inputs into the model. These assumptions are the expected stock volatility, the risk–free interest rate, the expected life of the option, the dividend yield on the underlying stock and the expected forfeiture rate. Expected volatility is calculated based on the historical volatility of our common stock over the expected term of the option. Risk–free interest rates are calculated based on continuously compounded risk–free rates for the appropriate term.
+
+Determining the appropriate fair value model and calculating the fair value of equity–based payment awards requires the input of the subjective assumptions described above. The assumptions used in calculating the fair value of equity–based payment awards represent management’s best estimates, which involve inherent uncertainties and the application of management’s judgment. We are required to estimate the expected forfeiture rate and recognize expense only for those shares expected to vest.
+
+We account for share–based payments granted to non–employees in accordance with ASC 505–50, “Equity Based Payments to Non–Employees.” We determine the fair value of the stock–based payment as either the fair value of the consideration received or the fair value of the equity instruments issued, whichever is more readily determinable. If the fair value of the equity instruments issued is used, it is measured using the stock price and other measurement assumptions as of the earlier of either the date at which a commitment for performance by the counterparty to earn the equity instruments is reached, or the date at which the counterparty’s performance is complete.
+
+Derivative Instruments
+
+We enter into financing arrangements that consist of freestanding derivative instruments or are hybrid instruments that contain embedded derivative features. We recognize derivative instruments as either assets or liabilities in the balance sheet and measure such derivative instruments at fair values with gains or losses recognized in earnings. Embedded derivatives that are not clearly and closely related to the host contract are bifurcated and are recognized at fair value with changes in fair value recognized as either a gain or loss in earnings. The fair values of derivative financial instruments are estimated using various techniques (and combinations thereof) that are considered consistent with the objective measuring fair values. In selecting the appropriate technique, the nature of the instrument, the market risks that it embodies and the expected means of settlement are considered. Estimating fair values of derivative financial instruments requires the development of significant and subjective estimates that may, and are likely to, change over the duration of the instrument with related changes in internal and external market factors. In addition, option-based techniques (such as the Cox, Ross & Rubinstein model) are highly volatile and sensitive to changes in the trading market price of our common stock. Since derivative financial instruments are initially and subsequently carried at fair values, our income (expense) going forward will reflect the volatility in these estimates and assumption changes.
+
+Item 7A. Quantitative and Qualitative

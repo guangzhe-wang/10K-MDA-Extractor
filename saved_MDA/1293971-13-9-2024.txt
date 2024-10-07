@@ -1,0 +1,389 @@
+Item 6. Reserved
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following is a discussion of the results of operations for our fiscal years ended December 31, 2023 and 2022, and changes in financial condition during those years. The Consolidated Financial Statements for the year ended December 31, 2022, have been restated to correct prior period misstatements. The discussion and tables included below have been corrected to reflect the restatements. For more information see Note 2 – Restatement of Previously Issued Financial Statements in the Consolidated Financial Statements of this Annual Report on Form 10-K. The following information should be read in conjunction with the consolidated financial statements and related notes thereto included in this Annual Report on Form 10-K.
+
+In addition to historical information, this report contains forward-looking statements that involve risks and uncertainties which may cause our actual results to differ materially from plans and results discussed in forward-looking statements. We encourage you to review the risks and uncertainties discussed in the sections entitled Item 1A. “Risk Factors” and “Forward-Looking Statements” included at the beginning of this Annual Report on Form 10-K. The risks and uncertainties can cause actual results to differ significantly from those forecast in forward-looking statements or implied in historical results and trends.
+
+We caution readers not to place undue reliance on any forward-looking statements made by us, which speak only as of the date they are made. We disclaim any obligation, except as specifically required by law and the rules of the SEC, to publicly update or revise any such statements to reflect any change in our expectations or in events, conditions or circumstances on which any such statements may be based, or that may affect the likelihood that actual results will differ from those set forth in the forward-looking statements.
+
+Overview
+
+We are a biotechnology company committed to researching, developing, and commercializing potentially curative gene therapies for severe genetic diseases based on our proprietary lentiviral vector (“LVV”) gene addition platform. We currently market three gene therapies in the U.S.: ZYNTEGLO™ (betibeglogene autotemcel, also known as beti-cel), SKYSONA™ (elivaldogene autotemcel, also known as eli-cel), which were approved by the U.S. Food and Drug Administration (the “FDA”) in 2022, and LYFGENIA™ (lovotibeglogene autotemcel, also known as lovo-cel), which received approval from the FDA in December 2023.
+
+The FDA approved ZYNTEGLO for the treatment of adult and pediatric patients with ß-thalassemia who require regular red blood cell transfusions on August 17, 2022. The FDA granted accelerated approval of SKYSONA to slow the progression of neurologic dysfunction in boys 4-17 years of age with early, active cerebral adrenoleukodystrophy (“CALD”) on September 16, 2022. On December 8, 2023, LYFGENIA, was approved by the FDA for the treatment of patients 12 years of age or older with sickle cell disease (“SCD”) and a history of vaso-occlusive-events.
+
+We are focusing our development and commercialization efforts in the U.S. market. We have obtained the withdrawal of the marketing authorization for beti-cel and eli-cel in the European Union, which became effective in 2022 and 2021, respectively. We are continuing the long-term follow-up of patients previously enrolled within the clinical trial programs in Europe as planned but do not intend to initiate any new clinical trials in Europe for β-thalassemia, CALD or SCD. 
+
+Since our inception in 1992, we have devoted substantially all of our resources to our development and commercialization efforts relating to our products and product candidates, including activities to manufacture products and product candidates in compliance with good manufacturing practices (“GMP”) to conduct clinical studies of our product candidates, to provide selling, general and administrative support for these operations, to market, commercially manufacture and distribute our approved products and to protect our intellectual property. We have funded our operations primarily through the sale of common stock in our public offerings, issuance of warrants, the sale of two Rare Pediatric Disease Priority Review Vouchers ("PRVs"), debt financing agreements, and through collaborations. 
+
+In August 2022 and September 2022, we received the two PRVs under an FDA program intended to encourage the development of treatments for rare pediatric diseases. In the fourth quarter of 2022, we sold our first PRV for aggregate net proceeds of $102.0 million. In the first quarter of 2023, we sold our second PRV for aggregate net proceeds of $92.9 million, inclusive of additional legal costs incurred. 
+
+In the first quarter of 2023, we sold 23.0 million shares of common stock (inclusive of shares sold pursuant to an option to the underwriters in connection with the offering) through an underwritten public offering at a price of $6.00 per share for aggregate net proceeds of $130.5 million, inclusive of additional offering costs incurred. In the fourth quarter of 2023, we sold 
+
+83.3 million shares of common stock through an underwritten public offering at a price of $1.50 per share for aggregate net proceeds of $118.1 million, after deducting for offering costs.
+
+In March 2024, we entered into a five-year term loan facility agreement with Hercules Capital, Inc. to secure debt financing for up to $175.0 million, available in four tranches, based on amendments executed through August 2024.
+
+In April 2022, we initiated a comprehensive restructuring plan intended to reduce operating expenses. As part of the restructuring, we reduced our workforce by approximately 30% in the second and third quarters of 2022. See Note 19, Reduction in Workforce, to our consolidated financial statements appearing elsewhere in this Annual Report on Form 10-K for more information on this restructuring plan.
+
+As of December 31, 2023, we had cash and cash equivalents of approximately $221.8 million. Absent the sale of our PRVs, we have never been profitable and have incurred net losses in each year since inception. Our net loss was $211.9 million for the year ended December 31, 2023 and our accumulated deficit was $4.3 billion as of December 31, 2023. Substantially all of our net losses resulted from costs incurred in connection with our research and development programs and from selling, general and administrative costs associated with our operations. We expect to continue to incur significant expenses and operating losses for the foreseeable future, if and as we:
+
+•fund activities related to the commercialization of ZYNTEGLO, SKYSONA, and LYFGENIA in the United States; 
+
+•scale our manufacturing capabilities in support of the commercialization of ZYNTEGLO, SKYSONA, and LYFGENIA;
+
+•conduct clinical studies; and
+
+•continue research and development-related activities for severe genetic diseases.
+
+Because of the numerous risks and uncertainties associated with product development and commercialization, we are unable to predict the timing or amount of increased expenses or when or if we will be able to achieve or maintain profitability. We may not be able to generate substantial revenue from the sale of our products, and we may not become profitable. If we fail to become profitable or are unable to sustain profitability on a continuing basis, then we may be unable to continue our operations at planned levels and be forced to reduce our operations. Until we reach profitability, if ever, we expect to continue to seek to fund our operations through public or private equity or debt financings, strategic collaborations, or other sources. However, we may be unable to raise additional funds or enter into such other arrangements when needed on favorable terms or at all. Our failure to raise capital or enter into such other arrangements as and when needed would have a negative impact on our financial condition and our business.
+
+Business update
+
+We had cash and cash equivalents of approximately $221.8 million as of December 31, 2023. We will continue to generate operating losses and negative operating cash flows for the foreseeable future as we continue to commercialize ZYNTEGLO, SKYSONA, and LYFGENIA and we will require the need for additional funding to support our planned operations before becoming profitable.
+
+Based on our current forecasts, and assuming we implement planned cost-saving initiatives, we expect our existing cash and cash equivalents will enable us to fund our operations and maintain compliance with the minimum cash requirements of the Loan Agreement with Hercules Capital, Inc. into the first quarter of 2025. Not accounting for the minimum cash requirements of the Loan Agreement, we expect our existing cash and cash equivalents will enable us to fund our operations into the second quarter of 2025.
+
+We have based this estimate on assumptions of revenues and operating costs that may prove to be wrong. Our cash runway estimate does not include use of our restricted cash, which as of December 31, 2023 was $52.8 million. The restricted cash was unavailable for use as of December 31, 2023, and we believe at least $43.6 million of this restricted cash is unlikely to be released in the near term. In addition, our future net product revenues will depend upon the demand for our products, the size of the markets, our ability to timely scale our manufacturing capabilities to meet market demand, our ability to achieve sufficient market acceptance, reimbursement from third-party payers, adequate market share in those markets and the performance of drug product subject to outcome-based programs. As a result, we could deplete our capital resources sooner than we currently expect. If, for any reason, our revenues or our expenses differ materially from our assumptions or we utilize our cash more quickly than anticipated, or if we are unable to obtain funding on a timely basis, we may be required to revise our business plan and strategy, which may result in bluebird failing to achieve profitability, significantly curtailing, delaying or discontinuing the 
+
+commercialization of any products or may result in bluebird being unable to expand our operations or otherwise capitalize on our business opportunities. As a result, our business, financial condition, and results of operations could be materially affected.
+
+The accompanying financial statements have been prepared on a going concern basis, which contemplates the realization of assets and satisfaction of liabilities in the ordinary course of business. The financial statements do not include any adjustments relating to the recoverability and classification of recorded asset amounts or the amounts and classification of liabilities that might result from the outcome of the uncertainties described above. 
+
+Financial operations overview
+
+Product revenue
+
+Our revenues were derived from product revenues associated with the sale of SKYSONA and ZYNTEGLO in the United States for the year ended December 31, 2023. Our revenues were derived from product revenues associated with the sale of ZYNTEGLO in Germany for the year ended December 31, 2022.
+
+Other revenue
+
+We have recognized an immaterial amount of revenue associated with grants.
+
+Cost of product revenue
+
+Cost of product revenue includes costs associated with the sale of SKYSONA and ZYNTEGLO in the United States and ZYNTEGLO in Germany for the years ended December 31, 2023 and 2022, respectively.
+
+Selling, general and administrative expenses
+
+Selling, general and administrative expenses consist primarily of salaries and related costs for personnel, including stock-based compensation and travel expenses for our employees in executive, operational, finance, legal, business development, commercial, information technology, and human resource functions. Other selling, general and administrative expenses include facility-related costs, professional fees for accounting, tax, legal and consulting services, directors’ fees and expenses associated with obtaining and maintaining patents. These expenses include lease expense related to 50 Binney Street and 100 Binney Street; however, sublease income is presented in other income, net.
+
+We anticipate that our selling, general and administrative expenses, including payroll and sales and marketing expenses, may continue to increase in the future relative to current levels as we continue commercialization activities for ZYNTEGLO, SKYSONA, and LYFGENIA in the United States. 
+
+Research and development expenses
+
+Research and development expenses consist primarily of costs incurred for the development of our product candidates, which include:
+
+•employee-related expenses, including salaries, benefits, travel and stock-based compensation expense;
+
+•expenses incurred under agreements with CROs and clinical sites that conduct our clinical studies;
+
+•expenses, including amortization of right-of-use assets when used in research and development, incurred under agreements with CMOs related to pre-commercial manufacturing activities;
+
+•facilities, depreciation, and other expenses, which include direct and allocated expenses for rent and maintenance of facilities, information technology, insurance, and other supplies in support of research and development activities;
+
+•costs associated with our research platform and preclinical activities;
+
+•milestones and upfront license payments; and
+
+•costs associated with our regulatory, quality assurance and quality control operations.
+
+Research and development costs including those under executory contracts and variable costs related to arrangements that contain a lease are expensed as incurred. Right-of-use assets related to arrangements with CMOs and CTOs that contain a lease under ASC 842 but have no alternative future use under ASC 730 are immediately expensed to research and development expense at commencement or upon a modification until commercialization is achieved. Costs for certain development activities are recognized based on an evaluation of the progress to completion of specific tasks using information and data provided to us by our vendors and our clinical sites. We cannot determine with certainty the duration and completion costs of the current or 
+
+future clinical studies of our products or to what extent we will generate revenues from the commercialization and sale of our approved products. The duration, costs, and timing of clinical studies and development of our products will depend on a variety of factors, any of which could affect our research and development expenses, including:
+
+•the scope, rate of progress, and expense of our ongoing as well as any additional clinical studies and other research and development activities we undertake;
+
+•future clinical study results;
+
+•uncertainties in clinical study enrollment rates;
+
+•new manufacturing processes or protocols that we may choose to or be required to implement in the manufacture of our LVV or drug product;
+
+•regulatory feedback on requirements for regulatory approval, as well as changing standards for regulatory approval; and
+
+•the timing and receipt of any regulatory approvals. 
+
+We plan to continue to incur research and development expenses for the foreseeable future as we continue to conduct research activities for our platform technology. We expect our research and development expenses to decrease in conjunction with an increase in commercial activities and selling, general and administrative expense due to the approvals of ZYNTEGLO, SKYSONA, and LYFGENIA. Our research and development expenses include expenses associated with the following activities: 
+
+•the long-term follow-up protocol associated with the clinical studies of ZYNTEGLO, and a postmarketing study for the same; 
+
+•the long-term follow-up protocol associated with the clinical studies of SKYSONA, and a postmarketing study for the same;
+
+•HGB-210, the long-term follow-up protocol associated with the clinical studies of LYFGENIA, and a postmarketing study for the same;
+
+•research and development activities for our platform technology; and
+
+•the manufacture of clinical study materials in support of our clinical studies.
+
+Our direct research and development expenses consist principally of external costs, such as fees paid to investigators, consultants, central laboratories and CROs in connection with our clinical studies, and costs related to acquiring and manufacturing clinical study materials. We allocate salary and benefit costs that are directly related to specific programs. We do not allocate personnel-related discretionary bonus or stock-based compensation costs, laboratory and related expenses, certain license and other collaboration costs, depreciation or other indirect costs that are deployed across multiple projects under development and, as such, the costs are separately classified as other research and development expenses in the table below:
+
+Restructuring expenses
+
+Restructuring expenses consist of costs associated with postemployment nonretirement benefits in accordance with ASC 712, Postemployment Nonretirement Benefits. Such costs are based on the estimate of fair value in the period the expenses were incurred. 
+
+Gain from sale of priority review voucher, net.
+
+Gain from sale of priority review voucher, net consists of gain from the sale of our priority review vouchers. In the first quarter of 2023, we sold our second PRV for aggregate net proceeds of $92.9 million. We received the PRV in September 2022 under an FDA program intended to encourage the development of treatments for rare pediatric diseases. 
+
+In the fourth quarter of 2022, we sold our first PRV for $102.0 million. We received the PRV in August 2022 under an FDA program intended to encourage the development of treatments for rare pediatric diseases.
+
+Interest income
+
+Interest income consists primarily of interest income earned on investments. 
+
+Interest expense
+
+Interest expense consists primarily of interest expense associated with finance lease arrangements.
+
+Other income, net
+
+Other income, net consists primarily of sublease income, gains and losses on disposal of fixed assets, and gains and losses on foreign currency transactions.
+
+Critical accounting policies and significant judgments and estimates
+
+Our management’s discussion and analysis of our financial condition and results of operations are based on our financial statements, which have been prepared in accordance with generally accepted accounting principles in the U.S. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, and expenses and the disclosure of contingent assets and liabilities in our financial statements. On an ongoing basis, we evaluate our estimates and judgments, including expected business and operational changes, sensitivity and volatility associated with the assumptions used in developing estimates, and whether historical trends are expected to be representative of future trends. We base our estimates on historical experience, known trends and events and various other factors that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions. In making estimates and judgments, management employs critical accounting policies.
+
+While our significant accounting policies are described in more detail in the notes to our financial statements appearing elsewhere in this annual report, we believe the following accounting policies to be most critical to the judgments and estimates used in the preparation of our financial statements.
+
+Revenue recognition
+
+Revenue recognition
+
+Under Topic 606, Revenue from Contracts with Customers, an entity recognizes revenue when its customer obtains control of promised goods or services, in an amount that reflects the consideration that the entity expects to receive in exchange for those goods or services. To determine revenue recognition for arrangements that an entity determines are within the scope of Topic 606, the entity performs the following five steps: (i) identify the contract(s) with a customer; (ii) identify the performance obligations in the contract; (iii) determine the transaction price, including variable consideration, if any; (iv) allocate the transaction price to the performance obligations in the contract; and (v) recognize revenue when (or as) the entity satisfies a performance obligation. We only apply the five-step model to contracts when it is probable that the entity will collect the consideration to which it is entitled in exchange for the goods or services it transfers to the customer.
+
+Once a contract is determined to be within the scope of Topic 606, we assess the goods or services promised within each contract and determine those that are performance obligations. Arrangements that include rights to additional goods or services that are exercisable at a customer’s discretion are generally considered options. We assess if these options provide a material right to the customer and if so, they are considered performance obligations.
+
+We assess whether each promised good or service is distinct for the purpose of identifying the performance obligations in the contract. This assessment involves subjective determinations and requires management to make judgments about the individual promised goods or services and whether such are separable from the other aspects of the contractual relationship. Promised goods and services are considered distinct provided that: (i) the customer can benefit from the good or service either on its own or together with other resources that are readily available to the customer (that is, the good or service is capable of being distinct) and (ii) the entity’s promise to transfer the good or service to the customer is separately identifiable from other promises in the contract (that is, the promise to transfer the good or service is distinct within the context of the contract).
+
+The transaction price is then determined and allocated to the identified performance obligations in proportion to their standalone selling prices (“SSP”) on a relative SSP basis. SSP is determined at contract inception and is not updated to reflect changes between contract inception and when the performance obligations are satisfied.
+
+If the consideration promised in a contract includes a variable amount, we estimate the amount of consideration to which we will be entitled in exchange for transferring the promised goods or services to a customer. We determine the amount of variable consideration by using the expected value method or the most likely amount method. We include the unconstrained amount of estimated variable consideration in the transaction price. The amount included in the transaction price is constrained to the amount for which it is probable that a significant reversal of cumulative revenue recognized will not occur. At the end of each subsequent reporting period, we re-evaluate the estimated variable consideration included in the transaction price and any related constraint, and if necessary, adjust our estimate of the overall transaction price. Any such adjustments are recorded on a cumulative catch-up basis in the period of adjustment.
+
+If an arrangement includes development and regulatory milestone payments, we evaluate whether the milestones are considered probable of being reached and estimate the amount to be included in the transaction price using the most likely amount method. If it is probable that a significant revenue reversal would not occur, the associated milestone value is included in the transaction price. Milestone payments that are not within our control or the licensee’s control, such as regulatory approvals, are generally not considered probable of being achieved until those approvals are received.
+
+We then recognize as revenue the amount of the transaction price that is allocated to the respective performance obligation when (or as) each performance obligation is satisfied, either at a point in time or over time, and if over time recognition is based on the use of an output or input method.
+
+Product revenue 
+
+We recognize product revenue in accordance with ASC 606, Revenue from Contracts with Customers. In 2023, product revenue represents sales of ZYNTEGLO and SKYSONA in the United States. We recognize revenue from product sales at the point in time that we satisfy our performance obligation, which is upon patient infusion. Costs to manufacture and deliver the product are included in cost of product revenue. 
+
+Leases
+
+Under ASU 2016-02, Leases (Topic 842), (“ASU 2016-02” or “ASC 842”), at the inception of an arrangement, we determine whether the arrangement is or contains a lease based on the unique facts and circumstances present in the arrangement. We lease real estate, principally office and lab space with administrative equipment, and have leases related to our third-party manufacturing and related operations.
+
+We determine if an arrangement is a lease at inception of the contract and we perform the lease classification test as of the lease commencement and subsequent modification date. Right-of-use assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments arising from the lease.
+
+Lease liabilities and their corresponding right-of-use assets are initially recorded based on the present value of lease payments over the expected remaining lease term. Certain adjustments to the right-of-use asset may be required for items such as incentives received. Our leases do not provide an implicit interest rate. We use our estimated incremental borrowing rate based on the information available at commencement date in determining the present value of future payments. The incremental borrowing rate reflects the fixed rate at which we could borrow on a collateralized basis the amount of the lease payments in the same currency, for a similar term, in a similar economic environment. To estimate our incremental borrowing rate, a credit rating applicable to us is estimated using a synthetic credit rating analysis since we do not currently have a rating agency-based credit rating. 
+
+For real estate leases deemed operating leases, lease amortization expense is primarily presented in selling, general and administrative expenses in operating expense in the income statement based on the nature of the lease. In cases when a real estate lease supports research and development or commercial production, we classify the amortization expense as research and development expense or assess the costs for capitalization to inventory, respectively. For financing leases which are principally related to our manufacturing operations, we present finance right-of-use assets in PP&E and recognize amortization expense associated with those assets on a straight-line basis over the shorter of the life of the leased asset or the related lease term and interest expense as a non-operating expense. When the finance lease right-of-use asset is used for research and development, we classify the amortization expense related to the finance lease right-of-use asset as research and development pursuant to the guidance in ASC 730, Research and Development Costs.
+
+We have elected not to recognize leases with an original term of one year or less on the balance sheet. We typically only include an initial lease term in our assessment of a lease arrangement. Options to renew a lease are not included in our assessment unless there is reasonable certainty that we will renew. 
+
+Assumptions that we made at the commencement date are re-evaluated upon occurrence of certain events, including a lease modification. A lease modification results in a separate contract when the modification grants the lessee an additional right-of-use not included in the original lease and when lease payments increase commensurate with the standalone price for the additional right-of-use. When a lease modification results in a separate contract, it is accounted for in the same manner as a new lease. When a lease modification does not result in a separate contract, we reassess the classification of the existing lease at the effective date of the modification and remeasure the lease liability and adjust the carrying amount of the right-of-use asset by the amount of the remeasurement of the lease liability, including an update of the incremental borrowing rate used to measure the lease liability. Lease modifications associated with embedded leases in contract manufacturing arrangements may arise in greater frequency based on the complexity of gene therapy manufacturing processes and the related services provided by contract manufacturing organizations, which are combined with the lease components. We apply our judgment in determining whether the ongoing delivery of services to us by contract manufacturing organizations represent a change in the scope or consideration of the arrangement, which are accounted for as lease modifications, or are variable lease payments recognized as incurred.
+
+In accordance with ASC 842, components of a lease should be split into three categories: lease components, non-lease components, and non-components. 
+
+Entities may elect not to separate lease and non-lease components. Rather, entities would account for each lease component and related non-lease component together as a single lease component. We have elected to account for lease and non-lease components together as a single lease component for both our real-estate leases as well as our embedded drug product and drug substance contract manufacturing leases. Accordingly, we allocate all of the contract consideration to the lease component only. 
+
+ASC 842 allows for the use of judgment in determining whether the assumed lease term is for a major part of the remaining economic life of the underlying asset and whether the present value of lease payments represents substantially all of the fair 
+
+value of the underlying asset. We apply the guidance referenced in ASC 842-10-55-2 to assist in determining leases classification across our portfolio of leases.
+
+Accrued research and development expenses
+
+As part of the process of preparing our financial statements, we are required to estimate our accrued expenses. This process involves reviewing open contracts and purchase orders, communicating with our personnel to identify services that have been performed on our behalf and estimating the level of service performed and the associated cost incurred for the service when we have not yet been invoiced or otherwise notified of the actual cost. The majority of our service providers invoice us monthly in arrears for services performed or when contractual milestones are met. We make estimates of our accrued expenses as of each balance sheet date in our financial statements based on facts and circumstances known to us at that time. 
+
+We recognize expenses related to clinical studies based on our estimates of the services received and efforts expended pursuant to contracts with multiple CROs and CMOs that conduct and manage clinical studies and clinical productions on our behalf. The financial terms of these agreements are subject to negotiation, vary from contract to contract and may result in uneven payment flows. There may be instances in which payments made to our vendors will exceed the level of services provided and result in a prepayment of the clinical expense. Payments under some of these contracts depend on factors such as the successful enrollment of subjects and the completion of clinical study milestones. In accruing service fees, we estimate the time period over which services will be performed and the level of effort to be expended in each period and adjust accordingly.
+
+Other examples of estimated accrued research and development expenses include fees paid to:
+
+•investigative sites in connection with clinical studies;
+
+•vendors in connection with preclinical development activities; and
+
+•vendors related to the development, manufacturing, and distribution of clinical trial materials, where such fees are variable in nature and are not included in the measurement of embedded lase liabilities to CMOs.
+
+Stock-based compensation
+
+We issue stock-based awards to employees and non-employees, generally in the form of stock options and restricted stock units. We account for our stock-based awards in accordance with FASB ASC Topic 718, Compensation—Stock Compensation ("ASC 718"). ASC 718 requires all stock-based payments to employees, including grants of employee stock options and modifications to existing stock options, to be recognized in the consolidated statements of operations and comprehensive loss based on their fair values. Prior to the adoption of Accounting Standards Update (“ASU”) No. 2018-07, Compensation - Stock Compensation (Topic 718): Improvements to Nonemployee Share-Based Payment Accounting (“ASU 2018-07”), the measurement date for non-employee awards was generally the date the services are completed, resulting in financial reporting period adjustments to stock-based compensation during the vesting terms for changes in the fair value of the awards. After the adoption of ASU 2018-07, the measurement date for non-employee awards is the date of grant without changes in the fair value of the award. Stock-based compensation costs for non-employees are recognized as expense over the vesting period on a straight-line basis.
+
+Our stock-based awards are subject to either service or performance-based vesting conditions. Compensation expense related to awards to employees, non-employees, and directors, with service-based vesting conditions is recognized on a straight-line basis based on the grant date fair value over the associated service period of the award, which is generally the vesting term. Compensation expense related to awards to employees and non-employees with performance-based vesting conditions is recognized based on the grant date fair value over the requisite service period using the accelerated attribution method to the extent achievement of the performance condition is probable. We estimate the probability that certain performance criteria will be met and do not recognize compensation expense until it is probable that the performance-based vesting condition will be achieved. 
+
+We estimate the fair value of our stock-based awards to employees, non-employees, and directors, using the Black-Scholes option pricing model, which requires the input of subjective assumptions, including (i) the expected volatility of our stock, (ii) the expected term of the award, (iii) the risk-free interest rate, and (iv) expected dividends. Effective January 1, 2020, we eliminated the use of a representative peer group and use only our own historical volatility data in our estimate of expected volatility given that there is now a sufficient amount of historical information regarding the volatility of our own stock price. We estimate the expected life of our employee stock options using the “simplified” method, whereby, the expected life equals the average of the vesting term and the original contractual term of the option, unless there are more appropriate indicators of 
+
+the expected life when measuring the fair value of a modified award. The risk-free interest rates for periods within the expected life of the option were based on the U.S. Treasury yield curve in effect during the period the options were granted.
+
+Recent accounting pronouncements
+
+See Note 3, Summary of significant accounting policies and basis of presentation, in the notes to consolidated financial statements for a description of recent accounting pronouncements applicable to our business.
+
+Results of Operations
+
+Comparison of the years ended December 31, 2023 and 2022:
+
+Revenue. Total revenue was $29.5 million for the year ended December 31, 2023, compared to $3.6 million for the year ended December 31, 2022 and is comprised of product revenue from sales of ZYNTEGLO and SKYSONA in the United States in 2023 and ZYNTEGLO in Germany in 2022, respectively. 
+
+Selling, general and administrative expenses. Selling, general and administrative expenses were $165.5 million for the year ended December 31, 2023, compared to $140.3 million for the year ended December 31, 2022. The increase of $25.2 million was primarily due to the following:
+
+•$14.6 million of increased information technology and facility-related costs;
+
+•$8.8 million of increased commercial costs driven by marketing activities for ZYNTEGLO and SKYSONA in the United States and the performance of commercial readiness activities in the United States for LYFGENIA, which received FDA approval in December 2023; 
+
+•$5.5 million of increased professional fees driven by increased legal, audit, and public relations costs; and
+
+•$0.8 million of increased net employee compensation, benefit, and other headcount-related expenses, driven by increased headcount in selling, general and administrative costs in 2023 offset by a decrease in stock-based compensation expense due to an overall decrease in the value of awards.
+
+These increased costs were partially offset by $5.3 million of decreased costs attributable to consulting fees.
+
+Research and development expenses. Research and development expenses were $167.7 million for the year ended December 31, 2023, compared to $200.4 million for the year ended December 31, 2022. The decrease of $32.8 million was primarily attributable to the following:
+
+•$25.2 million of decreased net employee compensation, benefit, and other headcount related expenses, including a decrease of $10.3 million in stock-based compensation expense, driven by related expenses being included in inventory and cost of product revenue for our commercial products; 
+
+•$7.3 million of decreased manufacturing costs primarily driven by material production being included in inventory and cost of product revenue for our commercial products;
+
+•$7.0 million of decreased information technology and facility-related costs primarily driven by information technology and facility-related expenses now being included in inventory and cost of product revenue;
+
+•$3.7 million of decreased consulting fees; and
+
+•$2.7 million of decreased non-clinical costs.
+
+These decreased costs were partially offset by the following:
+
+•$11.2 million of increased clinical trial costs primarily driven by clinical trials for LYFGENIA; and
+
+•$1.4 million of increased laboratory costs.
+
+Cost of product revenue. Cost of product revenue was $33.5 million for the year ended December 31, 2023, compared to $10.1 million for the year ended December 31, 2022. The increase is attributable to increased product sales during 2023. 
+
+Restructuring expenses. There were no restructuring expenses recorded for the year ended December 31, 2023, compared to $4.9 million for the year ended December 31, 2022. The restructuring expenses are primarily related to the costs associated with the reduction in workforce in 2022. 
+
+Gain from sale of priority review voucher, net. The decrease in gain from sale of priority review voucher, net was related to higher net proceeds received for the sale of the priority review voucher in the fourth quarter of 2022 compared to the sale of the second priority review voucher in the first quarter of 2023. 
+
+Interest income. The increase in interest income was primarily related to higher interest income earned on investments.
+
+Interest expense. The increase in interest expense was primarily related to increases in the finance lease liability from our embedded leases related to certain CMOs and a CTO.
+
+Other income, net. The increase in other income, net was primarily related to increased sublease rental income in 2023. 
+
+Liquidity and Capital Resources
+
+As of December 31, 2023, we had cash and cash equivalents of approximately $221.8 million. Cash in excess of immediate requirements is invested in accordance with our investment policy, primarily with a view to liquidity and capital preservation. As of December 31, 2023, our funds are primarily held in U.S. government agency securities and treasuries, and money market accounts with maturities at date of purchase of 90 days or less.
+
+We have incurred losses and cumulative negative cash flows from operations since our inception in April 1992, and as of December 31, 2023, we had an accumulated deficit of $4.3 billion. We expect our research and development expenses to decrease in conjunction with an increase in commercial activities and selling, general and administrative expense due to the commercialization of ZYNTEGLO, SKYSONA, and LYFGENIA. 
+
+Based on our current forecasts, and assuming we implement planned cost-saving initiatives, we expect our existing cash and cash equivalents will enable us to fund our operations and maintain compliance with the minimum cash requirements of the Loan Agreement with Hercules Capital, Inc. into the first quarter of 2025. Not accounting for the minimum cash requirements of the Loan Agreement, we expect our existing cash and cash equivalents will enable us to fund our operations into the second quarter of 2025.
+
+We have based this estimate on assumptions of revenues and operating costs that may prove to be wrong. Our cash runway estimate does not include use of our restricted cash of $52.8 million, which was unavailable for use as of December 31, 2023, and we believe at least $43.6 million of this restricted cash is unlikely to be released in the near term. In addition, our future net product revenues will depend upon the demand for our products, the size of the markets, our ability to timely scale our 
+
+manufacturing capabilities to meet market demand, our ability to achieve sufficient market acceptance, reimbursement from third-party payers, adequate market share in those markets and the performance of drug product subject to outcome-based programs. As a result, we could deplete our capital resources sooner than we currently expect. If, for any reason, our revenues or our expenses differ materially from our assumptions or we utilize our cash more quickly than anticipated, or if we are unable to obtain funding on a timely basis we may be required to revise our business plan and strategy, which may result in bluebird failing to achieve profitability, significantly curtailing, delaying or discontinuing one or more of our research or development programs or the commercialization of any products or may result in bluebird being unable to expand our operations or otherwise capitalize on our business opportunities. As a result, our business, financial condition, and results of operations could be materially affected.
+
+We have funded our operations principally from the sale of common stock in public offerings, the Loan Agreement, and the sale of the two PRVs. The following is a summary of recent financing transactions:
+
+•In June 2022, we entered into an Equity Distribution Agreement with Goldman Sachs & Co. LLC ("Goldman") to sell shares of our common stock up to $75.0 million, from time to time, through an “at the market” equity offering program under which Goldman will act as manager. As of December 31, 2022, we sold 10.7 million shares of common stock at-the-market under the Equity Distribution Agreement, resulting in gross proceeds to us of approximately $56.2 million ($54.2 million net of offering costs). This agreement was terminated in August 2023 and there was no activity in 2023.
+
+•In December 2022, we sold a PRV for aggregate net proceeds of $102.0 million.
+
+•In January 2023, we sold our second PRV for aggregate net proceeds of $92.9 million.
+
+•In January 2023, we sold 23.0 million shares of common stock (inclusive of shares sold pursuant to an option to the underwriters in connection with the offering) in an underwritten public offering at a price of $6.00 per share for aggregate net proceeds of $130.5 million.
+
+•In August 2023, we entered into an Open Market Sales Agreement (the "Sales Agreement") with Jefferies LLC ("Jefferies") to sell shares of our common stock up to $125.0 million, from time to time, through an “at the market” equity offering program under which Jefferies will act as sales agent. As of December 31, 2023, we have made no sales pursuant to the Sales Agreement.
+
+•In December 2023, we sold 83.3 million shares of common stock in an underwritten public offering at a price of $1.50 per share for aggregate net proceeds of $118.1 million. 
+
+•In March 2024, we entered into the Loan Agreement for up to $175.0 million in debt financing.
+
+Sources of Liquidity
+
+Cash Flows
+
+The following table summarizes our cash flow activity:
+
+Operating Activities. The net cash used in operating activities was $235.0 million for the year ended December 31, 2023 and primarily consisted of a net loss of $211.9 million adjusted for non-cash items including a gain from the sale of priority review voucher of $92.9 million and change in net working capital of $49.7 million, offset by non-cash items including stock-based compensation of $19.4 million, the recognition of a reserve for excess inventories of $15.4 million, depreciation and amortization of $28.5 million, non-cash items related to finance leases of $21.2 million, non-cash items related to operating leases of $29.8 million, and proceeds from factoring arrangement of accounts receivable of $5.0 million.
+
+The net cash used in operating activities was $316.2 million for the year ended December 31, 2022 and primarily consisted of a net loss of $230.3 million adjusted for non-cash items including a gain from the sale of priority review voucher of $102.0 million, gain on foreign currency exchange rates of $1.8 million primarily related to our embedded leases and change in net working capital of $75.0 million, offset by non-cash items including stock-based compensation of $35.1 million, the recognition of a reserve for excess inventories of $7.5 million, depreciation and amortization of $8.3 million, non-cash items related to finance leases of $11.2 million, non-cash items related to operating leases of $23.6 million, unrealized loss on equity securities of $3.1 million, and other non-cash items of $4.1 million.
+
+Investing Activities. Net cash provided by investing activities for the year ended December 31, 2023 was $155.0 million and was primarily due to proceeds from the maturities of available-for-sale marketable securities of $108.5 million, sale of priority review voucher of $92.9 million, and proceeds from sales of marketable securities of $5.9 million, offset by the purchase of $43.3 million of marketable securities, the purchase of $4.2 million of property, plant and equipment, and the capitalization of FDA approval milestones related to LYFGENIA and SKYSONA of $4.9 million.
+
+Net cash provided by investing activities for the year ended December 31, 2022 was $250.5 million and was primarily due to proceeds from the maturities of available-for-sale marketable securities of $131.4 million, sale of priority review voucher of $102.0 million, and proceeds from sales of marketable securities of $30.2 million, offset by the purchase of $8.2 million of property, plant and equipment and the capitalization of two FDA approval milestones related to SKYSONA and ZYNTEGLO of $5.0 million.
+
+Financing Activities: Net cash provided by financing activities for the year ended December 31, 2023 was $196.2 million and was primarily due to proceeds from the secondary public offering, net of issuance costs of $248.2 million and proceeds from factoring arrangement of $2.5 million, offset by $54.4 million in principal payments on finance leases.
+
+Net cash provided by financing activities for the year ended December 31, 2022, was $17.5 million and was primarily due to net cash proceeds from our At The Market ("ATM") equity offering program, net of issuance costs of $54.2 million, offset by $36.7 million in principal payments on finance leases.
+
+Contractual Obligations and Commitments 
+
+Operating lease commitments
+
+60 Binney Street lease & sublease
+
+In October 2021, we entered into a consent to assignment and amendment to our lease agreement for our 60 Binney Street lease (the "Assignment"). The Assignment transfers our interest in the lease to 2seventy bio and releases us from our obligation to maintain the $13.8 million collateralized letter of credit required under the original 60 Binney Street lease. Although the lease was legally transferred to 2seventy bio, the lessor required that we remain secondarily liable as a guarantor for payment obligations accruing under the 60 Binney Street lease from the date of Assignment until the later of (i) we have completely vacated the premises and (ii) 2seventy bio has reached a market capitalization of $900 million. Upon Separation, the lease assignment was accounted for as the termination of the original lease and we de-recognized the right-of-use asset and lease liability related to the 60 Binney Street lease and recognized the fair value of the guarantee pursuant to ASC 405, Liabilities. The fair value of the guarantee was not material.
+
+Concurrent with the Assignment of the 60 Binney Street lease, we entered into a sublease agreement with 2seventy bio for office, laboratory and storage space located at 60 Binney Street (the "60 Binney Street Sublease") while we construct and outfit our new office and laboratory space. The lease was modified in July 2022 to reflect the decreased use of the office and lab space. Under the terms of the 60 Binney Street Sublease, we leased 72,988 square feet for $1.0 million per month in base rent for the period beginning from the Assignment through March 2022 and 58,004 square feet for $0.8 million per month in base rent for the period from April 2022 through July 2022. Under the terms of the modification, beginning in July 2022, we are required to pay $0.6 million monthly until no later than December 2023. We also pay monthly fees for use of the facilities and support personnel, calculated based on our pro-rata share of operating costs during the term of the 60 Binney Street Sublease. We accounted for the 60 Binney Street Sublease as a new lease under ASC 842, and in November 2021, we recognized a right-of-use asset and lease liability related to the 60 Binney Street Sublease. We terminated the 60 Binney Street Sublease in August 2023 and derecognized the right-of-use asset and lease liability.
+
+50 Binney Street sublease & sub-sublease
+
+In April 2019, we entered into a sublease agreement for office space located at 50 Binney Street in Cambridge, Massachusetts (the "50 Binney Street Sublease") to supplement our then-current corporate headquarters located at 60 Binney Street in Cambridge, Massachusetts. Under the terms of the 50 Binney Street Sublease, we lease 267,278 square feet of office space for $99.95 per square foot, or $26.7 million per year in base rent subject to certain operating expenses, taxes and annual rent increases of approximately 3%. The lease commenced in April 2022. Upon signing the 50 Binney Street Sublease, we executed a $40.1 million cash-collateralized letter of credit, which may be reduced in the future subject to the terms of the 50 Binney Street Sublease and certain reduction requirements specified therein. The $40.1 million of cash collateralizing the letter of credit is classified as restricted cash and other non-current assets on our consolidated balance sheets. In connection with the execution of the 50 Binney Street Sublease, we also entered into a purchase agreement for furniture and equipment (the “Furniture Purchase Agreement”) located on the premises upon lease commencement. Upon execution of the Furniture Purchase Agreement, we made an upfront payment of $7.5 million. We made another $7.3 million payment under the Furniture Purchase Agreement upon lease commencement. 
+
+In December 2021, we entered into a sub-sublease agreement (the "Sub-Sublease") with Meta Platforms. Inc. ("Meta"). Under the terms of the Sub-Sublease, we are subleasing the entirety of the 50 Binney Street premises which we have rights to under the 50 Binney Street Sublease. We are sub-subleasing the premises for $29.4 million in the first year (inclusive of parking costs) with 3% annual increases in each subsequent year. Meta received access to 50 Binney Street at the lease commencement date, which is the same point that we received access under the 50 Binney Street Sublease. We remain liable under the 50 Binney Street Sublease, including for the maintenance of the $40.1 million collateralized letter of credit. The Company recognizes monthly sublease income of $2.6 million in other income, net for the sub-subleased space. In connection with the execution of the sub-sublease, we sold the furniture in the premises to Meta for $1 and wrote down the carrying value of the furniture to its recoverable amount under the sub-sublease. 
+
+Assembly Row lease
+
+In November 2021, we entered into a lease agreement with Assembly Row 5B, LLC ("Landlord") for office space located at 455 Grand Union Boulevard in Somerville, Massachusetts to serve as our future corporate headquarters. Under the terms of the arrangement, we lease approximately 61,180 square feet starting at an annual rate of $45 per square foot, subject to annual increases of 2.5%, plus operating expenses and taxes. In addition, we are eligible to receive a tenant work allowance of $160 per rentable square foot of the premises. The lease commenced on March 1, 2022, the date on which the Landlord tendered possession of the premises to us with any tenant work required to be performed by the Landlord substantially completed. Since the lease commencement date, we have recognized rent expense of $0.3 million monthly.
+
+Hood Park lease
+
+In October 2022, we entered into a sublease with Finch Therapeutics, Inc. ("Finch") for office and laboratory space at Finch’s corporate headquarters located at 100 Hood Park Drive, Charlestown, Massachusetts. Under the terms of the arrangement, we lease 42,261 square feet for $55 per square foot, subject to annual increases of 3.0%, plus operating expenses and taxes. This sublease commenced December 15, 2022, the date on which the landlord tendered us possession of the premises and is expected to terminate on December 14, 2025. Since the lease commencement date, we have recognized substantially all of the monthly $0.2 million costs as rent expense. 
+
+Finance lease commitments – Embedded leases
+
+Drug Product Manufacturing
+
+In June 2016, we entered into a manufacturing agreement for the future commercial production of our ZYNTEGLO and SKYSONA drug products with a CMO. Under this 12-year agreement, the CMO will complete the design, construction, validation and process validation of the leased suites prior to anticipated commercial launch of the product candidates. From 2016 through March 2018, while the suites were under construction, we paid a total of $12.0 million in contractual milestone payments. Construction was completed in March 2018, and beginning in April 2018 we paid $5.1 million per year in fixed suite reservation fees and certain fixed labor, raw materials, testing and shipping costs for manufacturing services. We may terminate this agreement at any time upon payment of a one-time termination fee and up to 24 months of slot fees and 12 months of labor fees. We concluded that this agreement contains an embedded lease as the suites are designated for our exclusive use during the agreement's term, that we were not the deemed owner during construction, and the lease was not a capital lease under ASC 840-10, Leases – Overall. As a result, we initially accounted for the agreement as an operating lease under ASC 840 and recognized straight-line rent expense over the non-cancellable term of the embedded lease. As part of our adoption of ASC 842, 
+
+effective January 1, 2019, we carried forward the existing lease classification under ASC 840. The lease was modified and reclassified as a finance lease as of March 2019. In September 2023, we amended our agreement with the CMO to change the fee structure in the arrangement from a fixed suite reservation fee to a fixed slot manufacturing fee. In addition, separate from the suite and existing equipment, we also have a forward starting embedded equipment lease that has not yet commenced. As the CMO is required to provide operational equipment throughout the contract term, the forward starting lease was established to account for the equipment that the CMO is obligated to lease to us in the future once the current equipment reaches its useful life and the lease expires. This forward starting lease is expected to commence in 2025 with an initial lease term of three years and has fixed commitments of approximately $54.5 million. We have prepaid approximately $3.7 million, which is accounted for as prepaid asset on the Company's balance sheet that would adjust the right-of-use asset when the forward starting embedded equipment lease commences in 2025.
+
+In November 2016, we entered into an agreement for clinical and commercial production of our ZYNTEGLO, SKYSONA and LYFGENIA drug products with a CMO at an existing facility. We concluded this agreement contains an embedded operating lease as the clean rooms are designated for our exclusive use during the agreement's term. The term of the agreement is five years with subsequent three-year renewals at the mutual option of each party. We recognized a right-of-use asset and lease liability and were recognizing rent expense on a straight-line basis throughout the estimated remaining term of the embedded lease upon effective date of ASC 842. In January 2019, we amended this agreement along with the execution of new work orders and additional contracts for the delivery of non-lease services from the CMO, resulting in a lease modification under ASC 842. Under the terms of the amended agreement, we are required to pay annual maintenance and production fees of up to €16.5 million, depending on production needs, and may terminate this agreement with twelve months’ notice and a one-time termination fee. The amendment also provides for an option to reserve an additional clean room for a one-time option fee and annual maintenance fees. In connection with the lease modification, in January 2019, we reconsidered the lease classification and accounted for this embedded lease as a finance lease under ASC 842. In September 2021, we reassessed the term of this lease due to the planned orderly wind down of operations in Europe. As a result, we reduced the right-of-use asset and related lease liability to reflect the shortened expected term of the agreement. In November 2021, we exercised our right to terminate the lease agreement, and such termination became effective in November 2022. Under the amended agreement, we were obligated to pay a one-time termination fee of €1.0 million upon termination, which was paid in December 2021, and we paid for services rendered through the date of termination based on work completed and expenses incurred prior to the date of termination. 
+
+During July 2020, we amended an existing arrangement to reserve additional manufacturing capacity with an existing CMO to manufacture LYFGENIA. We concluded that this amendment contains an embedded lease as a controlled environment room at the facility is designated for our exclusive use during the term of the agreement, with the option to sublease the space if we provide notice that we will not utilize it for a specified duration of time. Under the amended agreement, we are required to pay up to $5.4 million per year in maintenance fees in addition to the cost of any services provided and may terminate this agreement with eighteen months' notice. The term of the agreement is five years, with the option to extend. When the additional manufacturing capacity became available that served as lease commencement in March 2021, we classified the embedded lease as a finance lease.
+
+In February 2021, we amended another agreement to reserve additional manufacturing capacity. We concluded that this amended agreement contains an embedded lease as a controlled environment room at the facility is designated for our exclusive use during the agreement's term. Under the amended agreement, we must pay $4.2 million per year in maintenance fees and per-batch fees for the cost of any services provided. Either party may terminate this agreement with eighteen months' notice at any time or with eight months' notice after defined milestones in the agreement have been met. The term of the agreement is five years, with the option to extend. The lease commenced in November 2021 when the suites became available, and upon commencement we classified it as finance lease. The lease has been subsequently modified based on changes in the delivery of non-lease component services, which have been combined with lease components under our accounting policy.
+
+In August 2022, we amended another agreement to reserve additional controlled environmental rooms. We concluded this amended agreement contains an embedded finance lease as the controlled environment room at the facility is designated for our exclusive use during the agreement's term. Under this amended agreement, an existing deposit of $10.8 million was applied towards the monthly lease payments through September 2023. The term of the agreement was 14 months, with an option to extend. We exercised the extension option to extend through December 31, 2023.
+
+Drug Substance Manufacturing
+
+In November 2017, we entered a commercial manufacturing services agreement with a CMO to establish commercial production of our suspension vector. We concluded this agreement contained an embedded finance lease when production commenced in the new facility in 2019 as we have dedicated suite space and reserved production capacity at a rate that allows 
+
+us to take more than substantially all the capacity of certain manufacturing space and equipment within the facility. Under the agreement, we are required to pay capacity reservation fees, minimum purchase commitment fees, and milestone fees for achievement of certain activities. In addition, we prepaid approximately €13.5 million between 2018 and 2019 towards certain milestone payments and in exchange for production credits. As of December 31, 2021, those credits have been fully used. We modified the lease to extend its term in October 2022, April 2023, and finally in October 2023, which extends the lease term to end in March 2024 in addition to changes in the delivery of non-lease component services, which have been combined with lease components under our accounting policy.
+
+In January 2018, we entered a clinical and commercial supply agreement with a CMO to manufacture ZYNTEGLO and SKYSONA vector products. We concluded this agreement contained an embedded finance lease. We agreed to wind down manufacturing activities with the CMO originally in December 2021. In December 2022, we reestablished this manufacturing agreement and concluded the revised arrangement contains an embedded finance lease as we are using the entire capacity of a manufacturing suite at the facility. The term of the agreement is three years and requires us to pay suite reservation fees of $13.5 million in 2023 and $18.0 million per year in 2024 and 2025, in addition to the cost of any services provided. The lease has been subsequently modified based on changes in the delivery of non-lease component services, which have been combined with lease components under our accounting policy.
+
+Quality Testing
+
+In 2018, we entered a 2-year master contract services agreement (MCSA) with a CTO to provide clinical development services (other than manufacturing services). The original MCSA expired in June 2020 but was reinstated through December 2024 under the amendment of the MCSA effective in April 2021. We concluded this agreement contained an embedded finance lease as we had certain lab suites implicitly dedicated to us for various clinical testing procedures. We are required to pay the fixed price outlined in each of the various work orders covering quality, stability and other services. The lease has been subsequently modified based on changes in the delivery of non-lease component services, which have been combined with lease components under our accounting policy.
+
+Contingent Milestone and Royalty Payments
+
+We also have obligations to make future payments to third parties that become due and payable on the achievement of certain development, regulatory and commercial milestones (such as the start of a clinical trial, filing of a BLA, approval by the FDA or product launch). We do not recognize these commitments in our financial statements until they become payable or have been paid.
+
+Research and development costs are expensed as incurred. These expenses include the costs of our proprietary research and development efforts, as well as costs incurred in connection with certain licensing arrangements. Before a product candidate receives regulatory approval, we record upfront and milestone payments we make to third parties under licensing arrangements as expense. Upfront payments are recorded when incurred, and milestone payments are recorded when the specific milestone has been achieved. Once a product receives regulatory approval, we record any milestone payments in identifiable intangible assets, less accumulated amortization and, unless the asset is determined to have an indefinite life, we typically amortize the payments on a straight-line basis over the remaining agreement term or the expected product life cycle, whichever is shorter.
+
+Based on our development plans as of December 31, 2023, we may be obligated to make future development, regulatory and commercial milestone payments and royalty payments on future sales of specified products associated with our collaboration and license agreements. Payments under these agreements generally become due and payable upon the achievement of such milestones or sales. Because the achievement of these milestones or sales had not occurred as of December 31, 2023, such contingencies have not been recorded in our financial statements. Amounts related to contingent milestone payments and sales-based royalties are not yet considered contractual obligations as they are contingent upon success.
+
+•Under a license agreement with Inserm-Transfert pursuant to which we license certain patents and know-how for use in adrenoleukodystrophy therapy, we will be required to make payments based upon development, regulatory and commercial milestones for any products covered by the in-licensed intellectual property. To date, we have paid €1.3 million pursuant to the terms of this license agreement, and we may be obligated to pay up to €0.8 million for future milestones. We will also be required to pay a royalty on net sales of products covered by the in-licensed intellectual property in the low single digits. 
+
+•Under a license agreement with Institut Pasteur pursuant to which we license certain patents for use in ex vivo gene therapy, we are required to make payments per product covered by the in-licensed intellectual property upon the achievement of development and regulatory milestones, depending on the indication and the method of treatment. The 
+
+maximum aggregate payments we may be obligated to pay for each of these milestone categories per product is €0.7 and €3.5 million, respectively. To date, we have paid €0.7 million pursuant to the terms of such license arrangement, and we may be obligated to pay up to €0.5 million for future milestones. We are also required to pay a royalty on net sales of products covered by the in-licensed intellectual property in the low single digits, which varies slightly depending on the indication of the product. We have the right to sublicense our rights under this agreement, and we will be required to pay a percentage of such license income varying from the low single digits to mid-range double digits depending on the nature of the sublicense and stage of development. We are required to make an annual maintenance payment, which is offset by royalty payments on a year-by-year basis. 
+
+•Under a license agreement with the Board of Trustees of the Leland Stanford Junior University ("Stanford") pursuant to which we license the HEK293T cell line for use in gene therapy products, we are required to pay a royalty on net sales of products covered by the in-licensed intellectual property in the low single digits that varies with net sales. The royalty is reduced for each third-party license that requires payments by us with respect to a licensed product, provided that the royalty to Stanford is not less than a specified percentage that is less than one percent. We have been paying Stanford an annual maintenance fee, which will be creditable against our royalty payments.
+
+•Under a license agreement with Research Development Foundation pursuant to which we license patents that involve LVV, we will be required to make payments of $1.0 million based upon a regulatory milestone for each product covered by the in-licensed intellectual property. To date, we have paid $2.0 million pursuant to the terms of this license agreement. We will also be required to pay a royalty on net sales of products covered by the in-licensed intellectual property in the low single digits, which is reduced by half if during the ten years following first marketing approval the last valid claim within the licensed patent that covers the licensed product expires or ends. 
+
+•Under a license agreement with SIRION Biotech GmbH ("Sirion") pursuant to which we license certain patents directed to manufacturing of gene therapy products, we are required to make certain payments related to certain development milestone obligations. We may be obligated to pay up to $13.4 million in the aggregate for each product covered by the in-licensed intellectual property. To date, we have paid $16.0 million pursuant to the terms of this license agreement. Should we seek regulatory approval outside the U.S., we may be obligated to pay up to $8.0 million for future milestones. Upon commercialization of our products covered by the in-licensed intellectual property, we became obligated to pay Sirion a percentage of net sales as a royalty in the low single digits. The royalties payable under this license agreement are subject to reduction for any third-party payments required to be made, with a minimum floor in the low single digits. 
+
+Item 7A. Quantitative and Qualitative

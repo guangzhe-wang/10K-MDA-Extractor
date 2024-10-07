@@ -1,0 +1,305 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION 
+
+AND RESULTS OF OPERATIONS 
+
+In addition to historical financial information, this discussion of the business of the Company and other Items in this Annual Report on Form 10-K contain forward-looking statements concerning the Company’s business or results of operations. See “Item 1. Business—Cautionary Note” for a discussion of these forward-looking statements and the associated risks and uncertainties. 
+
+Overview 
+
+The Company currently operates in one reportable segment as an independent provider of electronic manufacturing services (“EMS”) and provides manufacturing and assembly services ranging from the assembly of individual components to the assembly and testing of box-build electronic products. The Company has the ability to produce assemblies requiring mechanical as well as electronic capabilities. This includes printed circuit board assemblies, electro-mechanical subassemblies and completely assembled (box-build) electronic products.
+
+The Company relies on numerous third-party suppliers for components used in the Company’s production process. Certain of these components are available only from single-sources or a limited number of suppliers. In addition, a customer’s specifications may require the Company to obtain components from a single-source or a small number of suppliers. The loss of any such suppliers could have a material impact on the Company’s results of operations. Further, the Company could operate at a cost disadvantage compared to competitors who have greater direct buying power from suppliers. The Company does not enter into long-term purchase agreements with major or single-source suppliers. The Company believes that short-term purchase orders with its suppliers provides flexibility, given that the Company’s orders are based on the changing needs of its customers.
+
+In connection with the production of assembled products, the Company provides services to its customers, including automatic and manual assembly and testing of products; material sourcing and procurement; manufacturing and test engineering support; design services; warehousing and distribution services; assistance in obtaining product approval from governmental and other regulatory bodies and compliance reporting. The Company provides these manufacturing services through an international network of facilities located in the United States, Mexico, China, Vietnam and Taiwan.
+
+Prior to April 1, 2023, the Company operated in two reportable segments as an independent provider of EMS, and as a provider of products to the Pet Tech market. A majority of the Pet Tech Segment was sold on April 28, 2023, effective as of April 1, 2023, and following such date, the Company operates in one reportable segment, the EMS segment. The Pet Tech reportable segment offered electronic products such as the Freedom Smart Dog Collar™, a wireless, geo-mapped fence, and wellness system, and apparel and accessories. 
+
+Sales can be a misleading indicator of the Company’s financial performance. Sales levels can vary considerably among customers and products depending on the type of services (turnkey versus consignment) rendered by the Company and the demand by customers. Consignment orders require the Company to perform manufacturing services on components and other materials supplied by a customer, and the Company charges only for its labor, overhead and manufacturing costs, plus a profit. In the case of turnkey orders, the Company provides, in addition to manufacturing services, the components and other materials used in assembly. Turnkey contracts, in general, have a higher dollar volume of sales for each given assembly, owing to inclusion of the cost of components and other materials in net sales and cost of goods sold. Variations in the number of turnkey orders compared to consignment orders can lead to significant fluctuations in the Company’s revenue and gross margin levels. Consignment orders which require the Company to perform manufacturing services on components and other materials supplied by a customer accounted for less than 1% of the Company’s revenues for each of the fiscal years ended April 30, 2024 and April 30, 2023.
+
+The Company’s international footprint provides our customers with flexibility within the Company to manufacture in China, Mexico, Vietnam or the U.S. We believe this strategy will continue to serve the Company well as its customers continuously evaluate their supply chain strategies.
+
+Factors Affecting Results
+
+Supply Chain Component Shortages. Despite supply chain component shortages improving in fiscal 2024, the Company’s business, results of operations, and financial condition continue to be adversely affected by certain supply chain issues due to world-wide component shortages. The Company anticipates continuing improvement in supply chain predictability in fiscal 2025. 
+
+Impairment of Goodwill and Long-Lived Assets. During the third quarter of fiscal 2023, the Company determined its goodwill and long-lived asset group related to the Wagz acquisition was fully impaired and an impairment charge of $23,096,771 was recorded. This non-cash charge was recorded to impairment of goodwill and intangible assets on the consolidated statements of operations. See Note H – Intangible Assets, for more information.
+
+Recent Developments 
+
+The Company’s primary secured credit agreements, being the Amended and Restated Credit Agreement dated as of July 18, 2022 (as amended, restated, supplemented or otherwise modified from time to time, the “JPM Credit Agreement”) by and among the Company, the other loan party thereto and JPMorgan Chase Bank, N.A, as lender (“JPM”), and the Credit Agreement dated as of July 18, 2022 (as amended, restated, supplemented or otherwise modified from time to time, the “Term Loan Agreement” and together with the JPM Credit Agreement, the “Credit Agreements”) by and among the Company, the financial institutions identified therein (the “TCW Lenders”) and TCW Asset Management Company LLC, as administrative agent for the TCW Lenders (in such capacity, the “Agent,” and collectively with the TCW Lenders and JPM, the “Lender Parties”), contain financial covenants relating to (i) the Fixed Charge Coverage Ratio (as defined in the Credit Agreements), which is the ratio of the Company’s fixed payments on its indebtedness made during any fiscal period minus non-financed capital expenditures to EBITDA (as defined in the Credit Agreements) and (ii) the Total Debt to EBITDA Ratio (as defined in the Credit Agreements), which is the ratio of the Company’s borrowed money or letters of credit to EBITDA.
+
+As of August 19, 2024, the Company was not in compliance with the financial covenants under the Credit Agreements as follows: the Fixed Charge Coverage Ratio for each of the twelve month periods ending on April 30, 2024, May 31, 2024, June 30, 2024, and July 31, 2024 was less than 1.10:1.00, the Total Debt to EBITDA Ratio for the twelve month period ending on April 30, 2024 was greater than 4.50:1.00, and the Total Debt to EBITDA Ratio for the twelve month period ending on July 31, 2024 was greater than 4.25:1.00 (collectively, the “2024 Covenant Defaults”). In addition, the Company received a delinquency notification letter from Nasdaq, dated August 16, 2024, indicating that the Company was not in compliance with the continued listing requirements of Nasdaq for failing to timely file the Company’s Form 10- K annual report for the fiscal year ended April 30, 2024. This notification also constituted a default under the Credit Agreements (collectively with the 2024 Covenant Defaults, the “2024 Defaults”). The Company has 60 days from the date of the Nasdaq delinquency notice, or until October 15, 2024, to file a plan with Nasdaq to regain compliance.
+
+Due to the 2024 Defaults, the total debt balances for both the Facility and the TCW Term Loan had been classified as a current liability on the Consolidated Balance Sheet as of April 30, 2024.
+
+On August 19, 2024 (the “Third Amendment Effective Date”), the Lender Parties waived the 2024 Defaults pursuant to (i) the Waiver and Amendment No. 3 to Credit Agreement (the “JPM Amendment”) between the Company and JPM, and (ii) the Waiver and Amendment No. 3 to Credit Agreement (the “TCW Amendment” and together with the JPM Amendment, the “2024 Amendments”) by and among the Company, the TCW Lenders, and the Agent. In consideration of the TCW Amendment, the Company and the Agent also entered into the Third Amendment Fee Letter to the TCW Credit Agreement (the “Fee Letter”) dated as of the Third Amendment Effective Date. The 2024 Amendments also amended the financial covenants and certain other terms of the Credit Agreements, including, among other things, that the Company will pursue and close a Replacement Transaction (as defined in the Credit Agreements) to pay the obligations under the Credit 
+
+Agreements in full no later than September 30, 2025 unless the Company meets certain debt ratios for the twelve month period ending on August 31, 2025. See Waivers and Amendments No. 3 below for more information. 
+
+The Company is taking steps to reduce its debt and cost structure. Most recently, since the beginning of calendar year 2024, these actions include the sale of its Elgin, Illinois property and consolidation of the Elgin operations to the Elk Grove Village, Illinois headquarters, reduction of headcounts at various operations and corporate, and inventory reduction. At this time, it is expected that these results plus the amendments to the financial covenants and other provisions of the Credit Agreements that are included in the 2024 Amendments should poise the Company for compliance. At the same time, the Company continues to explore other strategic initiatives to further reduce its debt to enable it to continue to comply with increasingly stringent financial covenants. Delays or a failure to effectively reduce debt, including due to circumstances outside of our control, could have an adverse effect on our financial position and results of operations. 
+
+Critical Accounting Estimates:
+
+Management Estimates and Uncertainties – The preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States of America (“GAAP”) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. Significant estimates made in preparing the consolidated financial statements include depreciation and amortization periods, the allowance for doubtful accounts, excess and obsolete reserves for inventory, deferred income, deferred taxes, uncertain tax positions, valuation allowance for deferred taxes and valuation of goodwill and long-lived assets. Actual results could materially differ from these estimates.
+
+The potential impact of continued economic uncertainty due to persistent inflation and continuing global supply chain shortages and unpredictability may have a significant adverse impact on the timing of delivery of customer orders and the levels of future customer orders.
+
+Inventories – Inventories are valued at cost. Cost is determined by an average cost method and the Company allocates labor and overhead to work-in-process and finished goods. In the event of an inventory write-down, the Company records expense to state the inventory at lower of cost or net realizable value. The Company establishes inventory reserves for valuation and excess and obsolete inventory for which the customer is not obligated. The Company records provisions for inventory shrinkage based on historical experience to account for unmeasured usage or loss. Of the Company’s raw materials inventory, a substantial portion has been purchased to fulfill committed future orders or for which the Company is contractually entitled to recover its costs from its customers. For the remaining raw materials inventory, a provision for excess and obsolete inventories is recorded for the difference between the cost of inventory and its estimated realizable value based on assumptions about future product demand and market conditions. Upon a subsequent sale or disposal of the impaired inventory, the corresponding reserve is relieved to ensure the cost basis of the inventory reflects any reductions. Actual results differing from these estimates could significantly affect the Company’s inventories and cost of products sold as the inventory is sold or otherwise relieved.
+
+Impairment of Long-Lived Assets – The Company reviews long-lived assets, including amortizable intangible assets, for impairment. Property, machinery and equipment and finite life intangible assets are reviewed whenever events or changes in circumstances occur that indicate possible impairment. If events or changes in circumstances occur that indicate possible impairment, the Company first performs an impairment review based on an undiscounted cash flow analysis at the lowest level at which cash flows of the long-lived assets are largely independent of other groups of its assets and liabilities. This analysis requires management judgment with respect to changes in technology, the continued success of product lines, and future volume, revenue and expense growth rates. If the carrying value exceeds the undiscounted cash flows, the Company records an impairment, if any, for the difference between the estimated fair value of the asset group and its carrying value. 
+
+During the third quarter of fiscal 2023, the Company revised the financial outlook for the Pet Tech segment, resulting in lower projected sales and net income for future periods. The Company assessed the overall market 
+
+acceptance of the current Wagz product offerings after the holiday season and determined that this constituted a triggering event for the Company’s long-lived asset groups, primarily consisting of patents, trade names and certain fixed assets. The Company reviewed the undiscounted future cash flows for the identified long-lived asset group, and the results of the analysis indicated the carrying amount for the long-lived group was not expected to be recovered.
+
+The fair value of the identified intangible assets was estimated using the relief from royalty method, which is a risk-adjusted discounted cash flow approach. The relief from royalty method values an intangible asset by estimating the royalties saved through ownership of the asset. The relief from royalty method requires identifying the future revenue that would be generated by the intangible asset, multiplying it by a royalty rate deemed to be avoided through ownership of the asset and discounting the projected royalty savings amounts back to the acquisition date using the internal rate of return.
+
+The Company determined the fair value of the long-lived asset group was lower than its carrying value and recorded an intangible asset impairment charge of $9,527,773 during the three months ended January 31, 2023. This non-cash charge was recorded to impairment of goodwill and intangible assets on the unaudited condensed consolidated statements of operations. As of April 30, 2023 this non-cash charge has been reported under discontinued operations. See Note H – Intangible Assets and Note P – Discontinued Operations, for more information.
+
+Impairment of Goodwill – Goodwill represents the cost of business acquisitions in excess of the fair value of identifiable net tangible and intangible assets acquired. On an annual basis, or more frequently if triggering events occur, the Company compares the estimated fair value of its reporting units to the carrying value of each reporting unit to determine if a potential goodwill impairment exists. If the fair value of a reporting unit is less than its carrying value, a goodwill impairment loss is recorded for the difference. In calculating the fair value of the reporting units or specific intangible assets, management relies on a number of factors, including business plans, economic projections, anticipated future cash flows, comparable transactions and other market data. There are inherent uncertainties related to these factors and management's judgment in applying them in the impairment tests of goodwill and other intangible assets. The Company had no goodwill balances remaining at April 30, 2024 and April 30, 2023.
+
+The Company observed during the third quarter of fiscal 2023, the overall lack of market acceptance of the current Wagz product offerings during the holiday season and determined this constituted a triggering event. Accordingly, the Company performed a quantitative goodwill impairment test and estimated the fair value of the Pet Tech segment based on a combination of an income approach (estimates of future discounted cash flows), a market approach (market multiples for similar companies) and a cost approach. Significant unobservable inputs and assumptions inherent in the valuation methodologies, which represented Level 3 inputs, under the fair value hierarchy, were employed and included, but were not limited to, prospective financial information, terminal value assumptions, discount rates, and multiples from comparable publicly traded companies in the Pet Tech industry.
+
+The cost approach is based upon the concept of replacement cost as an indicator of value. Stated another way, this approach is premised on the assumption that a prudent investor would pay no more for an asset than the amount for which the asset could be replaced. The cost approach establishes value based on the cost reproducing or replacing the property, less depreciation from physical deterioration and functional obsolescence, if present and measurable.
+
+During the third quarter of fiscal 2023, the Company determined its goodwill was fully impaired as the fair value was lower than the carrying value and recorded an impairment charge of $13,320,534. This non-cash charge was recorded to impairment of goodwill and intangible assets as of January 31, 2023. The Company further conducts annual reviews for idle and underutilized equipment, and reviews business plans for possible impairment. 
+
+Income Tax – The Company’s income tax expense, deferred tax assets and liabilities and reserves for unrecognized tax benefits reflect management’s best assessment of estimated future taxes to be paid. The 
+
+Company is subject to income taxes in both the U.S. and several foreign jurisdictions. Significant judgments and estimates by management are required in determining the consolidated income tax expense assessment.
+
+Deferred income tax assets and liabilities are determined based on differences between financial reporting and tax basis of assets and liabilities, and are measured using the enacted tax rates and laws that are expected to be in effect when the differences are expected to reverse. In evaluating the Company’s ability to recover its deferred tax assets within the jurisdiction from which they arise, the Company considers all available positive and negative evidence, including scheduled reversals of deferred tax liabilities, projected future taxable income, tax planning strategies and recent financial operations. In projecting future taxable income, the Company begins with historical results and changes in accounting policies, and incorporates assumptions including the amount of future state, federal and foreign pre-tax operating income, the reversal of temporary differences, and the implementation of feasible and prudent tax planning strategies. These assumptions require significant judgment and estimates by management about the forecasts of future taxable income and are consistent with the plans and estimates the Company uses to manage the underlying businesses. In evaluating the objective evidence that historical results provide, the Company considers three years of cumulative operating income and/or loss. Valuation allowances are established when necessary to reduce deferred income tax assets to an amount more likely than not to be realized. SigmaTron and Wagz filed or are expected to file U.S. tax returns on a consolidated basis for periods during which Wagz was wholly owned. Therefore, a valuation allowance was previously established on the group’s U.S. deferred tax assets during fiscal year 2022. After the sale of a majority stake in Wagz, SigmaTron will file on a standalone basis and utilize its U.S. deferred tax assets with the exception of the capital loss on sale and certain foreign tax credits. The Company previously maintained a valuation allowance on certain foreign loss carryforwards; however, all foreign tax loss carryforwards have been used as of April 30, 2024 and no related valuation allowance remains. The Company has established a valuation allowance of $7,302,639 on its U.S. capital loss and foreign tax credit carryforwards as of April 30, 2024.
+
+New Accounting Standards:
+
+See Note B – Summary of Significant Accounting Policies of Item 15(a) Exhibits and Financial Statement Schedules.
+
+Results of Operations:
+
+FISCAL YEAR ENDED APRIL 30, 2024 COMPARED
+
+TO FISCAL YEAR ENDED APRIL 30, 2023
+
+The following table sets forth the percentage relationships of gross profit and expense items to net sales for the years indicated:
+
+Net sales
+
+Net sales decreased $40,552,024, or 9.8%, to $373,883,821 in fiscal 2024, compared to $414,435,845 in fiscal 2023. The decline was primarily attributable to a decline in customer demand in the consumer electronics, industrial electronics and medical/life science markets as compared to fiscal 2023. 
+
+Costs of products sold
+
+Cost of products sold decreased $22,624,745, or 6.2%, to $340,357,503 (91.0% of net sales) for fiscal 2024, compared to $362,982,248 (87.6% of net sales) for the prior fiscal year. The increase in cost of products sold as a percentage of sales is primarily due to higher labor costs and other fixed manufacturing costs in fiscal 2024, compared to the prior fiscal year. These cost increases reflect continuing inflationary pressures.
+
+Gross profit margin
+
+Gross profit margin was 9.0% of net sales, in fiscal year 2024 compared to 12.4% of net sales in fiscal 2023. The decrease in gross margins as a percentage of sales is primarily due to higher labor and other fixed manufacturing costs in fiscal 2024, compared to the prior fiscal year.
+
+Selling and administrative expenses
+
+Selling and administrative expenses decreased $103,548, or 0.4%, to $26,392,403 (7.1% of net sales) in fiscal 2024, compared to $26,495,951 (6.4% of net sales) for the same period in the last fiscal year. The decrease in selling and administrative expenses is primarily due to a decrease in bonus expense, partially offset with an increase in accounting fees.
+
+Other Income
+
+Other income decreased to $466,704 in fiscal 2024, compared to $632,223 in fiscal 2023. The amount for fiscal 2023 primarily related to insurance proceeds received for fire damage at one of our manufacturing locations.
+
+Interest expense, net
+
+Interest expense, net, increased to $10,362,038 in fiscal 2024, compared to $8,403,904 for the prior fiscal year. The increase relates to higher average interest rates in fiscal 2024, compared to fiscal 2023.
+
+Income tax expense
+
+Income tax expense decreased $3,266,803 to an income tax benefit of $275,262 for fiscal 2024, compared to an income tax expense of $2,991,541 for the prior fiscal year. The effective tax rate decreased to 10.0% for fiscal 2024, compared to 17.4% for fiscal 2023. The decrease in income tax expense for fiscal 2024 compared to fiscal 2023 is primarily due to decreased pre-tax book income in the current fiscal year compared to the previous fiscal year. 
+
+Net loss from continuing operations
+
+Net income from continuing operations decreased $16,680,581, to a net loss of $2,486,157 for fiscal 2024, compared to net income of $14,194,424 for the prior fiscal year. The decreased net income primarily relates to lower sales, higher wages and other fixed manufacturing costs, and higher interest expense due to increased interest rates, partially offset by a decrease in bonus expense.
+
+Net loss from discontinued operations
+
+Net loss from discontinued operations in fiscal 2023 from the Pet Tech Segment was $34,769,809 which includes an impairment of goodwill and long-lived assets of $23,096,771 and losses on the sale of a business of $3,742,709. The fiscal 2023 discontinued losses include a tax benefit of $1,860,093.
+
+EMS Segment
+
+The following table sets forth the percentage relationships of gross profit and expense items to net sales for the years indicated:
+
+Net sales
+
+Net sales decreased $40,552,024, or 9.8%, to $373,883,821 in fiscal 2024, compared to $414,435,845 in fiscal 2023. The decline was primarily attributable to a decline in customer demand in the consumer electronics, industrial electronics and medical/life science markets compared to fiscal 2023. 
+
+Cost of products sold
+
+Cost of products sold decreased $22,624,745, or 6.2%, to $340,357,503 (91.0% of net sales) for fiscal 2024, compared to $362,982,248 (87.6% of net sales) for the prior fiscal year. The increase in cost of products sold as a percentage of sales is primarily due to higher labor costs and other fixed manufacturing costs in fiscal 2024, compared to the prior fiscal year. These cost increases reflect continuing inflationary pressures.
+
+Gross profit 
+
+Gross profit margin was 9.0% of net sales, for fiscal 2024, compared to 12.4% of net sales in fiscal 2023. The decrease in gross margins as a percentage of sales is primarily due to higher labor and other fixed manufacturing costs in fiscal 2024, compared to the prior fiscal year.
+
+Selling and administrative expenses
+
+Selling and administrative expenses decreased $103,548 or 0.4% to $26,392,403 (7.1% of net sales) for fiscal 2024, compared to $26,495,951 (6.4% of net sales) for the prior fiscal year. The decrease in selling and administrative expenses is primarily due to a decrease in bonus expense, partially offset with an increase in accounting fees.
+
+Operating income
+
+Operating income decreased $17,823,731, or 71.4%, to $7,133,915 (1.9% of net sales) for fiscal 2024, compared to $24,957,646 (6.0% of net sales) for the same period in the prior fiscal year. The decrease was primarily due to lower sales and higher labor and other fixed manufacturing costs.
+
+Pet Technology Segment
+
+The Company sold the majority ownership interest in Wagz on April 28, 2023, effective as of April 1, 2023. The Company still owns a 19% interest in Wagz as a passive investment as of April 30, 2024. However, the 
+
+Company determined that due to financial uncertainty of Wagz after the Company’s sale, the 19% ownership interest was fully reserved as of April 30, 2023. The activity for fiscal 2023 has been classified as discontinued operations in the Consolidated Statements of Operations.
+
+The following table sets forth the percentage relationships of gross profit and expense items to net sales for the years indicated:
+
+Net sales
+
+There were no sales for fiscal 2024 compared to $1,598,929 in fiscal 2023. Sales in fiscal 2023 were primarily comprised of hardware and accessories, as well as recurring subscription revenue.
+
+Cost of products sold
+
+There were no cost of products sold for fiscal 2024, compared to $1,732,352 (108.3% of net sales) for the prior fiscal year.
+
+Gross profit margin
+
+There was no gross profit margin of net sales for fiscal 2024 compared to gross profit margin of -8.3% for the prior fiscal year.
+
+Selling and administrative expenses
+
+There were no selling and administrative expenses for fiscal 2024, compared to $9,656,999 for the prior fiscal year. Selling and administrative costs were primarily comprised of research and development costs for new products expected to have launched in fiscal 2024, selling and marketing expenses, as well as general and administrative expenses.
+
+Impairment of goodwill and other long-lived assets 
+
+In connection with the preparation and review of the financial statements for the quarter ended January 31, 2023, the Company revised the financial projections for its Pet Tech segment. The revised projections resulted in a triggering event for the Company’s goodwill and long-lived asset groups consisting of patents and trade names. As a result, the Company concluded that the carrying amount for goodwill and the long-lived asset groups was impaired and not expected to be recovered. Accordingly, a non-cash pre-tax goodwill impairment charge of $13,320,534 and a non-cash intangible assets impairment charge of $9,527,773, was recorded for the Company’s Pet Tech segment in fiscal 2023. In addition, Pet Tech fixed assets of $248,464 were written off due to the sale of Wagz effective April 1, 2023. 
+
+Operating loss 
+
+There was no operating loss for fiscal 2024, compared to an operating loss of $32,887,193 in fiscal 2023. The fiscal 2023 operating loss was primarily due to the impairment of goodwill and other long-lived assets, lower than expected sales and increased selling and administrative expenses.
+
+Liquidity and Capital Resources: 
+
+The Company’s liquidity requirements are primarily to fund its business operations, including capital expenditures and working capital requirements, as well as to fund debt service requirements. The Company’s primary sources of liquidity are cash flows from operations and borrowings under the revolving Facility credit agreement. At this time, the Company believes its liquidity position will be sufficient to fund its existing operations and current commitments for at least the next twelve months. In addition to its cash flows from operations and borrowings under the revolving Facility credit agreement, the Company has taken steps to reduce its debt and cost structure to enhance its liquidity, including consolidating its Illinois operations into its Elk Grove Village, Illinois headquarters, and reduction of headcounts and inventory, and continues to explore other strategic initiatives to further reduce its debt. However, if it experiences delays or fails to effectively reduce debt, if economic conditions remain impacted for longer than the Company expects, if it experiences continued supply chain disruptions on certain raw materials, any new public health crises arise, or geopolitical risks continue or worsen, the Company’s liquidity position could be severely impacted. 
+
+Operating Activities
+
+Cash flow provided by operating activities was $27,760,048 for the fiscal year ended April 30, 2024, compared to cash flow used in operating activities of $13,256,804 for the prior fiscal year. Cash flow provided by operating activities was primarily the result of a decrease in inventory in the amount of $36,122,113 and accounts receivable in the amount of $14,240,833 partially offset by a decrease in accounts payable in the amount of $18,470,463 and a decrease in deferred revenue in the amount of $4,952,135. The decrease in inventory is the result of improvement in the component marketplace which has allowed the Company to complete assemblies for shipping to customers. The decrease in accounts payable is a result of lower accounts payable balances due to lower volumes and the timing of payments. 
+
+Cash flow used in operating activities was $13,256,804 for the fiscal year ended April 30, 2023. Cash flow used in operating activities was primarily the result of an increase in accounts receivable in the amount of $5,328,740, a decrease in accounts payable in the amount of $22,202,026 and a decrease in deferred revenue in the amount of $3,179,709. Cash flow from operating activities was offset by a decrease in right-of-use assets in the amount of $3,721,341 and prepaid expenses and other assets in the amount of $2,232,861. The increase in accounts receivable is the result of an increase in net sales. The decrease in accounts payable is the result of the timing of vendor payments. 
+
+Investing Activities
+
+In fiscal 2024, cash provided by investing activities was $117,112. During fiscal 2024, the Company purchased $1,799,148 in machinery and equipment to be used in the ordinary course of business. The Company anticipates future purchases of machinery and equipment will be funded by lease transactions. However, there is no assurance that the Company will be able to obtain funding for leases at acceptable terms, if at all, in the future. 
+
+In fiscal year 2023, cash used in investing activities was $5,179,247. During fiscal year 2023, the Company purchased $4,334,169 in machinery and equipment to be used in the ordinary course of business. The Company purchases were funded by the bank line of credit and lease transactions. During the month of April 2023, the Company made advances of $900,000 to Wagz as agreed upon under the SPA. On April 28, 2023, the sale of the majority interest in Wagz pursuant to the SPA was consummated effective as of April 1, 2023, and as a result, as of the closing, the Company holds a minority 19% ownership of the equity interests. However, the Company determined that due to financial uncertainty of Wagz after the Company’s sale, the 19% ownership interest was fully reserved as of April 30, 2023.
+
+Financing Activities
+
+Cash used in financing activities was $26,278,929 for the fiscal year ended April 30, 2024. Cash used in financing activities was primarily the result of payments under the line of credit and term loan agreements. 
+
+Cash provided by financing activities was $24,155,387 for the fiscal year ended April 30, 2023. Cash provided by financing activities was primarily the result of net borrowings under the line of credit and term loan agreements.
+
+Liquidity from Discontinued Operations
+
+During fiscal 2023 cash used in discontinued operations from operating activities was $7,264,377, primarily related to Pet Tech Segment operations and transaction related expenses associated with the sale of the Wagz business. Cash used in investing activities for fiscal 2023 was $134,419, primarily for capital expenditures.
+
+Financing Summary
+
+Debt and finance lease obligations consisted of the following at April 30, 2024 and April 30, 2023:
+
+* Due to the 2024 Defaults, the Facility (as defined below) was classified as a current liability on the Consolidated Balance Sheet at April 30, 2024. Due to availability being less than 10% of the Revolving Commitment, the Facility (as defined below) was classified as a current liability on the Consolidated Balance Sheet at April 30, 2023.
+
+Notes Payable – Secured lenders
+
+On January 29, 2021, the Company entered into a Credit Agreement (the “JPM Agreement”) with JPMorgan Chase Bank, N.A. (“Lender” or “JPM”), pursuant to which Lender provided the Company with a secured credit facility consisting of a revolving loan facility and a term loan facility (collectively, the “Facility”).
+
+On July 18, 2022, SigmaTron, Wagz and Lender amended and restated the JPM Agreement. Wagz and its property were released from the JPM Credit Agreement, effective April 1, 2023, pursuant to a Waiver, Consent and Amendment No. 1 to the JPM Credit Agreement (“JPM 2023 Waiver”) effective as of April 1, 2023. The Facility, as amended, allowed the Company to borrow on a revolving basis up to the lesser of (i) $70,000,000 or (ii) an amount equal to a percentage of the eligible receivable borrowing base plus a percentage of the inventory borrowing base minus any reserves established by Lender (the “Revolving Commitment”). The maturity date of the Facility is July 18, 2027. Deferred financing costs of $202,616 and $332,139 were capitalized during the fiscal year ended April 30, 2024 and April 30, 2023, respectively, which are amortized over the term of the JPM Credit Agreement. As of April 30, 2024, there was $28,598,719 outstanding and $13,443,766 of unused availability under the revolving loan facility compared to an outstanding balance of $51,134,699 and $11,539,183 of unused availability at April 30, 2023. As of April 30, 2024 and April 30, 2023, the unamortized amount offset against outstanding debt was $592,664 and $572,191, respectively.
+
+Under the JPM Credit Agreement, a minimum Fixed Charge Coverage Ratio (as defined in the JPM Credit Agreement) is applicable (a) commencing on the Effective Date (as defined in the JPM Credit Agreement) and ending when the Term Loan Obligations (as defined in the JPM Credit Agreement) have been paid in full and (b) following the payment in full of the Term Loan Obligations, when (i) an event of default (as defined in the JPM Credit Agreement) has occurred and is continuing, and Lender has elected to impose the Fixed Charge Coverage Ratio Covenant upon notice to the Company or (ii) availability falls below the greater of (y) 10% of the Revolving Commitment and (z) the outstanding principal amount of the term loans. In addition, prior to the amendment to the JPM Credit Agreement pursuant to the JPM 2023 Waiver (as discussed below under “2023 Waiver, Consent and Amendment to Credit Agreements”), the JPM Credit Agreement imposed a financial covenant that required the Company to maintain a leverage ratio of Total Debt to EBITDA (each as defined in the JPM Credit Agreement) for any twelve month period ending on the last day of a fiscal quarter through the maturity of the revolving Facility not to exceed a certain amount, which ratio (a) ranged from 5.00-to-1 for fiscal quarters beginning with the fiscal quarter ending on January 31, 2023 to 3.00-to-1 for the fiscal quarter ending on July 31, 2026 (if the Term Loan Borrowing Base Coverage Ratio (as defined in the JPM Credit Agreement) as of the end of the applicable fiscal quarter is less than or equal to 1.50-to-1) and (b) ranged from 5.50-to-1 for the fiscal quarter ending on January 31, 2023 to 4.00-to-1 for the fiscal quarters beginning with the fiscal quarter ending on July 31, 2026 (if the Term Loan Borrowing Base Coverage Ratio as of the end of the applicable fiscal quarter is greater than 1.50-to-1).
+
+In addition, the JPM Credit Agreement imposes a cash dominion period if there is an event of default or if availability is less than 10% of the Revolving Commitment, and such requirement continues until there is no event of default and availability is greater than 10% of the Revolving Commitment, in each case for 30 consecutive days. Based on this criteria, the total debt balances for the Facility were required to be classified as a current liability on the Consolidated Balance Sheet at April 30, 2023. 
+
+In connection with the entry into the JPM Credit Agreement, Lender and TCW, as administrative agent under the Term Loan Agreement, entered into the Intercreditor Agreement, dated July 18, 2022, and acknowledged by SigmaTron and Wagz (the “ICA”), to set forth and govern the lenders’ respective lien priorities, rights and remedies under the JPM Credit Agreement and the Term Loan Agreement.
+
+The Facility under the JPM Credit Agreement is secured by: (a) a first priority security interest in SigmaTron’s (i) accounts receivable and inventory (excluding Term Priority Mexican Inventory (as defined in the ICA) and certain inventory in transit, (ii) deposit accounts, (iii) proceeds of business interruption insurance that constitute ABL BI Insurance Share (as defined in the ICA), (iv) certain other property, including payment intangibles, instruments, equipment, software and hardware and similar systems, books and records, to the extent related to the foregoing, and (v) all proceeds of the foregoing, in each case, now owned or hereafter acquired (collectively, the “ABL Priority Collateral”); and (b) a second priority security interest in Term Priority Collateral (as defined below) other than (i) real estate and (ii) the equity interests of SigmaTron’s foreign subsidiaries (unless such a pledge is requested by Lender). 
+
+On July 18, 2022, SigmaTron, Wagz and TCW entered into the Term Loan Agreement pursuant to which TCW made a term loan to the Company in the principal amount of $40,000,000 (the “TCW Term Loan”). Wagz and its property were released from the Term Loan Agreement, effective April 1, 2023, pursuant to a Waiver, Consent and Amendment No. 1 to the Credit Agreement (the “TCW 2023 Waiver”) effective as of April 1, 2023. The TCW Term Loan bears interest at a rate per annum based on SOFR, plus the Applicable Margin of 7.50% (each as defined in the Term Loan Agreement). The TCW Term Loan has a SOFR floor of 1.00%. The maturity date of the TCW Term Loan is July 18, 2027. The amount outstanding as of April 30, 2024, was $37,503,301 compared to an outstanding balance of $39,833,301 at April 30, 2023. Deferred financing costs of $183,469 and $1,233,894 were capitalized during the fiscal year ended April 30, 2024 and April 30, 2023, respectively. As of April 30, 2024 and April 30, 2023, the unamortized amount offset against outstanding debt was $935,492 and $1,036,367, respectively.
+
+The Term Loan Agreement imposes financial covenants, including covenants requiring the Company to maintain a minimum Fixed Charge Coverage Ratio (as defined in the Term Loan Agreement) of 1.10-to-1 and maintain the same leverage ratio of Total Debt to EBITDA as described above under the JPM Credit Agreement. The Company is required to make quarterly repayments of the principal amount of the TCW Term 
+
+Loan in amounts equal to $250,000 per fiscal quarter for the quarters beginning October 31, 2022 and $500,000 per fiscal quarter for quarters beginning October 31, 2024. The Term Loan Agreement also requires mandatory annual repayments equal to 50% of Excess Cash Flow (as defined in the Term Loan Agreement). 
+
+The TCW Term Loan is secured by: (a) a first priority security interest in all property of SigmaTron that does not constitute ABL Priority Collateral, which includes: (i) SigmaTron’s Elk Grove Village real estate, (ii) SigmaTron’s machinery, equipment and fixtures (but excluding ABL Priority Equipment (as defined in the ICA)), (iii) the Term Priority Mexican Inventory (as defined in the ICA), (iv) SigmaTron’s stock in its direct and indirect subsidiaries, (v) SigmaTron’s general intangibles (excluding any that constitute ABL Priority Collateral), goodwill and intellectual property, (vi) the proceeds of business interruption insurance that constitute Term BI Insurance Share (as defined in the ICA), (vii) tax refunds, and (viii) all proceeds thereof, in each case, now owned or hereafter acquired (collectively, the “Term Priority Collateral”); and (b) a second priority security interest in all collateral that constitutes ABL Priority Collateral. Also, SigmaTron’s three Mexican subsidiaries pledged all of their assets as security for the TCW Term Loan. The net proceeds received by the Company from the sale of the Elgin, Illinois, property in February, 2024, reduced the TCW Term Loan.
+
+2023 Waiver, Consent and Amendment to Credit Agreements
+
+On March 2, 2023, the Company received notices of default from JPM (the “JPM 2023 Notice”) and TCW (“TCW 2023 Notice” and together with the JPM 2023 Notice, the “2023 Notices”). The 2023 Notices indicated the occurrence of certain events of default under the Credit Agreements. In addition, the Company received a delinquency notification letter from Nasdaq indicating that the Company was not in compliance with the continued listing requirements of Nasdaq for failing to timely file the Company’s Form 10-Q for the fiscal quarter ended January 31, 2023. This notification also constituted a default under the Credit Agreements. The Nasdaq delinquency was remedied on May 19, 2023.
+
+The JPM 2023 Notice indicated that the Lender was informed of the occurrence of events of defaults and the continuation thereof under the JPM Credit Agreement as a result of the Company’s failure to maintain a Fixed Charge Cover Ratio for the twelve month period ended January 31, 2023 of at least 1.10x as required under the JPM Credit Agreement (the “JPM 2023 Covenant Defaults”).
+
+The TCW 2023 Notice indicated that Agent and TCW Lenders were informed of the occurrence of events of default and the continuation thereof under the Term Loan Agreement (described below) as a result of the Company permitting the Total Debt to EBITDA Ratio for the twelve month period ended on January 31, 2023 to be greater than 5.00:1.00 in violation of the Term Loan Agreement and the Company’s failure to maintain the Fixed Charge Cover Ratio as required under the JPM Credit Agreement (the “TCW 2023 Covenant Defaults” and together with the JPM 2023 Covenant Defaults, the “2023 Defaults”).
+
+As a result of the 2023 Defaults, the Company was not in compliance with its financial covenants under the Credit Agreements as of January 31, 2023. Due to the 2023 Notices received on March 2, 2023, from each of JPM and TCW, the total debt balances for both the Facility and the TCW Term Loan had been classified as a current liability on the Condensed Consolidated Balance Sheet as of January 31, 2023.
+
+On April 28, 2023, the Company entered into (i) the JPM 2023 Waiver with Wagz and JPM, as lender, which waived certain events of default under and amended certain terms of the JPM Credit Agreement and (ii) the TCW 2023 Waiver with Wagz, the TCW Lenders and Agent, which waived certain events of default under and amended certain terms of the Term Loan Agreement. See Note I – Long-term Debt for more information. 
+
+Pursuant to the 2023 Waivers, the Company agreed, among other things, to (i) if requested by the Agent, effect a corporate restructuring that would create a new holding company structure to own all of the Company’s stock through a merger pursuant to Section 251(g) of the General Corporation Law of the State of Delaware, after which the holding company would continue as the public company, become a guarantor under the Credit Agreements and pledge to the Lender Parties all of the equity of the Company (the “Corporate Restructuring”), (ii) engage a financial advisor to review certain of the Company’s financial reporting to JPM and the Agent and participate in weekly conference calls with the advisor, JPM and the Agent to discuss and provide updates on the Company’s liquidity and operations, (iii) extend the Wagz Loan, (iv) pay to JPM an
+
+amendment fee in the amount of $70,000, paid in cash, and (v) pay to the TCW Lenders an amendment fee of $395,000 and a default rate fee of $188,301, both of which were paid in kind by being added to the principal of the TCW Term Loan. The Company engaged a financial advisor in April 2023 and developed cashflow modeling tools. The financial advisor engagement was completed in September 2023. 
+
+The 2023 Waivers also amended the Credit Agreements to, among other things, (x) require that the Company maintain a minimum of $2.5 million in revolver availability under the JPM Credit Agreement, (y) modify the definition of EBITDA to allow adjustments to account for Wagz operating losses, impairment charges relating to the write-down of the Wagz business, the Wagz Loan and net assets of the Company and Wagz, and expenses relating to the 2023 Waivers, the Company’s sale of the majority ownership interest in Wagz under the SPA, and (z) modify the existing Total Debt to EBITDA Ratios (as defined in the Credit Agreements), assuming the Term Loan Borrowing Base Coverage Ratio (as defined in the Credit Agreements) is less than or equal to 1.50:1.0, to range from 4.50:1.0 for the twelve months ended October 31, 2023 to 4.00:1.0 for the twelve months ending October 31, 2024.
+
+In addition, during the PIK Period (defined in the Term Loan Agreement), pursuant to the TCW 2023 Waiver, if the Total Debt to EBITDA Ratio for the trailing twelve month period as of the end of a third fiscal quarter exceeds the ratios that were in effect prior to the amendment (as set forth in the far right column of the table above) for that fiscal quarter, then the Applicable Margin under the Term Loan Agreement in respect of the outstanding TCW Term Loan would increase by an amount equal to 1.0% per annum for the fiscal quarter, with such interest being paid in kind. Furthermore, the JPM 2023 Waiver modified the definition of Applicable Margin from a fixed amount equal to 2.00% to an amount that varies from 2.00% (for revolver availability greater than or equal to $20.0 million), to 2.50% (for revolver availability greater than or equal to $10.0 million), to 3.00% (for revolver availability less than $10.0 million), and fixed the Applicable Margin at 3.00% for six months starting April 1, 2023\. 
+
+In exchange for such agreements, the Lender Parties waived all of the existing events of default under the Credit Agreements through March 31, 2023, consented to the sale of the majority ownership interest in Wagz and released Wagz and its property and the Company’s 81% ownership interest in Wagz that was sold to Buyer from the lien of the Lender Parties.
+
+In connection with the 2023 Waivers, the Company exited its active involvement in the Pet Tech business that is conducted by Wagz through the sale by the Company of the majority ownership interest in Wagz, effective as of April 1, 2023.
+
+Amendment No. 2
+
+On June 15, 2023, the Company entered into (i) Amendment No. 2 to the Credit Agreement (the “JPM Amendment No. 2”) by and among the Company and Lender, with respect to the JPM Credit Agreement and (ii) Amendment No. 2 to the Credit Agreement (“TCW Amendment No. 2”) by and among the Company and TCW with respect to the Term Loan Agreement. The JPM Amendment No. 2 and TCW Amendment No. 2 amended the Credit Agreements to extend the date, from May 31, 2023 to July 31, 2023, after which the Agent may request that the Company effect the Corporate Restructuring.
+
+Waivers and Amendments No. 3
+
+On August 19, 2024 (the “Third Amendment Effective Date”), the Company entered into the JPM Amendment and the TCW Amendment (together, the “2024 Amendments”) which provided for, among other things, a waiver of the Company’s noncompliance with the financial covenants relating to (i) the Fixed Charge Coverage Ratio (as defined in the Credit Agreements), and (ii) the Total Debt to EBITDA Ratio (as defined in the Credit Agreements), in each case as of the Third Amendment Effective Date.
+
+The 2024 Amendments also amended other provisions of the Credit Agreements, including to: (i) modify the minimum ratios under the Fixed Charge Coverage Ratio to range from 0.70:1.0 for the twelve months ending as of July 31, 2024, to 1.00:1.0 for the twelve months ending as of September 30, 2025 and thereafter, measured 
+
+monthly; (ii) adjust the maximum ratios under the Total Debt to EBITDA Ratio to range from 6.50:1.0 for the twelve months ending as of July 31, 2024, to 3.50:1.0 for the twelve months ending as of April 30, 2027, measured quarterly; (iii) modify the definition of EBITDA to allow for additional adjustments for certain transactions and charges; (iv) provide for the reimbursement of certain fees by the Company in connection with the Amendments or the transactions contemplated thereby; (v) increase the minimum required Availability (as defined in the JPM Credit Agreement) to $3.5 million starting on the Third Amendment Effective Date; (vi) provide that the Company must pursue and close a Replacement Transaction to pay the Obligations (as defined in the Credit Agreements) in full no later than September 30, 2025 unless the Company meets certain debt ratios for the twelve month period ending on August 31, 2025; and (vii) require the Company to engage a financial advisor if requested by the Agent after November 1, 2024. 
+
+In addition, pursuant to the JPM Amendment, the parties agreed to reduce the Revolving Commitment (as defined in the JPM Credit Agreement) from $70 million to $55 million as of the Third Amendment Effective Date and pay to JPM certain amendment fees and certain additional fees if the Company does not meet certain financial milestones by the applicable measurement periods specified in the JPM Amendment. 
+
+In addition, pursuant to the TCW Amendment the parties agreed to (i) amend the principal payment schedule under the Term Loan to $250,000 per quarter; (ii) extend the PIK Period (as defined in the TCW Credit Agreement) for three additional quarters beyond October 31, 2024 if the Total Debt to EBITDA Ratio exceeds a certain threshold as of certain dates; (iii) permit the Company to elect to pay on a quarterly basis in-kind a portion of the Baseline Applicable Margin (as defined in the TCW Credit Agreement) per annum provided no default or event of default under the TCW Credit Agreement has occurred; (iv) increase a portion of the Term Loan Borrowing Base (as defined in the TCW Credit Agreement) based on the value of the Company’s real estate; (v) reduce the asset coverage pre-payment ratio under the Term Loan to 90% of the outstanding principal balance; and (vi) provide the Agent with the right to appoint a non-voting observer to attend regular meetings of the Company’s Board of Directors and any relevant committees.
+
+Also on August 19, 2024, and in connection with the TCW Amendment, the Company entered into the Fee Letter, which provides for a payment to the Agent of $395,000 added to the principal amount owed under the Term Loan and for certain monthly ticking fees equal to a range of percentages of the outstanding principal amount under the Term Loan, provided the Company does meet certain financial milestones by the applicable dates provided therein. In addition, pursuant to the Fee Letter, the Company has agreed to deliver to the Agent warrants to purchase shares of the Company’s common stock (the “Warrants”) in an amount equal to a percentage of the outstanding common stock of the Company on a fully diluted basis ranging from 1.25% (as of December 1, 2024) to 17.5% (as of September 1, 2025). The exercise price for the Warrants will be $0.01 per share and the Warrants would vest immediately upon issuance.
+
+All other material terms of the Credit Agreements, as amended by the Amendments, remain unchanged.
+
+China Construction Bank
+
+On March 15, 2019, the Company’s wholly-owned foreign enterprise, Wujiang SigmaTron Electronic Technology Co., Ltd., entered into a credit facility with China Construction Bank. On January 26, 2021, the agreement was amended and expired in accordance with its terms on January 6, 2022. On January 17, 2022, the agreement was renewed, and expired in accordance with its terms on December 23, 2022. On February 17, 2023, the agreement was renewed, and expired in accordance with its terms on February 7, 2024. On March 1, 2024, the agreement was renewed, and is scheduled to expire on February 1, 2025. Under the agreement Wujiang SigmaTron Electronic Technology Co., Ltd. can borrow up to 10,000,000 Renminbi, approximately $1,400,000 as of April 30, 2024, and the facility is collateralized by Wujiang SigmaTron Electronics Co., Ltd.’s manufacturing building. Interest is payable monthly and the facility bears a fixed interest rate of 3.15% per annum. There was no outstanding balance under the facility at April 30, 2024 and April 30, 2023, respectively.
+
+Notes Payable - Buildings
+
+The Facility also included two term loans, in the aggregate principal amount of $6,500,000. A final aggregate payment of approximately $4,368,444 was due on or before January 29, 2026. On July 18, 2022, a portion of the proceeds of the TCW Term Loan was used to pay in full both term loans extended by Lender. There was no outstanding balance at April 30, 2024 and April 30, 2023. 
+
+The Company entered into a mortgage agreement on March 3, 2020, in the amount of $556,000, with The Bank and Trust SSB to finance the purchase of the property that serves as the Company’s warehousing and distribution center in Del Rio, Texas. The note requires the Company to pay monthly installment payments in the amount of $6,103. Interest accrues at a fixed rate of 5.75% per year until March 3, 2025, and adjusts thereafter, on an annual basis, equal to 1.0% over the Prime Rate as published by The Wall Street Journal. The note is payable over a 120 month period. The outstanding balance was $366,572 and $417,143 at April 30, 2024 and April 30, 2023, respectively. 
+
+Notes Payable - Equipment
+
+The Company routinely entered into secured note agreements with Engencap Fin S.A. DE C.V. to finance the purchase of equipment. The terms of the outstanding secured note agreement, which had a fixed interest rate of 8.00% per annum, matured on May 1, 2023, and the final quarterly installment payment of $9,310 was paid.
+
+The Company routinely enters into secured note agreements with FGI Equipment Finance LLC to finance the purchase of equipment. The terms of the outstanding secured note agreements mature from March 2025 through January 2029, with quarterly installment payments ranging from $10,723 to $69,439 and a fixed interest rate ranging from 8.25% to 12.00% per annum.
+
+Finance Lease Obligations
+
+The Company enters into various finance lease agreements. The terms of the outstanding lease agreements mature through March 1, 2028, with monthly installment payments ranging from $2,874 to $33,706 and a fixed interest rate ranging from 7.03% to 12.09% per annum. 
+
+Other
+
+The Company provides funds for administration and manufacturing services such as salaries, wages, overhead and capital expenditure items as necessary to operate its Mexican, Vietnamese and Chinese subsidiaries and the international procurement office in Taiwan. The Company provides funding in U.S. Dollars, which are exchanged for Pesos, Dong, Renminbi, and New Taiwan dollars. The fluctuation of currencies from time to time, without an equal or greater increase in inflation, could have a material impact on the financial results of the Company. The impact of currency fluctuations for the fiscal year ended April 30, 2024, resulted in net foreign currency transaction losses of $796,315 compared to net foreign currency losses of $892,642 in the prior year. In fiscal year 2024, the Company paid approximately $60,320,000 to its foreign subsidiaries for manufacturing services. All intercompany balances have been eliminated upon consolidation.
+
+The Company has not changed its plans to indefinitely reinvest the earnings of the Company’s foreign subsidiaries. The cumulative amount of unremitted earnings for which U.S. income taxes have not been recorded is $17,144,000 as of April 30, 2024.
+
+The Company anticipates that its credit facilities, expected future cash flow from operations and leasing resources are adequate to meet its working capital requirements and fund capital expenditures for the next 12 months. However, in the event customers delay orders or future payments are not made timely, the Company desires to expand its operations, its business grows more rapidly than expected, or the current economic climate deteriorates, additional financing resources may be necessary. There is no assurance that the Company will be able to obtain equity or debt financing at acceptable terms, or at all, in the future. There is no assurance that the Company will be able to retain or renew its credit agreements in the future, or that any retention or renewal will be on the same terms as currently exist.
+
+The impact of inflation and the continuing global supply chain disruptions in the electronic component marketplace have been challenging. The supply chain disruptions have improved during fiscal 2024, however, obtaining certain raw materials continue to be difficult. The Company anticipates the supply chain disruptions will continue to improve during fiscal 2025. Due to the softening of customer demand in certain markets the Company serves, the Company expects pricing for certain raw materials could begin to decline in fiscal 2025. 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE

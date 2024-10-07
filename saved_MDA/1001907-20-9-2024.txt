@@ -1,0 +1,173 @@
+Item 6. Reserved
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following information should be read in conjunction with the Consolidated Financial Statements and the accompanying Notes included below in Item 8 of this Annual Report on Form 10-K. This discussion contains forward-looking statements that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements.
+
+Overview
+
+Our mission is to expand access to mass spectrometry and its use through the deployment of devices designed specifically for the appropriate levels of precision required in high-volume, real-time testing environments such as airports, border checkpoints, cargo hubs, infrastructure security, correctional facilities, military bases, law enforcement centers, and industrial locations. The Astrotech Mass Spectrometer Technology™ platform achieves our mission through simplifying the user interface, automating the complicated calibration process, ruggedizing the critical components to endure MS field work, and enabling multiple configurations for sample intake options. 
+
+Additional details about our business are provided in Part I, Item 1. "Business” of this Form 10-K. 
+
+Fiscal Year 2024 Business Highlights 
+
+As of June 30, 2024, the Company has deployed the TRACER 1000 in approximately 30 locations in 14 countries throughout Europe and Asia. 
+
+On November 13, 2023, we announced the acceptance of a significant purchase order for seven of our TRACER 1000™ Explosive Trace Detectors (“ETD”).
+
+On November 28, 2023, we announced the presentation of the AgLAB Maximum Value Process™ (“MVP™”) at MJBizcon. The MVP™ is an innovative process control system to increase the potency of ending-weight yields and revenue by 20% or more using AgLAB’s proprietary integration of our AMS Technology with testing methods to provide the real-time insights needed by distillers for adjustments to temperature, feed-rate, and pressure. 
+
+On December 12, 2023, we announced the formation of our new wholly-owned subsidiary, Pro-Control, and ATI’s entry into an exclusive license with Pro-Control to utilize our AMS Technology for industrial process control applications involving chemical distillation outside of the agriculture industry. Pro-Control uses advanced mass spectrometer instrumentation to monitor and control the production and operations of manufacturing processes using real-time, in-process samples. Pro-Control provides the vital spectral qualitative and quantitative data needed to control the production parameters (temperatures, flow, speed, pressure) while significantly improving efficiency. Pro-Control has introduced its proprietary Pro-Control Maximum Value Processing and the Pro-Control 1000-D2™ mass spectrometer, which in combination are designed to test, measure and increase reaction intermediates, purity and percent yields in industrial processes. 
+
+On March 25, 2024, we announced that we began accepting orders for the TRACER 1000 Narcotics Trace Detector (“NTD”). The TRACER 1000 NTD is a high-performance laboratory instrument capable of rapid detection of trace levels of narcotic compounds in seconds. Currently, the Company’s Tracer 1000 ETD is now operated in multiple locations throughout the world. 
+
+On April 8, 2024, we announced that the TRACER 1000 NTD and ETD which are listed in the U.S. General Services Administration ("GSA") IT Schedule 70 under Contract No. GS-35F-250GA with SRI Group LLC, Special Item Number 334290. The TRACER 1000 NTD and ETD are high-performance laboratory instruments capable of rapid detection of trace levels of narcotic and explosive compounds in seconds. IT Schedule 70 is a long-term contract issued by the GSA to commercial technology vendors that allows sales to the U.S. federal government, one of the largest buyers of goods and services in the world. The TRACER 1000 NTD and ETD provide a ruggedized platform that can be applied across various markets including airports, border security, checkpoint, cargo, and infrastructure security, correctional facilities, military, and law enforcement. We continue to showcase the TRACER 1000 NTD and ETD at the trade events in the U.S. 
+
+On June 13, 2024, AgLAB and SC Laboratories (“SC Labs”) entered into a master lease agreement providing for the joint marketing of the AgLAB 1000-D2™ mass spectrometer and the AgLAB Maximum Value Process™ testing method to SC Labs’ clients. 
+
+On June 20, 2024, after a long-term engagement with the TSA beginning in 2018, we announced the U.S. Transportation Security Administration (“TSA”) approved the TRACER 1000 for the Air Cargo Security Technology List (“ACSTL”). This action advances the TRACER 1000 to Stage II testing and allows us to sell the TRACER 1000 to air cargo companies in the United States. In Stage II testing, the Company will begin field trials with the TSA. If field trials are successful, the TRACER 1000 will be added to the "qualified" list. 
+
+The Company has also started the process to pass TSA checkpoint testing. This process involves Developmental Test and Evaluation in which the Transportation Security Laboratory ("TSL") will test the TRACER 1000 and work with 1st Detect to ensure its readiness to enter certification testing. The certification test is then completed by the Independent Test & Evaluation department of TSL. As of the fiscal year 2023 budget the government had over 6,000 ETD units at checkpoint and baggage screening points for which we believe that the TSA would benefit from utilizing our AMS Technology. 
+
+Each of these fiscal year 2024 announcements reflect the progress made by our business units in developing and demonstrating relevant solutions to problems faced by companies and agencies operating in our target markets. The additional applications of the AMS Technology and our growing channel partner relationships create opportunities for us to generate revenue growth in subsequent fiscal years. 
+
+Critical Accounting Estimates
+
+The discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with United States Generally Accepted Accounting Principles (“U.S. GAAP”). The preparation of these financial statements requires us to make estimates and judgments that directly affect the reported amounts of assets, liabilities, revenues, expenses, and related disclosure of contingent assets and liabilities in the Company’s consolidated financial statements and accompanying notes. A critical accounting estimate is one that involves a significant level of estimation uncertainty and have had or are reasonably likely to have a material impact on our financial condition or results of operations. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Management continuously evaluates its critical accounting policies and estimates, including those used in evaluating the recoverability of long-lived assets, recognition of revenue, valuation of inventory, and the recognition and measurement of loss contingencies, if any. Actual results may differ from these estimates under different assumptions or conditions. We believe the following accounting policies require us to make significant judgments and estimates in the preparation of our consolidated financial statements.
+
+Revenue Recognition 
+
+Astrotech recognizes revenue employing the generally accepted revenue recognition methodologies described under the provisions of Accounting Standards Codification (“ASC”) Topic 606 “Revenue from Contracts with Customers” (“Topic 606”), which was adopted by the Company in fiscal year 2019. The methodology used is based on contract type and how products and services are provided. The guidelines of Topic 606 establish a five-step process to govern the recognition and reporting of revenue from contracts with customers. The five steps are: (i) identify the contract with a customer, (ii) identify the performance obligations within the contract, (iii) determine the transaction price, (iv) allocate the transaction price to the performance obligations within the contract, and (v) recognize revenue when or as the performance obligations are satisfied.
+
+Astrotech has multiple revenue sources such as product and related consumable sales, recurring maintenance & extended warranty services, lease revenue, repairs and training.
+
+An additional factor is reasonable assurance of collectability. This necessitates deferral of all or a portion of revenue recognition until collection. During the fiscal year ended June 30, 2024,, the Company had three material customers that comprised substantially all of its $1.7 million in revenue. During the fiscal year ended June 30, 2023, the Company recognized revenue from four material customers for total revenue of $750 thousand. Revenue was recognized at a point in time consistent with the guidelines in Topic 606. 
+
+Contract Assets and Liabilities. The Company enters into contracts to sell products and provide services, and it recognizes contract assets and liabilities that arise from these transactions. The Company recognizes revenue and corresponding accounts receivable according to Topic 606 and, at times, recognizes revenue once all performance obligations have been met, in advance of the time when contracts give us the right to invoice a customer. The Company may also receive consideration, per the terms of a contract, from customers prior to transferring goods to the customer. The Company records customer deposits as deferred revenue. Additionally, the Company may receive payments, most typically for service and warranty contracts, at the onset of the contract and before services have been performed. In such instances, the Company records a deferred revenue liability. The Company recognizes these contract liabilities as sales after all revenue recognition criteria are met.
+
+Practical Expedients. Under its contracts with customers, the Company stands ready to deliver product upon receipt of a purchase order. Accordingly, the Company has no performance obligations under its contracts until its customers submit a purchase order. The Company does not enter into commitments to provide goods or services that have terms greater than one year. In limited cases, the Company does require payment in advance of shipping product. Typically, product is shipped within a few days after prepayment is received. These prepayments are recorded as contract liabilities on the consolidated balance sheet and are included in accounts payable and accrued liabilities. As the performance obligation is part of a contract that has an original expected duration of less than one year, the Company has applied the practical expedient to omit disclosures regarding remaining performance obligations. In cases where the Company is responsible for shipping after the customer has obtained control of the goods, it has elected to treat the shipping activities as fulfillment activities rather than as a separate performance obligation. The Company also applies a practical expedient to expense direct costs of obtaining a contract when incurred because the amortization period would have been one year or less
+
+Product Sales. The Company recognizes revenue from sales of products upon shipment or delivery when control of the product transfers to the customer, depending on the terms of each sale, and when collection is probable. In the circumstance where terms of a product sale include subjective customer acceptance criteria, revenue is deferred until the Company has achieved the acceptance criteria unless the customer acceptance criteria are perfunctory or inconsequential. The Company generally offers customers payment terms of 60 days or less.
+
+Freight. The Company records shipping and handling fees that it charges to its customers as revenue and related costs as cost of revenue.
+
+Multiple Performance Obligations. Certain agreements with customers include the sale of equipment involving multiple elements in cases where obligations in a contract are distinct and thus require separation into multiple performance obligations, revenue recognition guidance requires that contract consideration be allocated to each distinct performance obligation based on its relative standalone selling price. The value allocated to each performance obligation is then recognized as revenue when the revenue recognition criteria for each distinct promise or bundle of promises has been met.
+
+The standalone selling price for each performance obligation is an amount that depicts the amount of consideration to which the entity expects to be entitled in exchange for transferring the good or service. When there is only one performance obligation associated with a contract, the entire amount of consideration is attributed to that obligation. When a contract contains multiple performance obligations, the standalone selling price is first estimated using the observable price, which is generally a list price net of applicable discount or the price used to sell the good or service in similar circumstances. In circumstances when a selling price is not directly observable, the Company will estimate the standalone selling price using information available to it including its market assessment and expected cost, plus margin.
+
+The timetable for fulfilment of each of the distinct performance obligations can range from completion in a short amount of time and entirely within a single reporting period to completion over several reporting periods. The timing of revenue recognition for each performance obligation may be dependent upon several milestones, including physical delivery of equipment, completion of site acceptance test, and in the case of after-market consumables and service deliverables, the passage of time. The total revenue was approximately $1.56 million in point in time and $88 thousand over time for 2024 and $750 thousand at point in time and $0 over time for 2023. All revenue was substantially related to one product category for both 2024 and 2023. 
+
+Impairment of Long-lived Assets
+
+We review the carrying amount of our long-lived assets, including property and equipment, for impairment whenever events or changes in business circumstances indicate that the carrying amount of an asset or an asset group may not be fully recoverable. If indicators of impairment exist, an impairment loss would be recognized when the estimated undiscounted future cash flows expected to result from the use of the asset or asset group and its eventual disposition are less than its carrying amount. The impairment charge is determined based upon the excess of the carrying value of the asset over its estimated fair value, with estimated fair value determined based upon an estimate of discounted future cash flows or other appropriate measures of estimated fair value. For purposes of recognition of impairment for long-lived assets, we group assets and liabilities at the lowest level for which cash flows are separately identifiable.
+
+Valuation of Inventory
+
+Inventories are stated at the lower of cost or net realizable value. Cost is computed using standard cost, which approximates actual cost on a first-in, first-out basis. We reserve or write down inventory for estimated obsolescence, inventory in excess of reasonably expected sales, or unmarketable inventory, in an amount equal to the difference between the cost of inventory and the estimated market value, based upon assumption about future demand and market conditions. If actual market conditions are less favorable than those projected, additional inventory adjustments may be required. Inventory impairment charges establish a new cost basis for inventory and charges are not reversed subsequently to income, even if circumstances later suggest that increased carrying amounts are recoverable.
+
+Warranty Provision
+
+We offer our customers warranties on the products that we sell. These warranties typically provide for repairs and maintenance of the products if problems arise during a specified time period after original shipment. Concurrent with the sale of products, we record a provision for estimated warranty expenses with a corresponding increase in cost of goods sold. We periodically adjust this provision based on historical experience and anticipated expenses, which could impact our cost of revenue and gross margin. We charge actual expenses of repairs under warranty, including parts and labor, to this provision when incurred. The current obligation for warranty provision is included in accrued expenses and other liabilities in the consolidated balance sheets. 
+
+Results of Operations for the Years Ended June 30, 2024 and 2023
+
+Selected financial data for the fiscal years ended June 30, 2024 and 2023 of our operations are as follows:
+
+Revenue – Total revenue increased by $914 thousand, or 121.9%, to $1.7 million for the fiscal year ended June 30, 2024, compared to $750 thousand for the fiscal year ended June 30, 2023. Both of the fiscal years 2024 and 2023 revenue was comprised of sales related to our TRACER 1000 units, as well as ongoing sales of consumables and recurring maintenance services for the TRACER 1000. The increase was due to more new units sold compared to the prior year.
+
+Cost of Revenue and Gross Profit – Cost of revenue is comprised of labor, materials, shipping, warranty reserve, and overhead allocation related to the sale of TRACER 1000 units. Gross profit is comprised of revenue less cost of revenue. Cost of revenue increased $469 thousand, or 105.6%, for the fiscal year ended June 30, 2024, compared to the year ended June 30, 2023, due to the increase in sold units. Gross profit increased $445 thousand, or 145.4%, and gross margin increased to 45.1% during the fiscal year ended June 30, 2024, compared to 40.8% for the fiscal year ended June 30, 2023, due to a higher proportion of recurring revenue.
+
+Operating Expenses – Our operating expenses increased $2.7 million, or 23.4%, during the fiscal year ended June 30, 2024, compared to the fiscal year ended June 30, 2023. Significant changes to operating expenses include the following:
+
+Other income and expense, net – Other income and expense, net for the year ended June 30, 2024, was $1.6 million of income compared $1.4 million of income for the year ended June 30, 2023. The increase was driven by more income earned on short-term, capital-preservation investments as interest rates have increased and a reduction of interest expense from the payment of related party notes.
+
+Income Taxes – Our income tax expense increased $2 thousand for the year ended June 30, 2024, compared to the year ended June 30, 2023. 
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Sources of Liquidity
+
+During the fiscal year 2021, we successfully completed several public offerings of our common stock, raising net proceeds of approximately $67.6 million which will be used to satisfy our short-term and long-term capital needs. We expect that our short-term and long-term liquidity requirements will consist of working capital and general corporate expenses associated with the growth of our business, including, without limitation, expenses associated with scaling up our operations and continuing to increase our manufacturing capacity, sales and marketing expense associated with rollout of our products to commercial customers, additional research and development expenses associated with expanding our product offerings, and expenses associated with being a public company. Our short-term capital expenditure needs relate primarily to the expansion of our research and development capabilities and optimization of existing business processes. We believe that our cash and cash equivalents and investments will enable us to fund our operating expenses and capital expenditure requirements for at least twelve months following the date these consolidated financial statements are issued.
+
+Funding Requirements
+
+We expect our expenses to increase in connection with our ongoing activities, particularly as we continue our research and development efforts and expand our business efforts. Furthermore, we have incurred and will continue to incur additional costs as a result of being a public company. Accordingly, we will need to obtain additional funding in connection with our continuing operations. If we are unable to raise capital when needed or on attractive terms, we would be forced to delay, reduce or eliminate our research and development programs, or future commercialization efforts.
+
+Because of the numerous risks and uncertainties associated with our research and development efforts, we are unable to estimate the exact amount of our operating capital requirements. Our future capital requirements will depend on many factors, including:
+
+Until such time, if ever, as we can generate positive cash flows from operations, we expect to finance our additional cash needs through a combination of equity offerings, debt financing, equity financing, merging, or engaging in a strategic partnership. To the extent that we raise additional capital through the sale of equity, our existing stockholders will be diluted, and the terms of those securities may include liquidation or other preferences that adversely affect the rights of holders of common stock. Debt financing, if available, may involve agreements that include covenants limiting or restricting our ability to take specific actions, such as incurring additional debt, making capital expenditures or declaring dividends.
+
+If we raise funds through additional strategic alliances or licensing arrangements with third parties, we may have to relinquish valuable rights to our technologies or future revenue streams or to grant licenses on terms that may not be favorable to us. If we are unable to raise additional funds through equity offerings, debt financing, equity financing or engaging in a strategic partnership, we may be required to delay, limit, or reduce our expansion efforts.
+
+Trends and Uncertainties
+
+During the COVID-19 pandemic we encountered delays with respect to the TSA certification processes for our products and throughout our supply chain, particularly due to the global semiconductor and electronics shortage. We believe such delays caused product pricing inflation, including increased costs for raw materials and shipping. In addition, although passenger demand for air travel has rebounded, the overall recovery of the airline industry and ancillary services remains uncertain.
+
+We continue to manage production, to secure alternative supplies, and to take other proactive actions. We believe that we will be able to pass on pricing inflation to our customers by increasing the price of our instruments. If supply chain shortages become more severe or longer term in nature, our business and results of operations could be adversely impacted and do not expect inflation to materially adversely affect our liquidity position. In addition, the long-term impact of the COVID-19 pandemic on our business may not be fully reflected until future periods.
+
+Consolidated Balance Sheet
+
+Total assets for the year ended June 30, 2024, were $38 million compared to total assets of $48 million as of the end of fiscal year 2023, a decrease of $10.0 million. The following table sets forth the significant components of the consolidated balance sheet as of June 30, 2024, compared with June 30, 2023:
+
+Current assets – Current assets decreased $10 million as of June 30, 2024, compared to June 30, 2023, as a result of cash used for continuing operating expenses and personnel cost.
+
+Property and equipment, net – Property and equipment, net of depreciation, increased $93 thousand as of June 30, 2024, compared to June 30, 2023 due to the acquisition of third party equipment and the use of additional TRACER 1000 units for research and development.
+
+Operating lease right-of-use assets, net – Operating lease right-of-use assets decreased $143 thousand as of June 30, 2024, compared to June 30, 2023, due to amortization.
+
+Other assets, net – Other assets were consistent with the prior year.
+
+Current liabilities – Current liabilities decreased $137 thousand as of June 30, 2024, compared to June 30, 2023 due the decrease in accounts payables and accrued expenses and other liabilities being partially offset by increases in accruals related to personnel costs.
+
+Other liabilities, net of current portion – Other liabilities, net of current portion increased $14 thousand as of June 30, 2024, compared to June 30, 2023 due to the increases in our warrant reserve and financing obligations in connection with internal-use software were partially offset by the amortization of lease liabilities.
+
+Cash Flows
+
+The following is a summary of the change in our cash and cash equivalents:
+
+Cash and Cash Equivalents
+
+At June 30, 2024, we held cash and cash equivalents of $10.4 million and our net working capital was approximately $32.2 million. At June 30, 2023, we held cash and cash equivalents of $14.2 million and our net working capital was approximately $42.1 million. Cash and cash equivalents decreased by approximately $3.8 million during the year ended June 30, 2024, due to funding our continuing operating expenses, partially offset by the proceeds of short-term investments.
+
+Operating Activities
+
+Net cash used in operating activities was $9.7 million for the year ended June 30, 2024, compared to cash used in operating activities of $7.6 million for the year ended June 30, 2023. This increase was caused by increases in recurring operating expenses and accounts payable, partially offset by a decrease in accounts receivables and increase in depreciation.
+
+Investing Activities
+
+Net cash provided by (used in) investing activities for the year ended June 30, 2024, increased $10.0 million to $6.1 million, compared to net cash used in investing activities of $3.8 million in the year ended June 30, 2023. The increase in cash provided by investing activities was due to the proceeds of short-term investments.
+
+Financing Activities
+
+Cash used in financing activities was $181 thousand for the year ended June 30, 2024, and $776 thousand for the year ended June 30, 2023. The decrease was due to repayment of related party debt in fiscal year 2023 (see below) and no repurchase of treasury shares in fiscal year 2024
+
+We did not have any material off-balance sheet arrangements as of June 30, 2024.
+
+Related-party Debt
+
+On September 5, 2019, the Company entered into a private placement transaction with Thomas B. Pickens III, the Chief Executive Officer and Chairman of the Board of Directors of the Company, for the issuance and sale of a secured promissory note to Mr. Pickens with a principal amount of $1.5 million (the “2019 Note”), and on February 13, 2020, the Company entered into a second private placement transaction with Mr. Pickens for the issuance and sale of a second secured promissory note to Mr. Pickens with a principal amount of $1.0 million (the “2020 Note” and, collectively with the 2019 Note, the “Original Notes”). Interest on the Original Notes accrued at 11% per annum. The principal amount and accrued interest on the Original Notes originally were to become due and payable on September 5, 2020; however, on August 24, 2020, the Company and Mr. Pickens agreed to extend the date of maturity of the Original Notes and payment of accrued interest to September 5, 2021 (the “Extended Maturity Date”). The Company had the option to prepay the principal amount and all accrued interest on the Original Notes at any time prior to the Extended Maturity Date.
+
+In connection with the issuance of the Original Notes, the Company, along with 1st Detect Corporation and Astrotech Technologies, Inc. (the “Subsidiaries”), entered into two security agreements, dated as of September 5, 2019 and February 13, 2020 (collectively, the “Original Security Agreements”), with Mr. Pickens, pursuant to which the Company and the Subsidiaries granted to Mr. Pickens a security interest in all of the Company’s and the Subsidiaries’ Collateral, as such term is defined in the Original Security Agreements. In addition, the Subsidiaries jointly and severally agreed to guarantee and act as surety for the Company’s obligation to repay the Original Notes pursuant to a subsidiary guarantee.
+
+On September 3, 2021, the Company entered into the Omnibus Amendment to the Secured Promissory Notes (the “Amended Notes”) with Mr. Pickens, in connection with the Original Notes, and the Omnibus Amendment to the Security Agreements (the “Amended Security Agreements”, and together with the Amended Notes, the “Amendments”) with the Subsidiaries, in connection with the Original Security Agreements. Pursuant to the Amendments, (a) the principal amount of $1.0 million and accrued interest of $172 thousand on the 2020 Note was paid in full and the 2020 Note was canceled, and (b) $1.0 million of the principal amount and $330 thousand of accrued interest on the 2019 Note was paid and the maturity date on the remaining balance of $500 thousand of the 2019 Note was extended to September 5, 2022 (the “Amended Maturity Date”).
+
+In addition, the Subsidiaries jointly and severally agreed to guarantee and act as surety for the Company’s obligation to repay the remaining balance on the 2019 Note pursuant to subsidiary guarantees, dated September 5, 2019 and February 13, 2020, as amended by the Omnibus Amendments to Subsidiary Guarantees, dated August 24, 2020 and September 3, 2021, respectively (the Omnibus Amendment to Subsidiary Guarantees dated September 3, 2021, the “Amended Subsidiary Guarantee”). The Subsidiary Guarantee with respect to the 2020 Note was also canceled by the Amended Subsidiary Guarantee due to the 2020 Note being repaid in full.
+
+On September 5, 2022, the secured promissory issued by the Company on September 5, 2019 (the “2019 Note”) to Thomas B. Pickens III, the Chief Executive Officer and Chairman of the Board of Directors of the Company, matured. On the maturity date, the remaining outstanding principal amount of $500 thousand and accrued interest of $55 thousand on the 2019 Note was paid in full and the 2019 Note was canceled. With the cancelation of the 2019 Note, the Amended Subsidiary Guarantee was terminated and the Subsidiaries’ Collateral was released. Refer to Note 7 of our Annual Report on Form 10-K for 2023 for more detailed information on the 2019 Note.
+
+In addition, the Subsidiaries jointly and severally agreed to guarantee and act as surety for the Company’s obligation to repay the remaining balance on the 2019 Note pursuant to subsidiary.
+
+Contractual Obligations and Commitments
+
+The following table summarized our commitments to settle contractual obligations as of June 30, 2024:
+
+Consists of payments due for our leases of research and development space in Austin, Texas that expires April 2025. 
+
+Consists of payments due for our leases of three pieces of equipment that expire between December 2024 and May 2028.
+
+Off-Balance Sheet Arrangements
+
+We did not have any off-balance sheet arrangements as of June 30, 2024.
+
+Item 7A. Quantitative and Qualitative

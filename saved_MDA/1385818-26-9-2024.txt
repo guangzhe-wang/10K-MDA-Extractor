@@ -1,0 +1,223 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+You should read the following discussion and analysis of our financial condition and results of operations together with our financial statements and the related notes appearing elsewhere in this Annual Report. Some of the information contained in this discussion and analysis, including information with respect to our plans and strategy for our business and related financing strategy, includes forward-looking statements that involve risks and uncertainties. You should read Part 1, Item 1A, Risk Factors of this Form 10-K for a discussion of important factors that could cause actual results to differ materially from the results described in or implied by the forward-looking statements contained in the following discussion and analysis.
+
+Objective
+
+The purpose of the Management Discussion and Analysis (the “MD&A”) is to present information that management believes is relevant to an assessment and understanding of our results of operations and cash flows for the year ended June 30, 2024, and our financial condition as of June 30, 2024. The MD&A is provided as a supplement to, and should be read in conjunction with, our consolidated financial statements and notes thereto.
+
+Overview
+
+We are a pharmaceutical company focused on commercializing novel therapeutics. In fiscal 2024 and fiscal 2023, we operated two business segments: (i) the Rx Segment, consisting of prescription pharmaceutical products sold primarily through third party wholesalers and (ii) the Consumer Health Segment, which consists of various consumer health products sold directly to consumers. We use third parties to manufacture all of our products.
+
+We have incurred significant losses in each year since inception. Our net losses were $15.8 million and $17.1 million for the years ended June 30, 2024, and 2023, respectively. As of June 30, 2024, and 2023, we had an accumulated deficit of $320.0 million and $304.1 million, respectively. We expect to continue to incur significant expenses in connection with our ongoing activities, including the integration of our acquisitions and the commercialization of our product pipeline.
+
+In light of our own business activities and external developments in the biotechnology and biopharmaceutical industries, Aytu management and our Board regularly reviews our performance, prospects and risks such as the potential impact to our business resulting from the Company’s competitive landscape (i.e., entry of generic competitors, payer pressures, new branded entrants, etc.). These reviews have included consideration of potential partnerships, collaborations, and other strategic transactions such as acquisitions or divestitures of programs or technology to enhance stockholder value. Aytu’s management and Board continues to evaluate potential strategic transactions and business combinations.
+
+Significant Developments
+
+Business Environment
+
+We have continued to experience inflationary pressure and have experienced supply chain disruptions related to the sourcing of raw materials, energy, logistics and labor during fiscal 2024. While we do not have sales or operations in Russia or Ukraine and we do not have material sales or operations in the Middle East, it is possible that the conflict or actions taken in response, could adversely affect some of our markets and suppliers, economic and financial markets, costs and availability of energy and materials, or cause further supply chain disruptions. We expect that inflationary pressures and supply chain disruptions could continue to be significant across the business throughout fiscal 2025. The Company has not experienced stock outages for its ADHD products since the launch of those products, and the pediatric product supply has remained adequate to satisfy demand for the preceding three years.
+
+Rx Segment
+
+During the fourth quarter of fiscal 2024, we successfully completed the transition of all manufacturing of our ADHD products to a United States-based third-party manufacturer to improve the profitability of these products.
+
+As part of our realization of post-acquisition synergies and product prioritization, we have implemented a portfolio rationalization plan whereby we discontinued or divested five non-core products in our Rx Segment: Cefaclor Oral Suspension, Flexichamber, Tussionex, Tuzistra XR, and ZolpiMist. These products, collectively, contributed $0.1 million and $1.6 million in net revenue during the years ended June 30, 2024, and 2023, respectively.
+
+In July 2023, we entered into an exclusive collaboration, distribution and supply agreement with Medomie Pharma Ltd (“Medomie”), a privately owned pharmaceutical company, for Medomie to sell Adzenys and Cotempla in Israel and the Palestinian Authority. We will supply Adzenys and Cotempla to Medomie, who will be responsible for seeking local regulatory approvals and marketing authorizations for each product. This agreement represents Aytu’s first international commercial agreement for Adzenys and Cotempla.
+
+Consumer Health Segment
+
+As previously announced, in fiscal 2024 we began the wind down of the Consumer Health Segment in order to maximize profitability. During the first quarter of fiscal 2025, we completed the wind down of operations and entered into and entered into a definitive agreement to effect the Consumer Health Divestiture. The divested business encompasses the established e-commerce platform, certain inventory and associated consumer brands, intellectual property, contracts and liabilities, and provides for us to receive revenue-based royalty payments on future sales of former Consumer Health Segment products. We expect the savings realized from the strategic shift away from the Consumer Health business, coupled with incremental margin improvements expected from the previously announced closure of our Grand Prairie, Texas manufacturing site, to significantly enhance our operating results and drive stockholder value.
+
+Debt and Equity Financings
+
+Eclipse Agreement
+
+In June 2024, we and certain of our subsidiaries entered into the Eclipse Amendment No. 5, with the Eclipse Lender. Under the Eclipse Agreement No. 5, we have two loan agreements, the Eclipse Term Loan and the Eclipse Revolving Loan.
+
+The Eclipse Term Loan consists of a principal amount of $13.0 million, at an interest rate of SOFR plus 7.0%, with a four-year term and a straight-line loan amortization period of seven years, which would provide for a loan balance at the end of the four-year term of $5.6 million to be repaid on June 12, 2028, the maturity date. We used the proceeds of the Eclipse Term Loan and a portion of the proceeds from warrant exercises described below to repay in full a $15.0 million term note.
+
+The Eclipse Revolving Loan allows us to borrow up to $14.5 million at an interest rate of SOFR plus 4.5%. In addition, we are required to pay an unused line fee of 0.5% of the average unused portion of the maximum Eclipse Revolving Loan amount during the immediately preceding month. The ability to make borrowings and obtain advances of the Eclipse Revolving Loan remains subject to a borrowing base and reserve, and availability blockage requirements and the maturity date, as amended, is June 12, 2028.
+
+Equity Financings
+
+In June 2023, we raised gross proceeds of $4.0 million from the issuance of (i) 1,743,695 shares of our common stock, and (ii) in lieu of common stock to certain investors that so chose, pre-funded warrants to purchase 430,217 shares of common stock (the “June 2023 Pre-Funded Warrants”) and (iii), accompanying Tranche A warrants to purchase 2,173,912 shares of common stock at an exercise price of $1.59 (the “Tranche A Warrants”), (iv) and accompanying Tranche B warrants to purchase 2,173,912 shares of common stock at an exercise price of $1.59 (the “Tranche B Warrants”). We received $3.4 million in proceeds net of underwriting fees and other expenses.
+
+In June 2024, the Tranche B Warrants were exercised, generating proceeds of $3.5 million. The Tranche B Warrants were converted into 367,478 shares of common stock and 1,806,434 “pre-funded” warrants to purchase shares of common stock with an exercise price of $0.0001 per share (the “Tranche B Pre-Funded Warrants”). We used a portion of these proceeds as part of the $15.0 million term loan repayment described above.
+
+Results of Operations
+
+Comparison of the Years Ended June 30, 2024, and 2023
+
+Revenue by Segment
+
+​
+
+During the year ended June 30, 2024, net revenue decreased by $26.4 million, or 25% compared to the year ended June 30, 2023. The decrease in our Consumer Health Segment was a result of our decision to wind down this business, which we completed in the first quarter of fiscal 2025. We incurred a $18.1 million decrease in net revenue from our Pediatric Portfolio, which was primarily driven by payer changes that negatively affected prescription coverage, and a $1.4 million decrease that resulted from the discontinuation of certain products. These declines were partially offset by an increase in net revenue from the ADHD Portfolio of $10.9 million, driven by a consistent and reliable supply of our ADHD Portfolio products and strong commercial execution. During fiscal 2025 we anticipate minimal net revenue from the Consumer Health Segment due to its wind down and divestiture during the first quarter of fiscal 2025, and an increase in net revenue from our Rx Segment due to continued commercial execution.
+
+Gross Margin
+
+​
+
+During the year ended June 30, 2024, gross profit decreased by 19% compared to the year ended June 30, 2023. Gross margin increased to 67% for the year ended June 30, 2024, compared to 62% for the year ended June 30, 2023. The improvement was primarily due to a decline in the lower-margin Consumer Health Segment net revenue from the wind down of our Consumer Health Segment and improvements in the higher gross margin ADHD Portfolio, which were primarily due to efficiencies in production related to higher demand for Adzenys and Cotempla. We expect gross margin to continue to increase in fiscal 2025 due to the completed wind down and divestiture of the Consumer Health Segment and due to reduced costs associated with the successful transition of our ADHD product manufacturing to a United States-based CMO.
+
+Advertising and Direct Marketing
+
+During the year ended June 30, 2024, advertising and direct marketing expenses decreased by $12.3 million, or 72%, compared to the year ended June 30, 2023. Advertising and direct marketing expense include direct-to-consumer marketing, advertising, sales, and customer support and processing fees related to our Consumer Health Segment. The reduction in advertising and direct marketing costs were primarily due to our wind down of the Consumer Health Segment during fiscal 2024. We expect advertising and direct marketing expense to decrease in fiscal 2025 primarily from the completed wind down and divestiture of the Consumer Health Segment.
+
+Other Selling and Marketing
+
+During the year ended June 30, 2024, other selling and marketing expense decreased by $2.1 million, or 9%, compared to the year ended June 30, 2023. The decreases were primarily driven by commission expense based on prescriptions generated by our sales force and commercial marketing program fees that decrease as product sales decreased. We expect other selling and marketing expense to increase during fiscal 2025 related to increased commission expense and commercial marketing program fees from anticipated increases in prescription product sales.
+
+General and Administrative
+
+During the year ended June 30, 2024, general and administrative expense decreased by $6.1 million or 21%, compared to the year ended June 30, 2023. The decrease was primarily a result of ongoing cost-cutting initiatives and operational improvements. We expect general and administrative expense to decrease during fiscal 2025 primarily from the completed wind down and divestiture of the Consumer Health Segment and due to reduced costs associated with the successful transition of our ADHD product manufacturing out of our Grand Prairie, Texas-based manufacturing facility to a United States-based CMO.
+
+Research and Development 
+
+​
+
+During the year ended June 30, 2024, research and development expense decreased by $1.3 million, or 32%, compared to the year ended June 30, 2023. Historically, our research and development costs were primarily associated with AR101 and to a lesser extent, the development of Healight and support for our commercialized products. In October 2022, we announced the suspension of the development of AR101 and Healight to focus on our commercial operations. As a result, research and development spending has significantly declined. Research and development spending on AR101 during fiscal 2024 relates to $0.5 million charge to wind down the clinical trial and the remaining relates to minimum expenses required for regulatory filings and maintenance of our AR101 intellectual property, and spending on ADHD relates to regulatory filings and maintenance of our intellectual property. We expect our research and development expenses to slightly decrease in the future as we continue to look for cost savings and focus on commercial operations.
+
+Amortization of Intangible Assets
+
+During the year ended June 30, 2024, amortization expense of intangible assets, excluding amounts included in cost of sales, were relatively consistent compared to the year ended June 30, 2023. We expect amortization of intangible assets expense to decrease during fiscal 2025 as a result of certain intangible assets that became fully amortized towards the end of fiscal 2024. 
+
+Restructuring Costs
+
+During the year ended June 30, 2023, we recognized $2.4 million of restructuring costs, excluding $0.7 million of inventory write-down included in cost of sales, related to the wind down of our Consumer Health Segment and the closure of our Grand Prairie, Texas manufacturing site. We expect restructuring costs to decrease during fiscal 2025 as the majority of our restructuring activities were completed during fiscal 2024. See Note 17 – Restructuring Costs in the accompanying notes to the consolidated financial statements for further information.
+
+Impairment Expense
+
+During the year ended June 30, 2024, there was no impairment expense recorded except for impairment expense related to exit and disposal activities recorded to the restructuring costs financial statement line item discussed above and we do not anticipate impairment charges during fiscal 2025 at this time.
+
+During the year ended June 30, 2023, we recognized total impairment expense of $5.7 million, consisting of (i) $5.6 million intangible assets, and (ii) $0.1 million other assets. The impairments were due to increased focus on our commercial efforts in the Rx Segment and discontinued product distributions in the Consumer Health Segment. See Note 7 – Intangible Assets in the accompanying notes to the consolidated financial statements for further information.
+
+Gain from Contingent Consideration
+
+We fair value our acquisition-related contingent considerations based on our projected results, any changes are reflected through income or expense. During the year ended June 30, 2024, there was no gain from contingent consideration, compared to $1.0 million for the year ended June 30, 2023. The decrease was primarily due to all contingent considerations (including CVRs) expiring or winding down during fiscal 2023. As a result, we do not expect any contingent consideration gain or loss in fiscal 2025.
+
+Other Income, Net
+
+During the year ended June 30, 2024, other income, net was relatively consistent compared to the year ended June 30, 2023. We expect other income, net to continue to be relatively consistent during fiscal 2025.
+
+Interest Expense
+
+During the year ended June 30, 2024, interest expense was relatively consistent with a decreased of $0.2 million, or 3%, compared to the year ended June 30, 2023. We expect interest expense to decrease during fiscal 2025 due to the extinguishment of our $15.0 million term loan while entering into the $13.0 million Eclipse Term Loan on more favorable terms.
+
+Derivative Warrant Liabilities (Loss) Gain
+
+The fair value of derivative warrant liabilities is calculated using either the Black-Scholes option pricing model or the Monte Carlo simulation model are revalued at each reporting period and changes are reflected through income or expense. For the year ended June 30, 2024, we recognized an unrealized loss of $4.0 million from the fair value adjustment primarily driven by an increase in our stock price during fiscal 2024. For the year ended June 30, 2023, we recognized an unrealized gain of $4.8 million from the fair value adjustment primarily driven by a decrease in our stock price during fiscal 2023. 
+
+Income Tax Expense
+
+For the year ended 2024, there was $1.8 million of income tax expense, which was an effective tax rate of negative 12.6%. This income tax expense was primarily driven by the limitations on losses as a result of Section 382 of the IRC changes in ownership coupled with existing valuation allowances. We expect that income tax expense will increase during fiscal 2025 due primarily to increased profitability.
+
+For the year ended 2023, income tax expense was zero with an effective tax rate of zero percent and reflecting the full valuation allowance.
+
+Liquidity and Capital Resources
+
+Cash Flows
+
+The following table sets forth the primary sources and uses of cash for the periods indicated:
+
+​
+
+Net Cash Used in Operating Activities
+
+Net cash used in operating activities during these periods primarily reflected our net losses, partially offset by changes in working capital and non-cash charges including impairment, stock-based compensation expense, gain or loss on derivative warrant liabilities, depreciation, amortization and accretion, and other charges.
+
+During the year ended June 30, 2024, net cash used in operating activities totaled $1.4 million. The use of cash was primarily the result of the decrease in accounts payable and accrued liabilities, partially offset by positive cash earnings (net loss offset by non-cash items primarily from depreciation, amortization and accretion, stock-based compensation expense, derivative warrant liabilities adjustment, inventory write-down, and other certain non-cash adjustments). Additionally, these were partially offset by funds from the Employee Retention Credit program recorded in other operating liabilities (see Note 9 – Other Liabilities) and a decrease in accounts receivable, net, inventories and a net decrease in various other operating assets and liabilities.
+
+During the fiscal year ended June 30, 2023, net cash used in operating activities totaled $5.1 million. The decrease in net cash used was primarily the result of the decrease in operating loss, and increases in accounts payable and accrued liabilities, partially offset by an increase in accounts receivable, inventory, and prepaid expenses.
+
+Net Cash Used in Investing Activities
+
+Net cash used in investing activities is generally related to our merger and acquisitions as well as purchase of assets to support our operations and disposal of assets related to exit and disposal costs.
+
+Net cash used in investing activities was $0.3 million during the year ended June 30, 2024, and net cash used in investing activities was $0.1 million during the year ended June 30, 2023, which was primarily used for the purchase of various property and equipment.
+
+Net Cash from Financing Activities
+
+Net cash used in financing activities of $1.3 million during the year ended June 30, 2024, was primarily from $15.7 million of payments made related to the extinguishment of our term loan, $2.6 million for fixed payment arrangements and $0.3 million of payments for debt issuance costs. This financing cash used was partially offset by $13.0 million of proceeds from the Eclipse Term Loan, $3.5 million of net proceeds from the issuance of common stock and warrants and $0.9 million of proceeds from our Eclipse Revolving Loan.
+
+Net cash provided by financing activities of $8.9 million during the year ended June 30, 2023, was primarily from $3.4 million of net proceeds from our securities purchase agreement in June 2023, $9.1 million of net proceeds from our August 2022 equity raise, and $2.9 million net proceeds from our sales under the ATM Sales Agreement; partially offset by $2.3 million of net payments made under our revolving credit facility, and fixed payment arrangements totaling $4.3 million.
+
+Capital Resources
+
+Sources of Liquidity
+
+We have obligations related to our loan agreements and milestone payments for licensed products and manufacturing purchase commitments. We finance our operations through a combination of sales of our common stock and warrants, borrowings under our revolving credit facility and cash generated from operations.
+
+Shelf Registrations
+
+On September 28, 2021, we filed a shelf registration statement on Form S-3, which was declared effective by the SEC on October 7, 2021. This shelf registration statement covered the offering, issuance and sale by the Company of up to an aggregate of $100.0 million of its common stock, preferred stock, debt securities, warrants, rights and units (the “2021 Shelf”). As of June 30, 2024, $82.4 million remains available under the 2021 Shelf. This availability is subject to SEC 1.B.6 limitations of Form S-3. The 2021 Shelf expires on October 7, 2024. Given the upcoming expiration of the 2021 Shelf, concurrent with the filing of this Form 10-K we expect to file a new shelf registration statement to cover the offering, issuance and sale by the Company of up to an aggregate of $100.0 million of our common stock, preferred stock, debt securities, warrants, rights and units (the “2024 Shelf”).
+
+On June 8, 2020, we filed a shelf registration statement on Form S-3, which was declared effective by the SEC on June 17, 2020. This shelf registration statement covered the offering, issuance, and sale by us of up to an aggregate of $100.0 million of our common stock, preferred stock, debt securities, warrants, rights and units (the “2020 Shelf”). In June 2020, under the 2020 Shelf, we initiated an at-the-market offering program (“ATM”), which allowed us to sell and issue shares of our common stock from time-to-time. On June 2, 2021, we terminated our “at-the-market” sales agreement with a sales agent, and on June 4, 2021, we entered into a Controlled Equity OfferingSM Sales Agreement (the “ATM Sales Agreement”) with a sales agent, pursuant to which we agreed to sell up to $30.0 million of our common stock from time to time in “at-the-market” offerings under the 2020 Shelf. During the year ended June 30, 2023, we issued 699,929 shares of common stock under the ATM Sales Agreement, with total net proceeds of $2.9 million. The 2020 Shelf expired in June 2023 and the ATM Agreement was terminated in July 2023.
+
+Underwriting & Placement Agency Agreements
+
+On June 8, 2023, we entered into a securities purchase agreement with certain institutional investors named therein and a placement agency agreement with Maxim Group LLC, pursuant to which the Company agreed in a best efforts offering to issue and sell to investors in the offering an aggregate of 1,743,695 shares of the Company’s common stock, pre-funded warrants in lieu of shares to purchase 430,217 shares of common stock at an exercise price of $0.0001, accompanying Tranche A warrants to purchase 2,173,912 shares of common stock at an exercise price of $1.59 (the “Tranche A Warrants”), and accompanying Tranche B warrants to purchase 2,173,912 shares of common stock at an exercise price of $1.59 (the “Tranche B Warrants”). The Tranche A Warrants and the Tranche B Warrants may be exercised for either shares of common stock or pre-funded warrants to purchase common stock at a future exercise price of $0.0001 per share in the same form as the pre-funded warrant. The gross proceeds were $4.0 million, and net proceeds were $3.4 million after deducting offering expenses. The offering closed on June 13, 2023. In June 2024, the Tranche B Warrants were exercised, generating proceeds of $3.5 million. The Tranche B Warrants were converted into 367,478 shares of common stock and 1,806,434 pre-funded warrants to purchase shares of common stock with an exercise price of $0.0001 per share (the “Tranche B Pre-Funded Warrants”). We used a portion of these proceeds as part of the $15.0 million term loan repayment that occurred in the fourth quarter of fiscal 2024.
+
+On August 11, 2022, we closed an underwritten public offering, pursuant to which we sold an aggregate of (i) 1,075,290 shares of our common stock, (ii), pre-funded warrants to purchase 87,500 shares of our common stock, and (ii) accompanying warrants to purchase 1,265,547 shares of our common stock. The shares of common stock (or pre-funded warrants) and the accompanying common warrants were issued separately but could only be purchased together. The combined public offering price for each share of common stock and accompanying common warrant was $8.60, and the combined offering price for each pre-funded warrant and accompanying common warrant is $8.58, which equals the public offering price per share of the common stock and accompanying common warrant, less the $0.001 per share exercise price of each pre-funded warrant. The pre-funded warrants were exercised in full in August 2022. The common warrants are exercisable at any time after the date of issuance for a period of five years from the date such common warrants are first exercisable. The number of shares of common stock issuable upon exercise of the common warrants is subject to adjustment in certain circumstances, including a stock split of, stock dividend on, or a subdivision, combination or recapitalization of the common stock. The Company received gross proceeds of $10.0 million and net proceeds were $9.1 million, after deducting underwriting discounts and commissions and estimated offering expenses.
+
+Avenue Capital Agreement
+
+On January 26, 2022, we entered into the Avenue Capital Agreement, pursuant to which the Company received $15.0 million term loan. In the fourth quarter of fiscal 2024, we repaid this term loan in full with proceeds from the Eclipse Term Loan and a portion of the proceeds from the exercise of the Tranche B Warrants.
+
+Eclipse Agreement
+
+In June 2024, we and certain of our subsidiaries entered into the Eclipse Amendment No. 5, with the Eclipse Lender. Under the Eclipse Agreement No. 5, we have two loan agreements, the Eclipse Term Loan and the Eclipse Revolving Loan.
+
+The Eclipse Term Loan consists of a principal amount of $13.0 million, at an interest rate of SOFR plus 7.0%, with a four-year term and a straight-line loan amortization period of seven years, which would provide for a loan balance at the end of the four-year term of $5.6 million to be repaid on June 12, 2028, the maturity date. We used the proceeds of the Eclipse Term Loan and a portion of the proceeds from warrant exercises described below to repay in full a $15.0 million term note.
+
+The Eclipse Revolving Loan allows us to borrow up to $14.5 million at an interest rate of SOFR plus 4.5%. In addition, we are required to pay an unused line fee of 0.5% of the average unused portion of the maximum Eclipse Revolving Loan amount during the immediately preceding month. The ability to make borrowings and obtain advances of the Eclipse Revolving Loan remains subject to a borrowing base and reserve, and availability blockage requirements and the maturity date, as amended, is June 12, 2028.
+
+Contractual Obligations, Commitments and Contingencies
+
+As a result of our acquisitions and licensing agreements, we are contractually and contingently obliged to pay, when due, various fixed and contingent milestone payments. See Note 18 – Commitments and Contingencies in the accompanying notes to the consolidated financial statements for further information.
+
+In May 2022, we entered into an agreement with Tris to terminate the License, Development, Manufacturing and Supply Agreement dated November 2, 2018, related to Tuzistra (the “Tuzistra License Agreement”). Pursuant to such termination, as of June 30, 2024, we have accrued a settlement liability of $6.2 million payable to Tris, with a provision that allows us to pay interest on any principal amounts due but remaining unpaid past July 2024.
+
+Upon closing of the acquisition of a line of prescription pediatric products from Cerecor, Inc. in October 2019, we assumed payment obligations that require us to make fixed and product milestone payments. As of June 30, 2024, up to $2.1 million of fixed and product milestone payments remain to be paid through 2026 and are expected to be paid from the revenue generated by Karbinal.
+
+In connection with our acquisition of the assets from Rumpus VEDS, LLC, Rumpus Therapeutics, LLC, Rumpus Vascular, LLC (collectively, “Rumpus”), and only if we resume and ultimately complete clinical development of AR101 and gain regulatory clearances to commercialize the product in multiple markets around the world, we may be required to pay up to $67.5 million in regulatory and commercial-based earn-out payments to Rumpus, which are primarily paid against commercial milestone achievements. Under the licensing agreement with Denovo Biopharma LLC (“Denovo”), we made a payment of $0.6 million for a license fee in April 2022. In addition, upon the achievement of regulatory and commercial milestones, we may be required to pay up to $101.7 million. Under the licensing agreement with Johns Hopkins University (“JHU”), upon achievement of regulatory and commercial milestone, we may be required to pay up to $1.6 million to JHU. In fiscal 2022, two milestones payable to Rumpus were achieved totaling $4.0 million, which were paid in 109,447 shares of common stock and $2.6 million in cash. The Company also assumed the responsibility for royalties of 3.0% of net revenue from the product, with a minimum of $20,000 per year, and upon the achievement of certain regulatory and commercial milestones, up to $1.6 million. With clinical development currently suspended, only if and when we resume and ultimately complete clinical development of AR101, are substantially all milestones payable to these parties.
+
+Critical Accounting Estimates
+
+Our management’s discussion and analysis of financial condition and results of operations is based on our financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States (“U.S. GAAP”). The preparation of our financial statements requires us to make estimates and judgments that affect the reported amounts of assets and liabilities and the disclosure of any contingent assets and liabilities at the date of the financial statements, as well as reported revenue and expenses during the reporting periods. On an ongoing basis, we evaluate our estimates and judgments. We base our estimates on our historical experience and on various other assumptions that we believe to be reasonable under the circumstances. These estimates and assumptions form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Our actual results may differ materially from these estimates under different assumptions or conditions.
+
+While our significant accounting policies are described in more detail in Part II, Item 8, Note 2 – Summary of Significant Accounting Policies in this Annual Report, we believe the following accounting policies to be critical to the judgments and estimates used in the preparation of our consolidated financial statements and notes thereto.
+
+Revenue Recognition
+
+We generate revenue from product sales through our Rx Segment and Consumer Health Segment. We evaluate our contracts with customers to determine revenue recognition using the following five-step model: identify the contract with the customer; identify the performance obligations and if they are distinct; determine the transaction price; allocate the transaction price to the performance obligations; and recognize revenue when (or as) a performance obligation is satisfied.
+
+Net product sales in the Rx Segment consist of sales of prescription pharmaceutical products under the Rx Portfolio, principally to a limited number of wholesale distributors and pharmacies in the United States. Rx product revenue is recognized at the point in time that control of the product transfers to the customer in accordance with shipping terms (i.e., upon delivery), which is generally “free-on-board” destination when shipped domestically within the United States and “free-on-board” shipping point when shipped internationally consistent with the contractual terms.
+
+We make estimates of the net sales price, including estimates of variable consideration to be incurred on the respective product sales (known as “Gross to Net” adjustments). Significant judgement is required in estimating Gross to Net adjustments considering legal interpretations of applicable laws and regulations, historical experience, payer channel mix, current contract prices under applicable programs, unbilled claims, processing time lags and inventory levels in the distribution channel.
+
+The Gross to Net adjustments includes:
+
+Savings offers, rebates and wholesaler chargebacks reflect the terms of underlying agreements, which may vary. Accordingly, actual amounts will depend on the mix of sales by product and contracting entity. Future returns may not follow historical trends. Our periodic adjustments of our estimates are subject to time delays between the initial product sale and ultimate reporting and settlement of deductions. We continually monitor these provisions and do not believe variances between actual and estimated amounts have been material.
+
+A 10% increase or decrease in these estimates impacts net revenue by a corresponding increase or decrease of approximately $2.9 million. The estimates related to returns and savings offers have the most significant impact on our Gross to Net adjustment calculation.
+
+We generate Consumer Health Segment product revenue from sales of various consumer health products through e-commerce platforms and direct mail. Revenue is generally recognized “free-on-board” shipping point, as those are the agreed-upon contractual terms. Taxes assessed by a governmental authority that are both imposed on and concurrent with a specific revenue-producing transaction that are collected by us from a customer are excluded from revenue. Shipping and handling costs associated with outbound freight after control over a product has transferred to a customer are accounted for as a fulfillment cost and are included in cost of sale. We completed the wind down of the Consumer Health Segment and entered into a definitive agreement to effect the Consumer Health Divestiture in the first quarter of fiscal 2025.
+
+Impairment of Long-lived Assets
+
+We assess impairment of long-lived assets annually and when events or changes in circumstances indicates that their carrying value amount may not be recoverable. Long-lived assets consist of property and equipment, net and other intangible assets, net. Circumstances which could trigger a review include but are not limited to: (i) significant decreases in the market price of the asset; (ii) significant adverse changes in the business climate or legal or regulatory factors; (iii) changes in business plans or (iv) expectations that the asset will more likely than not be sold or disposed of significantly before the end of its estimated useful life. If the estimated future undiscounted cash flows, excluding interest charges, from the use of an asset are less than the carrying value, a write-down would be recorded to reduce the related asset to its estimated fair value. Such estimates involve projections of future sales and costs, which may vary from actual results. Declines in the outlook for the related products, particularly soon after fair-value measurement upon acquisition or prior impairment, can negatively impact our ability to recover the carrying value and can result in an impairment charge.
+
+Our strategy is to continue building our portfolio of revenue-generating products by leveraging our commercial team’s expertise to build leading brands within large therapeutic markets. As a result of focusing on building the portfolio of revenue-generating prescription products, we decided to abandon active development of our NT0502 (N-desethyloxybutynin), a new chemical entity that is being developed for the treatment of sialorrhea, which is excessive salivation or drooling. During the year ended June 30, 2023, we incurred an impairment charge of $2.6 million related to NT0502 and have terminated the licensing agreement. We also terminated the license agreement with Cedars-Sinai Medical Center surrounding the Healight technology platform as an additional result of terminating the development of the Healight program. Further, the acquired product distribution rights from Innovus was impaired by $3.0 million due to discontinuance of products in the Consumer Health Segment.
+
+During the year ended June 30, 2024, related to our wind down of our Consumer Health Segment we recorded an inventory write-down of $0.7 million and restructuring costs totaling $0.2 million related primarily to severance costs and the abandonment of our leased warehouse facility, equipment and other assets. Also, during the year ended June 30, 2024, related to the closure of our Grand Prairie, Texas manufacturing facility we recorded restructuring costs totaling $2.2 million related to severance costs and the abandonment of our leased manufacturing facility, equipment and other assets. The inventory write-down was recorded in cost of sales and restructuring costs have been recorded in restructuring costs on the consolidated statements of operations.
+
+Warrants
+
+Equity classified warrants are valued using a Black-Scholes option pricing model at issuance and are not remeasured. Liability classified warrants are carried at fair value using either the Black-Scholes option pricing model or the Monte Carlo simulation model. Changes in the fair value of liability classified warrants in subsequent periods are recorded as a gain or loss on remeasurement and reported as a component of cash flows from operations.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE

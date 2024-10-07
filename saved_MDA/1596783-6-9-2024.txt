@@ -1,0 +1,403 @@
+ITEM 6. [RESERVED]
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our Consolidated Financial Statements and related notes, which appear elsewhere in this Annual Report. This section of the Annual Report generally discusses the fiscal years ended June 30, 2024 and 2023 and year-to-year comparisons between the fiscal years ended June 30, 2024 and 2023. The discussion of our results of operations for the fiscal year ended June 30, 2022 and a comparison of our results for the fiscal years ended June 30, 2023 and 2022 is included in Item 7. – Management’s Discussion and Analysis of Financial Condition and Results of Operations of our Annual Report on Form 10-K for the fiscal year ended June 30, 2023, filed with the SEC on December 8, 2023, and is incorporated herein by reference. In addition to historical consolidated financial information, the following discussion contains forward-looking statements that reflect our plans, estimates, and beliefs. Our actual results could differ materially from those discussed in the forward-looking statements. You should carefully read “Special Note Regarding Forward-Looking Statements” in this Annual Report. Factors that could cause or contribute to these differences include those discussed below and elsewhere in this Annual Report, particularly in “Item 1A.—Risk Factors.”
+
+Overview 
+
+We provide differentiated development and manufacturing solutions for drugs, protein-based biologics, cell and gene therapies, vaccines, and consumer health products at fifty facilities across four continents under rigorous quality and operational standards. Our oral, injectable, and respiratory delivery technologies, along with our state-of-the-art protein, plasmid, viral, and cell and gene therapy manufacturing capacity, address a wide and growing range of modalities and therapeutic and other categories across the biopharmaceutical, pharmaceutical, and consumer health industries. Through our extensive capabilities, growth-enabling capacity, and deep expertise in product development, regulatory compliance, and clinical trial and commercial supply, we can help our customers take products to market faster; we have supported more than half of new drug products approved by the U.S. Food and Drug Administration (the “FDA”) in the last decade. Our development and manufacturing platforms, our proven formulation, supply, and regulatory expertise, and our broad and deep development and manufacturing know-how enable our customers to advance and then bring to market more products and better treatments for patients and consumers. Our commitment to reliably supply our customers’ and their patients’ needs is the foundation for the value we provide; annually, we produce nearly 70 billion unit doses for nearly 8,000 customer pharmaceutical and consumer health products, or approximately 1 in every 28 unit doses of such products taken each year by patients and consumers around the world. We believe that, through our investments in state-of-the-art facilities and capacity expansion, including investments in facilities focused on new treatment modalities and other attractive market segments, our continuous improvement activities devoted to operational and quality excellence, the sales of existing and introduction of new customer products, and, in some cases, our innovation activities and patents, we will continue to attract premium opportunities and realize the growth potential from these areas. 
+
+At the commencement of fiscal 2023, in connection with our change in Chief Executive Officer and Chief Operating Decision Maker, we adopted a new operating structure with two operating and reportable segments: (i) Biologics and (ii) Pharma and Consumer Health. The Biologics segment provides development and manufacturing for biologic proteins; cell, gene, and other nucleic acid therapies; pDNA; iPSCs, and oncolytic viruses; and vaccines. It also provides formulation, development, and manufacturing for parenteral dose forms, including vials, prefilled syringes, and cartridges; and, as noted above, analytical development and testing services for large molecules. Our Pharma and Consumer Health segment, comprises the Company’s market-leading capabilities for complex oral solids, softgel formulations, Zydis fast-dissolve technologies, and gummy, soft chew, and lozenge dosage forms; formulation, development, and manufacturing platforms for oral, nasal, inhaled, and topical dose forms; cold-chain storage and distribution, and clinical trial development and supply services. Prior-period segment results were reclassified to conform to the current period presentation. 
+
+Pending Merger with Novo Holdings
+
+On February 5, 2024, the Company entered into the Merger Agreement, pursuant to which, and subject to the satisfaction or waiver of the conditions set forth therein, the Company will survive the Merger as a wholly owned subsidiary of Parent, which is a wholly owned subsidiary of Novo Holdings. Parent will acquire all the issued and outstanding shares of Common Stock of the Company. On May 29, 2024, the Company held a special meeting of its stockholders at which the Company's stockholders approved, among other things, the Merger Agreement. The Merger is expected to close towards the end of calendar year 2024, subject to customary closing conditions, including receipt of required regulatory approvals. For more information, see Note 17, Commitments and Contingencies to our Consolidated Financial Statements.
+
+Critical Accounting Policies and Estimates
+
+The following disclosure supplements the descriptions of our accounting policies contained in Note 1 to our Consolidated Financial Statements regarding significant areas of judgment. Management made certain estimates and assumptions during the preparation of the Consolidated Financial Statements in accordance with U.S. GAAP. These estimates and assumptions affect the reported amount of assets and liabilities and disclosures of contingent assets and liabilities in the Consolidated Financial Statements. These estimates also affect the reported amount of net earnings during the reporting periods. Actual results could differ from those estimates. Because of the size of the financial statement elements to which they relate, some of our accounting policies and estimates have a more significant impact on the Consolidated Financial Statements than others. 
+
+Management has discussed the development and selection of these critical accounting policies and estimates with the audit committee of our board of directors. A discussion of some of our more significant accounting policies and estimates follows.
+
+Revenue Recognition
+
+We sell products and services directly to our biopharmaceutical, pharmaceutical, and consumer health customers. The majority of our business is conducted through manufacturing and commercial product supply, development services, and clinical supply services. 
+
+Our contracts with customers often include promises to transfer multiple products and services to a customer. Determining whether products and services are considered distinct performance obligations that should be accounted for separately versus together may require judgment. For our manufacturing and commercial product supply revenue, the contract generally includes the terms of the manufacturing services and related product quality assurance procedures to comply with regulatory requirements. Due to the regulated nature of our business, these contract terms are highly interdependent and, therefore, are considered to be a single combined performance obligation. For our development services and clinical supply services revenue, our performance obligations vary per contract and are accounted for as separate performance obligations. If a contract contains a single performance obligation, we allocate the entire transaction price to the single performance obligation. If a contract contains multiple performance obligations, we allocate consideration to each performance obligation using the “relative standalone selling price” as defined under Accounting Standards Codification (“ASC”) 606, Revenue from Contracts with Customers. Generally, we utilize observable standalone selling prices in our allocations of consideration. If observable standalone selling prices are not available, we estimate the applicable standalone selling price using a cost-plus-margin approach or an adjusted market assessment approach, in each case, representing the amount that we believe the market is willing to pay for the applicable service. Revenue is recognized over time using an appropriate method of measuring progress towards fulfilling our performance obligation for the respective arrangement. Determining the measure of progress that consistently depicts our satisfaction of performance obligations within each of our revenue streams across similar arrangements requires judgment. 
+
+Our customer contracts generally include provisions entitling us to a termination penalty when the customer terminates prior to the contract’s nominal end date. The termination penalties in these customer contracts vary but are generally considered substantive for accounting purposes and create enforceable rights and obligations throughout the stated duration of the contract. We account for a contract termination as a contract modification in the period in which the customer gives notice of termination. The determination of the contract termination penalty is based on the terms stated in the relevant customer agreement. As of the modification date, we update our estimate of the transaction price using the expected value method, subject to constraints, and recognize the amount over the remaining performance period under the contract. In the event of a contract termination, revenues are recognized to the extent that it is probable that a significant reversal will not occur when any uncertainty is subsequently resolved.
+
+Long-lived and Other Definite-Lived Intangible Assets
+
+We allocate the cost of an acquired company to the tangible and identifiable intangible assets and liabilities acquired, with any remaining cost recorded as goodwill. Intangible assets primarily include customer relationships, technology, and trademarks. Valuing the identifiable intangible assets requires judgment. Intangible assets are generally amortized on a straight-line basis, reflecting the pattern in which the economic benefits are consumed, and are amortized over their estimated useful lives.
+
+We assess the impairment of identifiable intangibles if events or changes in circumstances indicate that the carrying values of the assets may not be recoverable. Factors that could trigger an impairment review include the following:
+
+•significant under-performance relative to historical or projected future operating results;
+
+•significant changes in the manner of use of the acquired assets or the strategy of the overall business;
+
+•significant negative industry or economic trends; and
+
+•recognition of goodwill impairment charges.
+
+If we determine that the carrying value of identifiable intangibles and/or long-lived assets may not be recoverable based on the existence of one or more of the above indicators of impairment, we measure recoverability of assets by comparing the respective carrying value of the assets to the current and expected future cash flows, on an un-discounted basis, to be generated from such assets. If such analysis indicates that the carrying value of these assets is not recoverable, we measure an impairment based on the amount by which the net carrying amount of the assets exceeds the fair values of the assets. See Notes 3, Business Combinations and Divestitures and 5, Other Intangibles, net to the Consolidated Financial Statements.
+
+Goodwill and Indefinite-Lived Intangible Assets
+
+We account for purchased goodwill and intangible assets with indefinite lives in accordance with ASC 350, Intangibles –– Goodwill and Other. Under ASC 350, goodwill and intangible assets with indefinite lives are not amortized, but instead are tested for impairment at least annually. We perform an impairment evaluation of goodwill annually during the fourth quarter of our fiscal year or when circumstances otherwise indicate an evaluation should be performed. The evaluation may begin with a qualitative assessment for each reporting unit to determine whether it is more likely than not that the fair value of the reporting unit is less than its carrying value. If the qualitative assessment does not generate a positive response, or if no qualitative assessment is performed, a quantitative assessment, based upon discounted cash flows, is performed and requires management to estimate future cash flows, growth rates, and economic and market conditions. 
+
+We perform an annual goodwill impairment test for each reporting unit on April 1, the measurement date and more frequently if indicators of impairment exist.
+
+During our first fiscal quarter ended September 30, 2023, as a result of the Consumer Health reporting unit's underperformance of recent operating results relative to expectations, the current macroeconomic conditions impacting the consumer health and biotechnology industries, and increased interest rates, we assessed the current and future economic outlook for all of our reporting units and identified indicators for impairment of the goodwill previously recorded for two of our reporting units. The evaluation began with a qualitative assessment of our Consumer Health and Biomodalities reporting units to determine if it was more likely than not that the fair value of the reporting units was less than its carrying value. The qualitative assessment did not indicate that it was more likely than not that the fair value exceeded the carrying value in our Consumer Health and Biomodalities reporting units, which led to a quantitative assessment for the corresponding reporting units.
+
+We estimated the fair value of our reporting units using a combination of income and market approaches. In performing the goodwill impairment test, we used a terminal revenue growth rate of 3.5% and discount rates ranging from 9% to 10% in its estimation of fair value. The evaluation performed resulted in impairment charges of $687 million with respect to the Consumer Health and Biomodalities reporting units. While we believe the assumptions used were reasonable and commensurate with the views of a market participant, changes in key assumptions, including increasing the discount rate, lowering forecasts for revenue and operating margin or lowering the long-term growth rate could lead to further impairment.
+
+Based on its quantitative assessment conducted as of April 1, 2024, the Company determined for each reporting unit with goodwill that its respective fair value exceeded its carrying value, and hence, there was no impairment. A 100 basis point increase in the discount rate and a 100 basis point decrease in the long-term growth rate would not have resulted in a goodwill impairment charge in any of the our reporting units.
+
+Subsequent to the quantitative assessment performed as of April 1, 2024, we performed qualitative assessments as of June 30, 2024, which yielded no indicators of impairment. 
+
+See Notes 4, Goodwill and 5, Other Intangibles, net to the Consolidated Financial Statements.
+
+Income Taxes 
+
+In accordance with ASC 740, Income Taxes, we account for income taxes using the asset and liability method. The asset and liability method requires recognition of deferred tax assets and liabilities for expected future tax consequences of temporary differences that currently exist between tax bases and the corresponding financial reporting bases of our assets and liabilities. Deferred tax assets and liabilities are measured using enacted tax rates in the respective jurisdictions in which we operate. Deferred taxes are not provided on the undistributed earnings of subsidiaries outside of the U.S. when it is expected that these earnings will be permanently reinvested. In fiscal 2018, we recorded a provision for U.S. income taxes and foreign withholding 
+
+taxes in relation to expected repatriations as a result of the 2017 U.S. Tax Cuts and Jobs Act (the “2017 Tax Act”), but we have not made any provision for U.S. income taxes on the remaining undistributed earnings of foreign subsidiaries as those earnings are considered permanently reinvested in the operations of those foreign subsidiaries in the years after 2018.
+
+The 2017 Tax Act imposed taxes on so-called “global intangible low-taxed income” (“GILTI”) earned by certain foreign subsidiaries of a U.S. company. In accordance with ASC 740, we made an accounting policy election to treat taxes due on future U.S. inclusions in taxable income related to GILTI as a current-period expense when incurred.
+
+We assess the realizability of deferred tax assets by considering all available evidence, both positive and negative. We evaluate four possible sources of taxable income when assessing the realizability of deferred tax assets: 
+
+•carrybacks of existing NOLs (if and to the extent permitted by tax law);
+
+•future reversals of existing taxable temporary differences; 
+
+•tax planning strategies; and
+
+•future taxable income exclusive of reversing temporary differences and carryforwards.
+
+We consider the need to maintain a valuation allowance on deferred tax assets based on management’s assessment of whether it is more likely than not that we would realize those deferred tax assets as a result of future reversals of existing taxable temporary differences and the ability to generate sufficient taxable income within the carryforward period available under the applicable tax law. 
+
+Unrecognized tax benefits are generated when there are differences between tax positions taken in a tax return and amounts recognized in the Consolidated Financial Statements. Tax benefits are recognized in the Consolidated Financial Statements when it is more likely than not that a tax position will be sustained upon examination. To the extent we prevail in matters for which liabilities have been established or are required to pay amounts in excess of our liabilities, our effective income tax rate in a given period could be materially affected. An unfavorable income tax settlement may require the use of cash and result in an increase in our effective income tax rate in the year it is resolved. A favorable income tax settlement would be recognized as a reduction in the effective income tax rate in the year of resolution.
+
+Our accounting for income taxes involves the application of complex tax regulations in the U.S. and in each of the non-U.S. jurisdictions in which we operate, particularly European tax jurisdictions. The determination of income subject to taxation in each tax-paying jurisdiction requires us to review reported book income and the events occurring during the year in each jurisdiction in which we operate. In addition, the application of deferred tax assets and liabilities will have an effect on the tax expense in each jurisdiction. For those entities engaging in transactions with affiliates, we apply transfer-pricing guidelines relevant in many jurisdictions in which we operate and make certain informed and reasonable assumptions and estimates about the relative value of contributions by affiliates when assessing the allocation of income and deductions between consolidated entities in different jurisdictions. The estimates and assumptions used in these allocations can result in uncertainty in the measured tax benefit. 
+
+Factors Affecting our Performance 
+
+Fluctuations in Operating Results 
+
+Our annual financial reporting period ends on June 30. Excluding the impact from COVID-19, our revenue and net earnings are generally higher in the third and fourth quarters of each fiscal year, with our first fiscal quarter typically generating our lowest revenue of any quarter, and our last fiscal quarter typically generating our highest revenue. These fluctuations are primarily the result of the timing of our, and our customers’, annual operational maintenance periods at locations in Europe and the U.S., the seasonality associated with pharmaceutical and biotechnology budgetary spending decisions, clinical trial and research and development schedules, the timing of new product launches and length of time needed to obtain full market penetration, and, to a lesser extent, the time of the year some of our customers’ products are in higher demand. 
+
+Acquisition and Related Integration Efforts
+
+Our growth and profitability are affected by the acquisitions we complete and the speed at which we integrate those acquisitions into our existing operating platforms. In fiscal 2021, we expanded our capacity and capabilities through five acquisitions for our Biologics segment and through the acquisition of a dry powder inhaler and spray dry manufacturing business from Acorda Therapeutics, Inc. (“Acorda”). In fiscal 2022, we acquired each of Bettera Wellness, a manufacturer of a consumer-preferred gummy and other formats for consumer health products, a commercial-scale cell therapy manufacturing facility in 
+
+Princeton, and a manufacturing facility for biologic therapies and vaccines near Oxford, U.K. In fiscal 2023, we acquired Metrics Contract Services (“Metrics”), an oral solids development and manufacturing business specializing in the manufacture of drugs containing highly potent active pharmaceutical ingredients. 
+
+Foreign Exchange Rates 
+
+Our operating network is global, and, as a result, we have substantial revenues and operating expenses that are denominated in currencies other than the U.S. dollar, the currency in which we report our financial results. Our results of operations and financial performance are therefore influenced by changes in currency exchange rates. In fiscal 2024, 36% of our net revenue was generated from our operations outside the U.S. Foreign currencies for our operations include the British pound, European euro, Brazilian real, Argentine peso, Japanese yen, and the Canadian dollar. 
+
+Inflation
+
+In fiscal 2023, we began to experience the effects of increased global inflation, which has risen to levels not seen in more than 30 years. In response, we implemented various mitigation strategies, including in some cases increasing prices to customers or reducing other costs of operation, including through price renegotiations with suppliers. The effects of inflation are likely to continue to affect us for fiscal 2025, at least, and there can be no assurance that our mitigating strategies will continue to enjoy the same degree of success.
+
+Trends Affecting Our Business 
+
+Industry 
+
+We participate in nearly every sector of the global pharmaceutical and biotechnology industry, which has been estimated to generate more than $1 trillion in annual revenue, including, but not limited to, the prescription drug and biologic sectors as well as consumer health, which includes the over-the-counter and vitamins and nutritional supplement sectors. Innovative pharmaceuticals, and biologics in particular, continue to play a critical role in the global market, while the share of revenue due to generic drugs and biosimilars is increasing in both developed and developing markets. Sustained developed market demand and rapid growth in emerging economies is driving consumer health product growth. Payors, both public and private, have sought to limit the economic impact of pharmaceutical and biologics product demand through greater use of generic and biosimilar drugs, access and spending controls, and health technology assessment techniques, favoring products that deliver truly differentiated outcomes. 
+
+New Molecule Development and R&D Sourcing 
+
+Continued strengthening in early-stage development pipelines for drugs and biologics, compounded by increasing clinical trial breadth and complexity, support our belief in the attractive growth prospects for development solutions. Large companies are in many cases reconfiguring their R&D resources, increasingly involving the use of strategic partners for important outsourced functions and new treatment modalities. Additionally, an increasing portion of compounds in development are from companies that do not have a full research and development infrastructure, and thus are more likely to need strategic development solutions partners. 
+
+Demographics 
+
+Aging population demographics in developed countries, combined with the global COVID-19 pandemic and health care reforms in many global markets that are expanding access to treatments to a greater proportion of the global population, will continue to drive increases in demand for pharmaceuticals, biologics, and consumer health products. Increasing economic affluence in developing regions will further increase demand for healthcare treatments, and we are taking active steps to allow us to participate effectively in these growth regions and product categories. 
+
+Finally, we believe the market access and payor pressures our customers face, global supply chain complexity, and the increasing demand for improved and new modality treatments will continue to escalate the need for advanced formulation and manufacturing, product differentiation, improved outcomes, and treatment cost reduction, all of which can often be addressed using our advanced delivery technologies. 
+
+Non-GAAP Metrics 
+
+As described in this section, management uses various financial metrics, including certain metrics that are not based on concepts defined in U.S. GAAP, to measure and assess the performance of our business, to make critical business decisions, 
+
+and to assess our compliance with certain financial obligations. We therefore believe that presentation of certain of these non-GAAP metrics in this Annual Report will aid investors in understanding our business.
+
+EBITDA from operations 
+
+Management measures operating performance based on consolidated earnings from operations before interest expense, expense for income taxes, and depreciation and amortization, adjusted for the income attributable to non-controlling interests (“EBITDA from operations”). EBITDA from operations is not defined under U.S. GAAP, is not a measure of operating income, operating performance, or liquidity presented in accordance with U.S. GAAP, and is subject to important limitations.
+
+We believe that the presentation of EBITDA from operations enhances an investor’s understanding of our financial performance. We believe this measure is a useful financial metric to assess our operating performance across periods and use this measure for business planning purposes. In addition, given the significant investments that we have made in the past in property, plant, and equipment, depreciation and amortization expenses represent a meaningful portion of our cost structure. We believe that disclosing EBITDA from operations provides investors with a useful tool for assessing the comparability between periods of our ability to generate cash from operations sufficient to pay taxes, service debt, and undertake capital expenditures without consideration of non-cash depreciation and amortization expense. We present EBITDA from operations in order to provide supplemental information that we consider relevant for readers of the Consolidated Financial Statements, and such information is not meant to replace or supersede U.S. GAAP measures. Our definition of EBITDA from operations may not be the same as similarly titled measures used by other companies. The most directly comparable measure to EBITDA from operations defined under U.S. GAAP is net earnings. Included in this Management’s Discussion and Analysis is a reconciliation of net earnings to EBITDA from operations. 
+
+In addition, we evaluate the performance of our segments based on segment earnings before non-controlling interest, other (income) expense, impairments, restructuring costs, interest expense, income tax expense, stock-based compensation, gain (loss) on sale of subsidiary, and depreciation and amortization (“Segment EBITDA”). For a reconciliation of Segment EBITDA to net earnings, see Note 18, Segment Information to our Consolidated Financial Statements.
+
+Adjusted EBITDA
+
+Under the Credit Agreement and in the Indentures, the ability of Operating Company to engage in certain activities, such as incurring certain additional indebtedness, making certain investments, and paying certain dividends, is tied to ratios based on Adjusted EBITDA (which is defined as “Consolidated EBITDA” in the Credit Agreement and “EBITDA” in the Indentures). Adjusted EBITDA is a covenant compliance measure in our Credit Agreement and Indentures, particularly those covenants governing debt incurrence and restricted payments. Adjusted EBITDA is based on the definitions in the Credit Agreement, is not defined under U.S. GAAP, is not a measure of operating income, operating performance, or liquidity presented in accordance with U.S. GAAP, and is subject to important limitations. Because not all companies use identical calculations, our presentation of Adjusted EBITDA may not be comparable to other similarly titled measures of other companies.
+
+In addition, we use Adjusted EBITDA as a performance metric that guides management in its operation of and planning for the future of the business and drives certain management compensation programs. Management believes that Adjusted EBITDA provides a useful measure of our operating performance from period to period by excluding certain items that are not representative of our core business, including interest expense and non-cash charges like depreciation and amortization.
+
+The measure under U.S. GAAP most directly comparable to Adjusted EBITDA is net earnings. In calculating Adjusted EBITDA, we add back certain non-cash, non-recurring, and other items that are deducted when calculating EBITDA from operations and net earnings, consistent with the requirements of the Credit Agreement. Adjusted EBITDA, among other things:
+
+•does not include non-cash stock-based employee compensation expense and certain other non-cash charges;
+
+•does not include cash and non-cash restructuring, severance, and relocation costs incurred to realize future cost savings and enhance operations;
+
+•adds back any non-controlling interest expense, which represents minority investors’ ownership of non-wholly owned consolidated subsidiaries and is, therefore, not available; and
+
+•includes estimated cost savings that have not yet been fully reflected in our results.
+
+Adjusted Net Income and Adjusted Net Income per Share
+
+We use Adjusted Net Income and Adjusted Net Income per share (which we sometimes refer to as “Adjusted EPS”) as performance metrics. Adjusted Net Income is not defined under U.S. GAAP, is not a measure of operating income, operating performance, or liquidity presented in accordance with U.S. GAAP, and is subject to important limitations. We believe that 
+
+providing information concerning Adjusted Net Income and Adjusted Net Income per share enhances an investor’s understanding of our financial performance. We believe that these measures are useful financial metrics to assess our operating performance from period to period by excluding certain items that we believe are not representative of our core business, and we use these measures for business planning and executive compensation purposes. We define Adjusted Net Income as net earnings adjusted for earnings or loss from discontinued operations, net of tax, amortization attributable to purchase accounting, and income or loss from non-controlling interest in majority-owned operations. We also make adjustments for other cash and non-cash items (as shown above, in “—Adjusted EBITDA”), partially offset by our estimate of the tax effect of such cash and non-cash items. Our definition of Adjusted Net Income may not be the same as similarly titled measures used by other companies. Adjusted Net Income per share is computed by dividing Adjusted Net Income by the weighted average diluted shares outstanding.
+
+Use of Constant Currency 
+
+As exchange rates are an important factor in understanding period-to-period comparisons, we believe the presentation of results on a constant currency basis in addition to reported results helps improve investors’ ability to understand our operating results and evaluate our performance in comparison to prior periods. Constant currency information compares results between periods as if exchange rates had remained constant period-over-period. We use results on a constant currency basis as one measure to evaluate our performance. In this Annual Report, we calculate constant currency by calculating current-year results using prior-year foreign currency exchange rates. We generally refer to such amounts calculated on a constant currency basis as excluding the impact of foreign exchange. These results should be considered in addition to, not as a substitute for, results reported in accordance with U.S. GAAP. Results on a constant currency basis, as we present them, may not be comparable to similarly titled measures used by other companies and are not measures of performance presented in accordance with U.S. GAAP.
+
+Restructuring Programs
+
+The contract manufacturing industry is labor intensive. As a result, we incur significant fixed costs to operate our facilities and maintain additional infrastructure required to obtain, develop, manufacture, transport, store, and test our products. Therefore, relatively small changes in demand can have a significant impact on short-term profitability.
+
+In the second quarter of fiscal 2023, we engaged in a restructuring effort, which reduced our cost structure, consolidated facilities, and optimized our infrastructure across the organization. In fiscal 2024, we extended our restructuring effort, with further headcount reduction primarily in our Biologics segment and in our corporate functions. In connection with these restructuring plans, during the fiscal year ended June 30, 2024, we reduced our headcount by approximately 700 employees and incurred $39 million of cumulative pre-tax employee separation and other restructuring related costs. As a result of our restructuring plans, we expect to deliver an annualized run-rate savings of $90 to $100 million.
+
+For further details regarding restructuring costs, see Note 6, Restructuring Costs to our Consolidated Financial Statements.
+
+Summary Two-Year Key Financial Performance Metrics
+
+Discussion of the year-over-year changes for the fiscal year ended June 30, 2023 compared to the fiscal year ended June 30, 2022 and the results of operations and cash flows for the fiscal year ended June 30, 2022, is included in Item 7. — Management's Discussion and Analysis of Financial Condition and Result of Operations of our Annual Report on Form 10-K for the fiscal year ended June 30, 2023, filed with the SEC on December 8, 2023, and is incorporated herein by reference.
+
+The below tables summarize our results in fiscal 2024 and 2023 with respect to several financial metrics we use to measure performance. Refer to the discussions below regarding performance and the use of key financial metrics and “—Non-GAAP Metrics—Use of Constant Currency” concerning the measurement of revenue at “constant currency.”
+
+Fiscal Year Ended June 30, 2024 compared to the Fiscal Year Ended June 30, 2023
+
+Results for the fiscal year ended June 30, 2024 compared to the fiscal year ended June 30, 2023 were as follows:
+
+* Not meaningful 
+
+Change % calculations are based on amounts prior to rounding.
+
+Net Revenue
+
+Net revenue increased by $87 million, or 2%, compared to the fiscal year ended June 30, 2023, excluding the impact of foreign exchange. Net revenue increased 1% organically on a constant-currency basis, primarily related to growth in our gene therapy offerings, partially offset by a significant decline in demand for COVID-19 related programs.
+
+Net revenue increased 1% inorganically as a result of acquisitions. We acquired Metrics Contract Services (“Metrics”) in October 2022.
+
+Gross Margin
+
+Gross margin decreased by $95 million, or 9%, in fiscal 2024 compared to fiscal 2023, excluding the impact of foreign exchange, primarily due to an unfavorable shift in product mix, lower levels of utilization across the network, reduced productivity, and higher costs from increased spending on operational and engineering enhancements in our Biologics segment, partially offset by a decrease in inventory write-offs.
+
+On a constant-currency basis, gross margin, as a percentage of net revenue, decreased 280 basis points to 21.7% in the fiscal year ended June 30, 2024, compared to 24.5% in the prior year, primarily due to the factors described in the previous paragraph.
+
+Selling, General, and Administrative Expense 
+
+Selling, general, and administrative expense increased by $103 million or 12%, compared to fiscal 2023, excluding the impact of foreign exchange. The year-over-year increase was primarily driven by increased spending on operational and engineering enhancements, a $33 million increase in stock-based compensation, a $18 million increase in employee related expenses, a $25 million increase in depreciation and amortization, a one-time insurance benefit of $10 million in the prior year, and $6 million in net incremental expenses from businesses acquired in the last 12 months, partially offset by a $16 million benefit from a decline in credit losses and a $6 million decline in integration costs.
+
+Goodwill Impairment Charges
+
+Goodwill impairment charges during fiscal 2024 were associated with our Consumer Health and Biomodalities reporting units, which are part of our Pharma and Consumer Health and Biologics segments, respectively. For further details, see Note 4, Goodwill to our Consolidated Financial Statements.
+
+Other Operating Expense 
+
+Other operating expense for the fiscal years ended June 30, 2024 and 2023 was $80 million and $164 million, respectively. The year-over-year decrease was primarily due to a $69 million decrease in fixed-asset impairment charges and a $27 million decrease in restructuring charges, partially offset by $12 million of pension settlement charges.
+
+Interest Expense, net 
+
+Interest expense, net, of $254 million in fiscal 2024 increased by $67 million, or 36%, compared to fiscal 2023, excluding the impact of foreign exchange. The increase was primarily attributable to higher interest rates on our variable rate debt and incremental borrowings.
+
+For additional information concerning our debt and financing arrangements, including the changing mix of debt and equity in our capital structure, see “—Liquidity and Capital Resources” below and Note 7, Long-Term Obligations and Short-Term Borrowings to our Consolidated Financial Statements.
+
+Other Expense (Income), net
+
+Other expense, net of $24 million for fiscal 2024 was primarily driven by foreign currency losses of $20 million.
+
+Other income, net of $7 million for fiscal 2023 was primarily driven by foreign currency gains of $8 million.
+
+Provision (Benefit) for Income Taxes 
+
+Our provision for income taxes for the fiscal year ended June 30, 2024 was $16 million relative to loss before income taxes of $1,027 million. Our benefit for income taxes for the fiscal year ended June 30, 2023 was $86 million relative to loss before income taxes of $342 million. The global pretax loss was largely driven by the $687 million goodwill impairment loss in the Consumer Health and BioModalities reporting units. However, the expected benefit from such a loss was not realized, as the majority of the goodwill impairment was not tax deductible. In addition, the establishment of valuation allowances against the 
+
+U.S. Federal and state deferred tax assets, and income tax expense reported by the Company’s profitable non-U.S. reporting entities further reduced the expected benefit. It was also impacted by changes in the tax impact of permanent differences, restructuring, special items, certain equity related compensation, and other discrete tax items with unique tax implications depending on the nature of the item. In contrast, the income tax benefit on the prior-year global pretax loss was primarily due to the recognition of research and development credits in the U.S., the recognition of deferred tax assets on the book impairment of tax deductible goodwill, and decreased earnings in foreign jurisdictions with lower tax rates.
+
+The Organization for Economic Co-operation and Development (“OECD”) introduced Global Anti-Base Erosion and Profit Shifting (“BEPS”) Pillar 2 rules with four new taxing mechanisms under which multi-national entities would pay a minimum level of tax. Numerous countries, including European Union member states, have enacted or are expected to enact legislation to be effective as early as January 1, 2024, with general implementation of a global minimum tax by January 1, 2025. We are still evaluating the impact of these new rules but do not anticipate that it will have a material impact on our income tax provision expense.
+
+Segment Review
+
+The below charts depict the percentage of net revenue from each of our two reportable segments for the previous two years. Refer below for discussions regarding the segments’ net revenue and EBITDA performance and to “—Non-GAAP Metrics” for a discussion of our use of Segment EBITDA, a measure that is not defined under U.S. GAAP.
+
+Our results on a segment basis for the fiscal year ended June 30, 2024 compared to the fiscal year ended June 30, 2023 were as follows:
+
+* Not meaningful
+
+Change % calculations are based on amounts prior to rounding. 
+
+Unallocated costs include restructuring and special items, stock-based compensation, gain (loss) on sale of subsidiary, impairment charges, certain other corporate-directed costs, and other costs that are not allocated to the segments as follows:
+
+(a) Impairment charges and gain/loss on sale of assets during the fiscal year ended June 30, 2024 include fixed-asset impairment charges associated with equipment for a product with significant decline in demand in our Biologics segment and right-of-use asset impairment charges associated with underutilized facilities in our Biologics segment.
+
+For the fiscal year ended June 30, 2023, impairment charges and gain/loss on sale of assets include fixed-asset impairment charges that are primarily associated with an idle facility in the Biologics segment and obsolete equipment that could not be sold or repurposed in the Pharma and Consumer Health segment. 
+
+In the three months ended June 30, 2023, we identified an indicator of impairment related to one of our facilities in the Biologics segment given our plan to pause any additional spend on site development due to a lack of demand, leading to a partial impairment charge of $54 million. We primarily utilized a market and income approach for real property and a cost approach for personal property to record the partial impairment on its idle facility. Impairment charges are recorded in Other operating expense in the consolidated statements of operations. 
+
+Also, in the three months ended June 30, 2023, we identified an indicator of impairment related to obsolete equipment from a terminated project in the Pharma and Consumer Health segment, leading to a full impairment charge of $18 million.
+
+(b) Restructuring and other special items for the fiscal year ended June 30, 2024 include (i) restructuring charges associated with our plans that reduced costs, consolidated facilities, and optimized our infrastructure across the organization, most notably the announced closure of our San Francisco facility and (ii) transaction and integration costs associated with the Metrics acquisition.
+
+Restructuring and other special items for the fiscal year ended June 30, 2023 include (i) restructuring charges associated with the implementation of our restructuring efforts that reduced costs, consolidated facilities, and optimized infrastructure across the organization, (ii) transaction and integration costs associated with the Metrics acquisition, and (iii) warehouse exit costs for a product we no longer manufacture in our Pharma and Consumer Health segment.
+
+(c) Goodwill impairment charges during the fiscal year ended June 30, 2024 were associated with our Consumer Health and Biomodalities reporting units, which are part of our Pharma and Consumer Health and Biologics segments, respectively. For further details, see Note 4, Goodwill to our Consolidated Financial Statements.
+
+Goodwill impairment charges during the fiscal year ended June 30, 2023 were associated with our Consumer Health reporting unit, which is part of our Pharma and Consumer Health segment. For further details, see Note 4, Goodwill to our Consolidated Financial Statements.
+
+(d) Refer to Note 15, Other (Income) Expense, net for details of financing charges and foreign currency adjustments recorded within Other (Income) Expense, net in our Consolidated Financial Statements.
+
+Provided below is a reconciliation of net earnings to EBITDA from operations:
+
+Biologics segment 
+
+Net revenue in our Biologics segment decreased by $36 million, or 2%, excluding the impact of foreign exchange, compared to the fiscal year ended June 30, 2023. The decrease was primarily driven by a significant decline in demand for COVID-19 related programs, partially offset by strong growth in our gene therapy offerings.
+
+Biologics Segment EBITDA decreased by $6 million, or 2%, excluding the impacts of foreign exchange and acquisitions, compared to the fiscal year ended June 30, 2023. Segment EBITDA decreased 2%, compared to the fiscal year end June 30, 2023, excluding the impact of acquisitions. The decrease was primarily driven by a significant decline in demand for COVID-19 related programs, lower levels of utilization across the Biologics network, and higher costs due to increased spending on operational and engineering enhancements, partially offset by strong growth in our gene therapy offerings and a decrease in inventory write-offs.
+
+Pharma and Consumer Health segment 
+
+Net revenue in our Pharma and Consumer Health segment increased by $123 million, or 5%, excluding the impact of foreign exchange, compared to the fiscal year ended June 30, 2023. Net revenue increased 4%, compared to the fiscal year ended June 30, 2023, excluding the impact of acquisitions. The increase in revenue from the manufacture of prescription products and growth in our clinical supply services, were partially offset by a decline in demand for our consumer health products, primarily our wellness products.
+
+Pharma and Consumer Health Segment EBITDA increased by $43 million, or 8%, excluding the impact of foreign exchange, compared to the fiscal year ended June 30, 2023. Segment EBITDA increased 6%, compared to the fiscal year ended June 30, 2023, excluding the impact of acquisitions. The increase in organic Segment EBITDA was primarily driven by an increase in revenue from the manufacture of prescription products, partially offset by a decline in demand for our consumer health products.
+
+We acquired Metrics in October 2022, which increased the segment’s net revenue and Segment EBITDA on an inorganic basis by 1% and 2%, respectively, during the fiscal year ended June 30, 2024, compared to the corresponding prior-year period.
+
+Liquidity and Capital Resources
+
+Sources and Uses of Cash
+
+Our principal source of liquidity has been cash flow generated from operations and the net proceeds of capital market activities. The principal uses of cash are to fund operating and capital expenditures, business or asset acquisitions, interest payments on debt, and any mandatory or discretionary principal payment on our debt. As of June 30, 2024, Catalent Pharma Solutions, Inc., our principal operating subsidiary (“Operating Company”), had available $1.10 billion in borrowing capacity under our Revolving Credit Facility, net of $4 million in letters of credit outstanding as of June 30, 2024.
+
+We believe that our cash on hand, cash from operations, and available borrowings under our Revolving Credit Facility will be adequate to meet our future liquidity needs for at least the next twelve months, as well as the amounts expected to become due with respect to our pending capital projects. We have no significant maturity under any of our bank or note debt until the July 2027 maturity of our 2027 Notes.
+
+Cash Flows 
+
+Fiscal Year Ended June 30, 2024 Compared to the Fiscal Year Ended June 30, 2023 
+
+The following table summarizes our consolidated statements of cash flows for the fiscal year ended June 30, 2024 compared with the fiscal year ended June 30, 2023:
+
+Operating Activities
+
+For the fiscal year ended June 30, 2024, cash provided by operating activities was $268 million, an increase of $14 million compared to $254 million for the prior year. The year-over-year change was primarily due to a benefit in working capital partially offset by an increase in interest payments due to higher outstanding debt balances and higher rates on our variable rate debt.
+
+Investing Activities
+
+For the fiscal year ended June 30, 2024, cash used in investing activities was $327 million, compared to $955 million during fiscal 2023. The decrease in cash used in investing activities was primarily driven by a decrease in mergers and acquisitions activity and a decrease in acquisition of property, equipment, and other productive assets.
+
+Financing Activities
+
+For the fiscal year ended June 30, 2024, cash provided by financing activities was $74 million, compared to $521 million during the fiscal year ended June 30, 2023. The decrease in cash provided by financing activities was primarily driven by a $401 million decrease in net borrowings.
+
+Debt and Financing Arrangements
+
+Senior Secured Credit Facilities and Amendments to the Credit Agreement
+
+Operating Company is the borrower under the Credit Agreement, which provides for senior secured credit facilities consisting of a term loan facility, the Revolving Credit Facility, and facilities for letters of credit and swing-line short-term borrowings. The availability of capacity under the Revolving Credit Facility is reduced by the aggregate value of all outstanding letters of credit under the Credit Agreement and outstanding borrowings under the Revolving Credit Facility. As of June 30, 2024, we had $1.10 billion of unutilized capacity under the Revolving Credit Facility, due to $4 million of outstanding letters of credit.
+
+In November 2022, Operating Company entered into Amendment No. 7 to the Credit Agreement (the “Seventh Amendment”). Pursuant to the Seventh Amendment, Operating Company (i) terminated its existing revolving credit commitments (and the related outstanding revolving borrowings) under the Revolving Credit Facility, and (ii) obtained $1.10 billion aggregate amount of new revolving credit commitments, borrowing thereunder an amount equal to the previously outstanding borrowings under the terminated commitments so that they could be repaid. The new commitments have an interest rate margin, at Operating Company’s option, based on a prime rate, plus a margin ranging from 0.750% to 1.250% based on Operating Company’s consolidated leverage ratio or the Secured Overnight Financing Rate (“SOFR”), plus 0.100%, plus a margin ranging from 1.750% to 2.250% based on Operating Company’s consolidated leverage ratio. The Revolving Credit Facility has a maturity date that is the earlier of (A) five years after November 22, 2022, and (B) the 91st day prior to the maturity of Operating Company’s 2027 Notes or any permitted refinancing thereof, if on such 91st day, any of the 2027 Notes remains outstanding. Otherwise, the Revolving Credit Facility under the Seventh Amendment has the same principal terms as the previously existing revolving credit commitments under the Credit Agreement. 
+
+In June 2023, Operating Company entered into Amendment No. 8 to the Credit Agreement (the “Eighth Amendment”). Pursuant to the Eighth Amendment, effective as of July 1, 2023, the interest rate benchmark applicable to term loans under the Credit Agreement was updated, with the SOFR benchmark replacing the LIBOR benchmark. The Eighth Amendment includes a 0.1148% credit spread adjustment to the SOFR benchmark for loans with a 1-month interest period, a 0.26161% credit spread adjustment to the SOFR benchmark for loans with a 3-month interest period, and a 0.42826% credit spread adjustment to the SOFR benchmark for loans with a 6-month interest period. Other than the foregoing, the material terms of the Credit Agreement remain unchanged. 
+
+On September 27, 2023, Operating Company entered into Amendment No. 9 to the Credit Agreement, which extended the deadlines by which the Operating Company was required to deliver to the administrative agent (i) its audited financial statements as at the end of and for the fiscal year ended June 30, 2023, together with the auditor’s report and opinion on such audited financial statements, to November 27, 2023, and (ii) its unaudited financial statements as at the end of and for the fiscal quarter ending September 30, 2023 to January 13, 2024. 
+
+On November 22, 2023, Operating Company, entered into Amendment No. 10 to the Credit Agreement, which further extended the deadlines by which we are required to deliver to the administrative agent (i) our audited financial statements as at the end of and for the fiscal year ended June 30, 2023, together with the auditor’s report and opinion on such audited financial statements, to January 26, 2024, and (ii) our unaudited financial statements as at the end of and for the fiscal quarter ending September 30, 2023 to March 13, 2024.
+
+On December 19, 2023, Operating Company entered into Amendment No. 11 to the Credit Agreement, pursuant to which Operating Company incurred $600 million aggregate principal amount of new incremental dollar term loans.
+
+Further information concerning the senior secured credit facilities, including our U.S. dollar-denominated term loans and the Revolving Credit Facility, can be found in Note 7, Long-Term Obligations and Short-Term Borrowings to the Consolidated Financial Statements
+
+5.000% Senior Notes due 2027
+
+In June 2019, Operating Company completed a private offering of the 2027 Notes. The 2027 Notes are fully and unconditionally guaranteed, jointly and severally, by all of the wholly owned U.S. subsidiaries of Operating Company that guarantee its senior secured credit facilities. The 2027 Notes were offered in the U.S. to qualified institutional buyers in reliance on Rule 144A under the Securities Act and outside the U.S. only to non-U.S. investors pursuant to Regulation S under the Securities Act. The 2027 Notes will mature on July 15, 2027 and bear interest at the rate of 5.000% per annum. Interest is payable semi-annually in arrears on January 15 and July 15 of each year. The proceeds of the 2027 Notes, after payment of the 
+
+offering fees and expenses, were used to repay in full the outstanding borrowings under Operating Company’s then-outstanding term loans, which would otherwise have matured in May 2024. 
+
+2.375% Euro-denominated Senior Notes due 2028
+
+In March 2020, Operating Company completed a private offering of the 2028 Notes. The 2028 Notes are fully and unconditionally guaranteed, jointly and severally, by all of the wholly owned U.S. subsidiaries of Operating Company that guarantee its senior secured credit facilities. The 2028 Notes were offered in the U.S. to qualified institutional buyers in reliance on Rule 144A under the Securities Act and outside the U.S. only to non-U.S. investors pursuant to Regulation S under the Securities Act. The 2028 Notes will mature on March 1, 2028 and bear interest at the rate of 2.375% per annum. Interest is payable semi-annually in arrears on March 1 and September 1 of each year. The proceeds of the 2028 Notes, after payment of the offering fees and expenses, were used to repay in full the outstanding borrowings under Operating Company’s euro-denominated term loans, which would otherwise have matured in May 2024, and to repay in full our Euro-denominated 4.75% Senior Notes due 2024, which would otherwise have matured in December 2024, plus accrued and unpaid interest thereon, with the remainder available for general corporate purposes.
+
+3.125% Senior Notes due 2029
+
+In February 2021, Operating Company completed a private offering of the 2029 Notes. The 2029 Notes are fully and unconditionally guaranteed, jointly and severally, by all of the wholly owned U.S. subsidiaries of Operating Company that guarantee its senior secured credit facilities. The 2029 Notes were offered in the U.S. to qualified institutional buyers in reliance on Rule 144A under the Securities Act and outside the U.S. only to non-U.S. investors pursuant to Regulation S under the Securities Act. The 2029 Notes will mature on February 15, 2029 and bear interest at the rate of 3.125% per annum payable semi-annually in arrears on February 15 and August 15 of each year. The proceeds of the 2029 Notes, after payment of the offering fees and expenses were used to repay in full the outstanding borrowings under an earlier issue of unsecured notes, which would have otherwise matured in 2026, plus accrued and unpaid interest thereon, with the remainder available for general corporate purposes.
+
+3.500% Senior Notes due 2030
+
+In September 2021, Operating Company completed a private offering of the 2030 Notes. The 2030 Notes are fully and unconditionally guaranteed, jointly and severally, by all of the wholly owned U.S. subsidiaries of Operating Company that guarantee its senior secured credit facilities. The 2030 Notes were offered in the U.S. to qualified institutional buyers in reliance on Rule 144A under the Securities Act and outside the U.S. only to non-U.S. investors pursuant to Regulation S under the Securities Act. The 2030 Notes will mature on April 1, 2030 and bear interest at the rate of 3.500% per annum payable semi-annually in arrears on April 1 and October 1 of each year. The proceeds of the 2030 Notes, after payment of the offering fees and expenses, were used to fund a portion of the consideration paid at the closing of the Bettera Wellness acquisition.
+
+Debt Covenants
+
+Senior Secured Credit Facilities
+
+The Credit Agreement contains covenants that, among other things, restrict, subject to certain exceptions, Operating Company’s (and Operating Company’s restricted subsidiaries’) ability to incur additional indebtedness or issue certain preferred shares; create liens on assets; engage in mergers and consolidations; sell assets; pay dividends and distributions or repurchase capital stock; repay subordinated indebtedness; engage in certain transactions with affiliates; make investments, loans, or advances; make certain acquisitions; enter into sale and leaseback transactions; amend material agreements governing Operating Company’s subordinated indebtedness; and change Operating Company’s lines of business.
+
+The Credit Agreement also contains change-of-control provisions and certain customary affirmative covenants and events of default. The Revolving Credit Facility requires compliance with a net leverage covenant when there is a 30% or more draw outstanding at a period end. As of June 30, 2024, Operating Company was in compliance with all material covenants under the Credit Agreement. 
+
+Subject to certain exceptions, the Credit Agreement permits Operating Company and its restricted subsidiaries to incur certain additional indebtedness, including secured indebtedness. None of Operating Company’s non-U.S. subsidiaries nor its dormant Puerto Rico subsidiary is a guarantor of the loans.
+
+Under the Credit Agreement, Operating Company’s ability to engage in certain activities such as incurring certain additional indebtedness, making certain investments, and paying certain dividends is tied to ratios based on Adjusted EBITDA (which is defined as “Consolidated EBITDA” in the Credit Agreement). Adjusted EBITDA is based on the definitions in the 
+
+Credit Agreement, is not defined under U.S. GAAP, and is subject to important limitations. See “Non-GAAP Metrics” for further details on Adjusted EBITDA.
+
+The Senior Notes
+
+The several indentures governing each series of our outstanding senior notes (collectively, the “Indentures”) contain certain covenants that, among other things, limit our ability to incur or guarantee more debt or issue certain preferred shares; pay dividends on, repurchase, or make distributions in respect of their capital stock or make other restricted payments; make certain investments; sell certain assets; create liens; consolidate, merge, sell; or otherwise dispose of all or substantially all of their assets; enter into certain transactions with their affiliates, and designate their subsidiaries as unrestricted subsidiaries. These covenants are subject to a number of exceptions, limitations, and qualifications as set forth in the Indentures. The Indentures also contain customary events of default, including, but not limited to, nonpayment, breach of covenants, and payment or acceleration defaults in certain other indebtedness of Operating Company or certain of its subsidiaries. Upon an event of default, either the holders of at least 30% in principal amount of each of the then-outstanding series of Senior Notes, or the applicable Trustee under the Indentures, may declare the applicable senior notes immediately due and payable; or in certain circumstances, the applicable senior notes will become automatically immediately due and payable. As of June 30, 2024, Operating Company was in compliance with all material covenants under the Indentures.
+
+Capital Resources
+
+As market conditions warrant, we and our affiliates may from time to time seek to purchase our outstanding debt in privately negotiated or open-market transactions, by tender offer or otherwise. Subject to any applicable limitation contained in the Credit Agreement, any purchase made by us may be funded by the use of cash on hand or the incurrence of new secured or unsecured debt. The amounts involved in any such purchase transaction, individually or in the aggregate, may be material. Any such purchase may be with respect to a substantial amount of a particular class or series of debt, with the attendant reduction in the trading liquidity of such class or series. In addition, any such purchase made at prices below the “adjusted issue price” (as defined for U.S. federal income tax purposes) may result in taxable cancellation of indebtedness income to us, which amounts may be material, or in related adverse tax consequences to us. 
+
+Geographic Allocation of Cash
+
+As of June 30, 2024 and 2023, the amounts of cash and cash equivalents held by foreign subsidiaries were $257 million and $181 million, respectively, out of total consolidated cash and cash equivalents of $289 million and $280 million, respectively. These balances are dispersed across many international locations around the world.
+
+Adjusted EBITDA and Adjusted Net Income per Share 
+
+The below tables summarize our fiscal 2024 and 2023 results with respect to certain financial metrics we use to measure performance throughout the fiscal year. Refer to “Non-GAAP Metrics” for further details regarding Adjusted EBITDA and Adjusted net income per share.
+
+A reconciliation between Adjusted EBITDA and net earnings, the most directly comparable measure under U.S. GAAP, which also shows the adjustments from EBITDA from operations, follows:
+
+Foreign exchange loss of $13 million for the fiscal year ended June 30, 2024 includes $13 million of unrealized losses related to foreign trade receivables and payables and intercompany transactions.
+
+Foreign exchange gain of $11 million for the fiscal year ended June 30, 2023 includes $10 million of unrealized gains related to foreign trade receivables and payables and intercompany transactions.
+
+A reconciliation between Adjusted Net Income and net earnings, the most directly comparable measure under U.S. GAAP, follows. 
+
+Represents the amortization attributable to purchase accounting for previously completed business combinations. 
+
+Foreign exchange loss of $13 million for the fiscal year ended June 30, 2024 includes $13 million of unrealized losses related to foreign trade receivables and payables intercompany transactions.
+
+Foreign exchange gain of $11 million for the fiscal year ended June 30, 2023 includes $10 million of unrealized gains related to foreign trade receivables and payables intercompany transactions.
+
+We computed the tax effect of adjustments to net earnings by applying the statutory tax rate in the relevant jurisdictions to the income or expense items that are adjusted in the period presented. If a valuation allowance exists, the rate applied is zero.
+
+Discrete period income tax expense (benefit) items are unusual or infrequently occurring items, primarily including: changes in judgment related to the realizability of deferred tax assets in future years, changes in measurement of a prior-year tax position, deferred tax impact of changes in tax law, and purchase accounting.
+
+Represents Adjusted Net Income divided by the weighted average number of shares of Common Stock outstanding. For the fiscal year ended June 30, 2024 and 2023, the weighted average was 181 million.
+
+Represents Adjusted Net Income divided by the weighted average sum of (a) the number of shares of Common Stock outstanding, plus (b) the number of shares of Common Stock that would be issued assuming exercise or vesting of all potentially dilutive instruments. For the fiscal years ended June 30, 2024 and 2023, the weighted average was 182 million and 181 million, respectively.
+
+Interest Rate Risk Management
+
+We have historically used interest-rate swaps to manage the economic effect of variable-rate interest obligations associated with our floating-rate term loans so that the interest payable on at least a portion of the term loans effectively becomes fixed at a certain rate, thereby reducing the impact of future interest-rate changes on our future interest expense.
+
+A portion of our bank and note debt is exposed to interest-rate fluctuations. We have in the past used and may continue to use various hedging strategies and derivative financial instruments to create an appropriate mix of fixed- and floating-rate assets and liabilities. In February 2021, we entered into an interest-rate swap agreement with Bank of America N.A. that acted as a hedge against the economic effect of a portion of the variable-interest obligation associated with our U.S. dollar-denominated term loans under our senior secured credit facilities, so that the interest payable on that portion of the debt became fixed at a certain rate, thereby reducing the impact of future interest-rate increases on future interest expense (the “2021 Rate Swap”). From June 30, 2021 until the effective date of the Eighth Amendment, the applicable rate for the U.S. dollar-denominated term loan under the Credit Agreement was one-month LIBOR (subject to a floor of 0.50%) plus 2.00%; however, as a result of the 2021 Rate Swap, the variable portion of the applicable rate on $500 million of the U.S. dollar-denominated term loans was effectively fixed during this period at 0.9985%.
+
+To conform with the adoption of ASC 848, Reference Rate Reform and the Eighth Amendment, the Company amended the 2021 Rate Swap in June 2023 (the “2023 Rate Swap”). The 2023 Rate Swap continues to effectively fix the rate of interest payable on the same portion of our U.S dollar-denominated term loans under our secured credit facilities. The applicable rate for the U.S. dollar-denominated term loan under the Credit Agreement was SOFR (subject to a floor of 0.39%) plus 2.00% as of June 30, 2024. As a result of the 2023 Rate Swap, the variable portion of the applicable interest rate on $500 million of the U.S. dollar-denominated term loans is now effectively fixed at 0.9431%.
+
+Currency Risk Management
+
+We are exposed to fluctuations in the euro-U.S. dollar exchange rate on our investments in our foreign operations in Europe. While we do not actively hedge against changes in foreign currency, we have mitigated the exposure of our investments in our European operations by denominating a portion of our bank and note debt in euros. As of June 30, 2024, we had $883 million of euro-denominated debt outstanding that qualifies as a hedge on a net investment in foreign operations. Refer to Note 9, Derivative Instruments and Hedging Activities, to our Consolidated Financial Statements for further discussion of net investment hedge activity in the period. 
+
+From time to time, we may use forward currency exchange contracts to manage our exposure to the variability of cash flows primarily related to the foreign exchange rate changes of future foreign currency transaction costs. In addition, we may use foreign currency forward contracts to protect the value of existing foreign currency assets and liabilities. Currently, we do not use foreign currency exchange contracts. We expect to continue to evaluate hedging opportunities for foreign currency in the future.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE

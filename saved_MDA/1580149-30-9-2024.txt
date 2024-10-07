@@ -1,0 +1,110 @@
+. | MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+---|--- 
+
+The following discussion of the Company’s financial condition and the results of operations should be read in conjunction with the Financial Statements and Notes thereto appearing elsewhere in this report.
+
+Overview
+
+We are a clinical-stage company developing innovative drug therapies to treat chronic debilitating conditions including liver disease and neurological and neuro-degenerative disorders.
+
+Neurodegenerative Disease Program
+
+The Company acquired the biopharmaceutical assets of NeurMedix a privately held clinical-stage pharmaceutical company and a related party in June 2021. The acquired assets included NE3107. In April 2024, the Company announced that the United States Adopted Names Council, and the World Health Organization International Nonproprietary Names expert committee had approved “bezisterim” as the non-proprietary (generic) name for NE3107. Bezisterim (NE3107) is an investigational, novel, orally administered small molecule that is thought to inhibit inflammation-driven insulin resistance and major pathological inflammatory cascades with a novel mechanism of action. There is emerging scientific consensus that both inflammation and insulin resistance may play fundamental roles in the development of AD and PD, and bezisterim (NE3107) could, if approved by FDA, represent an entirely new medical approach to treating these devastating conditions affecting an estimated 6 million Americans suffering from AD and 1 million Americans suffering from PD.
+
+In neurodegenerative disease, bezisterim (NE3107) inhibits activation of inflammatory ERK and nuclear factor kappa-light-chain-enhancer of activated B cells (“NFκB”) (including interactions with TNF signaling and other relevant inflammatory pathways) that lead to neuroinflammation and insulin resistance. Bezisterim (NE3107) does not interfere with their homeostatic functions (e.g., insulin signaling and neuron growth and survival). Both inflammation and insulin resistance are drivers of AD and PD.
+
+About Inflammation and Bezisterim’s (NE3107’s) Mechanism of Action
+
+Neuroinflammation, insulin resistance, and oxidative stress are common features in the major neurodegenerative diseases, including AD, PD, frontotemporal lobar dementia, and ALS. Bezisterim (NE3107) is an orally bioavailable, blood-brain permeable, small molecule, with potential anti-inflammatory, insulin sensitizing, and ERK-binding properties that may allow it to selectively inhibit ERK-, NFκB- and TNF-stimulated inflammation. Bezisterim’s (NE3107’s) potential to inhibit neuroinflammation and insulin resistance forms the basis for the Company’s work testing the molecule in AD and PD patients.
+
+Parallels exist between AD and PD, among them activated microglia driving inflammation, involvement of TNFα, oxidative stress, protein misfolding, mitochondrial dysfunction, and insulin resistance. In preclinical and clinical studies, bezisterim (NE3107) reduced inflammation and enhanced insulin sensitivity, both of which are important to PD pathology. Preclinical studies in marmoset monkeys have shown bezisterim (NE3107) administered alone to be as pro-motoric as levodopa, underscoring the apparently critical role of inflammation in expression of PD motor symptoms. When bezisterim (NE3107) was administered with levodopa, the combination improved motor control better than either drug alone. Furthermore, in the marmoset study, bezisterim (NE3107) reduced the severity of LID concurrent with pro-motoric benefit and decreased neurodegeneration, preserving twice as many dopaminergic neurons compared to control.
+
+Parkinson’s Disease
+
+Parkinson’s disease (PD), which affects an estimated 1 million Americans, is driven in large part by neuroinflammation and activation of brain microglia, leading to increased proinflammatory cytokines (particularly TNF). Multiple daily administrations of levodopa (converted to dopamine in the brain) is the current standard of care treatment for this movement disorder, but levodopa effectiveness diminishes over time necessitating increased dosage and prolonged daily administration leads to side effects of uncontrolled movements called levodopa-induced dyskinesia, commonly referred to as LID, which is exacerbated by high dose levodopa. Although levodopa provides symptomatic benefit, it does not slow PD progression.
+
+Long COVID Program
+
+In April 2024, the Company announced the grant of a clinical trial award of up to $13.1 million from the U.S. Department of Defense, awarded through the Peer Reviewed Medical Research Program of the Congressionally Directed Medical Research Programs. The award can provide up to 2 years of non-dilutive funding for a Phase 2 clinical trial that will assess bezisterim (NE3107) for the treatment of neurological symptoms that are associated with long COVID. The Company anticipates the trial to commence by early 2025. The study protocol has been finalized and submitted to the FDA for regulatory review in July 2024. The FDA notified the Company that the study can proceed on August 22, 2024.
+
+Long COVID is a condition in which symptoms of COVID-19, the acute respiratory disease caused by the SARS-CoV-2 virus, persist for an extended period of time, generally three months or more. The Centers for Disease Control recently reported that 6.8% of adults in the United States (more than 17 million individuals) currently or previously had long COVID. Symptoms, which include fatigue, cognitive dysfunction and sleep disturbances, are debilitating. The loss in quality of life and earnings and increased medical costs has an enormous economic impact estimated to be 3.7 trillion dollars. To date there are no therapies proven effective for treatment.
+
+Chronic inflammation is one of the main hypotheses that researchers have proposed to explain the persistence of symptoms in long COVID. Specifically in individuals with “brain fog,” sustained systemic inflammation and persistent localized blood-brain-barrier (“BBB”) dysfunction are key physiological features. Bezisterim (NE3107) permeates the BBB and has been shown to modulate inflammation via the inhibition of NF-kB activation, thus representing a novel oral treatment targeting an underlying cause of long COVID symptoms.
+
+Chronic neuroinflammation, insulin resistance, and oxidative stress are common features in the major neurodegenerative diseases, including AD, PD, frontotemporal lobar dementia, and Amyotrophic lateral sclerosis. Bezisterim (NE3107) is an investigational oral small molecule, blood-brain permeable, compound with potential anti-inflammatory, insulin sensitizing, and ERK-binding properties that may allow it to selectively inhibit ERK-, NFκB- and TNF-stimulated inflammation. Bezisterim’s (NE3107) potential to inhibit neuroinflammation and insulin resistance forms the basis for the Company’s work testing the molecule in AD, PD, and long COVID patients. Bezisterim (NE3107) is patented in the United States, Australia, Canada, Europe and South Korea.
+
+Results of Operations
+
+Comparison of the Year Ended June 30, 2024 to the Year Ended June 30, 2023
+
+Net loss
+
+The net loss was approximately $33.0 million and $50.3 million for the years ended June 30, 2024 and 2023, respectively. The decrease in net loss of approximately $17.3 million was comprised of a net decrease in research and development expenses of approximately $10.2 million and selling, general and administrative expenses of approximately $2.7 million, and further reduced by an increase in interest income of approximately $574,000, a reduction in interest expense of approximately $1.4 million and the reduction in the fair value of derivative liabilities of approximately $3.3 million.
+
+Total operating expenses were approximately $32.2 million and $45.1 million for the year ended June 30, 2024, and 2023, respectively. The net decrease of approximately $12.9 million for the year ended June 30, 2024, was comprised of a decrease in research and development expenses of approximately $10.2 million and a decrease in selling, general and administrative expenses of approximately $2.7 million.
+
+Research and Development Expenses
+
+Research and development expenses were approximately $23.1 million and $33.3 million for the year ended June 30, 2024, and 2023, respectively. The net decrease of approximately $10.2 million for the year ended June 30, 2024, was primarily attributed to a reduction in expenses totaling approximately $13.8 million due to the completion of clinical studies, offset by increased expenses of approximately $3.6 million primarily comprised of the planning and development of new studies of approximately $836,000 which included the development of Sunrise 1 PD PH2b and Radiance 1 AD MCI Ph2b/3 studies which have been put on hold in the first quarter of the fiscal year ended June 30,2024 pending financing and were designed to be large potentially registrational studies. an increase in Chemistry, Manufacturing and Controls (“CMC”) expense of approximately $1.0 million for drug production and development, an increase in clinical team compensation from the clinical team expansion and the use of consultants totaling approximately $732,000 and $474,000, respectively, and other increases in regulatory and other consultants of approximately $362,000 and publications and travel of approximately $187,000. The decreased expenses from completed clinical studies of approximately $13.8 million were comprised of approximately $2.7 million from Ascites BIV201 Phase 2b study, approximately $2.1 million from the PD Phase 2 study, both studies were completed in the prior fiscal year ended June 30, 2023, approximately $238,000 from the Investigator-Initiated Trial in MCI and Mild Alzheimer’s Disease, and approximately $8.8 million from the AD pivotal Phase 3 clinical study that completed on December 31, 2023.
+
+The following summarizes the expenses incurred during the fiscal years ending June 30, 2024 and 2023 for new developmental studies and the completed studies:
+
+Selling, General and Administrative Expenses
+
+Selling, general and administrative expenses were approximately $8.8 million and $11.6 million for the year ended June 30, 2024 and 2023, respectively. The net decrease of approximately $2.7 million was primarily attributed to decreased stock and cash compensation of approximately $2.8 million of the executives and directors, and a decline in investor relations fees of approximately $396,000, offset by insurance expense of approximately $248,000 and legal fees of approximately $306,000.
+
+Other Income and Expense
+
+Other income, net was approximately $59,000 compared to other expense, net of $5.2 million, for the year ended June 30, 2024 and 2023, respectively. The net increase in other income of approximately $5.2 million was primarily driven by the change in fair value of the derivative liabilities of approximately $3.3 million, reduction in interest expense of approximately $1.4 million due to amortization and accretion of the financing costs, unearned discount, and premium relating to the note payable, and an increase in interest income of approximately $574,000 from the investment in U.S. Treasury Bills.
+
+Capital Resources and Liquidity
+
+As of June 30, 2024, the Company had working capital of approximately $14.7 million, cash and cash equivalents of approximately $23.8 million, stockholders’ equity of approximately $15.5 million, and an accumulated deficit of approximately $334.2 million. Additionally, the Company had a net loss of approximately $32.1 million and net cash used in operating activities of approximately $27.9 million during the year ended June 30, 2024. In addition, the Company has not generated any revenues to date and no revenues are expected in the foreseeable future. The Company’s future operations are dependent on the success of the Company’s ongoing development and commercialization efforts, as well as its ability to secure additional financing as needed. Projected cash flows could be extended if further measures are taken to delay planned expenditures in our research protocols and slow the progress in the Company’s development and launch of next phase clinical programs.
+
+The future viability of the Company is largely dependent upon its ability to raise additional capital to finance its operations. Management expects that future sources of funding may include sales of equity, obtaining loans, or other strategic transactions.
+
+Although management continues to pursue the Company’s strategic plans, there is no assurance that the Company will be successful in obtaining sufficient financing on terms acceptable to the Company, if at all, to fund continuing operations. These circumstances raise substantial doubt on the Company’s ability to continue as a going concern. The financial statements included elsewhere in this Form 10-K do not include any adjustments that might result from the outcome of this uncertainty.
+
+At-The-Market Facility
+
+On August 31, 2022, the Company entered into a Sales Agreement with Cantor, pursuant to which the Company may issue and sell from time-to-time shares of the Company’s Common Stock through Cantor, subject to the terms and conditions of the Sales Agreement. During the year ended June 30, 2024, the Company sold 333,749 shares of its Common Stock under the ATM Agreement with Cantor for total net proceeds of approximately $9.3 million after 3% commissions and cost totaling approximately $377,000.
+
+Underwritten Offering
+
+On March 6, 2024, the Company closed the best efforts public offering (the “March 2024 Offering”) of 1,500,000 shares (the “Shares”) of Common Stock, pre-funded warrants (the “Pre-funded Warrants”) to purchase 600,000 shares of Common Stock, and warrants to purchase up to 1,050,000 shares of Common Stock (the “Common Warrants”) (CUSIP 09074F132) at a combined public offering price of $10.00 per Share, or Pre-funded Warrant, and the associated Common Warrant. The gross proceeds to the Company from the March 2024 Offering were approximately $21 million, before deducting placement agent fees and offering expenses of approximately $2.5 million. Upon closing of the March 2024 Offering, the Company issued the placement agent a warrant (“Placement Agent’s Warrant”) to purchase 105,000 shares of Common Stock exercisable at a per share price of $12.50, which was equal to 125% of the public offering price per Share. The Placement Agent’s Warrant is exercisable during a five-year period commencing 180 days from March 6, 2024.
+
+Off-Balance Sheet Arrangements
+
+The term “off-balance sheet arrangement” generally means any transaction, agreement or other contractual arrangement to which an entity unconsolidated with the Company is a party, under which the Company has (i) any obligation arising under a guarantee contract, derivative instrument or variable interest; or (ii) a retained or contingent interest in assets transferred to such entity or similar arrangement that serves as credit, liquidity or market risk support for such assets. The Company has no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect or change on the Company’s financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors. 
+
+Critical Accounting Policies and Estimates
+
+Cash and cash equivalents 
+
+Cash and cash equivalents consisted of cash deposits and money market funds held at a bank and funds held in a brokerage account which included a U.S. treasury money market fund and U.S. Treasury Bills with original maturities of three months or less.
+
+Concentration of Credit Risk in the Financial Service Industry
+
+As of June 30, 2024, the Company had cash deposited in certain financial institutions in excess of federally insured levels. The Company regularly monitors the financial stability of these financial institutions and believes that it is not exposed to any significant credit risk in cash and cash equivalents. However, in March and April 2023, certain U.S. government banking regulators took steps to intervene in the operations of certain financial institutions due to liquidity concerns, which caused general heightened uncertainties in financial markets. While these events have not had a material direct impact on the Company’s operations, if further liquidity and financial stability concerns arise with respect to banks and financial institutions, either nationally or in specific regions, the Company’s ability to access cash or enter into new financing arrangements may be threatened, which could have a material adverse effect on its business, financial condition and results of operations.
+
+Investments in U.S. Treasury Bills
+
+Investments in U.S. Treasury Bills with maturities greater than three months, are accounted for as available for sale and are recorded at fair value. Unrealized gains were included in other comprehensive income in the accompanying statements of operations and comprehensive loss.
+
+Research and Development
+
+Research and development expenses consist primarily of costs associated with the preclinical and/or clinical trials of drug candidates, compensation and other expenses for research and development, personnel, supplies and development materials, costs for consultants and related contract research and facility costs.
+
+Accounting for Stock-based Compensation
+
+The Company follows the provision of Accounting Standards Codification (“ASC”) Topic 718 - Stock Compensation (“ASC 718”), which requires the measurement of compensation expense for all share-based payment awards made to employees and non-employee director, including employee stock options. Share-based compensation expense is based on the grant date fair value estimated in accordance with the provisions of ASC 718 and is generally recognized as an expense over the requisite service period, net of forfeitures which are recorded as they occur.
+
+Fair value measurement of assets and liabilities
+
+We determine the fair values of our financial instruments based on the fair value hierarchy, which requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. The fair value assumes that the transaction to sell the asset or transfer the liability occurs in the principal or most advantageous market for the asset or liability and establishes that the fair value of an asset or liability shall be determined based on the assumptions that market participants would use in pricing the asset or liability. The classification of a financial asset or liability within the hierarchy is based upon the lowest level input that is significant to the fair value measurement. The fair value hierarchy prioritizes the inputs into three levels that may be used to measure fair value:
+
+Level 1 - Inputs are unadjusted quoted prices in active markets for identical assets or liabilities.
+
+Level 2 - Inputs are quoted prices for similar assets and liabilities in active markets or inputs that are observable for the asset or liability, either directly or indirectly through market corroboration, for substantially the full term of the financial instrument.
+
+Level 3 - Inputs are unobservable inputs based on our assumptions.

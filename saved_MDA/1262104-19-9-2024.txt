@@ -1,0 +1,189 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion and analysis should be read in conjunction with Item 8. Consolidated Financial Statements and Supplementary Data included below in this Annual Report. Operating results are not necessarily indicative of results that may occur in future periods.
+
+This discussion and analysis contains forward-looking statements that involve a number of risks, uncertainties and assumptions. Actual results may differ materially from those anticipated in the forward-looking statements as a result of many factors including, but not limited to, those set forth under Cautionary Statement About Forward-Looking Statements and Risk Factors in Item 1A. Risk Factors included above in this Annual Report. All forward-looking statements included in this Annual Report are based on the information available to us as of the time we file this Annual Report, and except as required by law, we undertake no obligation to update publicly or revise any forward-looking statements.
+
+Overview
+
+MEI Pharma, Inc. (Nasdaq: MEIP) is a pharmaceutical company that has been developing novel and differentiated cancer therapies. We built our pipeline by acquiring promising cancer agents and creating value in programs through clinical development, strategic partnerships, and out-licensing or commercialization, as appropriate. Our approach to oncology drug development has been to evaluate our drug candidates in combinations with standard-of-care therapies to overcome known resistance mechanisms and address clear medical needs to provide improved patient benefit.
+
+Clinical Development Programs
+
+Our drug candidate pipeline includes voruciclib, an oral cyclin-dependent kinase 9 (CDK9) inhibitor and ME-344, an intravenous small molecule mitochondrial inhibitor targeting the oxidative phosphorylation pathway.
+
+For a more complete discussion of our business, see the section of this Annual Report Item 1. Business above.
+
+Recent Developments
+
+Notification of Strategic Alternatives Evaluation
+
+On July 22, 2024, we announced that our Board had determined unanimously to begin the evaluation of our strategic alternatives, including potential transactions as well as an orderly wind down of operations, if appropriate, to maximize the value of our assets for our stockholders. We commenced a reduction-in-force beginning August 1, 2024, which will continue in stages as our operational and strategic direction evolves. We have discontinued the clinical development of voruciclib, while certain nonclinical activities related to MEI’s drug candidate assets will continue to be conducted by us. As part of the review of strategic alternatives, we may consider options such as out-licensing opportunities for existing programs and merger and acquisition opportunities. Consistent with our intention to preserve cash, David M. Urso, our President and Chief Executive Officer, and Richard Ghalie, MD, our Chief Medical Officer, have stepped down effective August 1, 2024. Mr. Urso also left the Board at that date. We have entered into consulting agreements with both Mr. Urso and Dr. Ghalie under which they will remain available to assist us in our strategic efforts. Charles V. Baltic III, the Chairperson of the Board, also stepped down from the Board contemporaneously with the announcement on July 22, 2024. Our Board has appointed Justin J. File, our current Chief Financial Officer, to assume the position of Acting Chief Executive Officer and has appointed Frederick W. Driscoll as Chairperson of the Board.
+
+Cooperation Agreement
+
+On October 31, 2023, we announced our entry into a Cooperation Agreement (Cooperation Agreement) with Anson Funds Management LP and Cable Car Capital LLC (Anson and Cable Car, respectively), which, among other non-financial related items provided for a capital return to stockholders in the form of a dividend in the amount of $1.75 per share of common stock, as further discussed below. Additionally, the Cooperation Agreement contemplated a potential second return of capital not to exceed $9.33 million (Potential Second Return of Capital) if authorized by Board should our ongoing ME-344 Phase 1b trial fail to meet certain defined endpoints or our Board determines not to proceed with a second cohort.
+
+In April 2024, the Board unanimously determined not to proceed with the Potential Second Return of Capital under the Cooperation Agreement in order to conserve resources and align strategic investment, and thereby extend our operational runway.
+
+As part of the Cooperation Agreement, Anson and Cable Car withdrew their consent solicitation and agreed to abide by customary standstill provisions. Additionally, we reimbursed Anson's and Cable Car’s fees and expenses related to their engagement
+
+with us as of the date of the Cooperation Agreement in an amount of $1.1 million, which is recorded within general and administrative expenses in the consolidated statements of operations for the fiscal year ended June 30, 2024.
+
+Cash Dividend
+
+On November 6, 2023, pursuant to the Cooperation Agreement, the Board declared a special cash dividend of $1.75 per share of common stock to stockholders of record at the close of business on November 17, 2023. The total dividend of $11.7 million was paid on December 6, 2023, and was recorded as a reduction of additional paid-in capital in the consolidated statements of stockholders' equity, as we have an accumulated deficit, rather than retained earnings.
+
+Equity Transactions
+
+Shelf Registration Statement
+
+We have a shelf registration statement (February 2024 Shelf Registration Statement) that permits us to sell, from time to time, up to $100.0 million of common stock, preferred stock, warrants rights and units subject to the "Baby Shelf Limitation" described below. The February 2024 Shelf Registration Statement was filed February 20, 2024 and declared effective February 28, 2024.
+
+At-The-Market Equity Offering
+
+On February 20, 2024, we entered into a capital on demand sales agreement with JonesTrading Institutional Services LLC, pursuant to which we can offer and sell shares having an aggregate offering price of up to $25.0 million (ATM Program). In no event will we sell securities registered on this registration statement in a public primary offering with a value exceeding more than one-third of our public float in any 12-month period so long as our public float remains below $75 million (Baby Shelf Limitation). As of January 2, 2024, the date used under applicable rules of the Securities and Exchange Commission to determine our public float at the commencement of the offering, one-third of our public float was equal to approximately $9.9 million. As of June 30, 2024, no shares have been issued and sold under our ATM Program.
+
+Rights Agreement
+
+On October 1, 2023, our Board approved and adopted a rights agreement (Rights Agreement) by and between us and Computershare, Inc., as Rights Agent (as defined in the Rights Agreement). Pursuant to the Rights Agreement, the Board declared a dividend of one preferred share purchase right (each, a Right) for each outstanding share of our common stock, par value $0.00000002 (each, a Common Share and collectively, the Common Shares). The Rights are distributable to stockholders of record as of the close of business on October 12, 2023. One Right also will be issued together with each Common Share issued by us after October 12, 2023, but before the Distribution Date (as defined in the Rights Agreement) (or the earlier of the redemption or expiration of the Rights) and, in certain circumstances, after the Distribution Date.
+
+Warrants
+
+In May 2023, outstanding warrants to purchase 802,949 shares of our common stock expired. The warrants were fully vested and exercisable at a price of $50.80 per share. Pursuant to the terms of the warrants, we could have been required to settle the warrants in cash in the event of an acquisition of the company and, as a result, the warrants were required, prior to their expiration, to be measured at fair value and reported as a liability in the consolidated balance sheets. As of June 30, 2022, the warrants were valued at $1.6 million. Prior to their expiration, the warrants had been revalued to $0, as of December 31, 2022. All corresponding changes in fair value were recorded as a component of other income (expense) in our consolidated statements of operations. The warrants expired in May 2023.
+
+As of June 30, 2024, we have outstanding warrants to purchase 102,513 shares of our common stock, all issued to Torreya Partners LLC in fiscal year 2023. The warrants are fully vested, exercisable at a price of $6.80 per share and expire in October 2027. No warrants were exercised during the years June 30, 2024 and 2023.
+
+Critical Accounting Estimates
+
+Critical accounting policies are those most important to the portrayal of our financial condition and results of operations and require management’s difficult, subjective, or complex judgment, often as a result of the need to make estimates about the effect of matters that are inherently uncertain and may change in subsequent periods. Certain accounting estimates are particularly sensitive because of their significance to financial statements and because of the possibility future events affecting the estimate may differ significantly from management’s current judgments. We believe the following critical accounting policies involve the most significant estimates and judgments used in the preparation of our consolidated financial statements.
+
+Except as provided below, there have been no material changes from the critical accounting estimates identified below nor our significant accounting policies set forth in Note 2. Summary of Significant Accounting Policies.
+
+Impairment of Long-Lived Assets (Property and Equipment, and Intangible Assets)
+
+In accordance with the authoritative guidance for impairment or disposal of long-lived assets Accounting Standards Codification (ASC) Topic 360, Property, Plant and Equipment (ASC 360), we assess potential impairments to our long-lived assets, including property, equipment and right-of-use assets, when there is evidence that events or changes in circumstances indicate that the carrying value may not be recoverable. We recognize an impairment loss when the undiscounted cash flows expected to be generated by an asset (or group of assets) are less than the asset’s carrying value. Any required impairment loss would be measured as the amount by which the asset’s carrying value exceeds its fair value and would be recorded as a reduction in the carrying value of the related asset and charged to results of operations. Assumptions and estimates used in evaluating our long-lived assets future values and remaining useful lives are complex and often subjective. They can be affected by a variety of factors, including external factors such as industry and economic trends, and internal factors such as changes in our business strategy, internal forecasts and clinical trial results. For example, if we experience a sustained decline in our market capitalization determined to be indicative of a reduction in fair value of our enterprise, we may be required to record future impairment charges for our acquired technology intangible assets with finite lives.
+
+Impairment charges could materially decrease our future net income and result in lower asset values on our balance sheet. Key assumptions include, but are not limited to, future cash flows, operating margins, capital expenditures, terminal growth rates and discount rates. We also consider our market capitalization as a part of our analysis. During the fiscal year ended June 30, 2024, we recorded long-lived asset impairment charges of $10.9 million. During the fiscal year ended June 30, 2023, we had no similar charge. For additional details regarding our intangible assets and related impairments see Note 3—Balance Sheet Details and Note 9—Leases, to our consolidated financial statements and related notes included elsewhere in this Annual Report.
+
+Revenue
+
+We apply the five-step revenue recognition model within the scope of ASC Topic 606, Revenue from Contracts with Customers (ASC 606). Under this model, we: (i) identify the contract, (ii) identify the performance obligations in the contract, (iii) determine the transaction price, (iv) allocate the transaction price to the performance obligations in the contract, and (v) recognize revenue when, or as, a company satisfies a performance obligation. A performance obligation is a promise in a contract to transfer a distinct good or service and is the unit of accounting in ASC 606. A contract’s transaction price is allocated among each distinct performance obligation based on relative standalone selling price and recognized as revenue when, or as, the applicable performance obligation is satisfied.‌
+
+The terms of our arrangements include upfront and license fees, research and development services, milestone and other contingent payments for the achievement of defined objectives and certain preclinical, clinical, regulatory and sales-based events, as well as royalties on sales of commercialized products. Agreements with certain upfront payments may require deferral of revenue recognition to a future period until we perform the obligations under these agreements. We use the most likely amount method to estimate variable consideration for event-based milestones and other contingent payments. Given the high degree of uncertainty around the occurrence of such events, the event-based milestones and other contingent payments have been fully constrained until any uncertainty associated with these payments is resolved. Revenue from sales-based milestones and royalty payments is recognized at the later of when or as the sales occur or when the related performance obligation has been satisfied or partially satisfied. We continue to re-evaluate the transaction price in each reporting period as contingencies are resolved and other changes in circumstances occur.‌
+
+Revenue recognition is subject to uncertainty due to the variable consideration estimates required to be made. These estimates include the level of effort required to satisfy our obligations under our research and development services arrangements. These amounts are estimated at the inception of the services arrangement and are re-evaluated at each reporting period. To accomplish this, we rely on management’s experience, relevant internal data reports and regulatory approvals. The recorded variable consideration is directly sensitive to the estimated inputs made by management used in the calculation. Changes in estimates are accounted for prospectively.‌
+
+In response to the discontinuance of zandelisib development with KKC during the fiscal year ended June 30, 2023, we updated our estimated costs to complete each of the performance obligations, which resulted in a higher progress towards completion based on the ratio of costs incurred to date to the total estimated costs and a corresponding decrease in our deferred revenue. Additionally, we recognized revenue related to non-refundable payments for performance obligations that have not commenced and will no longer be initiated. During fiscal year 2024, in regard to the KKC Commercialization Agreement, all deferred revenue had been recognized and all wind-down activities were completed.
+
+Research and Development Costs
+
+Research and development costs are expensed as incurred and include costs paid to third-party contractors to perform research, conduct clinical trials and develop and manufacture drug materials. Clinical trial costs, including costs associated with third-party contractors, are a significant component of research and development expenses and we expense research and development costs based on work performed. In determining the amount to expense, management relies on estimates of total costs based on contract components completed, the enrollment of subjects, the completion of trials, and other events. Costs incurred related to the purchase or
+
+licensing of in-process research and development for early-stage products or products that are not commercially viable and ready for use, or have no alternative future use, are charged to expense in the period incurred.
+
+As part of the process of preparing the consolidated financial statements, we are required to estimate expenses resulting from obligations under contracts with vendors, clinical research organizations (CROs), consultants and under clinical site agreements relating to conducting clinical trials. The financial terms of these contracts vary and may result in payment flows that do not match the periods over which materials or services are provided under such contracts.
+
+Our objective is to reflect the appropriate clinical trial expenses in our consolidated financial statements by recording those expenses in the period in which services are performed and efforts are expended. We account for these expenses according to the progress of the clinical trial as measured by patient progression and the timing of various aspects of the trial. Management determines accrual estimates through financial models and discussions with applicable personnel and outside service providers as to the progress of clinical trials.
+
+During a clinical trial, we adjust the clinical expense recognition if actual results differ from our estimates. We make estimates of accrued expenses as of each balance sheet date based on the facts and circumstances known at that time. Our clinical trial accruals are partially dependent upon accurate reporting by CROs and other third-party vendors. Our understanding of the status and timing of services performed relative to the actual status and timing of services performed may vary and may result in changes in our estimates.
+
+Results of Operations
+
+Comparison of Fiscal Years Ended June 30, 2024 and 2023
+
+The following table summarizes certain components of our results of operations (in thousands):
+
+Revenue: We recognized revenue of $65.3 million for the fiscal year ended June 30, 2024, compared to $48.8 million for the fiscal year ended June 30, 2023. The increase in revenue was due to the recognition of all remaining deferred revenue associated with the KKC Commercialization Agreement that was terminated in July 2023, offset by a decrease in revenue recognized related to cost sharing from the terminated KKC Commercialization Agreement.
+
+Research and Development: The following table illustrates the components of our research and development expenses for the years presented (in thousands):
+
+Costs related to zandelisib decreased $25.5 million primarily as a result of the discontinuation of the program during fiscal year 2023 with lower costs in fiscal year 2024 associated with wind-down activities. Costs related to voruciclib increased $1.1 million due to higher clinical costs partially offset by lower manufacturing costs. Costs related to ME-344 increased $3.6 million due to higher clinical costs related to the Phase 1b study and manufacturing costs of ME-344 to support clinical and nonclinical studies. Other research and development costs decreased $15.1 million primarily due to a decrease of $14.1 million in personnel costs, including a $2.6 million decrease in one-time employee termination benefits, resulting from our reductions in workforce during fiscal year 2023 and a $0.4 million decrease in noncash stock-based compensation.
+
+General and Administrative: General and administrative expenses decreased $9.8 million to $23.3 million for the fiscal year ended June 30, 2024, compared to $33.1 million for the fiscal year ended June 30, 2023. The net decrease was primarily due to $5.5 million less in personnel costs, which includes $1.7 million resulting from our reduction-in-force and other termination
+
+related benefits, as well as $0.9 million less in noncash stock-based compensation, a $1.7 million decrease in external professional services, $1.5 million decrease in corporate overhead costs and a $0.2 million decrease in legal fees.
+
+Impairment of Long-lived Assets: The impairment of our long-lived assets of $10.9 million consists of a $10.4 million loss recognized for our right-of-use (ROU) asset, as more fully described in Note 9. Leases, and a $0.5 million loss recognized related to the furniture and fixtures we agreed to sell to our landlord, as more fully described in Note 3 - Balance Sheet Details, recorded in accordance with Accounting Standards Codification 360 - Property. Plant and Equipment. During the fiscal year ended June 30, 2023, there were no similar transactions.
+
+Other Income, Net: Other income, net, decreased by $1.7 million to $3.2 million for the fiscal year ended June 30, 2024, as compared to $4.9 million for the fiscal year ended June 30, 2023. We recorded a noncash gain of $1.6 million during the fiscal year ended June 30, 2023, due to a change in the fair value of our warrant liability. The warrants expired in May 2023.
+
+New Accounting Pronouncements
+
+See Note 2. Summary of Significant Accounting Policies, to the Consolidated Financial Statements included in Item 8. Consolidated Financial Statements and Supplementary Data of this Annual Report.
+
+Liquidity and Capital Resources
+
+We have accumulated losses of $388.2 million since inception and expect to incur operating losses and generate negative cash flows from operations for the foreseeable future. As of June 30, 2024, we had $38.3 million in cash, cash equivalents and short-term investments. On July 22, 2024, we announced that our Board had determined unanimously to begin the evaluation of our strategic alternatives, including potential transactions as well as an orderly wind down of operations, if appropriate, to maximize the value of our assets for our stockholders. In connection with the exploration of strategic alternatives, we commenced a reduction-in-force on August 1, 2024 and discontinued the clinical development of voruciclib. As a result of this announcement, we expect our research and development expenses to decrease significantly as we discontinued our clinical research and development activities. We will continue to incur research and development expenses in connection with clinical trial closing costs and the completion of certain ongoing nonclinical activities. We believe our cash balance, including our short-term investments, is sufficient to fund operations for at least the next 12 months.
+
+To date, we have obtained cash and funded our operations primarily through equity financings and license agreements and to resume the development of our drug candidates we would require one or more capital transactions, whether through the sale of equity securities, debt financing, license agreements or entry into strategic partnerships at some point in the future. There can be no assurance that we will be able to continue to raise additional capital in the future.
+
+Sources and Uses of Our Cash
+
+Net cash used in operating activities for the fiscal year ended June 30, 2024, of $50.5 million consisted of our net income of $17.8 million and $84.3 million cash used by operating activities partially offset by $16.0 million for noncash items. Net cash used in in operating activities during the fiscal year ended June 30, 2023, of $52.5 million consisted of our net loss of $31.8 million and $24.9 million cash used in operating activities partially offset by $4.3 million of noncash items.
+
+Net cash provided by investing activities for the fiscal year ended June 30, 2024, was $49.1 million compared to $53.7 million for the fiscal year ended June 30, 2023. The decrease in net cash provided by investing activities was due to fewer purchases of short-term investments offset by a lower amount of maturities in short-term investments being utilized to fund ongoing operations during the fiscal year ended June 30, 2024.
+
+Net cash used in financing activities for the fiscal year ended June 30, 2024, was $11.9 million compared to $40,000 of cash used in financing activities for the fiscal year ended June 30, 2023. The increase from prior year was primarily due to the payment of $11.7 million in dividends agreed to under the Cooperation Agreement and the payment of approximately $0.2 million for issuance costs of our ATM. Cash used in financing activities during fiscal year 2023, was associated with the payment of tax withholdings related to vesting of restricted stock units.
+
+Capital Resource Requirements
+
+On June 18, 2024, we entered into a lease termination agreement (Agreement) with our landlord, for our offices at 11455 El Camino Real, Suite 200 and Suite 250, San Diego, California. Under the Agreement, the lease will be terminated as of September 30, 2024, rather than its scheduled expiration date of November 30, 2029. We paid the landlord a termination fee totaling approximately $11.1 million in addition to prepaying the remaining rent under the Agreement in the amount of approximately $0.2 million (collectively, the Termination Amounts). Prior to June 30, 2024, the Termination Amounts had been paid and we had no further financial obligations under the Agreement.
+
+As of June 30, 2024, we have the following potential purchase obligations for which the timing and/or likelihood of occurrence is unknown; however, if such claims arise in the future, they could have a material effect on our financial position, results of operations, and cash flows.
+
+•
+
+Under our remaining license agreements, we have payment obligations, which are contingent upon future events such as our achievement of specified development, regulatory and commercial milestones and are required to make royalty payments in connection with the sales of products developed under those agreements. For additional details regarding these agreements, see the section titled Note 8—Other License Agreements and Note 6—Commitments and Contingencies to our consolidated financial statements and related notes included elsewhere in this Annual Report;
+
+•
+
+Obligations under contracts which are cancelable without significant penalty;
+
+•
+
+Purchase orders issued in the ordinary course of business as they represent authorizations to purchase the items rather than binding agreements; and
+
+•
+
+Contracts in the normal course of business with clinical supply manufactures and with vendors for preclinical studies, research supplies and other services and products for operating purposes. These contracts are cancelable and generally provide for termination after a notice period.
+
+Our future capital requirements will depend on many factors, including:
+
+•
+
+the Board's decision regarding strategic alternatives;
+
+•
+
+the scope, progress, results and costs of drug discovery, preclinical development, laboratory testing and clinical trials for our product candidates;
+
+•
+
+the costs, timing and outcome of regulatory review of our product candidates;
+
+•
+
+the costs of establishing or contracting for sales, marketing and distribution capabilities if we obtain regulatory approvals to market our product candidates;
+
+•
+
+the costs of securing and producing drug substance and drug product material for use in preclinical studies, clinical trials and for use as commercial supply;
+
+•
+
+the costs of securing manufacturing arrangements for development activities and commercial production;
+
+•
+
+the scope, prioritization and number of our research and development programs;
+
+•
+
+the extent to which we are obligated to reimburse, or entitled to reimbursement of, clinical trial costs under future collaboration agreements, if any; and
+
+•
+
+the costs of preparing, filing and prosecuting patent applications, maintaining and enforcing our intellectual property rights and defending intellectual property-related claims.
+
+Item 7a. Quantitative and Qualitative

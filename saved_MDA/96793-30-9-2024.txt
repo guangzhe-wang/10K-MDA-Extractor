@@ -1,0 +1,91 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations (all dollar amounts in thousands, except per share and revenue per equivalent admissions amounts)
+
+This Annual Report and the documents that are incorporated by reference in this Annual Report contain certain forward-looking statements within the meaning of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. Forward-looking statements include all statements that do not relate solely to historical or current facts and may be identified by the use of words such as “may,” “believe,” “will,” “seeks to”, “expect,” “project,” “estimate,” “anticipate,” “plan” or “continue.” These forward-looking statements are based on the current plans and expectations and are subject to a number of risks, uncertainties and other factors which could significantly affect current plans and expectations and our future financial condition and results. For a listing and a discussion of such factors, which could cause actual results, performance and achievements to differ materially from those anticipated, see Certain Cautionary Statements—Forward Looking Information and Item 1A.
+
+Critical Accounting Estimates
+
+The preparation of financial statements in accordance with U.S. generally accepted accounting principles requires us to make estimates and assumptions that affect reported amounts and related disclosures. We consider an accounting estimate to be critical if:
+
+•
+
+it requires assumptions to be made that were uncertain at the time the estimate was made; and
+
+•
+
+changes in the estimate or different estimates that could have been made could have a material impact on our consolidated statement of earnings or financial condition.
+
+The table of critical accounting estimates that follows is not intended to be a comprehensive list of all of our accounting policies that require estimates. We believe that of our significant accounting policies, as discussed in Note 2 of our Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K for the fiscal year ended June 30, 2024, the estimates discussed below involve a higher degree of judgment and complexity. We believe the current assumptions and other considerations used to estimate amounts reflected in our consolidated financial statements are appropriate. However, if actual experience differs from the assumptions and other considerations used in estimating amounts reflected in our consolidated financial statements, the resulting changes could have a material adverse effect on our consolidated results of operations and financial condition.
+
+The table that follows presents information about our critical accounting estimates, as well as the effects of hypothetical changes in the material assumptions used to develop each estimate:
+
+Financial Summary
+
+The Company’s operations for the fiscal years ended June 30, 2024 and 2023 were negatively impacted by the effects of the aftermath of the COVID-19 pandemic, although mitigated somewhat from prior fiscal years, including among other factors, difficulty hiring qualified employees, rising labor and supply costs and supply chain challenges resulting in inability to obtain pharmacy and DME products on a timely, cost effective basis.
+
+Results of Operations
+
+Our net revenues are from two businesses, pharmacy and a subsidiary which provides information technology services to outside customers and SunLink subsidiaries. The Company’s revenues by payor were as follows for the fiscal years ended June 30, 2024 and 2023:
+
+Pharmacy business net revenues for the year ended June 30, 2024 decreased 5.4% from the prior year. The decreased net revenues resulted from $2,325 of decreased recognition of prior periods' accrued sales tax accrued and sales tax refunds. Total scripts filled increased 6.0% while Durable Medical Equipment (“DME”) sales orders decreased 5.2% for the year ended June 30, 2024 from the prior year. Retail pharmacy sales decreased 14.2% for the year ended June 30, 2024 from the prior year due to a 12.0% decrease in per script net revenues. Institutional pharmacy sales increased 2.2% for the year ended June 30, 2024 from the prior year due to a 9.7% increase in per script net revenues. DME sales decreased, 9.0% for the year ended June 30, 2024 from the prior year due to a 5.2% decrease in DME sales orders.
+
+Costs and expenses, including depreciation and amortization, were $34,851 and $34,206 for the fiscal years ended June 30, 2024 and 2023, respectively. Costs and expenses as a percentage of net revenues were:
+
+Cost of goods sold as a percent of net revenues increased 2.1% in the fiscal year ended June 30, 2024 compared to the prior fiscal year due to the decreased net revenue in the most recent year which included the decrease in the recognition of prior periods' accrued sales tax and sales tax refunds. Salaries, wages and benefits expense as a percent of net revenues increased 3.0% this year compared to the prior fiscal year due to the decreased revenues and the current labor markets and operating challenges of labor allocation, including the use of contract labor. Other operating expenses for the fiscal year ended June 30, 2024 increased from the prior year's comparable period primarily due to increased legal expenses relating to the change in state of incorporation from Ohio to Georgia, which was finalized in October 2023. Depreciation expense also increased this year due to the $1,341 of capital expenditures last fiscal year.
+
+Operating loss was $2,411 for the fiscal year ended June 30, 2024 compared to an operating profit of $74 for the year ended June 30, 2023. The operating loss in the year ended June 30, 2024 increased $2,485 compared to the prior fiscal year resulted primarily as a result of decreased Pharmacy business net revenues which had $2,325 of decreased recognition sales tax accrual reversals and sales tax refunds in the most recent fiscal year.
+
+Income Taxes
+
+We recorded income tax benefit of $5 (all state tax benefit) for the fiscal year ended June 30, 2024 compared to an income tax benefit of $7 (all state tax benefit) for the fiscal year ended June 30, 2023.
+
+In accordance with the Financial Accounting Standards Board Accounting Standards Codification (“ASC”) 740, we evaluate our deferred taxes quarterly to determine if adjustments to our valuation allowance are required based on the consideration of available positive and negative evidence using a “more likely than not” standard with respect to whether deferred tax assets will be realized. Our evaluation considers, among other factors, our historical operating results, our expectation of future results of operations, the duration of applicable statuary carryforward periods and conditions of the healthcare industry. The ultimate realization of our deferred tax assets depends primarily on our ability to generate future taxable income during the periods in which the related temporary differences in the financial basis and the tax basis of the assets become deductible. The value of our deferred tax assets will depend on applicable income tax rates.
+
+At June 30, 2024, consistent with the above process, we evaluated the need for a valuation allowance against our deferred tax assets and determined that it was more likely than not that none of our deferred tax assets would be realized. As a result, in accordance with ASC 740, we recognized a valuation allowance of $8,287 against the deferred tax asset so that there is no net long-term deferred income tax asset at June 30, 2024. We conducted our evaluation by considering available positive and negative evidence to determine our ability to realize our deferred tax assets. In our evaluation, we gave more significant weight to evidence that was objective in nature as compared to subjective evidence. A long-term deferred tax liability of $69 is recorded within other noncurrent liabilities in the accompanying condensed consolidated balance sheet of June 30, 2024 to reflect the deferred tax liability for the non-amortizing trade name intangible asset.
+
+The principal negative evidence that led us to determine at June 30, 2024 that all the deferred tax assets should have full valuation allowances was historical tax losses and the projected current fiscal year tax loss. For purposes of evaluating our valuations allowances, the Company’s history of losses represent significant historical negative evidence and we have recognized none of our federal income tax net operating loss carry-forward of approximately $24,458.
+
+For federal income tax purposes, at June 30, 2024, the Company had approximately $24,458 of estimated net operating loss carry-forwards available for use in future years subject to the possible limitations of the provisions of Internal Revenue Code Section 382. These net operating loss carryforwards expire primarily in fiscal year 2025 through fiscal year 2038; however, with the enactment of the Tax Cut and Jobs Act on December 22, 2017, federal net operating loss carryforwards generated in taxable years beginning after December 31, 2017 now have no expiration date. The Company’s returns for the periods prior to the fiscal year ended June 30, 2020 are no longer subject to potential federal and state income tax examination. Net operating loss carry-forwards generated in tax years prior to June 30, 2020 are still subject to redetermination in potential federal income tax examination.
+
+Discontinued Operations
+
+All of the businesses discussed below are reported as discontinued operations and the consolidated financial statements for all prior periods have been adjusted to reflect this presentation.
+
+Sale of Trace Regional Hospital, medical office building and three patient clinics and Trace Extended Care Facility
+
+On January 22, 2024, the Company's indirect subsidiary, Southern Health Corporation of Houston, Inc. (“Southern”), reached revised agreements for the sale of Trace Regional Hospital, a vacant medical office building and three patient clinics in Chickasaw County, MS, (collectively “Trace”) to Progressive Health of Houston, LLC (“Progressive”) pursuant to which (i) Southern sold certain
+
+personal and intangible property to Progressive for $500 under to an asset purchase agreement ('Trace Assets Sale"), (ii) entered into a six-month net lease of the real property of the hospital, medical office building and the clinics real property (the "Trace Real Estate") for $20 per month, (iii) entered into a contract to sell the Trace real estate to Progressive (the "Trace Real Estate Sale") for $2,000 and (iv) engaged Progressive under a management agreement to manage the operations of Trace pending receipt of certain regulatory approvals, which was received February 29, 2024. The completion of the Trace Real Estate Sale has been extended by mutual agreement to October 4, 2024. As a result of the transactions ("Revised Agreement"), SunLink reported an impairment loss of $1,974 at December 31, 2023 to reduce the net value of the Trace hospital assets to the sale proceeds under the revised agreement. An impairment reserve of $1,695 remains at June 30, 2024 for the Trace Real Estate Sale assets. There can be no assurance the completion of the Trace Real Estate Sale will be achieved. On June 3, 2024, the Company's indirect subsidiary, Southern Health Corporation of Houston, Inc. and an affiliate completed the sale of its Trace Extended Care & Rehab senior care facility and related real estate in Houston, Mississippi for approximately $7,100 (the "Trace Senior Care Facility Sale"). The net proceeds of approximately $6,522 has been retained for working capital and general corporate purposes.
+
+Sold Hospitals and Nursing Home – Subsidiaries of the Company have sold substantially all the assets of five rural hospitals (“Sold Facilities”) during the period July 2, 2012 to March 17, 2019. The loss before income taxes of the Sold Facilities results primarily from the effects of retained professional liability insurance and claims expenses and settlement of a lawsuit.
+
+Life Sciences and Engineering Segment —SunLink retained a defined benefit retirement plan which covered substantially all of the employees of this segment when the segment was sold in fiscal 1998. Effective February 28, 1997, the plan was amended to freeze participant benefits and close the plan to new participants. Pension expense and related tax benefit or expense is reflected in the results of operations for this segment for the fiscal years ended June 30, 2024 and 2023.
+
+Discontinued Operations—Summary Statement of Earnings Information
+
+Details of statements of operations from discontinued operations for the fiscal years ended June 30, 2024 and 2023, primarily from reflecting the reporting of Trace as discontinued operations as a result of the Company's decision to sell Trace, are as follows:
+
+Net Earnings (Loss) — Net loss for the year ended June 30, 2024 was $1,527 (or a loss of $0.22 per fully diluted share) compared to a net loss for the year ended June 30, 2023 of $1,795 (or a loss of $0.26 per fully diluted share).
+
+Liquidity and Capital Resources
+
+Overview
+
+The Company and its subsidiaries' primary source of liquidity for working capital and operational needs, to pursue extraordinary corporate transactions and for general corporate purposes, is unrestricted cash on hand (which was $7,170 at June 30, 2024) and the sale of assets. From time-to-time, we may, nevertheless, seek to obtain financing for the liquidity needs of the Company or individual subsidiaries
+
+Subject to the effects, risks and uncertainties associated with the aftermath of the COVID-19 pandemic, as well as our ability to complete the disposition of certain unprofitable operations, including the Trace transaction, we believe we have adequate financing and liquidity to support our current level of operations through the next twelve months.
+
+Contractual Obligations, Commitments and Contingencies
+
+As of June 30, 2024, we had no outstanding debt
+
+The Company currently expects to purchase approximately $1,000 of capitalizable DME by the Pharmacy operations (to be rented to customers) during the next twelve months. The timing and actual amount which will be expended is difficult to predict due to various factors including varying demand for such equipment as well as its availability given current supply sourcing challenges. Other capital expenditures for replacement and upgrade of current facilities and equipment of the Pharmacy business may be needed during the next twelve months although there is no estimate of those expenditures other than being expected to be at a lower level than fiscal years 2024 and 2023. The Company anticipates funding such expenditures primarily from cash on hand. Other cash expenditures for the next twelve months currently are expected to be in-line with expenditures for the fiscal year ended June 30, 2024, subject to further operating and administrative cost increases, and other settlements of cost reports and other liabilities in the ordinary course of business as well as cash receipts and disbursements relating to possible asset sales. Other than reported above, there have been no material changes outside the ordinary course of business relating to our upcoming cash obligations which have occurred during the fiscal year ended June 30, 2024. Other than with respect to scheduled cash expenditures (based on current operating levels) for operating leases, and the specific items previously disclosed here, as well as continued uncertainties relating to the aftermath of the COVID-19 pandemic and asset sales, the Company is currently unaware of other trends or unusual uncertainties that are likely to cause a material change in its cash expenditures in periods beyond the next twelve months. See Notes 6 and 9, to our financial statements. The Company is also unaware of events that are reasonably likely to cause a material change in the relationship between its costs and revenues (such as known or reasonably likely future increases in costs of labor or materials, price increases or inventory adjustments, beyond those discussed herein); however, we are unable to predict with any degree of accuracy when, or the extent to which, recent inflationary price trends, labor disruptions and supply chain challenges experienced in 2021, 2022 and 2023 to date will mitigate or accelerate.
+
+Related Party Transactions
+
+A former director, who resigned after June 30, 2024, of the Company is senior counsel in a law firm which provides services to SunLink. The Company has expensed an aggregate of $520 and $264 to the law firm in the fiscal years ended June 30, 2024 and 2023, respectively. Included in the Company’s consolidated balance sheets at June 30, 2024 and 2023, respectively, is $156 and $36 of amounts payable to the law firm.
+
+Inflation
+
+During periods of inflation and labor shortages, employee salaries, wages and benefits increase and suppliers pass along rising costs to us in the form of higher prices for their supplies and services. We have limited ability to, and frequently are unable to, offset increases in operating costs by increasing prices for our services and products due to, among other things, our reliance on Medicare and Medicaid payments for a large proportion of our revenues or to implement sufficient cost control measures due to, among other things, our operations in a highly regulated industry. We are thus unable to predict our ability to control future cost increases or offset future cost increases by passing along the increased cost to customers.
+
+Item 7A. Quantitative and Qualitative

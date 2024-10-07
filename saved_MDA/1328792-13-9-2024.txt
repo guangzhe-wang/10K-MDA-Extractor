@@ -1,0 +1,289 @@
+Item 6. Reserved
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Statement Regarding Forward Looking Disclosure
+
+The following discussion of our financial condition and results of operations should be read in conjunction with our audited consolidated financial statements and the related notes, which appear elsewhere in this Annual Report on Form 10-K. This Annual Report on Form 10-K, including this section titled “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” may contain predictive or “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of current or historical fact contained in this annual report, including statements that express our intentions, plans, objectives, beliefs, expectations, strategies, predictions or any other statements relating to our future activities or other future events, or conditions are forward-looking statements. The words “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “plan,” “predict,” “project,” “will,” “should,” “would” and similar expressions, as they relate to us, are intended to identify forward-looking statements.
+
+These forward-looking statements are based on current expectations, estimates and projections made by management about our business, our industry and other conditions affecting our financial condition, results of operations or business prospects. These statements are not guarantees of future performance and involve risks, uncertainties and assumptions that are difficult to predict. Therefore, actual outcomes and results may differ materially from what is expressed or forecasted in, or implied by, the forward-looking statements due to numerous risks and uncertainties. As discussed below under “Liquidity and Capital Resources”, certain events and conditions, when examined in the aggregate, indicate substantial doubt about our ability to continue as a going concern for at least one year beyond the date of the financial statements. Factors that could cause such outcomes and results to differ include, but are not limited to, risks and uncertainties arising from:
+
+Any forward-looking statements speak only as of the date on which they are made, and we undertake no obligation to publicly update or revise any forward-looking statements to reflect events or circumstances that may arise after the date of this Annual Report on Form 10-K, except as required by applicable law. Investors should evaluate any statements made by us in light of these important factors.
+
+Recent Developments
+
+Termination of Votaw Acquisition
+
+On November 22, 2023 we and the Seller, entered into the Purchase Agreement, pursuant to which, we would acquire all of the issued and outstanding common stock of Votaw, and after giving effect to such purchase, Votaw was to become our wholly owned subsidiary.
+
+Due to a change in certain conditions and events, it became probable that on March 31, 2024, the Company would be unable to close on the acquisition. On April 2, 2024, the Seller delivered to the Company written notice of its election to terminate the Purchase Agreement under Section 7.01(f) effective immediately. Pursuant to Section 7.01(f) of the Purchase Agreement, in the event that the Closing had not occurred by March 31, 2024, either we or the Seller had the right to terminate the Purchase Agreement, subject to the party terminating having complied with the other required closing conditions. 
+
+Since the Seller validly terminated the Purchase Agreement pursuant to Section 7.01(f), the Company was required to pay to the Seller the Stock Termination Fee. Under the Purchase Agreement, the Stock Termination Fee can increase by 48,000 additional shares of the Company’s common stock under certain conditions, including if the Company fails use commercially reasonable efforts to cause a registration statement to effect the resale of the shares of common stock composing the Stock Termination Fee to be declared effective by the Securities and Exchange Commission as soon as practicable. Such registration was filed with the Securities and Exchange Commission on May 2, 2024, but cannot be declared effective until we have filed all of the required financial statements with the Securities and Exchange Commission, including our Quarterly Report on Form 10-Q for the fiscal quarter ended June 30, 2024.
+
+On April 29, 2024, we issued 320,000 shares of our common stock as the Stock Termination Fee. 
+
+Amendments to Amended and Restated Loan Agreement and Fourth Amendment to Second Amended and Restated Promissory Note
+
+On March 20, 2024, Ranor and certain affiliates of the Company entered into a Seventh Amendment to Amended and Restated Loan Agreement and Third Amendment to Second Amended and Restated Promissory Note, or the “Seventh Amendment”. Effective March 20, 2024, the Seventh Amendment, among other things (i) extended the maturity date of the Revolver Loan from March 20, 2024 to May 20, 2024; (ii) limited the use of proceeds from the Revolver Loan by the Company or its affiliates to $2,000,000 in the aggregate for due diligence and related professional costs incurred on or prior to May 10, 2024 in connection with any acquisitions; and (iii) makes certain changes to the amount and methods of valuation of equipment securing repayment of the borrowed funds. Through May 20, 2024, Ranor utilized a revolving line of credit with, following certain modifications, a maximum principal amount available of $5.0 million. Advances under the Revolver Loan are subject to a borrowing base equal to the lesser of (a) $5.0 million or (b) the sum of (i) 80% of the net outstanding amount of Base Accounts, plus (ii) the lesser of (x) 25% of Eligible Raw Material Inventory, and (y) $250,000, plus (iii) 80% of the Appraised Value of the Eligible Equipment, as such terms are defined in the Loan Agreement.
+
+On May 28, 2024, Ranor and the other Borrowers entered into an Eighth Amendment to Amended and Restated Loan Agreement and Fourth Amendment to Second Amended and Restated Promissory Note, or the “Eighth Amendment”, with Berkshire Bank. Effective May 24, 2024, the Eighth Amendment, among other things, (i) extends the maturity date of the Revolver Loan from May 24, 2024 to August 30, 2024; (ii) amends the maximum principal amount of the Revolver Loan from $5,000,000 to $4,500,000; and (iii) effective on June 1, 2024, increases the Term SOFR Margin (as defined in the Amendment) used to calculate the interest rate from 2.25% per annum to 2.50% per annum.
+
+On September 4, 2024, Ranor and the other Borrowers entered into a Ninth Amendment to Amended and Restated Loan Agreement and Fifth Amendment to Second Amended and Restated Promissory Note, or the “Ninth Amendment”, with Berkshire Bank. Effective August 30, 2024, the Ninth Amendment, among other things, (i) extends the maturity date of the Revolver Loan from August 30, 2024 to January 15, 2025.
+
+Read about the Berkshire Bank Loans under the “Liquidity and Capital Resources” section below, for a discussion of the amended debt agreement and its impact on the Company’s liquidity and on-going operations.
+
+July Private Placement
+
+On July 3, 2024, the Company entered into a Securities Purchase Agreement (the “PIPE Agreement”), with certain accredited investors (the “PIPE Purchasers”) pursuant to which we agreed to sell in a private placement (the “July Private Placement”) at an aggregate purchase price of $2,298,045, (i) 666,100 shares of our common stock (the “PIPE Shares”), and (ii) common stock purchase warrants to purchase up to 666,100 shares of our common stock (the “PIPE Warrants”). The combined purchase price for one PIPE Share and one PIPE Warrant was $3.45. The purpose of the July Private Placement was to raise working capital for use by the Company. The closing of the July Private Placement occurred on July 8, 2024 (the “PIPE Closing Date”). Placement agent fees totaled $126,014.
+
+Pursuant to the PIPE Agreement, we have agreed to have a registration statement registering for resale the PIPE Shares and the shares underlying the PIPE Warrants declared effective with 60 days of the PIPE Closing Date. If such registration statement is not declared effective in a timely manner, we will be subject to liquidated damages as described in the PIPE Agreement.
+
+Overview
+
+Through our two wholly-owned subsidiaries, Ranor and Stadco, each of which is a reportable segment, we offer a full range of services required to transform raw materials into precision finished products. Our manufacturing capabilities include fabrication operations (cutting, press and roll forming, assembly, welding, heat treating, blasting, and painting) and machining operations including CNC (computer numerical controlled) horizontal and vertical milling centers. We also provide support services to our manufacturing capabilities: manufacturing engineering (planning, fixture and tooling development, manufacturing), quality control (inspection and testing), materials procurement, production control (scheduling, project management and expediting) and final assembly.
+
+All manufacturing is done in accordance with our written quality assurance program, which meets specific national and international codes, standards, and specifications. The standards used are specific to the customers’ needs, and our manufacturing operations are conducted in accordance with these standards.
+
+Because our revenues are derived from the sale of goods manufactured pursuant to contracts, and we do not sell from inventory, it is necessary for us to constantly seek new contracts. There may be a time lag between our completion of one contract and commencement of work on another contract. During such periods, we may continue to incur overhead expense but with lower revenue resulting in lower operating margins. Furthermore, changes in either the scope of an existing contract or related delivery schedules may impact the revenue we receive under the contract and the allocation of manpower. Although we provide manufacturing services for large governmental programs, we usually do not work directly for the government or its agencies. Rather, we perform our services for large governmental contractors. Our business is dependent in part on the continuation of governmental programs that require our services and products.
+
+Our contracts are generated both through negotiation with the customer and from bids made pursuant to a request for proposal. Our ability to receive contract awards is dependent upon the contracting party’s perception of such factors as our ability to perform on time, our history of performance, including quality, our financial condition and our ability to price our services competitively. Although some of our contracts contemplate the manufacture of one or a limited number of units, we continue to seek more long-term projects with predictable cost structures.
+
+All the Company’s operations, assets, and customers are located in the U.S.
+
+Reverse Stock Split and Listing on the Nasdaq Capital Market
+
+All information regarding our equity securities has been adjusted on a retrospective basis, to reflect the reverse stock split effected on February 24, 2023, as if it had been effective from the beginning of the earliest period presented, unless otherwise stated. Also, as previously disclosed, on May 5, 2023, the Company’s common stock began trading on the Nasdaq Capital Market under the trading symbol “TPCS”.
+
+Strategy
+
+We aim to establish our expertise in program and project management and develop and expand a repeatable customer business model in all of our markets. We concentrate our sales and marketing activities on customers under two main industry groups: defense and precision industrial. Our strategy is to leverage our core competence as a manufacturer of high-precision, large-scale metal fabrications and machined components to optimize profitability of our current business and expand with key customers in markets that have shown increasing demand.
+
+Defense
+
+Our Ranor subsidiary performs precision fabrication and machining for the defense and aerospace industries, delivering defense components meeting our customers’ stringent design specifications, as well as quality and safety manufacturing standards specifically for defense component fabrication and machining. Ranor has in recent years delivered critical components in support of, among other projects, the U.S. Navy’s Virginia-class fast attack submarine program and Columbia-class ballistic missile submarine program. In addition, the team at Ranor has successfully developed new, effective approaches to fabrication that continue to be utilized at our facility and at our customer’s own defense component manufacturing facilities. We have endeavored to increase our business development efforts with large prime defense contractors. Based upon these efforts, we believe there are opportunities to secure additional business with existing and new defense contractors who are actively looking to increase outsourced content on certain defense programs over the next several years, especially in connection with the submarine programs. We believe that the military quality certifications Ranor maintains and its ability to offer fabrication and manufacturing services at a single facility position it as an attractive outsourcing partner for prime contractors looking to increase outsourced production.
+
+Our Stadco subsidiary manufactures large flight-critical components on several high-profile commercial and military aircraft programs, including military helicopters. It has been a critical supplier to a blue-chip customer base that includes some of the largest OEMs and prime contractors in the defense and aerospace industries. Stadco also provides tooling, customized molds, fixtures, jigs and dies used in the production of aircraft components and has one of the largest electron beam welding machines set up in the United States, allowing it to weld thick pieces of titanium and other metals.
+
+Sales to defense market customers have generated the largest proportion of our revenues from both of our reportable segments for the last two fiscal years, and we expect sales to defense customers to be our strongest market during the fiscal year ending March 31, 2025, or “fiscal 2025”, as well.
+
+Precision Industrial
+
+The customers within this market are impacted primarily by general economic conditions which may include changes in consumer consumption or demand for commercial construction for infrastructure. We serve several different customers in our precision industrial group. For example, we have built a range of components for customers in the power generation markets and large-scale medical device markets.
+
+The power generation businesses among our energy market customers are impacted by pricing and demand for various forms of energy (e.g., coal, natural gas, oil, and nuclear). Our nuclear customers are typically dependent upon the need for new construction, maintenance, and overhaul and repair by nuclear energy providers. Also, changes in regulation may impact demand and supply. As such, we cannot assure that we will be able to develop any significant business from the nuclear industry. However, because we have manufacturing capabilities for producing components for new nuclear power plants and our historic relationships with suppliers in the nuclear power industry, we believe that we are positioned to benefit from any increased demand in the nuclear sector.
+
+Critical Accounting Policies and Estimates
+
+The preparation of the consolidated financial statements requires that we make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. We base our estimates on historical experience and various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. We continually evaluate our estimates, including those related to revenue recognition, recovery of long-lived assets, and income taxes. These estimates and assumptions require management’s most difficult, subjective, or complex judgments. Actual results may differ under different assumptions or conditions.
+
+Revenue and Related Cost Recognition
+
+We recognize revenue over time based on the transfer of control of the promised goods or services to the customer, or at a point in time. This transfer will occur over time when the Company’s performance does not create an asset that has an alternative use to the Company, and we have an enforceable right to payment for performance completed to date. Otherwise, control to the promised goods or services transfers to customers at a point in time.
+
+The majority of the Company’s contracts have a single performance obligation and provide title to, or grant a security interest in, work-in-process to the customer. In addition, these contracts contain enforceable rights to payment, allowing the Company to recover both its cost and a reasonable margin on performance completed to date. The combination of these factors indicates that the customer controls the asset (and revenue is recognized) as the asset is created or enhanced. The Company measures progress for performance obligations satisfied over time using input methods (e.g., costs incurred, resources consumed, labor hours expended, time elapsed).
+
+Our evaluation of whether revenue should be recognized over time requires significant judgment about whether the asset has an alternative use and whether the entity has an enforceable right to payment for performance completed to date. When any one of these factors is not present, the Company will recognize revenue at the point in time when control over the promised good or service transfers to the customer, i.e., when the customer has accepted the asset and taken physical possession of the product and has legal title, and the Company has a right to payment.
+
+When estimating contract costs, the Company takes into consideration a number of assumptions and estimates regarding risks related to technical requirements and scheduling. Management performs periodic reviews of the contracts to evaluate the underlying risks. Profit margin on any given project could increase if the Company is able to mitigate and retire such risks. Conversely, if the Company is not able to properly manage these risks, cost estimates may increase, resulting in a lower profit margin, or potentially, contract losses.
+
+The cost estimation process requires significant judgment and is based upon the professional knowledge and experience of the Company’s engineers, program managers, and financial professionals. Factors considered in estimating the work to be completed and ultimate contract recovery include the availability, productivity, and cost of labor, the nature and complexity of the work to be performed, the effect of change orders, the availability of materials, the effect of any delays in performance, the availability and timing of funding from the customer, and the recoverability of any claims included in the estimates to complete. Costs allocable to undelivered units are reported as work in process, a component of inventory, in the consolidated balance sheet. Pre-contract fulfillment costs requiring capitalization are not material.
+
+Changes in job performance, job conditions, and estimated profitability are recognized in the period in which the revisions are determined. Costs incurred on uncompleted contracts consist of labor, overhead, and materials. Provisions for estimated losses on uncompleted contracts are made in the period in which such losses are determined. Our provision for losses at March 31, 2024 and 2023 was $0.3 million and $0.1 million, respectively, with approximately 92% and 76% of the totals related to customer projects at our Stadco reportable segment, and the remaining amounts at our Ranor segment.
+
+Long-lived assets
+
+In accordance with Accounting Standards Codification (ASC) 360, Property, Plant & Equipment, our property, plant and equipment is tested for impairment when triggering events occur and, if impaired, written-down to fair value based on either discounted cash flows or appraised values. The carrying amount of an asset or asset group is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual disposition of the asset or asset group.
+
+Income Taxes
+
+We provide for federal and state income taxes currently payable, as well as those deferred because of temporary differences between reporting income and expenses for financial statement purposes versus tax purposes. Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between carrying amount of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. Deferred tax assets and liabilities are measured using the enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recoverable. The effect of the change in the tax rates is recognized as income or expense in the period of the change. A valuation allowance is established, when necessary, to reduce deferred income taxes to the amount that is more likely than not to be realized.
+
+In assessing the recoverability of deferred tax assets, we consider whether it is more likely than not that some portion or all of the deferred tax assets will not be realized. If we determine that it is more likely than not that certain future tax benefits may not be realized, a valuation allowance will be recorded against deferred tax assets that are unlikely to be realized. Realization of the remaining deferred tax assets will depend on the generation of sufficient taxable income in the appropriate jurisdiction, the reversal of deferred tax liabilities, tax planning strategies and other factors prior to the expiration date of the carryforwards. A change in the estimates used to make this determination could require a reduction in the valuation allowance for deferred tax assets if they become realizable.
+
+Accounting Pronouncements
+
+New Accounting Standards
+
+See Note 3, Accounting Standards Update, in the Notes to the Consolidated Financial Statements under “Item 8. Financial Statements and Supplementary Data”, for a discussion of recently adopted new accounting guidance and new accounting guidance not yet adopted.
+
+Results of Operations
+
+Our results of operations are affected by a number of external factors including the availability of raw materials, commodity prices (particularly steel), macroeconomic factors, including the availability of capital that may be needed by our customers, and political, regulatory, and legal conditions in the United States and in foreign markets. Generally, our product mix is made up of short-term contracts with a production timeline of twelve months, more or less. However, contracts for larger complex components can take up to thirty-six months to complete. Units manufactured under most of our customer contracts have historically been delivered on time and with a positive gross margin, with some exceptions. Our results of operations are also affected by our success in booking new contracts, the timing of revenue recognition, delays in customer acceptances of our products, delays in deliveries of ordered products and our rate of progress fulfilling obligations under our contracts. A delay in deliveries or cancellations of orders could have an unfavorable impact on liquidity, cause us to have inventories in excess of our short-term needs, and delay our ability to recognize, or prevent us from recognizing, revenue on contracts in our order backlog.
+
+We evaluate the performance of our segments based upon, among other things, segment net sales and operating profit. Segment operating profit excludes general corporate costs, which include executive and director compensation, stock-based compensation, certain pension and other retirement benefit costs, and other corporate facilities and administrative expenses not allocated to the segments. Also excluded are items that we consider not representative of ongoing operations, such as the unallocated PPP loan forgiveness and refundable employee retention tax credits.
+
+Key Performance Indicators
+
+While we prepare our financial statements in accordance with U.S. generally accepted accounting principles, or “U.S. GAAP”, we also utilize and present certain financial measures that are not based on or included in U.S. GAAP. We refer to these as non-GAAP financial measures. Please see the section titled “EBITDA Non-GAAP Financial Measure” below for further discussion of these financial measures, including the reasons why we use such financial measures and reconciliations of such financial measures to the most directly comparable U.S. GAAP financial measures.
+
+Percentages in the following tables and throughout this “Results of Operations” section may reflect rounding adjustments.
+
+Corporate general costs include executive and director compensation, and other corporate administrative expenses not allocated to the segments. Prior period segment data is restated to reflect changes in corporate and administrative expenses not allocated to the segments.
+
+Fiscal Years Ended March 31, 2024 and 2023
+
+The following table presents net sales, gross profit, and gross margin, consolidated and by reportable segment:
+
+​
+
+nm - not meaningful
+
+Net Sales
+
+Consolidated \- Period-to-period revenue reflects production performance under new and ongoing contracts with changes in net sales due to varying levels of throughput. For the twelve months ended March 31, 2024, 99% of our net sales were in the defense sector, where we have customers in the aerospace, military and shipbuilding industries.
+
+Consolidated net sales were $31.6 million for the fiscal year ended March 31, 2024, or 1% higher when compared to consolidated net sales for the fiscal year ended March 31, 2023. Net sales decreased by $1.4 million at Ranor but was more than offset by an increase of $2.3 million at Stadco. Both segments logged a different proportionate mix of products for the comparable periods.
+
+Ranor \- Net sales were $17.8 million for the fiscal year ended March 31, 2024, a decrease of $1.4 million or 7% lower when compared to the same prior-year period, as fewer labor hours were charged directly to projects. Average selling prices were higher but not enough to offset the lower volume. The defense backlog remains strong as new orders for components related to a variety of programs, including the U.S. Navy submarine programs continue to flow down from our existing base of prime defense contractors. Backlog at Ranor on March 31, 2024 was $21.1 million.
+
+Stadco \- Net sales were $14.6 million for the fiscal year ended March 31, 2024 compared with net sales of $12.3 million for the fiscal year ended March 31, 2023, an increase of 19%. We have made incremental improvements with throughput on projects where revenue is recognized over time. Our project mix and sales volume were favorable when compared with the prior fiscal year, as more direct hours were charged to projects. Average selling prices were also higher when compared with the prior fiscal year. The defense backlog remains strong as new orders for components related to a variety of programs, including the U.S. Marine Corps heavy lift helicopter programs, continue to flow down from our existing customer base of prime defense contractors. Stadco’s backlog was $28.9 million as of March 31, 2024.
+
+Cost of Sales and Gross Profit
+
+Consolidated – Cost of sales consists primarily of raw materials, parts, labor, overhead and subcontracting costs. Our cost of sales for the fiscal year ended March 31, 2024, was $27.5 million, or 4% higher compared to the fiscal year ended March 31, 2023. Gross profit decreased by $0.8 million, or 16% when compared to the same period a year ago. Gross margin for the fiscal year ended March 31, 2024 was 13.0% compared to 15.6% in fiscal year 2023.
+
+Ranor – Gross profit decreased by $2.4 million or 35% due primarily to lower revenue and under absorbed overhead. Certain supply chain impacts on customer furnished material were also evident during part of the reporting period which led to fewer direct labor hours of input for fiscal 2024. As a result, factory overhead was under-applied to our work-in-progress.
+
+Stadco – Gross profit was negative for the fiscal year ended March 31, 2024 but our losses decreased by 79% when compared to the fiscal year ended March 31, 2023, as our work force utilization has slowly improved over-time as direct labor hours charged to projects has increased year-over-year. Production delays related to equipment down-time were resolved in the first quarter of fiscal 2024 and overhead absorption improved when compared to the same period a year ago. Repairs and maintenance expense increased by 12% year-over-year.
+
+Selling, General and Administrative (SG&A) Expenses
+
+​
+
+March 31, 2023 SG&A segment data is revised to reflect current period updates to unallocated corporate administrative expense.
+
+Consolidated \- Total selling, general and administrative expenses for the fiscal year ended March 31, 2024 increased by $2.7 million or 46% due primarily to outside advisory costs of $1.9 million, a break-up fee for $1.1 million in connection with the terminated Votaw acquisition, and $0.3 million for a claims settlement, partially offset by a $0.6 reduction in compensation at Stadco.
+
+Ranor – The total change for the comparable fiscal years includes reduced spending for outside advisory fees of $128,000, office costs for $29,000, and compensation $15,000. The prior fiscal year period included a one-time fee for services rendered in connection with securing the Employee Retention Tax Credit refund.
+
+Stadco \- SG&A expense for the fiscal year ended March 31, 2024 decreased by $280,000, primarily the result of reductions in office staff compensation, which was offset in part by an increase for a claims settlement of $278,000.
+
+Corporate and unallocated \- SG&A increased by $3.2 million, due primarily to one-time outside advisory and pre-acquisition advisory and legal expenses ($1.9 million) plus a breakup fee ($1.1 million) in connection with the terminated Votaw acquisition.
+
+Operating (loss) income
+
+​
+
+Consolidated \- As a result of the foregoing, for the fiscal year ended March 31, 2024, we reported an operating loss of $4.6 million, which was $3.5 million higher than the operating loss for the fiscal year ended March 31, 2023. Operating income at Ranor was not enough to offset operating losses at Stadco plus an increase for corporate outside advisory and pre-acquisition costs.
+
+Ranor – Operating income was lower when compared to the same period a year ago, due primarily to lower revenue and higher cost of sales.
+
+Stadco – Operating losses decreased as certain projects with production issues, including equipment downtime, were resolved early in the fiscal year, with revenue growth and better throughput achieved through the remainder of the period.
+
+Corporate and unallocated – Operating loss reflects the increase in SG&A discussed above due primarily from outside advisory and pre-acquisition due diligence spending ($1.9 million), and a one-time breakup fee ($1.1 million) in connection with the terminated Votaw acquisition.
+
+Other Income (Expense), net
+
+The following table presents other income (expense) for the fiscal years ended March 31:
+
+​
+
+Interest expense increased under the Revolver Loan (as defined below) by $138,987 when compared with the fiscal year ended March 31, 2023, due to higher amounts borrowed and higher interest rates. Interest paid for term loans and other borrowings decreased by $20,411. We expect that future interest expense increases or decreases will likely correlate directly with borrowing levels under the Revolver Loan. 
+
+Amortization of debt issue costs for the fiscal year ended March 31, 2024 increased when compared to fiscal year ended March 31, 2023, as new amortization periods commenced for costs incurred to extend the Ranor Term Loan and renew the Revolver Loan.
+
+Other income, net for the fiscal year ended March 31, 2024 includes a gain of $40,399 from the settlement of an insurance claim related to abandoned fixed assets following a theft at the Stadco plant. Other income, net, for the fiscal year ended March 31, 2023, includes income for the net change in fair value of contingent consideration for $7,126, and other tax rebates for $33,223.
+
+Employee Retention Tax Credit (ERTC)
+
+Other income for fiscal 2023 includes $636,564 for a refundable Employee Retention Tax Credit authorized under the Coronavirus Aid Relief and Economic Security (“CARES”) Act for eligible employers with qualified wages.
+
+Income Taxes
+
+For fiscal year 2024, the Company recorded tax expense of $1.9 million, compared with tax expense of $0.2 million in fiscal 2023. The fiscal 2024 provision is the sum of tax expense from an increase in the valuation allowance of $3.1 million, offset in part by a federal and state tax benefit due to higher pretax losses.
+
+Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences and carryforwards are expected to be recovered or settled. The valuation allowance on deferred tax assets at March 31, 2024 was approximately $5.2 million. We believe that it is more likely than not that the benefit from certain state NOL carryforwards and other deferred tax assets will not be realized. The assessment was based on the weight of negative evidence at the balance sheet date, our recent operating losses and unsettled circumstances that, if unfavorably resolved, would adversely affect future operations and profit levels. In recognition of this risk, we continue to provide a valuation allowance on these items.
+
+Net Loss 
+
+As a result of the foregoing, for fiscal 2024, we recorded a net loss of $7.0 million, or $0.81 per share basic and fully diluted, compared with a net loss of $1.0 million, or $0.11 per share basic and fully diluted in fiscal 2023.
+
+Liquidity, Capital Resources and Going Concern
+
+Our liquidity is highly dependent on the availability of financing facilities and our ability to maintain gross profit and operating income.
+
+As of March 31, 2024, we had $2.3 million in total available liquidity, consisting of $0.1 million in cash and cash equivalents, and approximately $2.2 million in undrawn capacity under our Revolver Loan. As of March 31, 2023, we had $4.7 million in total available liquidity, consisting of $0.5 million in cash and cash equivalents, and $4.2 million in undrawn capacity under our Revolver Loan.
+
+There was $2.8 million and $0.7 million outstanding under the Revolver Loan at March 31, 2024 and 2023, respectively. The Company pays interest at an adjusted SOFR-based rate. Interest-only payments on advances made under the Revolver Loan will continue to be payable monthly in arrears. Interest-only payments on advances made under the Revolver Loan during the fiscal years ended March 31, 2024 and 2023 totaled $171,073 and $33,156, respectively. The weighted average interest rate at March 31, 2024 and March 31, 2023 was 7.58% and 5.02%, respectively. Unused borrowing capacity at March 31, 2024 and March 31, 2023 was approximately $0.5 million and $4.2 million, respectively.
+
+At March 31, 2024 our working capital was negative $2.9 million because of the reclassification of our long-term debt from noncurrent to current in the consolidated balance sheet. Working capital was $5.6 million at March 31, 2023.
+
+The table below presents selected liquidity and capital measures at the fiscal years ended:
+
+​
+
+The next table summarizes changes in cash by primary component in the cash flows statements for the fiscal years ended:
+
+​
+
+Berkshire Bank Loans
+
+On August 25, 2021, the Company entered into an amended and restated loan agreement with Berkshire Bank (as amended to date, the “Loan Agreement”). Under the Loan Agreement, Berkshire Bank will continue to provide the Ranor Term Loan (as defined below) and the revolving line of credit, or the “Revolver Loan”. In addition, Berkshire Bank provided the Stadco Term Loan (as defined below) in the original amount of $4.0 million. The proceeds of the original Ranor Term Loan of $2.85 million were previously used to refinance existing mortgage debt of Ranor. The proceeds of the Revolver Loan are used for working capital and general corporate purposes of the Company. Payments for the original Ranor Term Loan began on January 20, 2017, and until the facility was amended in December 2022, the Company paid monthly installments of $19,260 each, inclusive of interest at a fixed rate of 5.21% per annum. 
+
+In addition, Berkshire Bank provided to Stadco a term loan in the original amount of $4.0 million, or the “Stadco Term Loan”. On August 25, 2021, Stadco borrowed $4.0 million from Berkshire Bank under the Stadco Term Loan. The proceeds of the Stadco Term Loan were used to support the acquisition of Stadco and refinance existing indebtedness of Stadco. Interest on the Stadco Term Loan is due on unpaid balances beginning on August 25, 2021, at a fixed rate per annum equal to the 7-year Federal Home Loan Bank of Boston Classic Advance Rate plus 2.25%. Since September 25, 2021, and on the 25th day of each month thereafter, Stadco has made and will continue to make monthly payments of principal and interest in the amount of $54,390 each, with all outstanding principal and accrued interest due and payable on August 25, 2028.
+
+On December 23, 2022, Ranor and certain affiliates of the Company entered into a Fifth Amendment to Amended and Restated Loan Agreement, Fifth Amendment to Promissory Note and First Amendment to Second Amended and Restated Promissory Note, or the “Amendment”. Effective as of December 20, 2022, the Amendment, among other things (i) extends the maturity date of the loan originally made to Ranor by Berkshire Bank in 2016, or the “Ranor Term Loan”, to December 15, 2027, (ii) extends the maturity date of the Revolver Loan from December 20, 2022 to December 20, 2023, (iii) increases the interest rate on the Ranor Term Loan from 5.21% to 6.05% per annum, (iv) decreases the monthly payment on the Ranor Term Loan from $19,260 to $16,601, (v) replaces LIBOR as an option for the benchmark interest rate for the Revolver Loan with SOFR, (vi) replaces LIBOR-based interest pricing conventions with SOFR-based pricing conventions, including benchmark replacement provisions, and (vii) solely with respect to the fiscal quarter ending December 31, 2022, lowers the debt service coverage ratio from at least 1.2 to 1.0 to 1.1 to 1.0. Our capital expenditures are limited to $1.5 million annually and contain loan-to-value, and balance sheet leverage covenants.
+
+On December 20, 2023, Ranor and certain affiliates of the Company entered into a Sixth Amendment to Amended and Restated Loan Agreement and Second Amendment to Second Amended and Restated Promissory Note, or the “Sixth Amendment”.
+
+Effective December 20, 2023, the Sixth Amendment, among other things (i) extended the maturity date of the Revolver Loan from December 20, 2023 to March 20, 2024; (ii) limits the use of proceeds from the Revolver Loan by the Company or its affiliates to $1,000,000 in the aggregate for due diligence and related professional costs incurred on or prior to March 20, 2024 in connection with any acquisitions; and (iii) makes certain changes to the amount and methods of valuation of equipment securing repayment of the borrowed funds.
+
+On March 20, 2024, Ranor and certain affiliates of the Company entered into a Seventh Amendment to Amended and Restated Loan Agreement and Third Amendment to Second Amended and Restated Promissory Note, or the “Seventh Amendment”. Effective March 20, 2024, the Seventh Amendment, among other things (i) extended the maturity date of the Revolver Loan from March 20, 2024 to May 20, 2024; (ii) limits the use of proceeds from the Revolver Loan by the Company or its affiliates to $2,000,000 in the aggregate for due diligence and related professional costs incurred on or prior to May 10, 2024 in connection with any acquisitions; and (iii) makes certain changes to the amount and methods of valuation of equipment securing repayment of the borrowed funds.
+
+On May 28, 2024, Ranor and the other Borrowers entered into an Eighth Amendment to Amended and Restated Loan Agreement and Fourth Amendment to Second Amended and Restated Promissory Note with Berkshire Bank. Effective May 24, 2024, the Eighth Amendment, among other things, (i) extends the maturity date of the Revolver Loan from May 24, 2024 to August 30, 2024; (ii) amends the maximum principal amount of the Revolver Loan from $5,000,000 to $4,500,000; and (iii) effective on June 1, 2024, increases the Term SOFR Margin (as defined in the Amendment) used to calculate the interest rate from 2.25% per annum to 2.50% per annum.
+
+On September 4, 2024, Ranor and the other Borrowers entered into a Ninth Amendment to Amended and Restated Loan Agreement and Fifth Amendment to Second Amended and Restated Promissory Note, or the “Ninth Amendment”, with Berkshire Bank. Effective August 30, 2024, the Ninth Amendment, among other things, (i) extends the maturity date of the Revolver Loan from August 30, 2024 to January 15, 2025.
+
+The Ranor Term Loan, the Stadco Term Loan and the Revolver Loan, or collectively, the “Berkshire Loans,” may be accelerated upon the occurrence of an event of default as defined in the Loan Agreement. Upon the occurrence and during the continuance of certain default events, at the option of Berkshire Bank, or automatically without notice or any other action upon the occurrence of certain other events specified in the Loan Agreement, the unpaid principal amount outstanding under the facility, together with accrued interest and all other obligations, would become immediately due and payable without presentment, demand, protest, or further notice of any kind. 
+
+As a result of Borrowers’ failure to satisfy the required minimum Debt Service Coverage Ratio for the twelve month period ending March 31, 2024 as set forth in the Loan Agreement, or the “Existing Default”, the borrowers acknowledge that a certain Event of Default has occurred and is continuing under the Loan Agreement. The borrowers further acknowledge that the sixth amendment to the Agreement constitutes written notice pursuant to the Loan Documents of such Existing Default. Regardless of entering into this Agreement or any discussions between Borrowers and Lender, the Lender expressly reserves any and all rights and remedies available to it under the Loan Documents, the Collateral Documents, and under applicable law, including, without limitation, its right to choose to accelerate and demand the outstanding indebtedness evidenced by the Loan Documents and seek immediate repayment in full, and institute the default rate of interest as of the date of the occurrence of the default or at any time thereafter, as a result of any default or event of default, including, without limitation, the Existing Default, that have arisen or may arise. No such discussions or the entering into of this Agreement shall imply any course of conduct or any agreement on the part of Lender to waive any of its rights and remedies or to forbear from taking any action authorized by the Loan Documents, the Collateral Documents, or by applicable law while discussions continue.
+
+At March 31, 2023, the Company was in violation of the Loan Agreement as it exceeded the capital expenditure limit of $1.5 million as defined in the agreement. On June 12, 2023, the Company and Berkshire Bank executed a waiver under which Berkshire Bank waived the Company’s noncompliance with the capital expenditure limit on March 31, 2023. The waiver document also contains an agreement by the parties to exclude from the calculation of capital expenditures for purposes of the Loan Agreement during the year ending March 31, 2024, any such expenditures made by the Company to the extent they are made using funds provided by customers of the Company for the purpose of making such capital expenditures. The Company was otherwise in compliance with all the financial covenants on March 31, 2023.
+
+There was $7.6 million outstanding under the Loan Agreement on March 31, 2024. Without a waiver, the lender has the right, but not the obligation, to demand repayment from the Company for noncompliance with the debt covenants. In addition, the bank retains the right to act on covenant violations that occur after the date of delivery of any waiver. The lender has not granted us a waiver. As such, we need to seek alternative financing to pay these obligations as the Company does not have existing facilities or sufficient cash on hand to satisfy these obligations. It is also probable that the Company will not be in compliance with the same debt covenants at subsequent measurement dates within the next twelve months. As a result of the above, all of our long-term debt has been classified as current in our consolidated balance sheet.
+
+The Company is exploring various means of strengthening its liquidity position and ensuring compliance with its debt financing covenants by making Stadco operations profitable, renewing our revolver loan, or entering into alternative debt facilities.
+
+On July 3, 2024, the Company entered into the PIPE Agreement with certain accredited investors, pursuant to which the Company agreed to sell in a private placement at an aggregate purchase price of approximately $2.3 million, the PIPE Shares and the PIPE Warrants. The combined purchase price for one PIPE Share and one PIPE Warrant was $3.45. The purpose of the sale of the PIPE Shares and the PIPE Warrants under the PIPE Agreement is to raise working capital for use by the Company. The closing of the offering occurred on July 8, 2024. 
+
+In order for us to continue operations beyond the next twelve months from the date of issuance of the financial statements and to be able to discharge our liabilities and commitments in the normal course of business, we must renew our revolver loan or seek alternative financing by January 15, 2025. We must mitigate our recurring operating losses at our Stadco subsidiary, efficiently increase utilization of our manufacturing capacity at Stadco and improve the manufacturing process. We plan to closely monitor our expenses and, if required, will reduce operating costs to enhance liquidity.
+
+The uncertainty associated with the recurring operating losses at Stadco, the revolver loan renewal, the need for alternative financing, and compliance with debt covenants at subsequent measurement dates raise substantial doubt about our ability to continue as a going concern for at least one-year after the date the consolidated financial statements included in this Annual Report on Form 10-K are issued.
+
+Collateral securing all the above obligations comprises all personal and real property of the Company, including cash, accounts receivable, inventories, equipment, and financial assets.
+
+Operating activities
+
+Apart from our loan facilities, our primary sources of cash are from accounts receivable collections. Our customers make advance payments and progress payments under the terms of each manufacturing contract. Our cash flows can fluctuate significantly from period to period as we mark progress with customer projects and the composition of our receivables collections mix changes between advance payments and customer payments made after shipment of finished goods.
+
+Cash provided by operating activities for fiscal 2024 was $1.3 million. In addition to customer advances and progress payments, cash provided by operating activities included reimbursements under a certain customer project program. The sum of these customer payments was partially offset by payments for obligations for goods and services that had been acquired on open account from suppliers.
+
+Fiscal 2023 was generally marked by favorable project performance progress and delivery schedules that led to timely customer payments. Cash provided by operating activities for the fiscal year ended March 31, 2023 was $3.1 million, as customer cash advances and collections exceeded cash outflows on projects in-progress. Also included in that amount, was $0.6 million for refunds under the employee retention tax credit program, and a $1.0 million reimbursement under a certain customer project program.
+
+Investing activities
+
+For the fiscal year ended March 31, 2024, we invested $3.2 million in new factory machinery and equipment, primarily on the construction and installation of equipment for contract project work with a certain customer at our Ranor segment. In fiscal 2023, we invested $2.3 million in new factory machinery and equipment, with $1.4 million of that amount paid for the installation and construction of equipment for contract project work with a certain customer at our Ranor segment.
+
+We are subject to certain financial debt covenants and may not spend more than $1.5 million for new machinery and equipment during any single fiscal year, tested on an annual basis at the end of each fiscal year. We estimate our spending on new machinery and equipment in fiscal 2025, which we expect will include expenditures for the installation and construction of equipment for contract project work with a certain customer, will again exceed the spending limitation.
+
+On June 12, 2023, we executed a waiver with the lender under which the lender agreed to waive the Company’s noncompliance with this capital spending limit covenant, as it relates to the period ended March 31, 2023. The waiver also contains an agreement by the parties to exclude from the calculation of capital expenditures for purposes of the Loan Agreement during the year ending March 31, 2024, any such expenditures made by the Company to the extent they are made using funds provided by customers of the Company for the purpose of making such capital expenditures.
+
+Financing activities
+
+For the fiscal year ended March 31, 2024 we drew down $7.2 million of proceeds under the Revolver Loan and repaid $5.0 million during the same period. We also used $0.6 million of cash primarily to pay down debt principal and make periodic lease payments. In fiscal 2023 we drew down $10.9 million of proceeds under the Revolver Loan and repaid $11.5 million during the same period. We also used $0.7 million of cash to pay down debt principal, make periodic lease payments and pay costs in connection with the Ranor Term Loan.
+
+All of the above activity resulted in a net decrease in cash of $0.4 million for the fiscal year ended March 31, 2024 compared with a net decrease in cash of $0.5 million for the fiscal year ended March 31, 2023.
+
+Commitments and Contractual Obligations
+
+The following contractual obligations associated with our normal business activities are expected to result in cash payments in future periods, and include the following material items on March 31, 2024:
+
+There are no off-balance sheet arrangements as of March 31, 2024.
+
+EBITDA Non-GAAP Financial Measure
+
+To complement our consolidated statements of operations and consolidated statements of cash flows, we use EBITDA, a non-GAAP financial measure. Net income (loss) is the financial measure calculated and presented in accordance with U.S. GAAP that is most directly comparable to EBITDA. We believe EBITDA provides our board of directors, management, and investors with a helpful measure for comparing our operating performance with the performance of other companies that have different financing and capital structures or tax rates. We also believe that EBITDA is a measure frequently used by securities analysts, investors, and other interested parties in the evaluation of companies in our industry, and is a measure contained in our debt covenants. However, while we consider EBITDA to be an important measure of operating performance, EBITDA and other non-GAAP financial measures have limitations, and investors should not consider them in isolation or as a substitute for analysis of our results as reported under U.S. GAAP.
+
+We define EBITDA as net income (loss) plus interest, income taxes, depreciation, and amortization. Net loss was $7.0 million for the fiscal year ended March 31, 2024, as compared to net loss of $1.0 million for the year ended March 31, 2023. EBITDA, a non-GAAP financial measure, was negative for the year ended March 31, 2024, compared to positive $1.8 million for the year ended March 31, 2023. The following table provides a reconciliation of EBITDA to net income (loss), the most directly comparable U.S. GAAP measure reported in our consolidated financial statements for the fiscal years ended:
+
+Item 7A. Quantitative and Qualitative

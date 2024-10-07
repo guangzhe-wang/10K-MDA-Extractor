@@ -1,0 +1,129 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and the related notes included elsewhere in this filing.
+
+Overview
+
+We are a fast-growing U.S.-based warehousing and logistics service provider that offers a comprehensive package of supply-chain solutions relating to warehouse management and order fulfillment.
+
+With the boom of e-commerce and Internet technology, along with the development of global supply chains, a growing number of merchants are seeking to sell their products through international e-commerce platforms, such as Amazon and eBay. These merchants, however, are confronted with major logistical challenges because of the complexities involved in shipping goods across borders. Specifically, when a foreign consumer places an order online, it can take a long time for the goods to be delivered from one country to another (especially for bulky items), while facing high damage rates and congestion during peak seasons. One of the solutions to such problems is to set up overseas warehouses, which are local storage facilities established in a foreign country where the cross-border merchants intend to sell their goods. Cross-border e-commerce merchants can export goods in batches in advance to overseas warehouses, which can then be delivered to overseas consumers once orders are placed via e-commerce platforms. As a result, the delivery time and the rate of damaged and lost packages may be reduced significantly, therefore enhancing the shopping experience of consumers.
+
+We provide one-stop warehousing and logistics services to cross-border e-commerce merchants outside the U.S. who seek to sell in the U.S. market. We currently operate nine warehouses across the country, with an aggregate gross floor area of approximately 2,765,667 square feet. Aside from a nationwide footprint and large storage space, our warehouses are equipped with automated sorting systems, heavy-duty forklifts, and pallets and trays that are suitable for processing bulky items. As a one-stop warehousing and logistics service provider, we offer a full spectrum of services, including (i) customs brokerage services; (ii) transportation of merchandise to U.S. warehouses; and (iii) warehouse management and order fulfillment services, which further include (a) product storage and retrieval, (b) product packing and labeling, (c) kitting and repackaging, (d) order assembly and load consolidation, (e) inventory management and sales forecasting, (f) third-party distribution coordination, and (g) other value-added services. We also provide warehousing and logistics services to our U.S.-based commercial customers, who are typically domestic e-commerce merchants seeking efficient and reliable warehousing and logistics solutions to support their operations. In general, the warehousing and logistics services we provide to our domestic customers are similar to those we provide to our overseas customers. This allows us to provide integrated solutions for our customers, whether they need domestic or international warehousing and logistics support. As of June 30, 2024 and 2023, we had an active customer base of 105 and 83, respectively, for our warehousing and logistics services.
+
+We have experienced rapid growth since our inception. For the fiscal years ended June 30, 2024 and 2023, we had total revenue of $167.0 million, and $135.0 million respectively, and net income of $7.4 million, and $13.9 million respectively. While we do not have any subsidiaries, assets, or employees in the PRC, we generate a significant portion of our revenue from customers based in China. During the fiscal years ended June 30, 2024 and 2023, we generated approximately 96% and 96% of our revenue from PRC-based customers, respectively. See “Item 1A. Risk Factors — Economic, Political, and Market Risks — China’s economic, political, and social conditions, as well as governmental policies, could affect the business environment and economic conditions in China, which may result in an adverse impact on the demand for our services, potentially harming our financial condition and operating results.”
+
+
+Key Factors Affecting Our Results of Operations
+
+We believe the following key factors may affect our financial condition and results of operations.
+
+Supportive Cross-Border E-Commerce Business Environment and Platform Policies that Facilitate Sales by PRC E-Commerce Merchants into the U.S. Market
+
+The majority of our customers consist of PRC e-commerce merchants who sell their merchandise into the U.S. market through e-commerce platforms. As such, our ability to acquire and maintain new or existing customers for our warehousing and logistics services is heavily reliant on their continued willingness to conduct cross-border e-commerce businesses, which may be significantly impacted by policies set by e-commerce platforms. For example, in early 2021, Amazon, the world’s largest e-commerce platform, claimed that it had suspended the accounts of over 50,000 Chinese sellers for improper use of review functions. Specifically, instead of earning great reviews through high-quality products, those PRC sellers manipulated reviews by paying for positive product reviews or by giving away gift cards, which violates Amazon’s terms of service. It is estimated that the 50,000 affected accounts caused approximately RMB100 billion in losses for the cross-border e-commerce industry in the PRC, which has discouraged a growing number of PRC e-commerce sellers from selling their merchandise to the U.S. via Amazon. There is no guarantee that our current or future international customers are fully compliant with the terms of service of all the international e-commerce platforms they use, including Amazon, or that those e-commerce platforms will not from time to time initiate such a widespread suspension of PRC sellers in the future. Such a crackdown on PRC sellers may significantly reduce the number of Chinese e-commerce sellers who intend to sell in the U.S., who are our primary customers. The loss of our PRC customer base due to the widespread suspension of PRC sellers in the cross-border e-commerce industry could be detrimental to our ongoing operations. See “Item 1A. Risk factors — Operational Risks — The suspension of PRC sellers on using international e-commerce platforms, such as the crackdown on PRC sellers by Amazon in early 2021, has discouraged and may continue to discourage a growing number of PRC e-commerce sellers from selling their merchandise to the United States, thus adversely affecting our business, financial condition, and results of operations”
+
+Our Ability to Maintain Our Major Customers
+
+During the fiscal years ended June 30, 2024 and 2023, our five largest customers accounted for approximately 53.0% and 62.0% of our total revenue, respectively. While we strive to maintain our competitive strengths, such as our quality warehousing and logistics services, competitive pricing, and quality customer services (see “Item 1. Business — Our Competitive Strengths”) to maintain our customer base, there is no guarantee that we will continue to maintain our business relationships with these major customers at the same level, or at all. In the event that a significant customer terminates its relationship with us, we cannot assure that we will be able to secure an alternative arrangement with another comparable customer in a timely manner, or at all. Losing one or more of these major customers could adversely affect our revenue and profitability. See “Item 1A. Risk Factors — Operational Risks — Our largest customers generate a significant portion of our revenue and our business may rely on one or more suppliers that account for more than 10% of our total purchases, and interruption in operations of such significant customers or supplier may have an adverse effect on our business, financial condition, and results of operations.”
+
+Our Ability to Effectively Develop and Expand our Labor Force
+
+Our ability to increase our customer base and achieve broader market acceptance will depend to a significant extent on our ability to expand our sales, marketing, and support operations, as well as our ability to recruit and retain talented personnel. We plan to continue expanding our labor force in these areas of the business and engaging additional partners. This expansion will require us to invest significant financial and other resources to attract and retain a skilled workforce. Our business will be harmed if we are unable to hire, develop, and retain skilled and qualified personnel, if our new personnel are unable to achieve desired productivity levels in a reasonable period of time, or if we are unable to retain our existing personnel.
+
+
+Results of Operations 
+
+The following table outlines our consolidated statements of operations for the fiscal years ended June 30, 2024 and 2023:
+
+
+Revenue, costs of sales, and gross profit margin
+
+The following table sets forth our revenue for the fiscal years ended June 30, 2024 and 2023:
+
+The following table outlines the compositions of our revenue streams:
+
+Our revenue increased by $31.9 million, or 23.6%, to $167.0 million during the fiscal year ended June 30, 2024, compared to $135.0 million for the fiscal year ended June 30, 2023. The increase was due to the following factors:
+
+Our costs of sales mainly represented the costs incurred for the use of third-party direct freight service carriers, such as FedEx and UPS, warehouse rental expenses, costs of labor, and trucking expenses. Costs of sales increased by $39.6 million, or 36.2%, during the fiscal year ended June 30, 2024, compared with the fiscal year ended June 30, 2023. The increase was in line with the significant increase of our revenue.
+
+
+The following table sets forth a breakdown of our costs of sales for the fiscal years ended June 30, 2024 and 2023:
+
+Our rental expenses (primarily warehouse operating lease expenses), freight expenses, temporary labor expenses, and salary and benefits increased significantly by $15.6 million, $13.5 million, $4.3 million, and $3.1 million, respectively, during the fiscal year ended June 30, 2024 compared to 2023. The increases in these expenses were all due to the growth of our revenue in transportation services and warehouse services.
+
+Our overall gross profit margin decreased from 19.1% for the fiscal year ended June 30, 2023 to 10.8% for the year ended June 30, 2024, primarily due to our expansion into the Fontana, California warehouse and the temporary disruption of operations in California as inventory was relocated to a new facility. Although the profit margins of our transportation services (e.g. FedEx, ocean freight, and truck deliveries) for the fiscal year ended June 30, 2024, remained stable or slightly higher compared to the previous year, the profit margins for our warehousing services experienced a significant decrease during the same period. This decline is attributable to increases in the rental expenses, salary and benefits, temporary labor expenses, and warehouse expenses of approximately 106%, 68%, 51%, and 83%, respectively, despite a relatively modest increase in warehousing services revenue of approximately 38.1%.
+
+Operating expenses
+
+Our operating expenses consist primarily of general and administrative expenses. The following table sets forth a breakdown of our general and administrative expenses for the fiscal years ended June 30, 2024 and 2023:
+
+Our general and administrative expenses increased by $2.2 million, from $7.8 million for the fiscal year ended June 30, 2023 to $10.0 million for the fiscal year ended June 30, 2024, representing an increase of 28%. The increase was due to the following factors:
+
+
+Income Tax
+
+Our California subsidiaries are subject to the current California state corporate income tax at a rate of 8.84% and federal income tax at a flat rate of 21%.
+
+The following table sets forth a breakdown of our income tax expense:
+
+Our income tax expense decreased by $2.4 million in 2024, mainly due to the decrease in profit before tax by $8.9 million during the year.
+
+Net income
+
+As a result of the foregoing, our net income for the fiscal year ended June 30, 2024 was $7.4 million, compared with the net income of $13.9 million for the fiscal year ended June 30, 2023, representing a decrease by $6.5 million.
+
+Liquidity and Capital Resources
+
+In assessing our liquidity, management monitors and analyzes our cash on-hand, our ability to generate sufficient revenue sources in the future, and our operating and capital expenditure commitments. As of the date of this annual report, we have financed our operations primarily through cash generated by operating activities and capital contributions from stockholders. As of June 30, 2024 and 2023, we had cash and restricted cash of $10 million and $6.6 million, respectively, which primarily consisted of cash deposited in banks.
+
+Our working capital requirements mainly consist of costs of sales and general and administrative expenses. We expect that our capital requirements will be met by cash generated from our operating activities and financing activities from our principal stockholders. We believe that our current cash and cash generated from our operating activities will be sufficient to meet our current and anticipated working capital requirements and capital expenditures for at least the next 12 months. We may, however, need additional cash resources in the future if we experience changes in our business conditions or other developments.
+
+Cash Flows for the Fiscal Years Ended June 30, 2024 and 2023
+
+
+We had a balance of cash and restricted cash of $10.0 million as of June 30, 2024, compared with a balance of $6.6 million as of June 30, 2023. During the fiscal years ended June 30, 2024 and 2023, we mainly derived our cash inflow from operating activities.
+
+Operating Activities
+
+Net cash provided by operating activities was $3.0 million for the fiscal year ended June 30, 2024, compared to net cash provided in operating activities of $11.8 million for the fiscal year ended June 30, 2023, representing a $8.8 million decrease in the net cash inflow provided by operating activities. The decrease was primarily due to the following:
+
+Investing Activities
+
+Net cash used in investing activities was $7.4 million for the fiscal year ended June 30, 2024, primarily attributable to $5.2 million cash used for the purchase of property and equipment, and $2.2 million used for loans extended to others.
+
+For the fiscal year ended June 30, 2023, net cash used in investing activities was $4.3 million, primarily attributable to $1.8 million cash used for the purchase of property and equipment and $2.4 million used for loans extended to others.
+
+Financing Activities
+
+For the fiscal year ended June 30, 2024, we had net cash provided by financing activities of $7.8 million, which was primarily attributable to the net effects of: (i) $7.5 million collected from our initial public offering; (ii) $0.5 million collected from related parties for the repayment of loans we previously advanced to them; (iii) $1.0 million used for expenses relating to the initial public offering; (iv) $0.2 million used to repay finance lease liabilities; and (v) $1.0 million in capital contributions from stockholders.
+
+For the fiscal year ended June 30, 2023, we had net cash used in financing activities of $3.2 million, which was primarily attributable to the net effects of: (i) $2.5 million used to repay to related parties; (ii) $0.5 million used for loans extended to related parties; (iii) $0.4 million used for expenses relating to the initial public offering; (iv) $0.2 million used to repay finance lease liabilities; and (v) $0.5 million in capital contributions from shareholders.
+
+
+Commitments and Contractual Obligations
+
+As of June 30, 2024, we had operating and finance leases for office space, warehouse space, and forklifts. Lease terms expire at various dates through August 2024 to July 2034 with options to renew for varying terms at our sole discretion. We have not included these options to extend or terminate in the calculation of right-of-use assets or lease liabilities, as there is no reasonable certainty, as of the date of this annual report, that these options will be exercised.
+
+As of June 30, 2024, maturities of lease liabilities for each of the following fiscal years ending June 30 and thereafter were as follows:
+
+Other than the above leases, we did not have significant commitments, long-term obligations, or guarantees as of June 30, 2024.
+
+Off-balance Sheet Commitments and Arrangements
+
+Other than two standby letters of credit with Eastwest Bank in the aggregate amount of $2,061,673, we did not have during the period presented, and we do not currently have, any off-balance sheet financing arrangements as defined under the rules and regulations of the SEC, or any relationships with unconsolidated entities or financial partnerships, including entities sometimes referred to as structured finance or special purpose entities, that were established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. As of June 30, 2024, we still have unused credit of $2,061,673 with Eastwest Bank.
+
+Critical Accounting Policies and Estimates
+
+The preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States of America (“GAAP”) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, contingent assets and liabilities, each as of the date of this annual report, and revenue and expenses during the periods presented. On an ongoing basis, management evaluates their estimates and assumptions, and the effects of any such revisions are reflected in the financial statements in the period in which they are determined to be necessary. Management bases their estimates on historical experience and on various other factors that they believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual outcomes could differ materially from those estimates in a manner that could have a material effect on our consolidated financial statements.
+
+Despite that management determines that there are no critical accounting estimates, the one that requires relatively significant estimates relates to useful lives of property and equipment.
+
+
+Property and equipment are recorded at cost, less accumulated depreciation and impairment. The estimation of useful lives impacts the level of annual depreciation expenses recorded and the estimation is a matter of judgment based on the experience of our Company and general industry practice with similar assets. The estimated annual deprecation rates of our property and equipment are generally as follows:
+
+As of June 30, 2024 and 2023, the historical cost of property and equipment was $14,773,842 and $9,566,674, respectively.
+
+We recorded depreciation expenses of $1,827,231 and $1,111,088 during the fiscal years ended June 30, 2024 and 2023, respectively. Specifically, $1,513,947 and $905,384 of the depreciation expenses were recorded in costs of sales for the fiscal years ended June 30, 2024 and 2023, respectively. $313,284 and $205,704 of the depreciation expenses were recorded in general and administrative expenses for the fiscal years ended June 30, 2024 and 2023, respectively.
+
+While our significant accounting policies are more fully described in Note 2 — Summary of Significant Accounting Policies” in the notes to our consolidated financial statements, we believe that there were no critical accounting policies that affected the preparation of financial statements.
+
+Item 7A. Quantitative and Qualitative

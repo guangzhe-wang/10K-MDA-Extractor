@@ -1,0 +1,155 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our financial statements and related notes included elsewhere in this report. This report contains certain forward-looking statements relating to future events or our future financial performance. These statements are subject to risks and uncertainties which could cause actual results to differ materially from those discussed in this report. You are cautioned not to place undue reliance on this information which speaks only as of the date of this report. We are not obligated to publicly update this information, whether as a result of new information, future events or otherwise, except to the extent we are required to do so in connection with our obligation to file reports with the SEC. For a discussion of the important risks to our business and future operating performance, see the discussion under the caption “Item 1A. Risk Factors” and under the caption “Factors That May Influence Future Results of Operations” below. In light of these risks, uncertainties and assumptions, the forward-looking events discussed in this report might not occur.
+
+BUSINESS OVERVIEW
+
+Doing business as “FranklinAccess”, we are a leading global provider of integrated wireless solutions utilizing the latest 5G (fifth generation) and 4G LTE (fourth generation long-term evolution) technologies including mobile hotspots, fixed wireless routers, and mobile device management (MDM) solutions. We are a leading enabler of the Digital Divide initiative, and our expertise extends to innovation in Internet of Things (IOT) and machine-to-machine (M2M) applications, driving forward seamless communication and connectivity for both individuals and enterprises.
+
+We have majority ownership of Franklin Technology Inc. (FTI), a research and development company based in Seoul, South Korea. FTI primarily provides design and development services for our wireless products.
+
+Our products are generally marketed and sold directly to wireless operators and indirectly through strategic partners and distributors. Our primary markets are in North America and Asia.
+
+FACTORS THAT MAY INFLUENCE FUTURE RESULTS OF OPERATIONS
+
+We believe that our revenue growth will be influenced largely by the successful maintenance of our existing customers, the rate of increase in demand for wireless data products, customer acceptance of our new products, new customer relationships and contracts, our ability to meet customers’ demands, our ability to maintain good relationships with our manufacturing partners and suppliers, and the defect rates experienced by end users of our hardware and software products.
+
+We have entered into and expect to continue to enter into new customer relationships and contracts for the supply of our products, and this may require significant demands on our resources, resulting in increased operating, selling, and marketing expenses associated with such new customers.
+
+We continuously evaluate the performance of our hardware and software products to discover defects that can adversely affect our revenue, income, and the price of our stock. If defects occur that customers believe are either severe in nature or excessively frequent in occurrence, customers could stop buying our products and services and the value of our stock may decrease.
+
+We are also seeing that demand from end-users has been shifting in the post-pandemic economy as remote education and work from home trends are declining. Current demand for mobile device management (MDM) services has been declining. We are working to improve and further enhance our software service offerings to address this change in the market.
+
+CRITICAL ACCOUNTING POLICIES
+
+Revenue Recognition
+
+The Company accounts for its revenue according to ASC 606, “Revenue from Contracts with Customers”, pursuant to which, revenue is recognized when the control of the promised goods or services is transferred to the customers, and the performance obligations under the contract have been satisfied, in an amount that reflects the consideration expected to be entitled to in exchange for those goods or services.
+
+The Company determines revenue recognition through the following steps: identify the contract(s) with a customer, identify the performance obligations in the contract, determine the transaction price, allocate the transaction price to the performance obligations in the contract, and recognize revenue when (or as) the entity satisfies a performance obligation.
+
+Contracts with Customers
+
+Revenue from sales of products and services is derived from contracts with customers. The products and services covered by contracts primarily consist of hot spot routers. Contracts with each customer generally state the terms of the sale, including the description, quantity and price of each product or service. Payment terms are stated in the contract, primarily in the form of a purchase order. Since the customer typically agrees to a stated rate and price in the purchase order that does not vary over the life of the contract, the majority of our contracts do not contain variable consideration. We establish a provision for estimated warranty and returns. Using historical averages, that provisions for the years ended June 30, 2024, and 2023, were not material.
+
+Disaggregation of Revenue
+
+In accordance with Topic 606, we disaggregate revenue from contracts with customers into geographical regions and by the timing of when goods and services are transferred. We determined that disaggregating revenue into these categories meets the disclosure objective in Topic 606, which is to depict how the nature, amount, timing and uncertainty of revenue and cash flows are affected by regional economic factors.
+
+Contract Balances
+
+We perform our obligations under a contract with a customer by transferring products in exchange for consideration from the customer. We typically invoice our customers as soon as control of an asset is transferred, and a receivable is established. However, we recognize contract liability when a customer prepays for goods and/or services, or when we have not delivered goods under the contract since we have not yet transferred control of the goods and/or services.
+
+The balances of our trade receivables are as follows:
+
+The balance of contract assets was immaterial as we did not have a significant amount of un-invoiced receivables in the periods ended June 30, 2024, and June 30, 2023. 
+
+Our contract liabilities and advance from customers are as follows:
+
+Performance Obligations
+
+A performance obligation is a promise in a contract to transfer a distinct good and/or service to the customer and is the unit of measurement in Topic 606. At contract inception, we assess the products and/or services promised in our contracts with customers. We then identify performance obligations to transfer distinct products and/or services to the customer. To identify performance obligations, we consider all the products or services promised in the contract regardless of whether they are explicitly stated or are implied by customary business practices.
+
+Our performance obligations are satisfied at a point in time. Revenue from products transferred to customers at a single point in time accounted for over 99% of net sales for the year ended June 30, 2024 and 2023. Revenue for non-recurring engineering projects is based on the percentage completion of a project and accounted for under 1% of net sales for the years ended June 30, 2024 and 2023. Most of our revenue that is recognized at a point in time is for the sale of hot-spot router products. Revenue from these contracts is recognized when the customer can direct the use of and obtain substantially all of the benefits from the product, which generally coincides with title transfer at completion of the shipping process.
+
+As of June 30, 2024 and 2023, our contracts do not contain any unsatisfied performance obligations, except for undelivered products.
+
+Capitalized Product Development Costs
+
+Accounting Standards Codification (“ASC”) Topic 350, “Intangibles - Goodwill and Other” includes software that is part of a product or process to be sold to a customer and shall be accounted for under Subtopic 985-20. Our products contain embedded software internally developed by FTI, which is an integral part of these products because it allows the various components of the products to communicate with each other and the products are clearly unable to function without this coding.
+
+The costs of product development that are capitalized once technological feasibility is determined (noted as Technology in progress in the Intangible Assets table, in Note 2 to Notes to Consolidated Financial Statements) include certifications, licenses, payroll, employee benefits, and other headcount-related expenses associated with product development. We determine that technological feasibility for our products is reached after all high-risk development issues have been resolved. Once the products are available for general release to our customers, we cease capitalizing the product development costs and any additional costs, if any, are expensed. The capitalized product development costs are amortized on a product-by-product basis using the straight-line amortization. The amortization begins when the products are available for general release to our customers.
+
+As of June 30, 2024, and June 30, 2023, capitalized product development costs in progress were $0 and $203,838, respectively, and these amounts are included in intangible assets in our consolidated balance sheets. For the years ended June 30, 2024 and 2023, we incurred $123,359 and $1,631,376, respectively in capitalized product development costs, and all costs incurred before technological feasibility is reached are expensed and included in our consolidated statements of comprehensive income (loss).
+
+Income Taxes 
+
+Deferred income tax assets and liabilities are recorded for differences between the financial statement and tax basis of the assets and liabilities that will result in taxable or deductible amounts in the future based on enacted laws and rates applicable to the periods in which the differences are expected to affect taxable income. Valuation allowances are established when necessary to reduce deferred tax assets to the amount expected to be realized. As of June 30, 2024, we have federal and state net operating loss carryforwards of approximately $5.8 million and $0.5 million, respectively. As of June 30, 2023, we have federal and state net operating loss carryforwards of approximately $2.5 million and $0.5 million, respectively.
+
+Under the Tax Cuts and Jobs Act (the “Act”), which was signed into law on December 22, 2017, the federal net operating loss of approximately $2.5 million, which was recognized on or after January 1, 2018, will carry forward indefinitely. The state net operating loss of approximately $0.5 million will begin to expire through 2043. The utilization of net operating loss carryforwards may be subject to limitations under provisions of the Internal Revenue Code Section 382 and similar state provisions.
+
+Under the provision of ASC 740 “Application of the Uncertain Tax Position Provisions” related to accounting for uncertain tax positions, which prescribes a recognition threshold and measurement process for recording in the financial statements, uncertain tax positions taken or expected to be taken in a tax return, the impact of an uncertain income tax position on the income tax return must be recognized at the largest amount that is more-likely-than-not to be sustained upon audit by the relevant taxing authority. Tax benefits of an uncertain tax position will not be recognized if it has less than a 50% likelihood of being sustained based on technical merits.
+
+RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS 
+
+Refer to NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES in the Consolidated Financial Statements.
+
+RESULTS OF OPERATIONS
+
+The following table sets forth, for the years ended June 30, 2024, 2023, and 2022, our statements of operations including data expressed as a percentage of sales:
+
+YEAR ENDED JUNE 30, 2024, COMPARED TO YEAR ENDED JUNE 30, 2023
+
+NET SALES \- Net sales decreased by $15,151,826, or 33.0%, to $30,796,690 for the year ended June 30, 2024 from $45,948,516 for the corresponding period of 2023. For the year ended June 30, 2024, net sales by geographic regions, consisting of North America and Asia, were $30,699,727 (99.7% of net sales) and $96,963 (0.3% of net sales), respectively. For the year ended June 30, 2023, net sales by geographic regions, consisting of North America and Asia, were $45,782,084 (99.6% of net sales) and $166,432 (0.4% of net sales), respectively.
+
+Net sales in North America decreased by $15,082,357, or 32.9%, to $30,699,727 for the year ended June 30, 2024, from $45,782,084 for the corresponding period of 2023. The decrease in net sales in North America was primarily due to the reduced demand from two major carriers by approximately 50% and 26%, compared to the corresponding period of 2023. Net sales in Asia decreased by $69,469, or 41.7%, to $96,963 for the year ended June 30, 2024, from $166,432 for the corresponding period of 2023. The decrease in net sales was primarily due to the reduced demand (approximately 61%) for a newly launched wireless product from a customer of FTI.
+
+GROSS PROFIT\- Gross profit decreased by $3,512,392, or 50.0%, to $3,508,350 for the year ended June 30, 2024, from $7,020,742 for the corresponding period of 2023. The gross profit in terms of net sales percentage was 11.4% for the year ended June 30, 2024, compared to 15.3% for the corresponding period of 2023. The decrease in gross profit was primarily due to the change in net sales as described above. The decrease in gross profit in terms of net sales was the mixed results of competitive selling prices and the increase in production costs as well as the increased amortization expenses associated with the completed capitalized product development costs that are included in the cost of goods sold compared to the corresponding period of 2023.
+
+OPERATING EXPENSES \- Operating expenses increased by $77,788, or 0.8%, to $9,448,105 for the year ended June 30, 2024, from $9,370,317 for the corresponding period of 2023.
+
+Selling, general, and administrative expenses increased by $589,702 to $6,041,355 for the year ended June 30, 2024, from $5,451,653 for the corresponding period of 2023. The increase in selling, general, and administrative expenses was primarily due to the increased legal expenses of approximately $540,000. Research and development expenses decreased by $511,914 to $3,406,750 for the year ended June 30, 2024, from $3,918,664 for the corresponding period of 2023. The decrease in research and development expense was primarily due to the decreased research and development costs and the related payroll expense of approximately $250,000 and $260,000, respectively, which is the mixed result of the timing of research and development activities and the number of active projects and typically vary from period to period.
+
+OTHER INCOME (EXPENSE), NET \- Other income (expense), net increased by $2,305,527, or 155.6%, to $823,784 for the year ended June 30, 2024, from ($1,481,743) for the corresponding period of 2023. The increase was primarily due to the decreased loss from the agreement in principle to settle a legal action of $2,400,000, the increased loss from unfavorable changes in foreign currency exchange rates in FTI of approximately $360,000, which were offset by the increased interest income earned from the money market accounts and certificates of deposit of approximately $344,000.
+
+YEAR ENDED JUNE 30, 2023, COMPARED TO YEAR ENDED JUNE 30, 2022
+
+NET SALES \- Net sales increased by $21,950,754, or 91.5%, to $45,948,516 for the year ended June 30, 2023 from $23,997,762 for the corresponding period of 2022. For the year ended June 30, 2023, net sales by geographic regions, consisting of North America, the Caribbean and South America, and Asia were $45,782,084 (99.6% of net sales), $0 (0.0% of net sales), and $166,432 (0.4% of net sales), respectively. For the year ended June 30, 2022, net sales by geographic regions, consisting of North America, the Caribbean and South America, and Asia were $23,305,366 (97.1% of net sales), $2,375 (0.0% of net sales), and $690,021 (2.9% of net sales), respectively.
+
+Net sales in North America increased by $22,476,718, or 96.4%, to $45,782,084 for the year ended June 30, 2023, from $23,305,366 for the corresponding period of 2022. The increase in net sales in North America was primarily due to the new demand for two newly launched wireless products from a major carrier customer (approximately $14M newly generated revenue) which did not purchase our products during the fiscal year 2022, and the increased demand by approximately $11M, or 66%, for our wireless products from the existing major carrier customer compared to the fiscal year 2022, which were offset by the decreased demands from other customers.
+
+Net sales in the Caribbean and South America decreased by $2,375, or 100%, to $0 for the year ended June 30, 2023, from $2,375 for the corresponding period of 2022. Net sales in Asia decreased by $523,589, or 75.9%, to $166,432 for the year ended June 30, 2023, from $690,021 for the corresponding period of 2022. The decrease in net sales was primarily due to the one-time revenue generated from the material sales by FTI for the fiscal year 2022, which was partially offset by the revenue generated from the demand for one newly launched wireless product by FTI (approximately $160,000) for the year ended June 30, 2023.
+
+GROSS PROFIT\- Gross profit increased by $3,204,159, or 84.0%, to $7,020,742 for the year ended June 30, 2023, from $3,816,583 for the corresponding period of 2022. The gross profit in terms of net sales percentage was 15.3% for the year ended June 30, 2023, compared to 15.9% for the corresponding period of 2022. The increase in gross profit was primarily due to the change in net sales as described above. The decrease in gross profit in terms of net sales percentage was the mixed results of competitive selling prices and the increase in production costs of the launched products.
+
+OPERATING EXPENSES \- Operating expenses increased by $578,842, or 6.6%, to $9,370,317 for the year ended June 30, 2023, from $8,791,475 for the corresponding period of 2022. 
+
+Selling, general, and administrative expenses increased by $942,309 to $5,451,653 for the year ended June 30, 2023, from $4,509,344 for the corresponding period of 2022. The increase in selling, general, and administrative expenses was primarily due to the increased payroll expenses (excluding payroll expense for employees involved in research and development) and compensation expenses related to stock options granted for employees of approximately $230,000 and $165,000, respectively, and the increased legal expenses of $195,000.
+
+Research and development expenses decreased by $363,467 to $3,918,664 for the year ended June 30, 2023, from $4,282,131 for the corresponding period of 2022. The decrease in research and development expense was primarily due to the mix of the timing of research and development activities and the number of active projects, which typically vary from period to period. For the year ended June 30, 2023, the research and development expenses decreased by approximately $450,000, which is partially offset by the increased payroll expenses for employees involved in research and development of approximately $89,000.
+
+OTHER INCOME, NET \- Other income, net decreased by $1,747,162, or 658.3%, to $1,481,743 for the year ended June 30, 2023, from $265,419 for the corresponding period of 2022. The decrease was primarily due to the loss from the agreement in principle to settle a legal action of $2,400,000 and the increased loss from unfavorable changes in foreign currency exchange rates in FTI of approximately $184,000, which were offset by the increased interest income earned from the money market accounts and certificates of deposit of approximately $388,000, the increased unrealized gain from an investment account of approximately $340,000, and the increased gain from forgiven liabilities of approximately $199,000.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Our historical operating results, capital resources and financial position, in combination with current projections and estimates, were considered in management’s plan and intentions to fund our operations over a reasonable period of time, which we define as the twelve-month period ending June 30, 2024. For the purposes of liquidity disclosures, we assess the likelihood that we have sufficient available working capital and other principal sources of liquidity to fund our operating activities and obligations as they become due.
+
+Our principal source of liquidity as of June 30, 2024, consisted of cash and cash equivalents as well as short-term investments of $37,457,827. We believe we have sufficient available capital to cover our existing operations and obligations through at least June 30, 2025. Our long-term future cash requirements will depend on numerous factors, including our revenue base, profit margins, product development activities, market acceptance of our products, future expansion plans and ability to control costs. If we are unable to achieve our current business plan or secure additional funding that may be required, we would need to curtail our operations or take other similar actions outside the ordinary course of business.
+
+OPERATING ACTIVITIES – Net cash used in operating activities for the years ended June 30, 2024 and 2023 were $773,360 and $1,882,114, respectively.
+
+The $773,360 in net cash used in operating activities for the year ended June 30, 2024 was primarily due to the decrease in accounts payable and accrued legal contingency expense of $5,685,087 and $2,400,000, respectively, as well as our operating results (net loss adjusted for depreciation, amortization, and other non-cash charges), which was offset by the decrease of accounts receivable and inventories of $7,722,229 and $2,290,211, respectively. The $1,882,114 in net cash used in operating activities for the year ended June 30, 2023 was primarily due to the increase in accounts receivable of $7,627,183 as well as our operating results (net loss adjusted for depreciation, amortization, and other non-cash charges), which was offset by the increase of accounts payable and accrued legal contingency expense of $4,905,499 and $2,400,000, respectively.
+
+INVESTING ACTIVITIES – Net cash provided by investing activities for the year ended June 30, 2024 was $723,858, and net cash used in investing activities for the year ended June 30, 2023 was $12,109,183.
+
+The $723,858 in net cash provided by investing activities for the year ended June 30, 2024 was primarily due to the proceeds of short-term investments of $910,034, which was offset by the purchases of capitalized product development of $123,359. The $12,109,183 in net cash used in investing activities for the year ended June 30, 2023 was primarily due to the purchases of short-term investments of $10,391,654 and capitalized product development of $1,631,376.
+
+FINANCING ACTIVITIES – Net cash provided by financing activities for the years ended June 30, 2024 and 2023 was $91,057 and $42,943, respectively.
+
+The $91,057 in net cash provided by financing activities for the year ended June 30, 2024 was repayment received from the loan to an employee of $91,057. The $42,943 in net cash provided by financing activities for the year ended June 30, 2023 was from the exercise of stock options of $45,000, which was offset by loan to an employee of $2,057.
+
+OFF-BALANCE SHEET ARRANGEMENTS 
+
+None.
+
+CONTRACTUAL OBLIGATIONS AND OTHER COMMITMENTS
+
+The following table summarizes our contractual obligations and commitments as of June 30, 2024, and the effect such obligations could have on our liquidity and cash flow in future periods: 
+
+LEASES
+
+Refer to ITEM 2. PROPERTIES.
+
+WARRANTY REPAIRS 
+
+The following table sets forth the percentages of return rates and warranty repairs for all products currently marketed, in the aggregate from the date each product was introduced through June 30, 2024.
+
+FUTURE LIQUIDITY AND CAPITAL REQUIREMENTS
+
+For the next twelve months, we may require in excess of $2 million for capital expenditures, software licenses and for testing and certifying new products.
+
+We believe we will be able to fund our future cash requirements for operations from our cash available, operating cash flows, bank lines of credit and issuance of equity securities. We believe these sources of funds will be sufficient to continue our operations and planned capital expenditures. However, we will be required to raise additional debt or equity capital if we are unable to generate sufficient cash flow from operations to fund the expansion of our sales and to satisfy the related working capital requirements for the next twelve months. Our ability to satisfy such obligations also depends upon our future performance, which in turn is subject to general economic conditions and regional risks, and to financial, business and other factors affecting our operations, including factors beyond our control. See Item 1A, “Risk Factors” included in this report.
+
+If we are unable to generate sufficient cash flow from operations to meet our obligations and commitments, we will be required to raise additional debt or equity capital. Additionally, we may be required to sell material assets or operations or delay or forego expansion opportunities. We might not be able to effect these alternative strategies to raise funds including credit lines and loans, on satisfactory terms, if at all.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE

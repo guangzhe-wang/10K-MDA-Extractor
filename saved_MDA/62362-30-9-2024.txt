@@ -1,0 +1,81 @@
+ITEM 6. [RESERVED]
+
+ITEM 7. TRUSTEE’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Critical Accounting Policies. The financial statements of Marine have been prepared on the modified cash basis method and are not intended to present Marine’s financial position and results of operations in conformity with GAAP. Under the modified cash basis method:
+
+•
+
+Royalty income is recognized when received by Marine.
+
+•
+
+Marine’s expenses (which include accounting, legal, and other professional fees, Trustees’ fees and out-of-pocket expenses) are recorded on an actual paid basis. Reserves for liabilities that are contingent or uncertain in amount may also be established if considered necessary.
+
+•
+
+Distributions to unitholders are recognized when declared by the Trustee of the Trust.
+
+The financial statements of Marine differ from financial statements prepared in conformity with GAAP because of the following:
+
+•
+
+Royalty income is recognized in the month received rather than in the month of production.
+
+•
+
+Reserves may be established for certain contingencies that would not be recorded under GAAP.
+
+•
+
+Expenses are recorded in the month paid rather than in the month incurred.
+
+•
+
+Depletion is not recorded.
+
+This comprehensive basis of accounting corresponds to the accounting principles permitted for royalty trusts by the SEC as specified by Staff Accounting Bulletin Topic 12:E, Financial Statements of Royalty Trusts. 
+
+The preparation of financial statements in conformity with the modified cash basis method of accounting requires the Trustee to make various estimates and assumptions that affect the reported amount of liabilities at the date of the financial statements and the reported amount of expenses during the reporting period. Actual results may differ from such estimates.
+
+Revenue Recognition. In May 2014, the FASB issued updated guidance for recognizing revenue from contracts with customers. This update amends the existing accounting standards for revenue recognition and is based on the principle that revenue should be recognized to depict the transfer of goods and services to a customer at an amount that reflects the consideration a company expects to receive in exchange for those goods or services and revenue streams related solely to oil and gas royalties. The Trust adopted the disclosure standards of this update, as required, beginning with the first quarter of fiscal year 2019. The adoption of this standard has not had a significant impact on its financial statements due to the modified cash basis of reporting used by the Trust.
+
+Effective October 19, 2017, SFNC completed its acquisition of First Texas BHC, Inc., the parent company of Southwest Bank. SFNC is the parent of Simmons. SFNC merged Southwest Bank, the former corporate trustee of the Trust, with Simmons effective February 20, 2018. Effective December 30, 2022, Argent Trust Company succeeded Simmons as the corporate trustee of the Trust following Simmons resignation as trustee. The defined term “Trustee” as used herein shall refer to Simmons for periods on and after February 20, 2018 through December 29, 2022, and to Argent Trust Company for periods on and after December 30, 2022.
+
+Results of Operations. Marine’s revenues are derived from the oil and natural gas production activities of third parties. Marine’s revenues and distributions fluctuate from period to period based upon factors beyond Marine’s control, including, without limitation, the number of leases subject to Marine’s interests, the number of productive wells drilled on leases subject to Marine’s interests, the level of production over time from such wells and the prices at which the oil and natural gas from such wells are sold.
+
+Marine’s results of operations are significantly impacted by oil and natural gas prices and the quantity of oil and natural gas production. Oil and natural gas prices have historically experienced significant volatility. Marine is not permitted to manage its commodity price risk through the use of fixed price contracts or financial derivatives.
+
+Marine’s income consists primarily of oil and natural gas royalties and is based on the value at the well of its percentage interest in oil and natural gas sold without reduction for any of the expenses of production. “Value at the well” for oil means the sellers’ selling price at its receiving point onshore, less the cost of transportation from the offshore lease to the onshore receiving point. “Value at the well” for natural gas means the selling price less the cost of compression, dehydration and transportation from the lease to the delivery point of the pipeline transporting the product to market. In general, value at the well is determined on the basis of the selling price of oil, natural gas and other minerals produced, saved and sold, or at wellhead prices determined by industry standards, where the selling price does not reflect value at the well. In the event an agreement is not arms-length in nature, the value is based upon current market prices.
+
+Summary Review. In general, Marine receives royalties two months after oil production and three months after natural gas production. The June 2024 distribution of $0.12 per unit increased from the March 2024 distribution of $0.06 per unit. As disclosed in a press release dated August 20, 2024, the September 2024 distribution of $0.09 per unit will be a decrease from the June 2024 distribution of $0.12 per unit.
+
+Marine’s distributable income for fiscal 2024 amounted to $713,165, or $0.36 per unit, as compared to $1,375,417, or $0.69 per unit, in fiscal 2023. Distributions to unitholders are calculated and paid out net of reserve for future expenses, which are estimated by the Trustee on a quarterly basis.
+
+Marine reviewed information available from the BOEM website, revenue records from remitters received by Marine, and other information available from a third-party, which has access to records from other public sources. Based upon this review, the fiscal 2023 data presented below has been revised to reflect the information available to Marine during this review. This revision does not impact the prior years' financial statements or distributable income. The following table shows the number of wells Marine believes were drilled or recompleted on leases in which Marine had an interest and the number of active wells at the end of each of the past two fiscal years.
+
+The fiscal year ended June 30, 2023 has been revised to present the natural gas liquids separately from natural gas. In previous years, the natural gas liquids revenue was included with the natural gas revenue and the average price of natural gas was calculated using the combined revenue number but did not include the natural gas liquids quantities sold. The information in the table was revised for fiscal year 2023 to conform with the current year presentation to (i) provide natural gas liquids royalties, natural gas liquids quantities sold, and average sales price for natural gas liquids, (ii) update natural gas royalties to reflect the split from natural gas liquids royalties (the aggregate amount of natural gas royalties and natural gas liquids royalties is the same as previously reflected for fiscal year 2023 for natural gas royalties) and (iii) corrected average sales price for natural gas. This change does not impact the prior years' financial statements or distributable income. The following table and related discussion and analysis shows the royalty income, the net quantities sold, and the average price received for oil, natural gas, and natural gas liquids during fiscal 2024 and 2023.
+
+These amounts are net of the cost of transportation from offshore leases to onshore receiving points. 
+
+Fiscal Year 2024 Compared to Fiscal Year 2023. During fiscal 2024, Marine received approximately 99% of its royalty income from the sale of oil and 1% of its royalty income from the sale of natural gas and natural gas liquids, as compared to approximately 95% of its royalty income from the sale of oil and 5% of its royalty income from the sale of natural gas and natural gas liquids in fiscal year 2023. Income from oil and natural gas royalties in fiscal 2024 decreased approximately 38% from fiscal 2023, primarily due to a decrease in prices realized for oil, natural gas and natural gas liquids in addition to a decrease in production of oil.
+
+Revenue from oil royalties amounted to $980,110 in fiscal 2024, a decrease from the $1,523,617 realized in fiscal 2023. The average price realized for a barrel of oil decreased to $76.54 in fiscal 2024 from the $90.59 realized in fiscal 2023. In fiscal 2024, oil production decreased to 12,805 bbls from the 16,817 bbls sold in fiscal 2023.
+
+Revenue from natural gas royalties amounted to $10,464 in fiscal 2024, a decrease from the $71,079 realized in fiscal 2023. Revenue from natural gas liquids royalties amounted to $3,568 in fiscal 2024, a decrease from $15,186 realized in fiscal 2023. In fiscal 2024, the average price per mcf of natural gas decreased to $0.92, from the $5.59 realized in fiscal 2023. Natural gas liquids average price per mcf was 0.16 in fiscal 2024, a decrease from 0.69 for fiscal 2023. Natural gas production decreased to 11,399 mcf for natural gas and 20,339 mcf for natural gas liquids for fiscal year 2024 from 12,712 mcf for natural gas and 22,152 mcf for natural gas liquids production for fiscal year 2023.
+
+General and administrative expenses for fiscal 2024 amounted to $331,832 an increase from the $273,526 recorded in fiscal 2023, due to an increase in professional fees, investor fees and printing expenses.
+
+Capital Resources and Liquidity. The Trust’s Indenture (and the charter and by-laws of MPC) expressly prohibits the operation of any kind of trade or business. Due to the limited purpose of the Trust as stated in the Trust’s Indenture, there is no requirement for capital. Its only obligation is to distribute to unitholders the distributable income actually collected.
+
+As an administrator of oil and natural gas royalty properties, the Trust collects income monthly, pays expenses of administration and disburses all distributable income collected to its unitholders each quarter, less an amount reserved for accrued liabilities and estimated future expenses. Because all of Marine’s revenues are invested in liquid funds pending distribution, Marine does not experience liquidity problems.
+
+Marine’s oil and natural gas properties are depleting assets and are not being replaced due to the prohibition against these investments. These restrictions, along with other factors, allow the Trust to be treated as a non-taxable grantor trust for U.S. Federal income tax purposes. Accordingly, all of Marine’s income and deductions should flow through to its unitholders on a proportionate basis. MPC may owe U.S. Federal (and state) income taxes with respect to its income after deducting statutory depletion. MPC’s income specifically excludes 98% of oil and natural gas royalties collected by MPC, which are retained by and delivered to the Trust in respect of the Trust’s net profits interest.
+
+The Trust does not currently have any long-term contractual obligations, other than the obligation to make distributions to unitholders pursuant to the Indenture. The Trust does not maintain any off-balance sheet arrangements within the meaning of Item 303 of Regulation S-K.
+
+Forward-Looking Statements. The statements discussed in this Annual Report on Form 10-K regarding Marine’s future financial performance and results of operations, and other statements that are not historical facts, are forward-looking statements as defined in Section 27A of the Securities Act of 1933, as amended and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Marine uses the words "anticipate," "believe," "budget," "continue," “estimate,” “expect,” “intend,” "may," "plan,” or other similar words to identify forward-looking statements. All forward-looking statements speak only as of the date on which they are made. You should read statements that contain these words carefully because they discuss future expectations, contain projections of Marine’s financial condition, and/or state other “forward-looking” information. Actual results may differ from expected results because of factors, risks and uncertainties including, but not limited to, the following: reductions in prices or demand for oil and natural gas, due to, for example, the COVID-19 pandemic or other pandemics, which might then lead to decreased production or impair Marine’s ability to make distributions; reductions in production due to the depletion of existing wells or disruptions in service, which may be caused by storm damage to production facilities, blowouts or other production accidents, or geological changes such as cratering of productive formations; changes in regulations; general economic conditions; actions and policies of petroleum producing nations; other changes in domestic and international energy markets; the resignation of the Trustee; and the expiration, termination or release of leases subject to Marine’s interests. Events may occur in the future that Marine is unable to accurately predict, or over which it has no control. If one or more of these uncertainties as well as other risks of which we are not aware materialize, or if underlying assumptions prove incorrect, actual outcomes may vary materially from those contained in the forward-looking statements included in this Annual Report on Form 10-K. Except as required by applicable securities laws, Marine does not undertake any obligation to update or revise any forward-looking statements.
+
+Website. Marine has an Internet website and has made available its Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to such reports, filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, at www.marps-marine.com. Each of these reports will be posted on this website as soon as reasonably practicable after such report is electronically filed with or furnished to the SEC.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE

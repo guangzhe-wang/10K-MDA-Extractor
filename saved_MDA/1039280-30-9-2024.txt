@@ -1,0 +1,349 @@
+- MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The following discussion is intended to assist in understanding our financial position and results of operations for the year ended June 30, 2024. It should be read together with our consolidated financial statements and related notes included under Item 8 of this Annual Report on Form 10-K.
+
+A few of our highlights for the fiscal year ended June 30, 2024 were:
+
+| ●| We secured a five-year contract valued at $16 million with a tier one US based leading German automaker. This agreement focuses on the implementation of NETSOL’s Otoz™ digital retail platform across the automaker’s US dealerships. The implementation aims to enhance car sales processes and support customer growth within the automotive sector. This partnership is anticipated to significantly improve the digital retail experience for both dealerships and customers, reflecting NETSOL’s commitment to innovation and excellence in the automotive industry. 
+---|---|--- 
+
+| ●| We completed the rollout of our flagship NFS Ascent® platform across twelve countries for the leasing and asset finance companies for DFS as part of a contract valued at over $110 million. This milestone marks the successful delivery under a 10-year contract with the customer, which was initially signed in 2015. 
+---|---|--- 
+
+| ●| We generated $600,000 in revenues by selling a license of our digital applications to one of our existing customers in Indonesia for the additional five-year term. 
+---|---|--- 
+
+| ●| We achieved the Go Live milestone for a leading US based global professional services provider focused on delivering various digital and business services. 
+---|---|--- 
+
+| ●| We generated nearly $6 million in revenues by successfully implementing modifications and enhancements requests from multiple customers across various regions. 
+---|---|--- 
+
+| ●| We successfully took AutoNation, one of the largest auto retailers in the US, live on our Otoz™ platform to power the back-end of their newly launched “AutoNation Mobility Micro-lease marketplace”. 
+---|---|--- 
+| | 
+| ●| Our focus on new growth verticals has led to multiple successful onboardings of our FLEX™ product, reinforcing confidence in its SaaS offerings. FLEX™ serves as an instant, cloud-based calculation engine designed for seamless integration into clients’ products, services, and ecosystems. 
+| | 
+| ●| We are focusing on new growth verticals and have successfully onboarded a new client for DOCK™, a centralized document generation tool designed for rapid and efficient document creation. This achievement underscores the confidence in our SaaS product offerings and highlights the potential for enhanced operational efficiency for clients. By leveraging DOCK™, we aim to streamline document processes, further solidifying ours position in the market. 
+| | 
+| ●| We successfully renegotiated an existing contract in the UK to accommodate an enhanced scope implementation which will generate approximately $3.5 Million in additional revenues. 
+| | 
+| ●| We secured a contract to implement our NFS Ascent® wholesale platform at an independent leasing company based in the Netherlands. This contract is expected to generate approximately $1 Million in revenues over forthcoming quarters. 
+| | 
+| ●| We contracted with an auto captive finance company of a renowned US auto manufacturer based in China which is expected to generate approximately $12 million over the next five years. 
+| | 
+| ●| We renegotiated to extend the NFS Ascent® license term for an existing client in Thailand for another three years. The extension generated approximately $1.1 million in revenues. 
+| | 
+| ●| We reduced headcount by approximately 345 employees in our effort to become a leaner and efficient organization. 
+
+Marketing and Business Development Activities
+
+We have pursued a series of strategic marketing and business development initiatives to capitalize on favorable market conditions and drive growth across our business lines. These efforts reflect our commitment to building a stronger market presence, expanding our customer base, and maintaining a careful focus on profitability.
+
+MATERIAL TRENDS AFFECTING NETSOL
+
+Management has identified the following material trends affecting NETSOL.
+
+Positive trends:
+
+| ●| According to PR Newswire, December 14, 2023, and the S&P Global Mobility, new vehicles sales globally are expected to reach 86 million units in 2023 for an 8.9% increase over 2022 and forecasts 2024 auto sales at 88.3 million units for a 2.8% increase over 2023. 
+---|---|--- 
+
+| ●| U.S. automotive sales volumes are expected to reach approximately 15.5 million units, an estimated increase of 9% from the projected 2022 levels, and 2024 sales are expected to reach 15.9 million for an estimated increase of 2% compared to 2023. (S&P Global Mobility) 
+---|---|--- 
+
+| ●| The U.S. inflation rate decreased and ended at 2.9% as of August 2024. (YCharts August 30, 2024) 
+---|---|--- 
+
+| ●| The U.S. market remains strong and resilient for NETSOL to continue investing in building local teams for its core offerings. 
+---|---|--- 
+
+| ●| In China, domestic electric vehicles sales are up 73% compared to August 2023. (Clean Technica-September 1, 2024) 
+---|---|--- 
+
+| ●| The China Pakistan Economic Corridor (CPEC) investment, initiated by China, has exceeded $65 billion from the originally planned $46 billion, in Pakistan energy and infrastructure sectors. Last June, China authorized a new $2.3 billion loan at a discounted rate to Pakistan as a short-term loan. 
+---|---|--- 
+
+| ●| The overall size of the mobility market in Europe and the United States is projected to increase over $425 billion combined, by 2035 or a compound CAGR of 5% from 2022. (Deloitte Global Automotive Mobility Market Simulation Tool) 
+---|---|--- 
+
+| ●| The global automotive finance market accounted for $245 billion in 2022 and is expected to more than double by 2035 at a CAGR of 7.4% according to Precedence Research. 
+---|---|--- 
+
+| ●| The U.S. economy grew at an annual rate of 3% for the second quarter of 2024. This report reflects the U.S. economy to be resilient despite other pressures including inflation and higher interest rates. (Associated Press August 29, 2024) 
+---|---|--- 
+
+| ●| The Russell index has returned an average of 14.4% during 2024. 
+---|---|--- 
+
+Negative trends:
+
+| ●| The conflict in Gaza has disrupted the entire Middle East region since October 7, 2023. This has created uncertainty and has affected the economies of the neighboring nations. 
+---|---|--- 
+
+| ●| General economic conditions in our geographic markets; inflation, pending U.S. elections, geopolitical tensions, including trade wars, tariffs and/or sanctions in geographic areas; and global conflicts or disasters that impact the global economy or one or more sectors of the global economy. 
+---|---|--- 
+
+| ●| High interest rates set by the U.S. Federal Reserve Board is restricting buying power for some consumers. 
+---|---|--- 
+
+| ●| Political, monetary, and economic challenges and a higher inflation rate than other regional countries impacting Pakistan exports. 
+---|---|--- 
+
+| ●| Inflation and higher interest rates globally have greatly increased the cost of doing business, including salaries and benefits worldwide, affecting profitability. 
+---|---|--- 
+
+| ●| War and hostility between Russia and Ukraine continue to foster global economic uncertainty. 
+---|---|--- 
+
+| ●| The geo-political environment in South Asia will continue to influence Pakistan’s economic prospects. Pakistan’s political uncertainty has caused higher inflation with constant pressure on its currency being devalued against the US Dollar. According to a report issued by the World Bank, while marginal economic growth is expected in Pakistan, implementing an ambitious and credibly communicated economic reform plan is critical for a robust economic recovery. There is no guarantee that such reforms will be implemented. See Press Release, dated April 2, 2024, World Bank. 
+---|---|--- 
+
+| ●| While the US-China bilateral summit in January 2024 exceeded expectations, the tensions between the two countries continue.. The US and EU have placed tariffs on a range of high-tech products from China including the US placing 100% tariffs on EV vehicles and 25% tariffs on EV batteries imported from China. (Center for Strategic and International Studies June 28, 2024). 
+---|---|--- 
+
+CRITICAL ACCOUNTING POLICIES
+
+Our financial statements and accompanying notes are prepared in accordance with accounting principles generally accepted in the United States (“U.S. GAAP”). Preparing financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, and expenses. These estimates and assumptions are affected by management’s application of accounting policies. Critical accounting policies for us include revenue recognition and multiple element arrangements, intangible assets, software development costs, and goodwill.
+
+REVENUE RECOGNITION
+
+The Company determines revenue recognition through the following steps:
+
+●| Identification of the contract, or contracts, with a customer; 
+---|--- 
+●| Identification of the performance obligations in the contract; 
+●| Determination of the transaction price; 
+●| Allocation of the transaction price to the performance obligations in the contract; and 
+●| Recognition of revenue when, or as, the Company satisfies a performance obligation. 
+
+The Company records the amount of revenue and related costs by considering whether the entity is a principal (gross presentation) or an agent (net presentation) by evaluating the nature of its promise to the customer. Revenue is presented net of sales, value-added and other taxes collected from customers and remitted to government authorities.
+
+The Company has two primary revenue streams: core revenue and non-core revenue.
+
+Core Revenue
+
+The Company generates its core revenue from the following sources: software licenses; services, which include implementation and consulting services; and subscription and support, which includes post contract support, of its enterprise software solutions for the lease and finance industry. The Company offers its software using the same underlying technology via: a traditional on-premises licensing model and a subscription model. The on-premises model involves the sale or license of software on a perpetual basis to customers who take possession of the software and install and maintain the software on their own hardware. Under the subscription delivery model, the Company provides access to its software on a hosted basis as a service and customers generally do not have the contractual right to take possession of the software.
+
+Non-Core Revenue
+
+The Company generates its non-core revenue by providing business process outsourcing (“BPO”), other IT services and internet services.
+
+Performance Obligations
+
+A performance obligation is a promise in a contract to transfer a distinct good or service to the customer and is the unit of account under Topic 606. The transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied by transferring the promised good or service to the customer. The Company identifies and tracks the performance obligations at contract inception so that the Company can monitor and account for the performance obligations over the life of the contract.
+
+The Company’s contracts which contain multiple performance obligations generally consist of the initial purchase of subscription or licenses and a professional services engagement. License purchases generally have multiple performance obligations as customers purchase post contract support and services in addition to the licenses. The Company’s single performance obligation arrangements are typically post contract support renewals, subscription renewals and services engagements.
+
+For contracts with multiple performance obligations where the contracted price differs from the standalone selling price (“SSP”) for any distinct good or service, the Company may be required to allocate the contract’s transaction price to each performance obligation using its best estimate for the SSP.
+
+Subscription
+
+Subscription revenue is recognized ratably over the initial subscription period committed to by the customer commencing when the product is made available to the customer. The initial subscription period is typically 12 to 60 months. The Company generally invoices its customers in advance in quarterly or annual installments and typical payment terms provide that customers make payment within 30 days of invoice.
+
+Software Licenses
+
+Transfer of control for software is considered to have occurred upon delivery of the product to the customer. The Company’s typical payment terms tend to vary by region, but its standard payment terms are within 30 days of invoice.
+
+Post Contract Support
+
+Revenue from support services and product updates, referred to as subscription and support revenue, is recognized ratably over the term of the maintenance period, which in most instances is one year. Software license updates provide customers with rights to unspecified software product updates, maintenance releases and patches released during the term of the support period on a when-and-if available basis. The Company’s customers purchase both product support and license updates when they acquire new software licenses. In addition, a majority of customers renew their support services contracts annually and typical payment terms provide that customers make payment within 30 days of invoice.
+
+Professional Services
+
+Revenue from professional services is typically comprised of implementation, development, data migration, training or other consulting services. Consulting services are generally sold on a time-and-materials or fixed fee basis and can include services ranging from software installation to data conversion and building non-complex interfaces to allow the software to operate in integrated environments. The Company recognizes revenue for time-and-materials arrangements as the services are performed. In fixed fee arrangements, revenue is recognized as services are performed as measured by costs incurred to date, compared to total estimated costs to complete the services project. Management applies judgment when estimating project status and the costs necessary to complete the services projects. A number of internal and external factors can affect these estimates, including labor rates, utilization and efficiency variances and specification and testing requirement changes. Services are generally invoiced upon milestones in the contract or upon consumption of the hourly resources and payments are typically due 30 days after invoice.
+
+BPO and Internet Services
+
+Revenue from BPO services is recognized based on the stage of completion which is measured by reference to labor hours incurred to date as a percentage of total estimated labor hours for each contract. Internet services are invoiced either monthly, quarterly or half yearly in advance to the customers and revenue is recognized ratably overtime on a monthly basis.
+
+Significant Judgments
+
+More judgments and estimates are required under Topic 606 than were required under Topic 605. Due to the complexity of certain contracts, the actual revenue recognition treatment required under Topic 606 for the Company’s arrangements may be dependent on contract-specific terms and may vary in some instances.
+
+Judgment is required to determine the SSP for each distinct performance obligation. The Company rarely licenses or sells products on a stand-alone basis, so the Company is required to estimate the range of SSPs for each performance obligation. In instances where SSP is not directly observable because the Company does not sell the license, product or service separately, the Company determines the SSP using information that may include market conditions and other observable inputs. In making these judgments, the Company analyzes various factors, including its pricing methodology and consistency, size of the arrangement, length of term, customer demographics and overall market and economic conditions. Based on these results, the estimated SSP is set for each distinct product or service delivered to customers.
+
+The most significant inputs involved in the Company’s revenue recognition policies are: The stand-alone selling prices of the Company’s software license, and the method of recognizing revenue for installation/customization, and other services.
+
+The stand-alone selling price of the licenses was measured primarily through an analysis of pricing that management evaluated when quoting prices to customers. Although the Company has no history of selling its software separately from post contract support and other services, the Company does have historical experience with amending contracts with customers to provide additional modules of its software or providing those modules at an optional price. This information guides the Company in assessing the stand-alone selling price of the Company’s software, since the Company can observe instances where a customer had a particular component of the Company’s software that was essentially priced separate from other goods and services that the Company delivered to that customer.
+
+The Company recognizes revenue from implementation and customization services using the percentage of estimated “man-days” that the work requires. The Company believes the level of effort to complete the services is best measured by the amount of time (measured as an employee working for one day on implementation/customization work) that is required to complete the implementation or customization work. The Company reviews its estimate of man-days required to complete implementation and customization services each reporting period.
+
+Revenue is recognized over time for the Company’s subscription, post contract support and fixed fee professional services that are separate performance obligations. For the Company’s professional services, revenue is recognized over time, generally using costs incurred or hours expended to measure progress. Judgment is required in estimating project status and the costs necessary to complete projects. A number of internal and external factors can affect these estimates, including labor rates, utilization, specification variances and testing requirement changes.
+
+If a group of agreements are entered at or near the same time and so closely related that they are, in effect, part of a single arrangement, such agreements are deemed to be combined as one arrangement for revenue recognition purposes. The Company exercises significant judgment to evaluate the relevant facts and circumstances in determining whether agreements should be accounted for separately or as a single arrangement. The Company’s judgments about whether a group of contracts comprise a single arrangement can affect the allocation of consideration to the distinct performance obligations, which could have an effect on results of operations for the periods involved.
+
+If a contract includes variable consideration, the Company exercises judgment in estimating the amount of consideration to which the entity will be entitled in exchange for transferring the promised goods or services to a customer. When estimating variable consideration, the Company will consider all relevant facts and circumstances. Variable consideration will be estimated and included in the contract price only when it is probable that a significant reversal in the amount of revenue recognized will not occur.
+
+Contract Balances 
+
+The timing of revenue recognition may differ from the timing of invoicing to customers and these timing differences result in receivables, contract assets (revenues in excess of billings), or contract liabilities (unearned revenue) on the Company’s Consolidated Balance Sheets. The Company records revenues in excess of billings when the Company has transferred goods or services but does not yet have the right to consideration. The Company records unearned revenue when the Company has received or has the right to receive consideration but has not yet transferred goods or services to the customer.
+
+Unearned Revenue
+
+The Company typically invoices its customers for subscription and support fees in advance on a quarterly or annual basis, with payment due at the start of the subscription or support term. Unpaid invoice amounts for non-cancellable license and services starting in future periods are included in accounts receivable and unearned revenue.
+
+Practical Expedients and Exemptions
+
+There are several practical expedients and exemptions allowed under Topic 606 that impact timing of revenue recognition and the Company’s disclosures. The Company has applied the following practical expedients:
+
+● The Company does not evaluate a contract for a significant financing component if payment is expected within one year or less from the transfer of the promised items to the customer.
+
+● The Company generally expenses sales commissions and sales agent fees when incurred when the amortization period would have been one year or less or the commissions are based on cashed received. These costs are recorded within sales and marketing expense in the Consolidated Statement of Operations.
+
+● The Company does not disclose the value of unsatisfied performance obligations for contracts for which the Company recognizes revenue at the amount to which it has the right to invoice for services performed (applies to time-and-material engagements).
+
+Costs to Obtain a Contract
+
+The Company does not have a material amount of costs to obtain a contract capitalized at any balance sheet date. In general, we incur few direct incremental costs of obtaining new customer contracts. We rarely incur incremental costs to review or otherwise enter into contractual arrangements with customers. In addition, our sales personnel receive fees that we refer to as commissions, but that are based on more than simply signing up new customers. Our sales personnel are required to perform additional duties beyond new customer contract inception dates, including fulfillment duties and collections efforts.
+
+INTANGIBLE ASSETS
+
+Intangible assets consist of product licenses, renewals, enhancements, copyrights, trademarks, trade names, and customer lists. Intangible assets with finite lives are amortized over the estimated useful life and are evaluated for impairment at least on an annual basis and whenever events or changes in circumstances indicate that the carrying value may not be recoverable. We assess recoverability by determining whether the carrying value of such assets will be recovered through the undiscounted expected future cash flows. If the future undiscounted cash flows are less than the carrying amount of these assets, we recognize an impairment loss based on the excess of the carrying amount over the fair value of the assets.
+
+SOFTWARE DEVELOPMENT COSTS
+
+Costs incurred to internally develop computer software products or to enhance an existing product are recorded as research and development costs and expensed when incurred until technological feasibility for the respective product is established. Thereafter, all software development costs are capitalized and reported at the lower of unamortized cost or net realizable value. Capitalization ceases when the product or enhancement is available for general release to customers.
+
+The Company makes on-going evaluations of the recoverability of its capitalized software projects by comparing the amount capitalized for each product to the estimated net realizable value of the product. If such evaluations indicate that the unamortized software development costs exceed the net realizable value, the Company writes off the amount which the unamortized software development costs exceed net realizable value. Capitalized and purchased computer software development costs are being amortized ratably based on the projected revenue associated with the related software or on a straight-line basis.
+
+STOCK-BASED COMPENSATION
+
+Our stock-based compensation expense is estimated at the grant date based on the award’s fair value as calculated by the Black-Scholes-Merton (BSM) option pricing model and is recognized as expense over the requisite service period. The BSM model requires various highly judgmental assumptions including expected volatility and expected term. If any of the assumptions used in the BSM model changes significantly, stock-based compensation expense may differ materially in the future from that recorded in the current period. In addition, we are required to estimate the expected forfeiture rate and only recognize expense for those shares expected to vest. We estimate the forfeiture rate based on historical experience and our expectations regarding future pre-vesting termination behavior of employees. To the extent our actual forfeiture rate is different from our estimate; stock-based compensation expense is adjusted accordingly.
+
+GOODWILL
+
+Goodwill represents the excess of the aggregate purchase price over the fair value of the net assets acquired in a purchase business combination. Goodwill is reviewed for impairment on an annual basis, or more frequently if events or changes in circumstances indicate that the carrying amount of goodwill may be impaired. In conducting its annual impairment test, the Company first reviews qualitative factors to determine whether it is more likely than not that the fair value of the reporting unit is less than its carrying amount. If factors indicate that the fair value of the reporting unit is less than its carrying amount, the Company performs a quantitative assessment and the fair value of the reporting unit is determined by analyzing the expected present value of future cash flows. If the carrying value of the reporting unit continues to exceed its fair value, the fair value of the reporting unit’s goodwill is calculated and an impairment loss equal to the excess is recorded.
+
+Recent Accounting Pronouncement
+
+See Note 2 “Summary of Significant Accounting Policies” in the Notes to the Consolidated Financial Statements in Item 8 of Part II of this Annual Report on Form 10-K, for a full description of recent accounting pronouncements, including the expected dates of adoption.
+
+RESULTS OF OPERATIONS 
+
+THE YEAR ENDED JUNE 30, 2024 COMPARED TO THE YEAR ENDED JUNE 30, 2023 
+
+The following table sets forth the items in our consolidated statement of operations for the years ended June 30, 2024 and 2023 as a percentage of revenues.
+
+A significant portion of our business is conducted in currencies other than the U.S. dollar. We operate in several geographical regions as described in Note 20 “Segment Information and Geographic Areas” within the Notes to the Consolidated Financial Statements. Weakening of the value of the U.S. dollar compared to foreign currency exchange rates generally has the effect of increasing our revenues but also increasing our expenses denominated in currencies other than the U.S. dollar. Similarly, strengthening of the U.S. dollar compared to foreign currency exchange rates generally has the effect of reducing our revenues but also reducing our expenses denominated in currencies other than the U.S. dollar. We plan our business accordingly by deploying additional resources to areas of expansion, while continuing to monitor our overall expenditures given the economic uncertainties of our target markets. In order to provide a framework for assessing how our underlying businesses performed excluding the effect of foreign currency fluctuations, we compare the changes in results from one period to another period using constant currency. In order to calculate our constant currency results, we apply the current period results to the prior period foreign currency exchange rates. In the table below, we present the change based on actual results in reported currency and in constant currency.
+
+Net revenues for the years ended June 30, 2024 and 2023 by segment are as follows:
+
+Revenues
+
+License Fees
+
+License fees for the year ended June 30, 2024 were $5,449,991 compared to $2,269,564 for the year ended June 30, 2023 reflecting an increase of $3,180,427 with a change in constant currency of $3,215,311. In the fiscal year ended June 30, 2024, we recognized approximately $2,800,000 related to the sale of our NFS Ascent® CMS software to a renowned US auto manufacturer based in China, and we recognized approximately $1,142,000 related to the license renewal with an existing customer, and we recognized approximately $465,000 related to the additional sale of our NFS Ascent® CMS software to a renowned German auto manufacturer based in China, and we recognized approximately $610,000 related to selling licenses of our digital applications to a current Indonesian customer. In the fiscal year ended June 30, 2023, we recognized approximately $1,918,000 related to a new NFS Ascent® agreement with Kubota in Australia and approximately $188,000 related to a new agreement with the Government of Khyber Pakhtunkhwa for the sale of our Ascent® product.
+
+Subscription and Support
+
+Subscription and support fees for the year ended June 30, 2024, were $27,952,768 compared to $25,980,661 for the year ended June 30, 2023 reflecting an increase of $1,972,107 with an increase in constant currency of $2,048,348. Subscription and support fees are recurring in nature, and we anticipate these fees to gradually increase as we increase our SaaS customer base and implement NFS Ascent®.
+
+Services
+
+Services income for the year ended June 30, 2024, was $27,990,332 compared to $24,142,990 for the year ended June 30, 2023, reflecting an increase of $3,847,342 with an increase in constant currency of $3,976,019. The increase in services revenue on a constant currency basis is due to the increase in implementation revenue associated with the signing of new contracts, change requests, enhancements and reimbursable costs. Services revenue is derived from services provided to both current customers as well as services provided to new customers as part of the implementation process.
+
+Gross Profit
+
+The gross profit was $29,284,870 for the year ended June 30, 2024 compared with $16,915,563 for the year ended June 30, 2023. This is an increase of $12,369,307 with an increase in constant currency of $9,561,230. The gross profit percentage for the year ended June 30, 2024 increased to 47.7% from 32.3% for the year ended June 30, 2023. The cost of sales was $32,108,221 for the year ended June 30, 2024 compared to $35,477,652 for the year ended June 30, 2023 for a decrease of $3,369,431 and on a constant currency basis a decrease of $255,946. As a percentage of sales, cost of sales decreased from 67.7% for the year ended June 30, 2023 to 52.3% for the year ended June 30, 2024.
+
+Salaries and consultant fees decreased by $2,406,609 from $26,029,516 for the year ended June 30, 2023 to $23,622,907 for the year ended June 30, 2024 and on a constant currency basis decreased by $201,846. For fiscal years 2024 and 2023, we had an average of 1,569 and 1,505 employees, respectively. As of June 30, 2024, our total number of technical employees decreased to 1,066 from a maximum of 1,415. As a percentage of sales, salaries and consultant expense decreased from 49.7% for the year ended June 30, 2023 to 38.5% for the year ended June 30, 2024.
+
+Travel increased by $533,401 from $2,410,041 for the year ended June 30, 2023 to $2,943,442 for the year ended June 30, 2024 and on a constant currency basis increased by $807,100. The increase in travel expense is due to the increase in travel for the current implementations. As a percentage of sales, travel expense increased from 4.6% for year ended June 30, 2023 to 4.8% for the year ended June 30, 2024.
+
+Depreciation and amortization expense decreased to $1,144,809 compared to $2,504,046 for the year ended June 30, 2023 or a decrease of $1,359,237 and on a constant currency basis a decrease of $1,158,666. The decrease is primarily attributed to the full amortization of our capitalized software.
+
+Other cost decreased to $4,397,063 for the year ended June 30, 2024 compared to $4,534,049 for the year ended June 30, 2023 or a decrease of $136,986 and on a constant currency basis an increase of $297,466. The increase in constant currency is mainly due to increase in third party hardware cost of approximately $558,000, off set by decrease in computer cost of approximately $226,000.
+
+Operating Expenses
+
+Operating expenses were $25,791,315 for the year ended June 30, 2024 compared to $25,695,521, for the year ended June 30, 2023 for an increase of $95,794 and on a constant currency basis an increase of $2,120,127. As a percentage of sales, it decreased from 49.0% to 42.0%. The increase in operating expenses was primarily due to increases in selling expenses, general and administrative expenses and research and development costs.
+
+Selling and marketing expenses increased by $443,895 and on a constant currency basis increased by $884,209. The increase in constant currency is mainly due to increases in salaries of approximately $85,000, travel of approximately $382,000 and other selling expenses of approximately $421,000.
+
+General and administrative expenses were $16,259,348 for the year ended June 30, 2024, compared to $16,244,936 at June 30, 2023 or a slight increase of $14,412, and on a constant currency basis an increase of $1,358,218. During the year ended June 30, 2024, salaries increased by approximately $872,822 or increased by approximately $1,307,610 on a constant currency basis, due to increases in salaries including bonuses, medical costs and subsidiary options granted to staff in NetSol PK. The provision for doubtful accounts decreased by approximately $1,700,000 and on a constant currency basis decreased by approximately $1,700,000.
+
+Research and development costs were $1,402,601 for the year ended June 30, 2024 compared to $1,601,613 for the year ended June 30, 2023 or a decrease of $199,012 and on constant currency basis an increase of $910.
+
+Income/Loss from Operations
+
+Income from operations was $3,493,555 for the year ended June 30, 2024 compared to a loss of $8,779,958 for the year ended June 30, 2023. This represents an increase in income of $12,273,513 with an increase of $7,441,103 on a constant currency basis for the year ended June 30, 2024 compared with the year ended June 30, 2023. As a percentage of sales, income from operations was 5.7% for the year ended June 30, 2024 compared to loss of 16.8% for the year ended June 30, 2023.
+
+Other Income and Expense
+
+Other expense was $270,108 for the year ended June 30, 2024 compared to income of $5,562,045 for the year ended June 30, 2023. This represents a decrease of $5,832,153 with a decrease of $5,864,720 on a constant currency basis. The decrease is primarily due to the foreign currency exchange transactions off set by recording other comprehensive loss and an impairment in our Drivemate investment and an increase in interest expense.
+
+Interest income was $1,911,258 for the year ended June 30, 2024 compared to $1,217,850 for the period ended June 30, 2023. This represents an increase of $693,408 or a change of $946,301 on a constant currency basis. Interest income is earned on cash maintained in interest bearing accounts.
+
+During the year ended June 30, 2024, we recognized a loss of $1,187,320 in foreign currency exchange transactions compared to a gain of $6,748,038 for the year ended June 30, 2023. The majority of the contracts with NetSol PK are either in U.S. dollars or Euros; therefore, the currency fluctuations will lead to foreign currency exchange gains or losses depending on the value of the PKR compared to the U.S. Dollar and the Euro. During the year ended June 30, 2024, the value of the U.S. dollar and the Euro decreased 3.1% and 4.6%, respectively, compared to the PKR. During the year ended June 30, 2023, the value of the U.S. dollar and the Euro increased 39.8% and 45.6%, respectively, compared to the PKR.
+
+There was no share of net income (loss) from equity investment for the year ended June 30, 2024 compared to a net loss from equity investment of $1,033,243 for the period ended June 30, 2023. This represents a decrease of $1,033,243 or a change of $1,033,243 on a constant currency basis. During the year ended June 30, 2023, we recorded an impairment of approximately $1,041,000 on our investment in Drivemate.
+
+Included in other expenses for the year ended June 30, 2023, is $324,000 and $650,000 related to other comprehensive loss on liquidation of NTPK Thailand and WRLD3D, respectively. These amounts were reclassified from other comprehensive income to the statement of operations for the year ended June 30, 2023.
+
+Non-controlling Interest
+
+For the year ended June 30, 2024 and 2023, the net income attributable to non-controlling interest was $1,394,056 and $1,099,275, respectively. The increase in non-controlling interest is primarily due to the increase in net income of NetSol PK.
+
+Net Income (Loss) Attributable to NetSol
+
+Net income was $683,873 for the year ended June 30, 2024 compared to a net loss of $5,243,748 for the year ended June 30, 2023. This is an increase in income of $5,927,621 with an increase of $2,298,324 on a constant currency basis, compared to the prior year. For the year ended June 30, 2024, net income per share was $0.06 for basic and diluted shares. For the year ended June 30, 2023, net loss per share was $0.46 for basic and diluted shares.
+
+Non-GAAP Financial Measures
+
+Regulation S-K Item 10(e), “Use of Non-GAAP Financial Measures in Commission Filings,” defines and prescribes the conditions for use of non-GAAP financial information. Our measures of adjusted EBITDA and adjusted EBITDA per basic and diluted share meet the definition of a non-GAAP financial measure.
+
+We define the non-GAAP measures as follows:
+
+| ● | EBITDA is GAAP net income before net interest expense, income tax expense, depreciation and amortization. 
+---|---|--- 
+| | 
+| ● | Non-GAAP adjusted EBITDA is EBITDA plus stock-based compensation expense. 
+| | 
+| ● | Adjusted EBITDA per basic and diluted share – Adjusted EBITDA allocated to common stock divided by the weighted average shares outstanding and diluted shares outstanding. 
+
+We use non-GAAP measures internally to evaluate the business and believe that presenting non-GAAP measures provides useful information to investors regarding the underlying business trends and performance of our ongoing operations as well as useful metrics for monitoring our performance and evaluating it against industry peers. The non-GAAP financial measures presented should be used in addition to, and in conjunction with, results presented in accordance with GAAP, and should not be relied upon to the exclusion of GAAP financial measures. Management strongly encourages investors to review our consolidated financial statements in their entirety and not to rely on any single financial measure in evaluating the Company.
+
+The non-GAAP measures reflect adjustments based on the following items:
+
+EBITDA: We report EBITDA as a non-GAAP metric by excluding the effect of net interest expense, income tax expense, depreciation and amortization from net income because doing so makes internal comparisons to our historical operating results more consistent. In addition, we believe providing an EBITDA calculation is a more useful comparison of our operating results to the operating results of our peers.
+
+Stock-based compensation expense: We have excluded the effect of stock-based compensation expense from the non-GAAP adjusted EBITDA and non-GAAP adjusted EBITDA per basic and diluted share calculations. Although stock-based compensation expense is calculated in accordance with current GAAP and constitutes an ongoing and recurring expense, such expense is excluded from non-GAAP results because it is not an expense which generally requires cash settlement by NetSol, and therefore is not used by us to assess the profitability of our operations. We also believe the exclusion of stock-based compensation expense provides a more useful comparison of our operating results to the operating results of our peers.
+
+Non-controlling interest: We add back the non-controlling interest in calculating gross adjusted EBITDA and then subtract out the income taxes, depreciation and amortization and net interest expense attributable to the non-controlling interest to arrive at a net adjusted EBITDA.
+
+Our reconciliation of the non-GAAP financial measures of adjusted EBITDA and non-GAAP earnings per basic and diluted share to the most comparable GAAP measures for the years ended June 30, 2024 and 2023 are as follows:
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Our cash position was $19,127,165 at June 30, 2024, compared to $15,533,254 at June 30, 2023.
+
+Net cash provided by operating activities was $2,909,388 for the year ended June 30, 2024 compared to $2,009,571 for the year ended June 30, 2023. At June 30, 2024, we had current assets of $47,462,083 and current liabilities of $23,868,822. We had accounts receivable of $13,049,614 at June 30, 2024 compared to $11,714,422 at June 30, 2023. We had revenues in excess of billings of $13,638,547 at June 30, 2024 compared to $12,377,677 at June 30, 2023 of which $954,029 and $ nil are shown as long term as of June 30, 2024 and 2023, respectively. The long-term portion was discounted by $152,446 and $ nil at June 30, 2024 and 2023, respectively, using the discounted cash flow method with interest rates ranging from 7.3% to 17.5%, for the year ended June 30, 2024. During the year ended June 30, 2024, our revenues in excess of billings were reclassified to accounts receivable pursuant to billing requirements detailed in each contract. The combined totals for accounts receivable and revenues in excess of billings increased by $2,596,062 from $24,092,099 at June 30, 2023 to $26,688,161 at June 30, 2024. Accounts payable and accrued expenses, and current portions of loans and lease obligations amounted to $8,232,342 and $6,276,125, respectively, at June 30, 2024. Accounts payable and accrued expenses, and current portions of loans and lease obligations amounted to $6,552,181 and $5,779,510, respectively, at June 30, 2023. The average days sales outstanding for the years ended June 30, 2024 and 2023 were 151 and 168 days respectively. The days sales outstanding have been calculated by taking into consideration the average combined balances of accounts receivable and revenue in excess of billings.
+
+Net cash used by investing activities amounted to $291,538 for the year ended June 30, 2024, compared to $1,399,231 for the year ended June 30, 2023. We had net purchases of property and equipment of $291,538 compared to $1,399,231 for the comparable period last fiscal year.
+
+Net cash provided by financing activities was $239,551 compared to net cash used in financing activities of $718,992, for the years ended June 30, 2024, and 2023, respectively. During the year ended June 30, 2023, our subsidiaries used cash of $61,124, for the purchase of treasury shares. The year ended June 30, 2024, included cash inflow of $756,936 from bank proceeds compared to $270,292 for the same period last year. During the year ended June 30, 2024, we had net payments for bank loans and capital leases of $517,385 compared to $928,160 for the year ended June 30, 2023. We are operating in various geographical regions of the world through our various subsidiaries. Those subsidiaries have financial arrangements from various financial institutions to meet both their short and long-term funding requirements. These loans will become due at different maturity dates as described in Note 15 of the financial statements. We are in compliance with the covenants of the financial arrangements and there is no default which may lead to early payment of these obligations. We anticipate paying back all these obligations on their respective due dates.
+
+We typically fund the cash requirements for our operations in the U.S. through our license, services, and maintenance agreements, intercompany charges for corporate services, and through the exercise of options. As of June 30, 2024, we had approximately $19.1 million of cash, cash equivalents and marketable securities of which approximately $18.2 million is held by our foreign subsidiaries. As of June 30, 2023, we had approximately $15.5 million of cash, cash equivalents and marketable securities of which approximately $13.5 million was held by our foreign subsidiaries.
+
+We remain open to strategic relationships that would provide value added benefits. The focus will remain on continuously improving cash reserves internally.
+
+As a growing company, we have on-going capital expenditure needs based on our short term and long-term business plans. Although our requirements for capital expenses vary from time to time, for the next 12 months, we anticipate needing working capital of $2 to $3 million for APAC, U.S. and European new business development activities and infrastructure enhancements.
+
+Financial Covenants
+
+Our UK based subsidiary, NTE, has an approved overdraft facility of £300,000 ($379,747) which requires that the aggregate amount of invoiced trade debtors (net of provisions for bad and doubtful debts and excluding intra-group debtors) of NTE, not exceeding 90 days old, will not be less than an amount equal to 200% of the facility. The Pakistani subsidiary, NetSol PK has an approved facility for export refinance from Askari Bank Limited amounting to Rupees 500 million ($1,796,558) and a running finance facility of Rupees 53.6 million ($192,591). NetSol PK has an approved facility for export refinance from another Habib Metro Bank Limited amounting to Rupees 900 million ($3,233,804). These facilities require NetSol PK to maintain a long-term debt equity ratio of 60:40 and the current ratio of 1:1. NetSol PK also has an approved export refinance facility of Rs. 380 million ($1,365,384) from Samba Bank Limited. During the tenure of loan, these two facilities require NetSol PK to maintain at a minimum a current ratio of 1:1, an interest coverage ratio of 4 times, a leverage ratio of 2 times, and a debt service coverage ratio of 4 times.
+
+As of the date of this report, we are in compliance with the financial covenants associated with our borrowings. The maturity dates of the borrowings of respective subsidiaries may accelerate if they do not comply with these covenants. In case of any change in control in subsidiaries, they may have to repay their respective credit facilities.
+
+Dividends and Redemption
+
+It has been our policy to invest earnings in growth rather than distribute earnings as common stock dividends. This policy, under which common stock dividends have not been paid since our inception is expected to continue but is subject to regular review by the Board of Directors.
+
+Contractual Obligations
+
+Our contractual obligations are as follows:
+
+Off-Balance Sheet Arrangements
+
+We do not maintain any off-balance sheet arrangements, transactions, obligations or other relationships with unconsolidated entities that would be expected to have a material current or future effect upon our financial condition or results of operations.

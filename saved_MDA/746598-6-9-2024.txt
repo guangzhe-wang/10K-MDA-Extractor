@@ -1,0 +1,131 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Overview
+
+Brady Corporation is a global manufacturer and supplier of identification solutions and workplace safety products that identify and protect premises, products and people. The Company is organized and managed on a geographic basis with two reportable segments: Americas & Asia and Europe & Australia.
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations should be read in conjunction with our audited consolidated financial statements and the notes to those statements (Item 8) in this Annual Report on Form 10-K. The following discussion is intended to help the reader understand the results of operations and financial condition of the Company for the year ended July 31, 2024 compared to the year ended July 31, 2023. 
+
+References in this Annual Report on Form 10-K to “organic sales” refer to sales calculated in accordance with U.S. GAAP, excluding the impact of foreign currency translation, sales recorded from divested companies up to the first anniversary of their divestiture and sales recorded from acquired companies prior to the first anniversary date of their acquisition. The Company’s organic sales disclosures exclude the effects of foreign currency translation as foreign currency translation is subject to volatility that can obscure underlying business trends. Management believes that the non-GAAP financial measure of organic sales is meaningful to investors as it provides them with useful information to aid in identifying underlying sales trends in our businesses and facilitating comparisons of our sales performance with prior periods.
+
+Macroeconomic Conditions and Trends
+
+The Company continues to be impacted by inflationary pressures to raw material and labor costs, supply chain disruptions, and other global macroeconomic challenges. While we experienced material increases to raw material and labor costs and supply chain disruptions in previous years, fiscal 2024 showed signs of easing, with a moderation of raw material and labor cost inflation and improved supply chain stability, which we anticipate will persist into fiscal 2025. The Company has taken and will continue to take actions to mitigate inflationary pressures through targeted pricing actions and a commitment to driving long-term efficiency improvements.
+
+We believe our financial strength positions us well to continue investing in acquisitions and organic growth opportunities, such as expanded sales channels, marketing programs, and R&D. We remain focused on driving sustainable efficiency gains and automation across our operations and selling, general and administrative ("SG&A") functions, while also returning capital to our shareholders through dividends and share repurchases. At July 31, 2024, we had cash of $250.1 million, as well as a credit agreement with $207.3 million available for future borrowing, which can be increased up to $1,042.3 million at the Company's option and subject to certain conditions, for total available liquidity of $1,292.4 million.
+
+We believe that our financial resources and liquidity levels, including the undrawn portion of our credit agreement and our ability to increase that credit line if necessary, are sufficient to manage the continuing impact of economic or geopolitical events that could potentially reduce sales, net income, or cash provided by operating activities. Refer to Risk Factors, included in Part I, Item 1A of this Annual Report on Form 10-K for the year ended July 31, 2024, for further discussion of the possible impact of global economic or geopolitical events on our business.
+
+Results of Operations
+
+The comparability of the operating results for the year ended July 31, 2024 to the year ended July 31, 2023 has been impacted by the divestiture of two non-core businesses, one in March 2023 and another in October 2023. Both divestitures impacted the Americas & Asia reportable segment.
+
+A comparison of results of operating income for the years ended July 31, 2024, 2023, and 2022 is as follows:
+
+Net sales increased 0.7% to $1,341.4 million in fiscal 2024 compared to $1,331.9 million in fiscal 2023, which consisted of organic sales growth of 2.6% and an increase from foreign currency translation of 0.2%, partially offset by a decrease of 2.1% due to divestitures. Organic sales grew 3.1% in the Americas & Asia segment and 1.6% in the Europe & Australia segment. 
+
+Gross margin increased 4.7% to $687.9 million in fiscal 2024 compared to $657.3 million in fiscal 2023. As a percentage of net sales, gross margin increased to 51.3% in fiscal 2024 from 49.4% in fiscal 2023. The increase in gross margin as a percentage of net sales was primarily due to organic sales growth in higher gross margin product lines, improvements in inventory management and reductions in freight expenses.
+
+R&D expenses increased 10.4% to $67.7 million in fiscal 2024 compared to $61.4 million in fiscal 2023. As a percentage of net sales, R&D expenses increased to 5.1% in fiscal 2024 compared to 4.6% in fiscal 2023. The increase in R&D spending in fiscal 2024 was primarily due to increased headcount. The Company remains committed to investing in new product development to increase sales within our businesses. Investments in new printing systems, materials and the build out of industrial track and trace solutions continued to be the primary focus of R&D expenditures in fiscal 2024.
+
+SG&A expenses include selling and administrative costs directly attributed to the Americas & Asia and Europe & Australia segments, as well as certain other corporate administrative expenses including finance, information technology, human resources and other administrative expenses. SG&A expenses increased 1.6% to $376.7 million in fiscal 2024 compared to $370.7 million in fiscal 2023. As a percentage of net sales, SG&A expense increased to 28.1% in fiscal 2024 compared to 27.8% in fiscal 2023. The increase in SG&A expenses in fiscal 2024 was due to increased headcount in sales and technology-related roles and investments in digital advertising and broader omnichannel strategies, which was partially offset by a decrease in selling expenses from divested businesses and a decrease in amortization expense.
+
+Operating income increased 8.1% to $243.4 million in fiscal 2024 compared to $225.2 million in fiscal 2023. As a percentage of sales, operating income increased to 18.1% in fiscal 2024 compared to 16.9% in fiscal 2023. The increase in operating income in fiscal 2024 was primarily due to the increase in segment profit in the Americas & Asia segment as a result of organic sales growth, improved gross profit margin primarily due to growth in higher gross profit margin product lines and operational efficiencies throughout the region.
+
+OPERATING INCOME TO NET INCOME
+
+The following is a reconciliation of operating income to net income for the years ended July 31:
+
+Investment and other income was $7.6 million in fiscal 2024 compared to $4.0 million in fiscal 2023. The increase in investment and other income in fiscal 2024 was primarily due to an increase in interest income driven by a larger cash balance invested and higher interest rates throughout the year, and an increase in the market value of securities held in deferred compensation plans.
+
+Interest expense decreased to $3.1 million in fiscal 2024 compared to $3.5 million in fiscal 2023. The decrease in interest expense in fiscal 2024 was primarily due to a decrease in outstanding borrowings on the Company's credit agreement, which was partially offset by an increase in interest rates on the Company's credit agreement compared to fiscal 2023.
+
+The Company's income tax rate was 20.4% in fiscal 2024. Refer to Note 11, "Income Taxes" for additional information on the Company's income tax rates.
+
+Business Segment Operating Results
+
+The Company evaluates short-term segment performance based on segment profit and customer sales. Interest expense, investment and other income, income tax expense, and certain corporate administrative expenses are excluded when evaluating segment performance.
+
+The following is a summary of segment information for the years ended July 31:
+
+Americas & Asia
+
+Americas & Asia net sales decreased 0.3% to $886.5 million in fiscal 2024 compared to $888.9 million in fiscal 2023. Organic sales growth of 3.1% was offset by a decline from divestitures of 3.2% and a decrease from foreign currency translation of 0.2%.
+
+Organic sales in the Americas increased in the low-single digits in fiscal 2024. The increase in organic sales was primarily due to growth in the wire identification, product identification and safety and facility identification product lines, which was partially offset by a decline in the people identification product line.
+
+Organic sales in Asia increased in the low-single digits in fiscal 2024. The organic sales increase was primarily driven by growth in Singapore, India and Japan, which was partially offset by a decline in volume in China.
+
+Segment profit increased 9.1% to $196.8 million in fiscal 2024 from $180.5 million in fiscal 2023. As a percent of net sales, segment profit increased to 22.2% in fiscal 2024 from 20.3% in fiscal 2023. The increase in segment profit was primarily due to organic sales growth in higher gross margin product lines, particularly in the Americas, and a decrease in selling expenses from divested businesses, which was partially offset by increased headcount in sales, technology and R&D-related roles.
+
+Europe & Australia
+
+Europe & Australia sales increased 2.7% to $454.9 million in fiscal 2024 compared to $443.0 million in fiscal 2023. The net sales increase consisted of organic sales growth of 1.6% and an increase from foreign currency translation of 1.1%.
+
+Organic sales in Europe increased in the low-single digits in fiscal 2024. Organic sales grew in the safety and facility identification, product identification and wire identification product lines, which was partially offset by a decline in the people identification product line. The increase in organic sales in Europe was primarily driven by growth in Western Europe and the Nordic region, partially offset by a decline in the United Kingdom.
+
+Organic sales in Australia increased in the low-single digits in fiscal 2024. Organic sales growth was primarily driven by the wire identification product line, which was partially offset by a decline in the safety and facility identification product line.
+
+Segment profit increased 7.4% to $70.6 million in fiscal 2024 compared to $65.7 million in fiscal 2023. As a percentage of net sales, segment profit increased to 15.5% in fiscal 2024 compared to 14.8% in fiscal 2023. The increase in segment profit was primarily due to organic sales growth in higher margin product lines, reductions in freight expenses and improvements in inventory management, which was partially offset by increased headcount in sales and technology-related roles
+
+Financial Condition
+
+Liquidity & Capital Resources
+
+The Company's cash balances are generated and held in numerous locations throughout the world. At July 31, 2024, approximately 98% of the Company's cash and cash equivalents were held outside the United States. The Company's organic and inorganic growth has historically been funded by a combination of cash provided by operating activities and debt financing. The Company believes that its cash flow from operating activities and its borrowing capacity are sufficient to fund its anticipated requirements for working capital, capital expenditures, research and development, common stock repurchases, dividend payments, and strategic acquisitions for the next 12 months and beyond. Although the Company believes these sources of cash are currently sufficient to fund domestic operations, annual cash needs could require repatriation of cash to the U.S. from foreign jurisdictions, which may result in additional tax payments.
+
+Cash Flows
+
+Cash and cash equivalents were $250.1 million at July 31, 2024, an increase of $98.6 million from July 31, 2023. The following summarizes the cash flow statement for the years ended July 31:
+
+Net cash provided by operating activities was $255.1 million during fiscal 2024 compared to $209.1 million in fiscal 2023. The increase in cash provided by operating activities was primarily due to an increase in profit, as well as continued reductions in inventory levels in fiscal 2024.
+
+Net cash used in investing activities was $81.0 million during fiscal 2024, which primarily consisted of capital expenditures of $79.9 million. Net cash used in investing activities was $11.2 million in fiscal 2023, which consisted of capital expenditures of $19.2 million partially offset by proceeds of $8.0 million from the divestiture of a business. Capital expenditures were elevated in fiscal 2024 due to the purchase of a facility that was previously leased as well as other facility construction costs to support continued growth in the Americas and Europe.
+
+Net cash used in financing activities was $70.5 million during fiscal 2024 compared to $163.6 million in fiscal 2023. The decrease in cash used in financing activities was primarily due to increased net borrowings to fund elevated capital expenditures in fiscal 2024, as well as year-end borrowings to fund the acquisition of Gravotech Holding, which was completed on August 1, 2024.
+
+Material Cash Requirements
+
+Our material cash requirements for known contractual obligations include capital expenditures, borrowings on credit facilities and lease obligations. We believe that net cash provided by operating activities will continue to be adequate to meet our liquidity and capital needs for these items over the next 12 months and in the long-term beyond the next 12 months. We also have cash requirements for purchase orders and contracts for the purchase of inventory and other goods and services, which are based on current and anticipated customer needs and are fulfilled by our suppliers within short time horizons. We do not have significant agreements for the purchase of inventory or other goods or services specifying minimum order quantities. In addition, we may have liabilities for uncertain tax positions, but we do not believe that the cash requirements to meet any of these liabilities will be material. A discussion of income taxes is contained in Note 11 of the Notes to Consolidated Financial Statements.
+
+Credit Facilities and Covenant Compliance
+
+Refer to Item 8, Note 6, "Debt" for information regarding the Company's credit facilities and covenant compliance.
+
+Inflation and Changing Prices
+
+Essentially all of the Company’s revenue is derived from the sale of its products and services in competitive markets. Because prices are influenced by market conditions, it is not always possible to fully recover cost increases through pricing. Changes in product mix from year to year, timing differences in instituting price changes, and the large amount of custom products make it impracticable to accurately define the impact of inflation on profit margins.
+
+Critical Accounting Estimates
+
+Management’s discussion and analysis of the Company’s financial condition and results of operations are based upon the Company’s Consolidated Financial Statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. The Company bases these estimates and judgments on historical experience and on various other assumptions that are believed to be reasonable under the circumstances. Actual results may differ from these estimates and judgments.
+
+The Company believes the following accounting estimates are most critical to an understanding of its financial statements. Estimates are considered to be critical if they meet both of the following criteria: the estimate requires assumptions about material matters that are uncertain at the time the accounting estimates are made, and material changes in the estimates are reasonably likely from period to period. For a detailed discussion on the application of these and other accounting estimates, refer to Note 1 to the Company’s Consolidated Financial Statements.
+
+Income Taxes
+
+The Company operates in numerous taxing jurisdictions and is subject to regular examinations by U.S. federal, state and non-U.S. taxing authorities. Its income tax positions are based on research and interpretations of the income tax laws and rulings in each of the jurisdictions in which the Company does business. Due to the ambiguity of laws and rulings in each jurisdiction, the differences and interplay in tax laws between those jurisdictions, the uncertainty of how underlying facts may be construed and the inherent uncertainty in estimating the final resolution of complex tax audit matters, the Company's estimates of income tax liabilities may differ from actual payments or assessments.
+
+While the Company has support for the positions it takes on tax returns, taxing authorities may assert different interpretations of laws and facts and may challenge cross-jurisdictional transactions. The Company generally re-evaluates the technical merits of its tax positions and recognizes an uncertain tax benefit when (i) there is completion of a tax audit; (ii) there is a change in applicable tax laws including a tax case ruling or legislative guidance; or (iii) there is an expiration of the statute of limitations. The liability for unrecognized tax benefits, excluding interest and penalties, was $22.6 million and $20.9 million as of July 31, 2024 and 2023, respectively. If recognized, $19.4 million of unrecognized tax benefits would reduce the Company's income tax rate as of both July 31, 2024 and 2023. Accrued interest and penalties related to unrecognized tax benefits were $6.1 million and $5.3 million as of July 31, 2024 and 2023, respectively. The Company recognizes interest and penalties related to unrecognized tax benefits in income tax expense on the Consolidated Statements of Income. The Company believes it is reasonably possible that the amount of gross unrecognized tax benefits could be reduced by up to $4.2 million in the next 12 months as a result of the resolution of worldwide tax matters, tax audit settlements, amended tax filings, and/or statute expirations, which would be the maximum amount that would be recognized as an income tax benefit in the Consolidated Statements of Income.
+
+The Company recognizes deferred tax assets and liabilities for differences between the financial statement and tax basis of assets and liabilities that will result in taxable or deductible amounts in the future, based on enacted tax laws and rates applicable to the periods in which the differences are expected to affect taxable income. The Company establishes valuation allowances for its deferred tax assets if it is more likely than not that some or all of the deferred tax asset will not be realized. This requires management to make judgments regarding: (i) the timing and amount of the reversal of taxable temporary differences, (ii) expected future taxable income or loss, and (iii) the impact of tax planning strategies. The Company recognized valuation allowances for its deferred tax assets of $47.2 million and $52.8 million as of July 31, 2024 and 2023, respectively, which were primarily related to foreign tax credit carryforwards and net operating loss carryforwards in its various tax jurisdictions.
+
+Goodwill
+
+The allocation of purchase price for business combinations requires management estimates and judgment as to expectations for future cash flows of the acquired business and the allocation of those cash flows to identifiable intangible assets in determining the estimated fair value. If the actual results differ from these estimates, it could result in an impairment of intangible assets and goodwill or require acceleration of the amortization expense of finite-lived intangible assets. In addition, goodwill and other indefinite-lived intangible assets must be tested for impairment at least annually. If circumstances or events prior to the date of the required annual assessment indicate that, in management's judgment, it is more likely than not that there has been a reduction of fair value of a reporting unit below its carrying value, the Company performs an impairment analysis at the time of such circumstance or event. Changes in management's estimates or judgments could result in an impairment charge, and such a charge could have an adverse effect on the Company's financial condition and results of operations.
+
+The Company has identified six reporting units within its two reportable segments, Americas & Asia and Europe & Australia, with the following goodwill balances as of July 31, 2024: North America, $436.3 million; Europe, $150.4 million; and Latin America, $2.9 million. The other three identified reporting units each have a goodwill balance of zero. The Company has the option to first assess qualitative factors in order to determine if it is more likely than not that the fair value of the reporting unit is greater than its respective carrying value. If the qualitative assessment leads to a determination that the fair value of a reporting unit may be less than its carrying value, or if the Company elects to bypass the qualitative assessment altogether, the Company performs a quantitative impairment test by calculating the fair value of the reporting unit and comparing the fair value with its associated carrying value. When the Company performs the quantitative test for goodwill, the Company establishes the fair value for the reporting unit based on the income approach, in which a discounted cash flow model is utilized, the market approach, in which market multiples of comparable companies are utilized, or a combination of both approaches. The income approach requires the use of significant estimates and assumptions, including forecasted sales growth, operating income projections, and discount rates and changes in these assumptions may adversely impact the fair value assessments. Significant negative industry or macroeconomic trends, disruptions to the Company's business, loss of significant customers, inability to effectively integrate acquired businesses, unexpected significant changes or planned changes in use of the assets or in entity structure, and divestitures may adversely impact the assumptions used in the valuations.
+
+The Company completes its annual goodwill impairment analysis on May 1 of each fiscal year and evaluates its reporting units for potential triggering events on a quarterly basis in accordance with ASC 350, "Intangibles - Goodwill and Other." In addition to the metrics listed above, the Company considers multiple internal and external factors when evaluating its reporting units for potential impairment, including (i) GDP growth for the respective geography, (ii) industry and market factors such as competition and changes in the market for the reporting unit's products, (iii) new product development, (iv) competing technologies, (v) overall financial performance such as cash flows, actual and planned revenue and profitability, and (vi) changes in the strategy of the reporting unit. In the event the fair value of a reporting unit is less than the carrying value, the Company would recognize an impairment charge for the amount by which the carrying amount of the reporting unit exceeds the fair value. If necessary, the Company may consult valuation specialists to assist with the assessment of the estimated fair value of the reporting unit.
+
+On May 1, 2024, the Company performed the qualitative assessment for all three reporting units and determined that it is more likely than not that the fair value exceeds the carrying value for each reporting unit, and as such, goodwill was not considered impaired.
+
+Other Indefinite-Lived Intangible Assets 
+
+Other indefinite-lived intangible assets, which consists of tradenames, are tested for impairment in accordance with the Company's policy outlined above using the income approach. Fair value is estimated using the income approach based upon current sales projections applying the relief from royalty method. If the carrying value of the indefinite-lived intangible asset exceeds its fair value, an impairment loss is recognized in an amount equal to that excess. As a result of the analysis performed on May 1, 2024, all indefinite-lived tradenames had fair value in excess of their carrying value.
+
+New Accounting Standards
+
+The information required by this Item is provided in Note 1 of the Notes to Consolidated Financial Statements contained in Item 8 — Financial Statements and Supplementary Data.
+
+Item 7A. Quantitative and Qualitative

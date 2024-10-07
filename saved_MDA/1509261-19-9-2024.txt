@@ -1,0 +1,220 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations contains forward-looking statements which involve risks and uncertainties. Our actual results could differ materially from those anticipated in these forward-looking statements as a result of certain factors, including those set forth under the Cautionary Statement Regarding Forward-Looking Statements on page ii, the “Risk Factors” set forth in Item 1A, and elsewhere in this Annual Report. We assume no obligation to update forward-looking statements or the risk factors. You should read the following discussion in conjunction with our consolidated financial statements and related notes included in Item 8 of this Annual Report.
+
+Certain figures, such as interest rates and other percentages included in this section have been rounded for ease of presentation. Percentage figures included in this section have not in all cases been calculated on the basis of such rounded figures but on the basis of such amounts prior to rounding. For this reason, percentage amounts in this section may vary slightly from those obtained by performing the same calculations using the figures in our consolidated financial statements or in the associated text. Certain other amounts that appear in this section may similarly not sum due to rounding.
+
+
+​
+
+Executive Summary
+
+Our priorities going into the second half of 2024 and first half of 2025 are to (i) complete enrollment of ex-U.S. participants in the sunRIZE study, (ii) initiate study start-up activities in the U.S. to enable U.S. participant enrollment in the sunRIZE study, and (iii) continue study start-up activities and begin enrollment for the Phase 3 registrational tumor HI clinical study.
+
+Clinical Development
+
+Our focus as a Company is advancing ersodetug in two Phase 3 clinical studies for congenital HI and tumor HI. To that end, we are actively enrolling the pivotal Phase 3 sunRIZE clinical study of ersodetug, which is a randomized, double-blind, placebo-controlled, parallel arm evaluation of ersodetug in participants with congenital HI who are not adequately responding to standard of care medical therapies. To date, in this study we have been screening and enrolling participants outside the U.S. because the U.S. FDA had imposed an age restriction of 12 years of age and older on ersodetug clinical studies as well as dose level restrictions based on historical rat toxicology findings. On September 4, 2024, FDA lifted those restrictions and authorized U.S. inclusion in the ongoing sunRIZE study. Currently, the Company is conducting study start-up activities at sites in the U.S. in anticipation of enrolling U.S. participants in the sunRIZE study in the first part of 2025. Topline results from the study are anticipated to be available in the second half of calendar 2025. 
+
+​
+
+Additionally, we have begun study start-up activities for our Phase 3 registrational tumor HI clinical study which we anticipate to begin enrolling patients in the first half of calendar 2025.
+
+RZ402
+
+In May of 2024 we announced topline results from the Phase 2 proof-of-concept study of RZ402 in patients with DME, which met primary study endpoints, demonstrating a significant reduction in central subfield thickness in the Study Eye at all RZ402 dose levels compared to placebo (up to approximately a 50 micron improvement) and was safe and well-tolerated. The program is available for partnering and we are actively engaged in conversations with potential partners to take RZ402 into further development.
+
+Recent Developments
+
+Exchange Agreement. On March 8, 2024, we entered into a securities exchange agreement (the “Exchange Agreement”) with certain of our stockholders (the “Exchanging Shareholders”), whereby we purchased 3,000,000 shares of common stock representing approximately 7% of our outstanding shares with an aggregate fair value of $5,700,000 (the “Retired Shares”) from the Exchanging Shareholders. The Retired Shares were immediately cancelled whereby they will remain as authorized shares for future issuance in accordance with Nevada law. Consideration for the acquisition of the Retired Shares consisted of (i) a cash payment to the Exchanging Shareholders of $3,000, and (ii) the issuance of pre-funded warrants (the “Exchange PFWs”) to the Exchanging Shareholders with an estimated fair value of $5,697,000. The Exchange PFWs do not expire and were exercisable as of June 30, 2024 to purchase an aggregate of 3,000,000 shares of our outstanding common stock at an exercise price of $0.001 per share.
+
+The Exchange PFWs required approval by our shareholders if the exercise of the Exchange PFWs resulted in aggregate beneficial ownership by the holders in excess of 19.99%. Even though the Exchange PFWs only entitled the holders to purchase 7% of our outstanding shares of common stock, the requirement to obtain shareholder approval for ownership in excess of 19.99% resulted in the treatment of the exchange PFWs as a warrant derivative liability of $5.7 million as of the issuance date. The fair value of this warrant derivative liability increased by approximately $2.9 million, for a total of $8.5 million as of May 13, 2024 when the Exchange PFWs were amended to permit equity classification. Accordingly, the derivative liability of $8.5 million was reclassified to shareholders’ equity on May 13, 2024. 
+
+2024 Underwritten Offering. On June 13, 2024, we entered into an underwriting agreement for the planned issuance and sale of equity securities in an underwritten public offering (the “2024 Underwritten Offering”). The 2024 Underwritten Offering provided for the issuance of (i) 11,250,000 shares of common stock at a price of $4.00 per share for gross proceeds of $45.0 million, and (ii) pre-funded warrants to purchase 3,750,000 shares of common stock at a public offering price of $3.999 per pre-funded warrant (the “2024 PFWs”) for gross proceeds of $15.0 million. The Company granted the 
+
+
+​
+
+underwriters a 30-day option to purchase up to an additional 2,250,000 shares of its common stock at a public offering price of $4.00 per share, less underwriting discounts of 6.0% of the gross proceeds. The underwriters’ option was partially exercised for 1,786,589 shares of common stock for gross proceeds of $7.1 million. Closing occurred on June 24, 2024, whereby the aggregate gross proceeds amounted to $67.1 million. The net proceeds of the 2024 Underwritten Offering amounted to approximately $62.6 million. In July 2024, we utilized approximately $59.7 million of the net proceeds from the 2024 Underwritten Offering to purchase investments in marketable debt securities with maturities that range from October 2024 through December 2025.
+
+2024 Private Placement. In June 2024, we entered into a securities purchase agreement (the “2024 SPA”) with Handok, Inc. and one other investor relating to a private placement (the “2024 Private Placement”), pursuant to which we agreed to sell 1,500,000 shares of common stock at a purchase price of $4.00 per share. Closing of the 2024 Private Placement occurred in July 2024, whereby we received net proceeds of $6.0 million after deduction of underwriting discounts and other offering costs.
+
+​
+
+Factors Impacting our Results of Operations
+
+We have not generated any meaningful revenues since our inception in March 2010. Over the last several years, we have conducted private placements and public offerings to raise additional capital, conducted pre-clinical and clinical trials, and conducted other research and development activities on our pipeline of product candidates.
+
+Due to the time required to conduct clinical trials and obtain regulatory approval for our product candidates, we anticipate it will be some time before we generate substantial revenues, if ever. We expect to generate operating losses for the foreseeable future; therefore, we expect to continue efforts to raise additional capital to maintain our current operating plans over the next several years. We cannot assure you that we will secure such financing or that it will be adequate for the long-term execution of our business strategy. Even if we obtain additional financing, it may be costly and may require us to agree to covenants or other provisions that will favor new investors over our existing shareholders.
+
+Key Components of Consolidated Statements of Operations
+
+Research and development expenses. Research and development (“R&D”) expenses consist primarily of clinical trial costs, compensation and benefits for our personnel engaged in R&D activities, licensing costs, and consultants and outside services. Our R&D costs include an allocable portion of our cash and share-based compensation, employee benefits, and consulting costs related to personnel engaged in the design and development of product candidates and other scientific research projects. We also allocate a portion of our facilities and overhead costs based on the personnel and other resources devoted to R&D activities.
+
+General and administrative expenses. General and administrative (“G&A”) expenses consist primarily of (i) an allocable portion of our cash and share-based compensation and employee benefits related to personnel engaged in our administrative, finance, accounting, and executive functions, and (ii) an allocable portion of our facilities and overhead costs based on the personnel and other resources devoted to G&A activities. G&A expenses also include travel, legal, auditing, investor relations and other costs primarily related to our operations as a public company.
+
+Interest and other income. Interest and other income consist primarily of interest income earned on marketable debt securities and temporary cash investments, amortization of investment premiums and accretion of investment discounts.
+
+Loss from change in fair value of derivative liabilities. We recognize liabilities for financial instruments that are required to be accounted for as derivatives, as well as embedded derivatives in our debt agreements. Warrant and embedded derivative liabilities are adjusted to fair value at the end of each reporting period until the contracts are settled, expire, or otherwise meet the conditions for equity classification. We also recognize liabilities for embedded derivatives that arose in connection with our legacy debt agreement. Changes in fair value are reflected as gains and losses in our consolidated statements of operations. 
+
+
+​
+
+Critical Accounting Policies and Significant Judgments and Estimates
+
+Overview
+
+Our management’s discussion and analysis of financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of the consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the consolidated financial statements, as well as the reported revenue and expenses during the reporting periods. These items are monitored and analyzed for changes in facts and circumstances, and material changes in these estimates could occur in the future. We base our estimates on historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Changes in estimates are reflected in reported results for the period in which they become known. Actual results may differ from these estimates under different assumptions or conditions.
+
+With respect to our significant accounting policies that are described in Note 1 to our consolidated financial statements included in Item 8 of this Annual Report, we believe that the following accounting policies involve a greater degree of judgment and complexity. Accordingly, these are the policies we believe are the most critical to aid in fully understanding and evaluating our consolidated financial condition and results of operations.
+
+Investments in Marketable Debt Securities
+
+We account for investments in marketable debt securities as available-for-sale securities whereby they are recorded in our consolidated balance sheets at fair value. Interest income consists of accrued interest earned based on the coupon rate of the security, plus the impact of accreting discounts and amortizing premiums to maturity using the straight-line method which approximates the interest method. Unrealized gains and losses due to subsequent changes in fair value of the investments are reported in shareholders’ equity as a component of accumulated other comprehensive income (loss). The individual debt securities in our portfolio are subject to credit risk in the event of default by the issuers. We review the components of our portfolio of available-for-sale debt securities, using both quantitative and qualitative factors, to determine if declines in fair value below amortized cost have resulted from a credit-related loss or other factors. To the extent that declines in fair value are due to a deterioration of credit quality of the issuer, we will recognize an allowance for credit losses related to such investments with a corresponding loss in the consolidated statements of operations. Allowances for credit losses may be reversed in subsequent periods if conditions improve and credit-related losses are no longer expected. For a decline in fair value that is solely due to changes in interest rates, impairment is not recognized if we have the ability and intent to hold the investment until maturity. The cost basis of any securities sold prior to maturity will be determined using the specific identification method.
+
+Research and Development
+
+Research and development costs are expensed as incurred. Intangible assets related to in-licensing costs under license agreements with third parties are charged to expense unless we are able to determine that the licensing rights have an alternative future use in other research and development projects or otherwise.
+
+Clinical Trial Accruals
+
+Clinical trial costs are a component of research and development expenses. We accrue and charge to expenses clinical trial activities performed by third parties based upon estimates of the percentage of work completed over the life of the individual study in accordance with agreements established with clinical research organizations and clinical trial sites. We determine our estimates through discussions with internal clinical personnel and external service providers as to the progress or stage of completion of trials or services and the agreed-upon fee to be paid for such services.
+
+
+​
+
+Share-Based Compensation Expense
+
+We measure the fair value of services received in exchange for grants of stock options based on the fair value of the award as of the grant date. We compute the fair value of stock options with time-based vesting using the Black-Scholes Merton (“BSM”) option-pricing model and recognize the cost of the equity awards over the period that services are provided to earn the award. For awards that contain a graded vesting schedule, and the only condition for vesting is a service condition, compensation cost is recognized on a straight-line basis over the requisite service period as if the award was, in substance, a single award. We recognize the impact of forfeitures in the period that the forfeiture occurs, rather than estimating the number of awards that are not expected to vest in accounting for share-based compensation. For stock options that are voluntarily surrendered by employees, all unrecognized compensation is immediately recognized in the period the options are cancelled.
+
+Loss from Change in Fair Value of Derivative Liabilities
+
+We recognize warrant derivative liabilities based on assessment of the warrant’s specific terms and applicable authoritative guidance set forth by FASB in Accounting Standards Codification (“ASC”) 480, Distinguishing Liabilities from Equity (“ASC 480”) and ASC 815, Derivatives and Hedging (“ASC 815”). The assessment considers whether the warrants are freestanding financial instruments and meet the definition of a liability pursuant to ASC 480, and whether the warrants meet all of the requirements for equity classification under ASC 815, including whether the warrants are indexed to the Company’s own common shares and whether the warrant holders could potentially require “net cash settlement” in a circumstance outside of the Company’s control, among other conditions for equity classification. This assessment, which requires the use of professional judgment, is conducted at the time of warrant issuance and as of the end of each subsequent quarterly period while the warrants are outstanding. Liability classified warrants are valued using the BSM option-pricing model at issuance and for each reporting period when applicable. Changes in fair value are reflected as gains and losses in our consolidated statements of operations. We also recognize liabilities for embedded derivatives that arose in connection with a legacy debt agreement.
+
+Results of Operations
+
+Results of operations for the fiscal years ended June 30, 2024 and 2023 reflect net losses of approximately $68.5 million and $51.8 million, respectively. Our consolidated statements of operations for the fiscal years ended June 30, 2024 and 2023, along with the changes between fiscal years, are presented below (in thousands, except percentages):
+
+​
+
+Presented below is a discussion of the key factors that resulted in changes in our results of operations for these periods.
+
+Revenue. As a clinical stage company, we did not generate any revenue for the fiscal years ended June 30, 2024 and 2023. We are at an early stage of development and do not currently have any commercial products. Our existing product 
+
+
+​
+
+candidates will require extensive additional clinical evaluation, regulatory review, significant marketing efforts and substantial investment before they generate any revenues. We do not expect to be able to market any of our product candidates for several years.
+
+Research and Development Expenses. R&D expenses for the fiscal years ended June 30, 2024 and 2023 were as follows (in thousands, except percentages):
+
+​
+
+The increase of $11.9 million was primarily attributable to a net increase of $8.7 million in costs incurred for our two clinical candidate programs, of which the ersodetug program had an increase in spending of $10.9 million and the RZ402 program had a decrease in spending of $2.2 million.
+
+The increase in ersodetug program costs of $10.9 million primarily was driven by (i) an increase of $3.9 million for higher spending on drug substance and drug product manufacturing and other development activities as we began manufacturing activities for process performance qualification activities, (ii) $5.0 million in milestone payments under our license agreement with XOMA due to the dosing of the first patient in a Phase 3 clinical study, (iii) a $1.3 million increase in other ersodetug costs incurred for toxicology studies to support the efforts to lift the FDA clinical hold and (iv) a $0.7 million increase in clinical trial costs due to the ongoing enrollment of patients in the Phase 3 clinical study. We did not incur any ersodetug milestone related costs during the fiscal year ended June 30, 2023. 
+
+The RZ402 program cost decrease of $2.2 million was primarily attributable to a $3.0 million decrease in milestone payments due under our license agreement with ActiveSite. In February 2023, we dosed the first patient in the RZ402 Phase 2 study, triggering a milestone payment due for $3.0 million to ActiveSite. There were no RZ402 related milestone costs incurred during the fiscal year ended June 30, 2024. A further decrease in manufacturing preclinical, toxicology and other related costs of $1.2 million resulted in a total decrease of $4.2 million in RZ402 costs. This $4.2 million decrease in RZ402 costs was partially offset by a $2.0 million increase in clinical operation costs related to the ongoing Phase 2 study, for which the final patients completed the protocol in April 2024.
+
+In addition to the net increase of $8.7 million in our clinical candidate programs, we had an increase of $2.6 million in R&D compensation and benefits for our R&D workforce. Cash-based R&D compensation and benefits increased by $2.4 million from $11.7 million for the fiscal year ended June 30, 2023 to $14.1 million for the fiscal year ended June 30, 2024. This increase was primarily attributable to an increase in the average number of R&D employees from 36 to 42 and an increase in annual performance bonuses. R&D share-based compensation increased by $0.2 million from $3.2 million for the fiscal year ended June 30, 2023 to $3.4 million for the fiscal year ended June 30, 2024. This increase in share-based compensation was primarily attributable to stock options granted to R&D employees hired during the fiscal year ended June 30, 2024.
+
+In addition to the increases in R&D compensation and benefits and our clinical programs noted above for the fiscal year ended June 30, 2024, an increase of approximately $0.6 million was incurred related to higher facilities costs and employee related travel costs allocable to R&D due to the increased headcount as noted above.
+
+General and Administrative Expenses. G&A expenses for the fiscal years ended June 30, 2024 and 2023 were as follows (in thousands, except percentages):
+
+
+​
+
+​
+
+The increase in G&A expenses of $2.5 million for the fiscal year ended June 30, 2024 was primarily attributable to an increase in G&A compensation and benefits related to our administrative workforce of $1.2 million. Cash-based G&A compensation and benefits increased by $1.2 million from $3.8 million for the fiscal year ended June 30, 2023 to $5.0 million for the fiscal year ended June 30, 2024. This increase was attributable to an increase in the average number of G&A employees from 12 to 15 and an increase in compensation related to annual performance bonuses. Investor relations expenses and other G&A professional fees increased by $1.1 million from $2.4 million for the fiscal year ended June 30, 2023 to $3.5 million for the fiscal year ended June 30, 2024. This increase in investor relations expense and other G&A professional fees resulted from pre-commercial planning activities, post regulatory approval market approval planning and other professional fee increases.
+
+In addition to the increases in G&A compensation and benefits and our other professional expenditures noted above for the fiscal year ended June 30, 2024, an increase of approximately $0.2 million was incurred related to higher facilities costs and employee related travel costs allocable to G&A due to the increased headcount as noted above.
+
+Interest and other income. For the fiscal year ended June 30, 2024, we recognized $4.9 million of interest income compared to $4.2 million of interest income for the fiscal year ended June 30, 2023. This increase of $0.7 million was primarily due to our decision in January 2023 to invest an aggregate of approximately $115.0 million in marketable debt securities and an overnight money market mutual fund that provided for interest at a weighted average effective rate of approximately 5.0% for the fiscal year ended June 30, 2024. Even though we had substantially more funds available for investment during the first half of the fiscal year ended June 30, 2023, our effective interest rate was less than 2.0% compared to approximately 5.0% after we began investing in marketable debt securities in January 2023. This change in strategy occurred midway through the fiscal year ended June 30, 2023 whereby interest income was $1.2 million for the first half of the fiscal year and $3.0 million for the second half of the fiscal year.
+
+Change in Fair Value of Warrant Derivative Liability. For the fiscal year ended June 30, 2024, we recognized a loss of $2.9 million during the period from March 8, 2024 through May 13, 2024 when the Exchange PFWs were classified as liabilities. This loss was due to an increase of $0.95 per share in our stock price, resulting in an increase in the fair value of the derivative liability that was recognized due to shareholder approval provision regarding ownership limitations that prohibited equity classification. This liability existed until May 13, 2024 when the Exchange PFW holders agreed to an amendment that eliminated this provision. Our stock price increased from $1.90 per share on March 8, 2024, to $2.85 per share on May 13, 2024 when the Exchange PFWs were modified. For the fiscal year ended June 30, 2023, the Company did not have any warrant derivative liabilities. 
+
+Income Taxes. For the fiscal years ended June 30, 2024 and 2023, we did not recognize any income tax benefit due to our net losses and our determination that a full valuation allowance was required for our deferred income tax assets.
+
+Liquidity and Capital Resources
+
+Short-term Liquidity Requirements
+
+As of June 30, 2024, we had cash and cash equivalents of $70.4 million, investments in marketable debt securities $56.7 million for a total of $127.1 million. Working capital amounted to approximately $119.0 million as of June 30, 2024. We have incurred cumulative net losses of $329.4 million since our inception and as a clinical stage company we have not generated any meaningful revenue to date.
+
+Accordingly, our primary source of liquidity has historically been from the completion of private placements and public offerings of our equity securities, as well as proceeds from the issuance of debt securities. For the fiscal years ended June 30, 2024 and 2023, we received net proceeds from the issuance of equity securities of $62.6 million and $11.6 million, respectively. The completion of equity financings between May 2022 and June 2024 is the primary source of total cash and cash equivalents and investments in marketable debt securities of $127.1 million as of June 30, 2024. In July 2024, we received net proceeds of approximately $6.0 million related to a private placement of 1.5 million shares of common stock. For further information about the key terms and results of our equity financing activities completed in the fourth quarter of fiscal year 2024 and the first quarter of fiscal year 2025, please refer to the discussion above under the caption Recent Developments.
+
+
+​
+
+Expected cash payments related to our existing contractual obligations for the fiscal year ending June 30, 2025 include approximately (i) $0.7 million under our operating lease agreements, and (ii) a milestone payment to XOMA of $5.0 million that will become due upon dosing of the last patient in our Phase 3 clinical trial for ersodetug. Due to uncertainties in the timing associated with clinical trial activities, it is possible that the milestone payment due upon dosing of the last patient could be delayed beyond June 30, 2025.
+
+Based on our cash, cash equivalents and marketable debt security investments totaling $127.1 million as of June 30, 2024, plus the July 2024 private placement proceeds of $6.0 million, we believe we have adequate capital resources to meet all of our contractual obligations and conduct all planned activities to advance our clinical trials at least through the second quarter of calendar year 2026.
+
+Long-term Liquidity Requirements
+
+Our most significant long-term contractual obligations consist of additional clinical and regulatory milestone payments up to $30.0 million payable to XOMA and additional milestone payments up to $25.0 million payable to ActiveSite. Of this total, we expect that $5.0 million will be payable to XOMA during the fiscal year ending June 30, 2025 as discussed above under the caption Short-term Liquidity Requirements. The remaining $50.0 million is considered a long-term liquidity requirement. Due to uncertainties in the timing associated with clinical trial activities and regulatory approvals, there is even greater uncertainty in forecasting the timing of future clinical and regulatory milestone payments to XOMA and ActiveSite that may be required during the fiscal year ending June 30, 2026 and thereafter.
+
+In addition to the clinical and regulatory milestone payments discussed above, upon the future commercialization of ersodetug and RZ402 we will be obligated to pay additional milestone payments and royalties based on the net sales of the related products and alternative indication regulatory approvals to XOMA and ActiveSite for up to an additional $202.5 million. These future milestones include $185.0 million in potential payments to XOMA and $17.5 million to ActiveSite for various sales-based milestones and alternative indication regulatory approvals. No assurance can be provided that commercialization will ever be achieved for either ersodetug or RZ402, whereby none of these future payments may ever be required.
+
+In addition to our licensing obligations, we also have long-term contractual obligations under existing operating lease agreements ranging between approximately $0.2 million to $0.8 million for each of the fiscal years ending June 30, 2026 through 2028. Based on our current forecast, we expect that our existing capital resources will be sufficient to fund our contractual obligations and conduct all planned activities to advance our clinical trials at least through the second quarter of calendar year 2026. Therefore, we will need to obtain additional equity or debt financing in order to fund all of our long-term liquidity requirements.
+
+Presented below is additional discussion about the ongoing requirements pursuant to our license agreements with XOMA and ActiveSite, along with additional information about our ongoing financing activities that impacted our liquidity and capital resources for the fiscal year ended June 30, 2024.
+
+XOMA License Agreement
+
+In December 2017, we entered into a license agreement (“XOMA License Agreement”) with XOMA through its wholly-owned subsidiary, XOMA (U.S.) LLC, pursuant to which XOMA granted an exclusive global license to develop and commercialize XOMA 358 (formerly X358 or RZ358, now ersodetug) for all indications. In January 2019, the XOMA License Agreement was amended with an updated payment schedule, as well as revisions to the amount we were required to expend on development of ersodetug and related licensed products, and revised provisions with respect to our diligence efforts in conducting clinical studies.
+
+Upon the achievement of certain clinical and regulatory events, we will be required to make up to $37.0 million in aggregate milestone payments to XOMA. Milestone payments made to date include a $2.0 million payment in January 2022 for the enrollment of the last patient of the Phase 2 clinical study and $5.0 million paid in May 2024 related to the first patient enrollment in a Phase 3 study. We record a liability for milestone payments in our financial statements on the date that we achieve the milestone event. The next milestone payment of $5.0 million will be due upon the enrollment of the last patient in a Phase 3 study, which we believe will occur in the next twelve months. Additionally, upon the future commercialization of ersodetug, we will be required to pay royalties to XOMA based on the net sales of the related 
+
+
+​
+
+products, and milestone payments up to an additional $185.0 million if future annual sales related to ersodetug exceed targets ranging from $100.0 million to $1.0 billion. Through June 30, 2024, no events have occurred that would result in the requirement to make additional milestone payments, and no royalties have been incurred.
+
+ActiveSite License Agreement
+
+In August 2017, we entered into a Development and License Agreement with ActiveSite (“ActiveSite License Agreement”) pursuant to which we acquired the rights to ActiveSite’s PKI portfolio. We are planning to use the PKI Program to develop, file, manufacture, market and sell products for diabetic macular edema and other therapeutic indications. The ActiveSite License Agreement requires various milestone payments ranging from $1.0 million to $10.0 million when milestone events occur, up to an aggregate of $46.5 million of aggregate milestone payments. The first milestone payment for $1.0 million was paid in December 2020 after completion of preclinical work and submission of an IND to the FDA for RZ402. The second milestone payment for $3.0 million became due upon dosing of the first patient in a Phase 2 study in February 2023. Remaining milestone payments under the ActiveSite License Agreement for various clinical and regulatory milestones amount to $25.0 million and milestones after commercial success or alternative indication approvals amount to $17.5 million. We will also be required to pay royalties equal to 2.0% of any sales of products that use the PKI Program. Through June 30, 2024, no events have occurred that would result in the requirement to make additional milestone payments and no royalties have been incurred.
+
+Cash Flows Summary
+
+Presented below is a summary of our operating, investing and financing cash flows for the fiscal years ended June 30, 2024 and 2023 (in thousands):
+
+​
+
+Cash Flows Used in Operating Activities
+
+For the fiscal years ended June 30, 2024 and 2023, cash flows used in operating activities amounted to $57.4 million and $44.5 million, respectively. The key components in the calculation of our cash used in operating activities are as follows (in thousands):
+
+​
+
+For the fiscal year ended June 30, 2024, our net loss was $68.5 million compared to $51.8 million for the fiscal year ended June 30, 2023. For further discussion about changes in our operating results for the fiscal years ended June 30, 2024 and 2023, please refer to Results of Operations above.
+
+For the fiscal year ended June 30, 2024, our non-cash expenses of $10.8 million primarily consisted of share-based compensation expense of $7.4 million, a loss from change in the fair value of the warrant derivative liability of $2.9 million, and non-cash lease expense of $0.5 million. For the fiscal year ended June 30, 2023, our non-cash expenses of $7.7 million primarily consisted of share-based compensation expense of $7.3 million and non-cash lease expense of $0.4 million.
+
+
+​
+
+For the fiscal year ended June 30, 2024, non-cash gains consisted of the net impact of accreting discounts and amortizing premiums on investments in marketable debt securities of $2.8 million. For the fiscal year ended June 30, 2023, non-cash gains consisted of the net impact of accreting discounts and amortizing premiums on investments in marketable debt securities of $1.4 million. 
+
+For the fiscal year ended June 30, 2024, net changes in operating assets and liabilities increased operating cash flow by $3.1 million, primarily driven by an increase accounts payable and other accrued liabilities of $3.2 million, partially offset by an increase in prepaid expenses and other assets of $0.1 million associated with prepayments for clinical trials and manufacturing activities. For the fiscal year ended June 30, 2023, net changes in operating assets and liabilities increased operating cash flow by $1.0 million, primarily driven by an increase accounts payable and other accrued liabilities of $2.3 million, partially offset by an increase in prepaid expenses and other assets of $1.3 million associated with prepayments for clinical trials and manufacturing activities.
+
+Cash Flows Provided by (Used in) Investing Activities
+
+For the fiscal year ended June 30, 2024, net cash provided by investing activities amounted to $48.7 million, primarily related to the proceeds from maturities of marketable debt securities of $115.1 million, partially offset by cash outflows used in to purchase marketable debt securities of $66.4 million. For the fiscal year ended June 30, 2023, our net cash utilized in investing activities amounted to $101.5 million, primarily related to the purchase of $107.3 million of marketable debt securities, partially offset by cash proceeds of $6.0 million of resulting from maturities of marketable debt securities. Additionally, for the fiscal year ended June 30, 2023, our investing activities used $0.2 million for the purchase of furniture and equipment primarily for use in our new office location in Redwood City, California.
+
+Cash Flows Provided by Financing Activities
+
+Net cash provided by financing activities for the fiscal year ended June 30, 2024 amounted to $63.0 million. This amount consisted of proceeds of $67.1 million from the 2024 Underwritten Offering. The total proceeds from the 2024 Public Underwritten Offering of $67.1 million were partially offset by underwriter discounts of $4.0 million related to this offering and other offering costs of $0.3 million. For the fiscal year ended June 30, 2024, we also received proceeds of $0.2 million from the exercise of employee stock options to purchase approximately 82,000 shares of common stock.
+
+Net cash provided by financing activities for the fiscal year ended June 30, 2023 amounted to $11.6 million. This amount consisted of gross proceeds of $12.3 million received from the 2022 Private Placement. The total proceeds from the 2022 Private Placement of $12.3 million were received in July 2022 and were partially offset by payments of $0.8 million for underwriting commissions and other costs related to this offering.
+
+Off-Balance Sheet Arrangements
+
+During the fiscal years ended June 30, 2024 and 2023, we did not have any relationships with unconsolidated organizations or financial partnerships, such as structured finance or special purpose entities, which were established for the purpose of facilitating off-balance sheet arrangements.
+
+Recently Issued Accounting Pronouncements
+
+See Note 1 to our consolidated financial statements included in Item 8 of this Annual Report regarding the impact of certain accounting pronouncements on our consolidated financial statements.
+
+Item 7A. Quantitative and Qualitative

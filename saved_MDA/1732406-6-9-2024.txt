@@ -1,0 +1,121 @@
+Item 6. [Reserved]
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion and analysis of our financial condition and results of operations should be read together with, and is qualified in its entirety by reference to, our audited financial statements and related notes included elsewhere in this Annual Report, which have been prepared in accordance with generally accepted accounting principles in the United States (“U.S. GAAP”). The following discussion may contain forward-looking statements based on assumptions we believe to be reasonable. Our actual results could differ materially from those discussed in these forward-looking statements. Factors that could cause or contribute to these differences include, but are not limited to, those discussed below and elsewhere in this Annual Report, particularly in “Item 1A. Risk Factors” and “Forward-Looking Statements.”
+
+Trust Overview
+
+The Trust is a passive entity that is managed and administered by the Sponsor and does not have any officers, directors or employees. The Trust holds LTC and, from time to time on a periodic basis, issues Creation Baskets in exchange for deposits of LTC. As a passive investment vehicle, the Trust’s investment objective is for the value of the Shares (based on LTC per Share) to reflect the value of LTC held by the Trust, determined by reference to the Index Price, less the Trust’s expenses and other liabilities. While an investment in the Shares is not a direct investment in LTC, the Shares are designed to provide investors with a cost-effective and convenient way to gain investment exposure to LTC. To date, the Trust has not met its investment objective and the Shares quoted on OTCQX have not reflected the value of LTC held by the Trust, less the Trust’s expenses and other liabilities, but instead have traded at both premiums and discounts to such value, which at times have been substantial. The Trust is not managed like a business corporation or an active investment vehicle.
+
+Includes the total number of Shares that are not restricted securities as such term is defined under Rule 144.
+
+Includes Cede & Co. as nominee for DTC for the Shares traded on OTCQX but not its direct participants. Therefore, this number does not include the individual holders who have bought/sold Shares on OTCQX or transferred their eligible Shares to their brokerage accounts. 
+
+Critical Accounting Policies and Estimates
+
+Investment Transactions and Revenue Recognition
+
+The Trust considers investment transactions to be the receipt of LTC for Share creations and the delivery of LTC for Share redemptions or for payment of expenses in LTC. At this time, the Trust is not accepting redemption requests from shareholders. The Trust records its investment transactions on a trade date basis and changes in fair value are reflected as net change in unrealized appreciation or depreciation on investments. Realized gains and losses are calculated using the specific identification method. Realized gains and losses are recognized in connection with transactions including settling obligations for the Sponsor’s Fee in LTC.
+
+Principal Market and Fair Value Determination
+
+To determine which market is the Trust’s principal market (or in the absence of a principal market, the most advantageous market) for purposes of calculating the Trust’s net asset value in accordance with U.S. GAAP (“Principal Market NAV”), the Trust follows Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) 820-10, which outlines the application of fair value accounting. ASC 820-10 determines fair value to be the price that would be received for LTC in a current sale, which assumes an orderly transaction between market participants on the measurement date. ASC 820-10 requires the Trust to assume that LTC is sold in its principal market to market participants or, in the absence of a principal market, the most advantageous market. Market participants are defined as buyers and sellers in the principal or most advantageous market that are independent, knowledgeable, and willing and able to transact.
+
+The Trust only receives LTC in connection with a creation order from the Authorized Participant (or a Liquidity Provider) and does not itself transact on any Digital Asset Markets. Therefore, the Trust looks to market-based volume and level of activity for Digital Asset Markets. The Authorized Participant(s), or a Liquidity Provider, may transact in a Brokered Market, a Dealer Market, Principal-to-Principal Markets and Exchange Markets (referred to as “Trading Platform Markets” in this Annual Report), each as defined in the FASB ASC Master Glossary (collectively, “Digital Asset Markets”).
+
+In determining which of the eligible Digital Asset Markets is the Trust’s principal market, the Trust reviews these criteria in the following order:
+
+•
+
+First, the Trust reviews a list of Digital Asset Markets that maintain practices and policies designed to comply with AML and KYC regulations, and non-Digital Asset Trading Platform Markets that the Trust reasonably believes are operating in compliance with applicable law, including federal and state licensing requirements, based upon information and assurances provided to it by each market. 
+
+•
+
+Second, the Trust sorts these Digital Asset Markets from high to low by market-based volume and level of activity of LTC traded on each Digital Asset Market in the trailing twelve months. 
+
+•
+
+Third, the Trust then reviews pricing fluctuations and the degree of variances in price on Digital Asset Markets to identify any material notable variances that may impact the volume or price information of a particular Digital Asset Market. 
+
+•
+
+Fourth, the Trust then selects a Digital Asset Market as its principal market based on the highest market-based volume, level of activity and price stability in comparison to the other Digital Asset Markets on the list. Based on information reasonably available to the Trust, Trading Platform Markets have the greatest volume and level of activity for the asset. The Trust therefore looks to accessible Trading Platform Markets as opposed to the Brokered Market, Dealer Market and Principal-to-Principal Markets to determine its principal market. As a result of the aforementioned analysis, a Trading Platform Market has been selected as the Trust’s principal market. 
+
+The Trust determines its principal market (or in the absence of a principal market the most advantageous market) annually and conducts a quarterly analysis to determine (i) if there have been recent changes to each Digital Asset Market’s trading volume and level of activity in the trailing twelve months, (ii) if any Digital Asset Markets have developed that the Trust has access to, or (iii) if recent changes to each Digital Asset Market’s price stability have occurred that would materially impact the selection of the principal market and necessitate a change in the Trust’s determination of its principal market.
+
+The cost basis of LTC received in connection with a creation order is recorded by the Trust at the fair value of LTC at 4:00 p.m., New York time, on the creation date for financial reporting purposes. The cost basis recorded by the Trust may differ from proceeds collected by the Authorized Participant from the sale of the corresponding Shares to investors.
+
+Investment Company Considerations
+
+The Trust is an investment company for GAAP purposes and follows accounting and reporting guidance in accordance with the FASB ASC Topic 946, Financial Services —Investment Companies. The Trust uses fair value as its method of accounting for LTC in accordance with its classification as an investment company for accounting purposes. The Trust is not a registered investment company under the Investment Company Act of 1940. GAAP requires management to make estimates and assumptions that affect the reported amounts in the financial statements and accompanying notes. Actual results could differ from those estimates and these differences could be material.
+
+Review of Financial Results
+
+Financial Highlights for the Years ended June 30, 2024, 2023 and 2022
+
+(All amounts in the following table and the subsequent paragraphs, except Share, per Share, LTC and price of LTC amounts, are in thousands)
+
+Net assets in the above table and subsequent paragraphs are calculated in accordance with U.S. GAAP based on the Digital Asset Market price of LTC on the Digital Asset Trading Platform that the Trust considered its principal market, as of 4:00 p.m., New York time, on the valuation date.
+
+Net realized and unrealized loss on investment in LTC for the year ended June 30, 2024 was ($49,308), which includes a realized loss of ($622) on the transfer of LTC to pay the Sponsor’s Fee and net change in unrealized depreciation on investment in LTC of ($48,686). Net realized and unrealized loss on investment in LTC for the year was driven by LTC price depreciation from $105.38 per LTC as of June 30, 2023, to $74.60 per LTC as of June 30, 2024. Net decrease in net assets resulting from operations was ($52,297) for
+
+the year ended June 30, 2024, which consisted of the net realized and unrealized loss on investment in LTC, plus the Sponsor’s Fee of $2,989. Net assets decreased to $133,833 at June 30, 2024, a 16% decrease for the year. The decrease in net assets resulted from the aforementioned LTC price depreciation and the withdrawal of approximately 38,787 LTC to pay the foregoing Sponsor’s Fee, partially offset by the contribution of approximately 327,132 LTC with a value of $27,463 to the Trust in connection with Share creations during the period.
+
+Net realized and unrealized gain on investment in LTC for the year ended June 30, 2023 was $82,086, which includes a realized loss of ($746) on the transfer of LTC to pay the Sponsor’s Fee and net change in unrealized appreciation on investment in LTC of $82,832. Net realized and unrealized gain on investment in LTC for the year was driven by LTC price appreciation from $51.43 per LTC as of June 30, 2022, to $105.38 per LTC as of June 30, 2023. Net increase in net assets resulting from operations was $79,270 for the year ended June 30, 2023, which consisted of the net realized and unrealized gain on investment in LTC, less the Sponsor’s Fee of $2,816. Net assets increased to $158,667 at June 30, 2023, a 100% increase for the year. The increase in net assets resulted from the aforementioned LTC price appreciation, partially offset by the withdrawal of approximately 38,118 LTC to pay the foregoing Sponsor’s Fee.
+
+Net realized and unrealized loss on investment in LTC for the year ended June 30, 2022 was ($138,938), which includes a realized gain of $1,713 on the transfer of LTC to pay the Sponsor’s Fee and net change in unrealized depreciation on investment in LTC of ($140,651). Net realized and unrealized loss on investment in LTC for the year was driven by LTC price depreciation from $141.61 per LTC as of June 30, 2021, to $51.43 per LTC as of June 30, 2022. Net decrease in net assets resulting from operations was ($144,295) for the year ended June 30, 2022, which consisted of the net realized and unrealized loss on investment in LTC, plus the Sponsor’s Fee of $5,357. Net assets decreased to $79,397 at June 30, 2022, a 64% decrease for the year. The decrease in net assets resulted from the aforementioned LTC price depreciation and the withdrawal of approximately 39,023 LTC to pay the foregoing Sponsor’s Fee, partially offset by the contribution of approximately 36,070 LTC with a value of $4,658 to the Trust in connection with Share creations during the period.
+
+Cash Resources and Liquidity
+
+The Trust has not had a cash balance at any time since inception. When selling LTC, Incidental Rights and/or IR Virtual Currency in the Digital Asset Market to pay Additional Trust Expenses on behalf of the Trust, the Sponsor endeavors to sell the exact amount of LTC, Incidental Rights and/or IR Virtual Currency needed to pay expenses in order to minimize the Trust’s holdings of assets other than LTC. As a consequence, the Sponsor expects that the Trust will not record any cash flow from its operations and that its cash balance will be zero at the end of each reporting period. Furthermore, the Trust is not a party to any off-balance sheet arrangements.
+
+In exchange for the Sponsor’s Fee, the Sponsor has agreed to assume most of the expenses incurred by the Trust. As a result, the only ordinary expense of the Trust during the periods covered by this Annual Report was the Sponsor’s Fee. The Trust is not aware of any trends, demands, conditions or events that are reasonably likely to result in material changes to its liquidity needs.
+
+Selected Operating Data
+
+The Trust performed an assessment of the principal market at June 30, 2024, 2023 and 2022, and identified the principal market as Coinbase. 
+
+As of June 30, 2024, 2023 and 2022, the Principal Market NAV per Share was calculated using the fair value of LTC based on the price provided by Coinbase, the Digital Asset Trading Platform that the Trust considered its principal market, as of 4:00 p.m., New York time, on the valuation date. Prior to February 7, 2024, Principal Market NAV was referred to as NAV and Principal Market NAV per Share was referred to as NAV per Share.
+
+The Trust’s NAV per Share is derived from the Index Price as represented by the Index as of 4:00 p.m., New York time, on the valuation date. The Trust’s NAV per Share is calculated using a non-GAAP methodology where the price is derived from multiple Digital Asset Trading Platforms. Prior to February 7, 2024, NAV was referred to as Digital Asset Holdings and NAV per Share was referred to as Digital Asset Holdings per Share. See “Item 1. Business—Overview of the LTC Industry and Market—LTC Value—The Index and the Index Price” for a description of the Index and the Index Price. The Digital Asset Trading Platforms included in the Index as of June 30, 2024 were Coinbase, LMAX Digital, and Kraken. On July 28, 2024, the Index Provider added Crypto.com to the Index due to the trading platform meeting the Index Provider’s minimum liquidity requirement, and did not remove any Constituent Trading Platforms as part of its scheduled quarterly review. The Digital Asset Trading Platforms included in the Index as of June 30, 2023 were Coinbase, LMAX Digital, Kraken and Cboe Digital. The Digital Asset Trading Platforms included in the Index as of June 30, 2022 were Coinbase, Bitstamp, LMAX Digital and Kraken.
+
+For accounting purposes, the Trust reflects creations and the LTC receivable with respect to such creations on the date of receipt of a notification of a creation but does not issue Shares until the requisite amount of LTC is received. At this time, the Trust is not accepting redemption requests from shareholders. Subject to receipt of regulatory approval from the SEC and approval by the Sponsor in its sole discretion, the Trust may in the future operate a redemption program. The Trust currently has no intention of seeking regulatory approval to operate an ongoing redemption program.
+
+As of June 30, 2024, the Trust had a net closing balance with a value of $133,869,274, based on the Index Price (non-GAAP methodology). As of June 30, 2024, the Trust had a total market value of $133,833,394, based on the Digital Asset Market price of LTC on the Trust’s principal market (Coinbase).
+
+As of June 30, 2023, the Trust had a net closing balance with a value of $158,923,277, based on the Index Price (non-GAAP methodology). As of June 30, 2023, the Trust had a total market value of $158,667,314, based on the Digital Asset Market price of LTC on the Trust’s principal market (Coinbase).
+
+As of June 30, 2022, the Trust had a net closing balance with a value of $79,149,892, based on the Index Price (non-GAAP methodology). As of June 30, 2022, the Trust had a total market value of $79,396,898, based on the Digital Asset Market price of LTC on the Trust’s principal market (Coinbase).
+
+Historical NAV and LTC Prices
+
+As movements in the price of LTC will directly affect the price of the Shares, investors should understand recent movements in the price of LTC. Investors, however, should also be aware that past movements in the LTC price are not indicators of future movements. Movements may be influenced by various factors, including, but not limited to, government regulation, security breaches experienced by service providers, as well as political and economic uncertainties around the world.
+
+The following chart illustrates the movement in the Trust’s NAV per Share versus the Index Price and the Trust’s Principal Market NAV per Share from March 1, 2018 (the inception of the Trust’s operations) to June 30, 2024. For more information on the determination of the Trust’s NAV, see “Item 1. Business—Overview of the LTC Industry and Market—LTC Value—The Index and the Index Price.”
+
+The following table illustrates the movements in the Index Price from July 1, 2019 to June 30, 2024. During such period, the Index Price has ranged from $32.16 to $371.71, with the straight average being $95.26 through June 30, 2024. The Sponsor has not observed a material difference between the Index Price and average prices from the constituent Digital Asset Trading Platforms individually or as a group.
+
+The following table illustrates the movements in the Digital Asset Market price of LTC, as reported on the Trust’s principal market, from July 1, 2019 to June 30, 2024. During such period, the price of LTC has ranged from $32.27 to $371.96, with the straight average being $95.26 through June 30, 2024:
+
+Secondary Market Trading
+
+The Trust’s Shares have been quoted on OTCQX under the symbol LTCN since August 18, 2020. The price of the Shares as quoted on OTCQX has varied significantly from the NAV per Share. From August 18, 2020 to June 30, 2024, the maximum premium of the closing price of the Shares quoted on OTCQX over the value of the Trust’s NAV per Share was 5,893% and the average premium was 850%, and the maximum discount of the closing price of the Shares quoted on OTCQX below the value of the Trust's NAV per Share was 67% and the average discount was 37%. The closing price of the Shares, as quoted on OTCQX at 4:00 p.m., New York time,
+
+on each business day, has been quoted at a discount on 527 days. As of June 28, 2024, the last business day of the period, the Trust’s Shares were quoted on OTCQX at a discount of 238% to the Trust’s NAV per Share.
+
+The following table sets out the range of high and low closing prices for the Shares as reported by OTCQX, the Trust’s Principal Market NAV per Share calculated in accordance with GAAP and the Trust’s NAV per Share for each of the quarters in the last three years.
+
+The Principal Market NAV is calculated using the fair value of LTC based on the price provided by the Digital Asset Market that the Trust considers its principal market, which is Coinbase. Prior to February 7, 2024, Principal Market NAV was referred to as NAV and Principal Market NAV per Share was referred to as NAV per Share. See “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Critical Accounting Policies and Estimates—Principal Market and Fair Value Determination.”
+
+The Trust’s NAV per Share is derived from the Index Price as represented by the Index as of 4:00 p.m., New York time, on the valuation date. The Index Price is calculated using non-GAAP methodology and is not used in the Trust’s financial statements. Prior to February 7, 2024, NAV was referred to as Digital Asset Holdings and NAV per Share was referred to as Digital Asset Holdings per Share. See “Item 1. Business—Valuation of LTC and Determination of NAV.”
+
+The following chart sets out the historical closing prices for the Shares as reported by OTCQX and the Trust’s NAV per Share from August 18, 2020 to June 30, 2024.
+
+LTCN Premium/(Discount): LTCN Share Price vs. NAV per Share (Non-GAAP) ($)
+
+The following chart sets out the historical premium and discount for the Shares as reported by OTCQX and the Trust’s NAV per Share from August 18, 2020 to June 30, 2024.
+
+LTCN Premium/(Discount): LTCN Share Price vs. NAV per Share (Non-GAAP) (%)
+
+Item 7A. Quantitative and Qualitative

@@ -1,0 +1,204 @@
+\. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+In addition to historical information, this discussion contains forward-looking statements based upon management’s current expectations that are subject to risks and uncertainties which may cause our actual results to differ materially from plans and results discussed herein. We encourage you to review the risks and uncertainties discussed in the sections entitled Item 1A. “Risk Factors” and “Cautionary Note Regarding Forward-Looking Statements” included at the beginning of this Annual Report on Form 10-K.
+
+We caution readers not to place undue reliance on any forward-looking statements made by us, which speak only as of the date they are made. In addition, statements that “we believe” and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based upon information available to us as of the date of this report, and while we believe such information forms a reasonable basis for such. We disclaim any obligation, except as specifically required by law and the rules of the SEC, to publicly update or revise any such statements to reflect any change in our expectations or in events, conditions or circumstances on which any such statements may be based, or that may affect the likelihood that actual results will differ from those set forth in the forward-looking statements.
+
+To supplement our consolidated financial statements, which are prepared and presented in accordance with US GAAP, we present contribution margin and contribution margin %, which are non-GAAP financial measures. Contribution margin and contribution margin % are presented in the section titled “Contribution Margin (non-GAAP)”.
+
+These non-GAAP financial measures are not intended to be considered in isolation or as a substitute for, or superior to, financial information prepared and presented in accordance with US GAAP. These measures may be different from non—GAAP financial measures used by other companies, limiting their usefulness for comparison purposes. Moreover, presentation of contribution and contribution margin is provided for year-over-year comparison purposes. We believe these non-GAAP financial measures provide investors with useful supplemental information about the financial performance of our business, enable comparison of financial results between periods where certain items may vary independent of business performance, and allow for greater transparency with respect to key metrics used by management in operating our business.
+
+Unless otherwise indicated, all share and per share information in this report gives effect to the reverse stock split of our outstanding common stock, which was effected at a ratio of 1-for-12 as of 5:00 p.m. Eastern Time on January 26, 2024.
+
+Overview
+
+Intelligent Bio Solutions Inc. and its wholly owned Delaware subsidiary, GBS Operations Inc., were each formed on December 5, 2016, under the laws of the state of Delaware. The Company’s Australian subsidiary, Intelligent Bio Solutions (APAC) Pty Ltd, was formed on August 4, 2016, under the laws of New South Wales, Australia and was renamed to Intelligent Bio Solutions (APAC) Pty Ltd on January 6, 2023. On October 4, 2022, INBS acquired Intelligent Fingerprinting Limited (“IFP”), a company registered in England and Wales (the “IFP Acquisition”). The Company’s headquarters are in New York, New York.
+
+Intelligent Bio Solutions Inc. is a medical technology company focused on developing and delivering intelligent, rapid, non-invasive testing and screening solutions. The Company operates globally with the objective of providing innovative and accessible solutions that improve the quality of life.
+
+The Company’s current product portfolio includes:
+
+| ● | Intelligent Fingerprinting Platform: A proprietary portable platform that analyzes fingerprint sweat using a one-time cartridge and portable handheld reader. The flagship product from this platform, which is commercially available in certain countries outside of the United States, is the Intelligent Fingerprinting Drug Screening System (the “IFP System” or “IFP Products”), a two-part system that consists of non-invasive, fingerprint sweat-based diagnostic testing products designed to detect drugs of abuse including opiates, cocaine, methamphetamines, benzodiazepines, cannabis, methadone, and buprenorphine. The system comprises a small, tamper-evident drug screening cartridge onto which ten fingerprint sweat samples are collected in under a minute before the portable analysis unit provides an on-screen result in under ten minutes. Samples collected with a confirmatory kit can also be sent to a third-party laboratory service provider for confirmation testing. Customers include safety-critical industries such as construction, transportation and logistics, manufacturing, engineering, drug treatment organizations in the rehabilitation sector, and judicial organizations. 
+---|---|--- 
+| | 
+| ● | The Biosensor Platform – A biosensor platform we refer to as the Biosensor Platform Technology (“BPT”), or simply the “Biosensor Platform,” consists of a small, printable modified organic thin-film transistor strip that we license across the Asia Pacific Region (“APAC Region”) from Life Science Biosensor Diagnostics Pty Ltd (“LSBD” or “Licensor”). The Biosensor Platform is designed to detect multiple biological analytes by substituting the top enzyme layer of the biosensor to suit each analyte. This platform technology has the potential to develop a range of Point of Care Tests (“POCT”), including the modalities of clinical chemistry, immunology, tumor markers, allergens, and endocrinology. We understand that following the appointment of a liquidator to LSBD, the intellectual property rights licensed by us from the Licensor (LSBD) have reverted to the University of Newcastle. The Company is in early-stage discussions regarding the potential restructuring of future licensing of BPT and products with the University of Newcastle. A timeline for these discussions has not yet been established. 
+
+Results of Operations:
+
+Key Financial Performance
+
+The Company continues to meet its objectives of strong market penetration and improved margins achieved through economies of scale with enough volume to achieve growth of 147.58% in sales revenue and 336.41% growth in gross profit for the fiscal year ended June 30, 2024, compared to the same period in fiscal 2023. Furthermore, the Company is set to compound this growth with the numbers of readers reaching 1,037 on customer sites, as of June 2024.
+
+Comparison of the Years Ended June 30, 2024 and 2023
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+* Common Stock and per share amounts have been retroactively adjusted to reflect the decreased number of shares resulting from the 1-for-12 reverse stock split effected on January 26, 2024, throughout the consolidated financial statement unless otherwise stated.
+
+Results of Operations:
+
+Comparison of the Years Ended June 30, 2024, and 2023
+
+Revenue
+
+Sales of goods
+
+Revenue from sales of goods increased by $1,854,909 to $3,111,781 from $1,256,872 for the year ended June 30, 2024, compared to same period in 2023\. This is due to the expansion of the customer base, both in the pre-existing markets and expansion into new regions. We expect this trend to continue as we expand into new markets in the future.
+
+Revenue from the IFPG segment relates to the sale of readers, cartridges and accessories and is summarized as follows:
+
+Cost of revenue
+
+Cost of revenue increased by $755,951 to $1,686,155 from $930,204 for the year ended June 30, 2024, compared to same period in 2023. Cost of revenue relates to the direct labor, direct material costs and direct overhead costs incurred in the production of the goods. This is in line with expectations, as the business expands into new markets. The following table shows the composition of cost of revenue.
+
+Cost of revenue
+
+Gross profit
+
+Gross profit increased by $1,098,958 to $1,425,626 from $326,668 for the year ended June 30, 2024, compared to same period in 2023. This has been driven by increased revenue from acquiring new customers. 
+
+The gross profit is primarily attributable to the IFPG segment.
+
+Contribution margin (non-GAAP)
+
+Contribution margin, which is a non-GAAP measure of our financial performance, increased by $1,206,908 to $2,094,563 from $887,655 for the year ended June 30, 2024, compared to same period in 2023. This has been driven by increased revenue from acquiring new customers.
+
+Government support income
+
+Government support income in the IFPG and BPT segments decreased by $312,852 to $424,776 from $737,628 for the year ended June 30, 2024, compared to same period in 2023. This decrease was primarily attributable to an adjustment for a potential refund of the Australian Government grant if we are unable to complete the project on time.
+
+The grant support income is primarily attributable to INBS’s subsidiary companies recognizing an R&D tax refund as the Company believes that it is probable that the certain amount will be recovered in full through a future claim (see Note 3 to our consolidated financial statements appearing elsewhere in our Annual Report on Form 10-K for further information and disclosures relating R&D tax refund).
+
+Operating expenses
+
+Selling, general and administrative expenses
+
+Selling, general and administrative expenses increased by $1,231,793 to $9,258,496 from $8,026,703 for the year ended June 30, 2024, compared to the same period in 2023. This increase is primarily due to engagement of consultants for marketing, media and investor relationship management, capital raising, professional fees for legal and compliance as the Company continues to expand its business and conduct clinical study as it progresses along its 510(k) pathway for FDA clearance.
+
+As the Company’s operating activities increase, we expect its general and administrative costs will include additional costs in overhead contribution, consultancy, as well as an increase in employee-related costs associated with a higher headcount. We aim to ensure that our cost efficiency is increased over the same period whilst we streamline the business, delivering increased value for investors.
+
+Development and regulatory approval expenses
+
+Development and regulatory approval expenses increased by $1,166,382 to $1,673,806 from $507,424 for the year ended June 30, 2024, compared to the same period in 2023. This increase is primarily driven by amounts spent on in-house R&D staff and timing of R&D work performed by the research partners engaged by the Company.
+
+As the Company continues its FDA 501(k) clinical study plan, we expect development and regulatory expenses to increase in future periods, as demonstrated by the results above.
+
+Depreciation and amortization 
+
+Depreciation and amortization increased by $234,542 to $1,201,274 from $966,732 for the year ended June 30, 2024, compared to same period in 2023. This is mainly due to inclusion of amortization of intangible assets for twelve months to June 30, 2024 results as compared to approximately nine months to June 30, 2023 upon the acquisition of IFP in October 2022 offset by the revaluation of the useful life of technology assets from 5 years to 7 years on April 1, 2023.
+
+Goodwill Impairment
+
+The goodwill impairment expenses decreased by $4,158,670 to $0 from $4,158,670 for the year ended June 30, 2024, compared to the same period in 2023. Refer to note 3 of our consolidated financial statements appearing elsewhere in our Annual Report on Form 10-K.
+
+Other income and expenses
+
+Interest expense
+
+Interest expense decreased by $56,394 to $167,140 from $223,534 for the year ended June 30, 2024, as compared to the same period in 2023. This decrease was attributable to the conversion of the convertible notes into common stock of the Company in May 2023.
+
+Realized foreign exchange loss
+
+Realized foreign exchange loss decreased by $8,651 to $1,178 from $9,829 for the year ended June 30, 2024, compared to the same period in 2023\. This decrease was largely attributable to favorable exchange rates while settling transactions in currencies other than its functional currencies.
+
+Fair value gain on revaluation of financial instruments
+
+The fair value gain decreased by $1,978,627 to $175,738 from $2,154,365 for the year ended June 30, 2024, as compared to the same period in 2023. This decrease is due to the revaluation gains on the convertible notes and contingent consideration for holdback Series C Preferred Stock resulting from the acquisition of IFP. The convertible notes and holdback Series C Preferred Stock shares were converted into common stock in May 2023 and October 2023, respectively.
+
+Interest income
+
+Interest income increased by $75,146 to $84,822 from $9,676 for the year ended June 30, 2024, as compared to the same period in 2023. This increase was attributable to the higher bank balance during the current period due to capital raising of approximately $14.56 million, net of costs during fiscal year ended June 30, 2024.
+
+Income tax (expense) benefit
+
+There was no income tax expense for the years ended June 30, 2024, and 2023, respectively, as the Company has established a full valuation allowance for all its deferred tax assets.
+
+Other comprehensive income
+
+Foreign currency translation gain/(loss)
+
+Unrealized foreign currency translation gain decreased by $349,757 to a loss of $137,118 from a gain of $212,639 for the year ended June 30, 2024, compared to the same period in 2023. It is calculated based on the Company’s unsettled transactions in currencies other than its functional currency and translation of assets and liabilities of foreign subsidiaries in reporting currency.
+
+Net loss attributable to INBS
+
+Net loss attributable to INBS decreased by $474,961 to $10,156,759 from $10,631,720 for the year ended June 30, 2024, compared to the same period in 2023.
+
+This decrease is primarily driven by goodwill impairment charges of $4,158,670 and combined results of operations after the acquisition of IFP offset by a recognition of fair value gain on revaluation of convertible notes and holdback Series C Preferred Stock of $2,062,878 during the same period in 2023.
+
+Liquidity and Capital Resources
+
+We use working capital and cash measures to evaluate the performance of our operations and our ability to meet our financial obligations. We define Working Capital as current assets less current liabilities. This measure should not be considered in isolation or as a substitute for any standardized measure under US GAAP. This information is intended to provide investors with information about our liquidity. Other companies in our industry may calculate this measure differently than we do, limiting its usefulness as a comparative measure.
+
+Since our inception, our operations have primarily been financed through the issuance of our common stock, redeemable convertible preferred stock, and the incurrence of debt. As of June 30, 2024, we had $6,304,098 in cash and cash equivalents and working capital of $3,083,510.
+
+The Company expects that its cash and cash equivalents as of June 30, 2024, may be insufficient to allow the Company to fund its current operating plan through at least the next twelve months from the issuance of these financial statements. These conditions raise substantial doubt about the Company’s ability to continue as a going concern for a period of at least one year from the date these financial statements are issued. There can be no assurance that, in the event that the Company requires additional financing, such financing may be available on terms which are favorable to us, or at all.
+
+In the event we require additional capital, there can be no assurances that we will be able to raise such capital on acceptable terms, or at all. Failure to generate sufficient revenues or raise additional capital through debt or equity financings, or through collaboration agreements, strategic alliances or marketing and distribution arrangements, could have a material adverse effect on our ability to meet our long-term liquidity needs and achieve our intended long-term business plan. Our failure to obtain such funding when needed could create a negative impact on our stock price or could potentially lead to a reduction in our operations or the failure of our Company. Accordingly, these factors raise substantial doubt about the Company’s ability to continue as a going concern unless it can successfully raise additional capital.
+
+Cash Provided by Financing Activities
+
+On October 4, 2023, the Company raised approximately $4.38 million, prior to deducting underwriting discounts and commissions and offering expenses, via a registered underwritten public offering of the Company’s securities. Net proceeds to the Company, after deducting the underwriting discounts and commissions and estimated offering expenses payable by the Company, were approximately $3.79 million. See Note 13, Shareholders’ Equity, for further details.
+
+On February 7, 2024, the Company raised approximately $1.77 million, prior to deducting closing costs and placement agent fees, via a warrant inducement transaction with holders of the Company’s Series E Warrants issued on October 4, 2023. Net proceeds to the Company, after deducting closing costs, placement agent fees, and other estimated expenses payable by the Company, was approximately $1.58 million. See Note 13, Shareholders’ Equity, for further details.
+
+On March 12, 2024, the Company raised approximately $10.10 million, prior to deducting placement agent’s fees and other offering expenses via a private placement of common stock and warrants priced at-the-market under Nasdaq rules. Net proceeds to the Company, after deducting placement agent’s fees and other estimated offering expenses payable by the Company, were approximately $9.12 million. See Note 13, Shareholders’ Equity, for further details.
+
+Extended Transition Period for “Emerging Growth Companies”
+
+We have elected to use the extended transition period for complying with new or revised accounting standards under Section 102(b) of the JOBS Act. This election allows us to delay the adoption of new or revised accounting standards that have different effective dates for public and private companies until those standards apply to private companies. As a result of this election, our financial statements may not be comparable to companies that comply with public company effective dates. Because our financial statements may not be comparable to companies that comply with public company effective dates, investors may have difficulty evaluating or comparing our business, performance or prospects in comparison to other public companies, which may have a negative impact on the value and liquidity of our common stock.
+
+Off-Balance Sheet Arrangements
+
+As of June 30, 2024, we did not have any off-balance sheet arrangements.
+
+Critical Accounting Estimates
+
+The preparation of our consolidated financial statements in conformity with US GAAP requires management to make judgments, estimates and assumptions that impact the amounts reported in our consolidated financial statements and accompanying notes that are not readily apparent from other sources. The estimates and associated assumptions are based on historical experience and other factors that are considered relevant. Actual results may differ from these estimates.
+
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognized in the period in which the estimate is revised, if the revision affects only that period, or in the period of the revision and future periods, if the revision affects both current and future periods.
+
+Note 3 to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K, and incorporated herein by reference, describes the Company’s accounting policies. The following discussion should be read in conjunction with Note 3, as it presents uncertainties involved in applying the accounting policies and provides insight into the quality of management’s estimates and variability in the amounts recorded for these critical accounting estimates. While all accounting policies impact the consolidated financial statements, certain policies may be viewed to be critical. Management believes that the accounting policies which involve more significant judgments and estimates used in the preparation of our consolidated financial statements include research and development tax refunds.
+
+We believe our most critical accounting policies and estimates relate to the following:
+
+Revenue recognition
+
+Revenue from contracts with customers is recognized when, or as, the Company satisfies its performance obligations by delivering the promised goods or service deliverables to the customers. A good or service deliverable is transferred to a customer when, or as, the customer obtains control of that good or service deliverable.
+
+Grant income
+
+Accounting for the grant income does not fall under ASC 606, Revenue from Contracts with Customers, as the Australian Government will not benefit directly from our manufacturing facility. As there is no authoritative guidance under US GAAP on accounting for grants to for-profit business entities, we applied International Accounting Standards 20 (“IAS 20”), Accounting for Government Grants and Disclosure of Government Assistance by analogy when accounting for the Australian Government grant to the Company.
+
+The Australian Government grant proceeds, which will be used to reimburse construction costs incurred, meet the definition of grants related to assets as the primary purpose for the payments is to fund the construction of a capital asset. Under IAS 20, government grants related to assets are presented in the statement of financial position either by setting up the grant as deferred income that is recognized in the statement of operation on a systematic basis over the useful life of the asset or by deducting the grant in arriving at the carrying amount of the asset. Either of these two methods of presentation of grants related to assets in financial statements are regarded as acceptable alternatives under IAS 20. The Company has elected to record the grants received initially as deferred income and deducting the grant proceeds received from the gross costs of the assets or construction in progress (“CIP”) and the deferred grant income liability.
+
+The project has been delayed due to global shortages of semiconductors that are used in manufacturing equipment and global supply chain disruption due to Covid-19 pandemic in the preceding year. As of June 30, 2024, the Company has only completed 4 of the 8 milestones in the grant agreement. On April 16, 2024, the Company entered into a Deed of Variation with Australian Government, Department of Industry, Science and Resources, extending the project completion date to March 28, 2025. The deed of variation also made certain modifications to the project costs. The overall budget of the project has been reduced by $1.65 million to account for the changes in scope of the project.
+
+There was no deferred grant income recognized within other income during the year ended June 30, 2024. A total of $127,944 deferred grant income was recognized within other income during the year ended June 30, 2023.
+
+Inventories, net
+
+Inventories are stated at the lower of cost or net realizable value. Cost comprises direct materials and, where applicable, other costs that have been incurred in bringing the inventories to their present location and condition. Net realizable value is the estimated selling price less all estimated costs of completion and costs to be incurred in marketing, selling and distribution. General market conditions, as well as the Company’s research activities, can cause certain of its products to become obsolete. The Company writes down excess and obsolete inventories based upon a regular analysis of inventory on hand compared to historical and projected demand. The determination of projected demand requires the use of estimates and assumptions related to projected sales for each product. These write downs can influence results from operations.
+
+Impairment of Long-lived Assets and Goodwill
+
+Long-lived assets consist of property and equipment, right-of-use assets and other intangible assets. We assess impairment of assets groups, including intangible assets at least annually or more frequently if there are any indicators for impairment. The Company did not recognize any impairments of long-lived assets during the fiscal year ended June 30, 2024 and 2023.
+
+We perform an annual impairment test on goodwill in the fourth quarter of each fiscal year or when events occur or circumstances change that would, more likely than not, reduce the fair value of a reporting unit below its carrying value. We may first assess qualitative factors, such as general economic conditions, market capitalization, the Company’s outlook, market performance and forecasted financial performance to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount. If we determine it is more likely than not that the fair value of the reporting unit is greater than its carrying amount, an impairment test is not necessary. If an impairment test is necessary, we estimate the fair value of a related reporting unit. If the carrying value of a reporting unit exceeds its fair value, the goodwill of that reporting unit is determined to be impaired, and we will record an impairment charge equal to the excess of the carrying value over the related fair value of the reporting unit. If we determine it is more likely than not that goodwill is not impaired, a quantitative test is not necessary.
+
+During the fiscal year ended June 30, 2023, the Company recognized an impairment charge of $4.2 million in the IFPG segment, which was related to the goodwill associated with the IFP Acquisition. Following the impairment charge the goodwill balance was zero.
+
+Business Combinations
+
+The results of businesses acquired in a business combination are included in the Company’s consolidated financial statements from the date of the acquisition. The Company uses the acquisition method of accounting and allocates the purchase price to the identifiable assets and liabilities of the relevant acquired business at their acquisition date fair values. Any excess consideration over the fair value of assets acquired and liabilities assumed is recognized as goodwill. The allocation of the purchase price in a business combination requires the Company to perform valuations with significant judgment and estimates, including the selection of valuation methodologies, estimates of future revenue, costs and cash flows, discount rates and selection of comparable companies. The Company engages the assistance of valuation specialists in concluding on fair value measurements in connection with determining fair values of assets acquired and liabilities assumed in a business combination. As a result, during the measurement period, which may be up to one year from the acquisition date, the Company records adjustments to the assets acquired and liabilities assumed with the corresponding offset to goodwill. Upon the conclusion of the measurement period or final determination of the values of assets acquired or liabilities assumed, whichever comes first, any subsequent adjustments are recorded to the consolidated statements of operations. Transaction costs associated with business combinations are expensed as incurred and are included in selling, general and administrative expenses in the consolidated statements of operations.
+
+R&D Tax Refund
+
+The Company measures the research and development grant income and receivable by calculating the time spent by employees and costs incurred to external service providers on eligible research and development activities. The research and development tax refund receivable is recognized as the Company believes that it is probable that the amount will be recovered in full through a future claim.
+
+Intellectual property acquired for a particular research and development project and that have no alternative future uses (in other research and development projects or otherwise) are expensed in research and development costs at the time the costs are incurred.
+
+In certain circumstances, the Company may be required to make advance payments to vendors for goods or services that will be received in the future for use in R&D activities. In such circumstances, the non-refundable advance payments are deferred and capitalized, even when there is no alternative future use for the R&D, until the related goods or services are provided. In circumstances where amounts have been paid in excess of costs incurred, the Company records a prepaid expense.
+
+Recently issued Accounting Pronouncements
+
+For the impact of recently issued accounting pronouncements on the Company’s consolidated financial statements, see Note 3 to the consolidated financial statements included in Part II, Item 8 of this Annual Report on Form 10-K and incorporated herein by reference.

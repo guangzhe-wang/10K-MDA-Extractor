@@ -1,0 +1,173 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+You should read the following discussion and analysis of financial condition and operating results together with our consolidated financial statements and the related notes and other financial information included in Item 8 in this Annual Report. This discussion contains forward-looking statements that involve risks and uncertainties. As a result of many factors, such as those set forth in the section of the Annual Report captioned “Risk Factors” and elsewhere in this Annual Report, our actual results may differ materially from those anticipated in these forward- looking statements. 
+
+Overview 
+
+We endeavor to become the leader in discovery, development, and commercialization of therapeutic agents capable of addressing significant unmet medical need via the application of the silence and replace approach to the treatment of genetic disorders. 
+
+Benitec Biopharma Inc. (“Benitec” or the “Company” or in the third person, “we” or “our”) is a clinical-stage biotechnology company focused on the advancement of novel genetic medicines with headquarters in Hayward, California. The proprietary platform, called DNA-directed RNA interference, or ddRNAi, combines RNA interference, or RNAi, with gene therapy to create medicines that facilitate sustained silencing of disease-causing genes following a single administration. The unique therapeutic constructs also enable the simultaneous delivery of wildtype replacement genes, facilitating the proprietary “silence and replace” approach to the treatment of genetically defined diseases. The Company is developing a silence and replace-based therapeutic (BB-301) for the treatment of Oculopharyngeal Muscular Dystrophy (OPMD), a chronic, life-threatening genetic disorder. 
+
+BB-301 is a silence and replace-based genetic medicine currently under development by Benitec. BB-301 is an AAV-based gene therapy designed to permanently silence the expression of the disease-causing gene (to slow, or halt, the biological mechanisms underlying disease progression in OPMD) and to simultaneously replace the mutant gene with a wildtype gene (to drive restoration of function in diseased cells). This fundamental therapeutic approach to disease management is called “silence and replace.” The silence and replace mechanism offers the potential to restore the normative physiology of diseased cells and tissues and to improve treatment outcomes for patients suffering from the chronic, and potentially fatal, effects of OPMD. BB-301 has been granted Orphan Drug Designation in the United States and the European Union. 
+
+The targeted gene silencing effects of RNAi, in conjunction with the durable transgene expression achievable via the use of modified viral vectors, imbues the silence and replace approach with the potential to produce permanent silencing of disease-causing genes along with simultaneous replacement of the wild type gene function following a single administration of the proprietary genetic medicine. We believe that this novel mechanistic profile of the current and future investigational agents developed by Benitec could facilitate the achievement of robust and durable clinical activity while greatly reducing the frequency of drug administration traditionally expected for medicines employed for the management of chronic diseases. Additionally, the achievement of permanent gene silencing and gene replacement may significantly reduce the risk of patient non-compliance during the course of medical management of potentially fatal clinical disorders. 
+
+Available Information 
+
+Our telephone number is 780-0819, and our Internet website is www.benitec.com. The information on, or that can be accessed through, our website is not part of this Annual Report on Form 10-K and is not incorporated by reference herein. 
+
+Royalties, milestone payments and other license fees 
+
+We are required to pay royalties, milestone payments and other license fees in connection with our licensing of intellectual property from third parties, including as discussed below. 
+
+##### Table of Contents
+
+Foreign Currency Translation and Other Comprehensive Income (Loss) 
+
+The Company’s functional currency and reporting currency is the United States dollar. BBL’s functional currency is the Australian dollar (AUD). Assets and liabilities are translated at the exchange rate in effect at the balance sheet date. Revenues and expenses are translated at the average rate of exchange prevailing during the reporting period. Equity transactions are translated at each historical transaction date spot rate. Translation adjustments arising from the use of different exchange rates from period to period are included as a component of stockholders’ equity as “Accumulated other comprehensive income (loss).” Gains and losses resulting from foreign currency translation are included in the consolidated statements of operations and comprehensive income (loss) as other comprehensive income (loss). 
+
+April 2021 Capital Raise 
+
+On April 30, 2021, the Company announced the closing of an underwritten public offering of common stock and common stock equivalents (the “April 2021 Capital Raise”). The Company received gross proceeds of approximately $14.3 million and net proceeds of approximately $12.7 million from the offering. 
+
+September 2022 Capital Raise 
+
+On September 15, 2022, the Company announced the closing of an underwritten public offering of common stock and common stock equivalents (the “September 2022 Capital Raise”). The Company received gross proceeds of approximately $17.9 million and net proceeds of approximately $16.0 million from the offering. 
+
+August 2023 Capital Raise 
+
+On August 11, 2023, the Company announced the closing of an underwritten public offering of common stock and common stock equivalents (the “August 2023 Capital Raise”). The Company received gross proceeds of approximately $30.9 million and net proceeds of approximately $27.9 million from the offering. 
+
+April 2024 Capital Raise 
+
+On April 22, 2024 we closed a private investment in public equity (PIPE) financing of common stock and common stock equivalents (the “April 2024 Capital Raise”). The Company received gross proceeds of approximately $40.0 million and net proceeds of approximately $37.1 million from the financing. 
+
+Results of Operations 
+
+Revenues from customers 
+
+In the fiscal year ended June 30, 2024, the Company generated funds primarily from capital raising activities. The Company has not generated any revenues from the sales of products. Revenues from licensing fees and interest income are included in the revenue from customers line item on our statements of operations and comprehensive income (loss). Our licensing fees have been generated through the licensing of our ddRNAi technology to biopharmaceutical companies. 
+
+The following table sets forth a summary of our revenues for each of the periods set forth below: 
+
+##### Table of Contents
+
+During the year ended June 30, 2024, the Company did not recognize any customer revenues, as compared to $75 thousand for the comparable year ended June 30, 2023. The decrease in revenues from customers is due to the decrease in licensing revenue in the current year. 
+
+Royalties and license fees 
+
+Royalties and license fees consist primarily of payments we are required to remit for royalties and other payments related to in-licensed intellectual property. Under our in-license agreements, we may pay up-front fees and milestone payments and be subject to future royalties. We cannot precisely predict the amount, if any, of royalties we will owe in the future, and if our calculations of royalty payments are incorrect, we may owe additional royalties, which could negatively affect our results of operations. As our product sales increase, we may, from time to time, disagree with our third-party collaborators as to the appropriate royalties owed, and the resolution of such disputes may be costly, may consume management’s time, and may damage our relationship with our collaborators. Furthermore, we may enter into additional license agreements in the future, which may also include royalty, milestone and other payments. 
+
+Research and Development Expenses 
+
+Research and development expenses relate primarily to the cost of conducting clinical and pre-clinical trials. Pre-clinical and clinical development costs are a significant component of research and development expenses. The Company records accrued liabilities for estimated costs of research and development activities conducted by third-party service providers, which include the conduct of pre-clinical studies and clinical trials, and contract manufacturing activities. The Company records the estimated costs of research and development activities based upon the estimated amount of services provided but not yet invoiced and includes these costs in trade and other payables on the consolidated balance sheets and within research and development expenses on the consolidated statements of operations and comprehensive loss. 
+
+The Company accrues for these costs based on factors such as estimates of the work completed and in accordance with agreements established with its third-party service providers. The Company makes significant judgments and estimates in determining the accrued liabilities balance at the end of each reporting period. As actual costs become known, the Company adjusts its accrued liabilities. The Company has not experienced any material differences between accrued costs and actual costs incurred. 
+
+General and Administrative Expenses 
+
+General and administrative expenses consist primarily of salaries, related benefits, travel, and equity-based compensation expense. General and administrative expenses also include facility expenses, professional fees for legal, consulting, accounting and audit services and other related costs. 
+
+We anticipate that our general and administrative expenses may increase as the Company focuses on the continued development of the clinical OPMD program. The Company also anticipates an increase in expenses relating to accounting, legal and regulatory-related services associated with maintaining compliance with exchange listing and SEC requirements, director and officer insurance premiums and other costs associated with being a domestic public company. 
+
+##### Table of Contents
+
+Expenses 
+
+The following table sets forth a summary of our expenses for each of the periods set forth below: 
+
+During the years ended June 30, 2024 and June 30, 2023, we incurred royalties and license fees expenses of $ thousand and zero, respectively. The credit to expense during the year ended June 30, 2024 relates to the reversal of accruals for license fees no longer due. 
+
+During the year ended June 30, 2024, we incurred $15.6 million in research and development expenses, as compared to $12.8 million for the comparable year ended June 30, 2023. The increase in research and development expenses relates to the ongoing clinical development of BB-301 for the treatment of OPMD. 
+
+General and administrative expense totaled $7.0 million and $6.4 million for the years ended June 30, 2024 and 2023, respectively. The year-over-year increase relates primarily to higher stock-based compensation, bonuses paid during the second quarter, and travel expenses ($300 thousand, $25 thousand, and $157 thousand, respectively). 
+
+Other Income (Loss) 
+
+The following table sets forth a summary of our other income (loss) for each of the periods set forth below: 
+
+The other income, net during the year ended June 30, 2024 totaled $739 thousand, which consists of foreign currency transaction gain, interest income, other expense, net, and unrealized loss on investment. During the year ended June 30, 2023, other loss, net, totaled $481 thousand. The foreign currency transaction gain for the year ended June 30, 2024, as compared to the loss for the year ended June 30, 2023, reflects a change in foreign exchange rates. Net interest income for the year ended June 30, 2024, in comparison to the loss reported for the year ended June 30, 2023, reflects the increase in the Company’s cash and cash equivalent balances. The increase in other expense relates to higher Delaware report filing fees ($160 thousand) and franchise taxes ($32 thousand), which are based on the Company’s stockholders’ equity. Unrealized loss on investment was due to lower fair market values of the Company’s investments. 
+
+Liquidity and Capital Resources 
+
+The accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. For the years ended June 30, 2024, and 2023, the Company incurred net losses of 
+
+##### Table of Contents
+
+$21.8 million and $19.6 million, and used net cash of $19.4 million and $18.0 million in operations, respectively. The Company expects to continue to incur additional operating losses in the foreseeable future. 
+
+The Company has incurred cumulative losses and negative cash flows from operations since our predecessor’s inception in 1995, except for the year ended June 30, 2019 where we had net income of $2.6 million and generated positive cash flows of $4.8 million from operating activities. The Company had accumulated losses of $190.3 million as of June 30, 2024. We expect that our research and development expenses may increase due to the continued development of the OPMD program. 
+
+We had no borrowings for the years ended June 30, 2024 and 2023 and do not currently have a credit facility. 
+
+As of June 30, 2024, we had cash and cash equivalents of $50.9 million. Cash in excess of immediate requirements is invested in accordance with our investment policy, primarily with a view to liquidity and capital preservation. Currently, our cash and cash equivalents are held in bank accounts. 
+
+The following table sets forth a summary of the net cash flow activity for each of the periods set forth below: 
+
+Operating activities 
+
+Net cash used in operating activities for the year ended June 30, 2024 was $19.4 million. Net cash used in operating activities for the year ended June 30, 2023 was $18.0 million. Net cash used in operating activities was primarily the result of our net loss, partially offset by share-based compensation expense, changes in working capital, and depreciation and amortization. 
+
+Investing activities 
+
+Net cash used in investing activities for the years ended June 30, 2024 and 2023 was $179 thousand and $1 thousand, respectively, and relates to purchases of laboratory equipment. 
+
+Financing activities 
+
+Net cash provided by financing activities was $68.0 million and $16.0 million for the years ended June 30, 2024 and 2023, respectively. For the year ended June 30, 2024, cash from financing activities related primarily to the issuance of common shares, pre-funded warrants, and common warrants; including $30.9 million and $40.0 million in gross proceeds from the August 2023 and April 2024 Capital Raises, respectively; partially offset by $3.0 million and $2.9 million, respectively, of related issuance costs. 
+
+The future of the Company as an operating business will depend on its ability to keep operating costs and budgeted amounts and obtain adequate financing. While we continue to progress discussions and advance opportunities to engage with pharmaceutical companies and continue to seek licensing partners for ddRNAi in disease areas that are not our focus, there can be no assurance as to whether we will enter into such arrangements or what the terms of any such arrangement could be. On April 22, 2024, the Company closed a private 
+
+##### Table of Contents
+
+investment in public equity (PIPE) financing resulting in $37.1 million in net proceeds to the Company. We estimate that our cash and cash equivalents will be sufficient to fund the Company’s operations for at least the next twelve months after the date that this Annual Report is filed. 
+
+While we have established some licensing arrangements, we do not have any products approved for sale and have not generated any revenue from product sales. We do not know when, or if, we will generate any revenue from product sales. We do not expect to generate revenue from product sales unless and until we obtain regulatory approval of and commercialize one of our current or future product candidates. 
+
+Unless and until we establish significant revenues from licensing programs, strategic alliances or collaboration arrangements with pharmaceutical companies, or from product sales, we anticipate that we will continue to generate losses for the foreseeable future, and we expect the losses to increase as we continue the development of product candidates and begin to prepare to commercialize any product that receives regulatory approval. We are subject to the risks inherent in the development of new gene therapy products, and we may encounter unforeseen expenses, difficulties, complications, delays and other unknown factors that may adversely affect our business. On April 22, 2024, the Company announced the closing of a private investment in public equity (PIPE) financing. The Company received gross proceeds of approximately $40.0 million and net proceeds of approximately $37.1 million from the offering. 
+
+We have based our projections of operating capital requirements on assumptions that may prove to be incorrect and we may use all of our available capital resources sooner than we expect. Because of the numerous risks and uncertainties associated with research, development and commercialization of pharmaceutical products, we are unable to estimate the exact amount of our operating capital requirements. Our future funding requirements will depend on many factors, including, but not limited to: 
+
+Contractual Obligations and Commercial Commitments 
+
+On October 1, 2016, the Company entered into an operating lease for office space in Hayward, California that originally expired in April 2018. The Company has entered into lease amendments that extend the lease commitment through June 2025. 
+
+##### Table of Contents
+
+The Company enters into contracts in the normal course of business with third-party contract research organizations, contract development and manufacturing organizations and other service providers and vendors. These contracts generally provide for termination on notice and, therefore, are cancellable contracts and not considered contractual obligations and commitments. 
+
+Critical Accounting Policies and Significant Accounting Estimates 
+
+The preparation of consolidated financial statements and related disclosures in conformity with accounting principles generally accepted in the United States of America requires management to make judgments, assumptions and estimates that affect the amounts reported. Note 2 of Notes to the consolidated financial statements included in Item 8 in this Annual Report describes the significant accounting policies used in the preparation of the consolidated financial statements. Certain of these significant accounting policies are considered to be critical accounting policies. 
+
+A critical accounting policy is defined as one that is both material to the presentation of the Company’s consolidated financial statements and requires management to make difficult, subjective or complex judgments that could have a material effect on the Company’s financial condition or results of operations. Specifically, these policies have the following attributes: the Company is required to make assumptions about matters that are highly uncertain at the time of the estimate; and different estimates the Company could reasonably have used, or changes in the estimate that are reasonably likely to occur, would have a material effect on the Company’s financial condition or results of operations. 
+
+Estimates and assumptions about future events and their effects cannot be determined with certainty. The Company bases its estimates on historical experience and on various other assumptions believed to be applicable and reasonable under the circumstances. These estimates may change as new events occur, as additional information is obtained and as the Company’s operating environment changes. These changes have historically been minor and have been included in the consolidated financial statements as soon as they became known. In addition, management is periodically faced with uncertainties, the outcomes of which are not within its control and will not be known for prolonged periods of time. These uncertainties are discussed in the section above entitled “Risk Factors.” Based on a critical assessment of its accounting policies and the underlying judgments and uncertainties affecting the application of those policies, management believes that the Company’s consolidated financial statements are fairly stated in accordance with accounting principles generally accepted in the United States of America, and provide a meaningful presentation of the Company’s financial condition and results of operations. 
+
+Management believes that the following are critical accounting policies: 
+
+Research and Development Expenses 
+
+Research and development expenses relate primarily to the cost of conducting clinical and pre-clinical trials. Pre- clinical and clinical development costs are a significant component of research and development expenses. The Company records accrued liabilities for estimated costs of research and development activities conducted by third-party service providers, which include the conduct of pre-clinical studies and clinical trials, and contract manufacturing activities. The Company records the estimated costs of research and development activities based upon the estimated amount of services provided but not yet invoiced and includes these costs in trade and other payables on the consolidated balance sheets and within research and development expenses on the consolidated statements of operations and comprehensive loss. 
+
+The Company accrues for these costs based on factors such as estimates of the work completed and in accordance with agreements established with its third-party service providers. The Company makes significant judgments and estimates in determining the accrued liabilities balance at the end of each reporting period. As actual costs become known, the Company adjusts its accrued liabilities. The Company has not experienced any material differences between accrued costs and actual costs incurred. 
+
+##### Table of Contents
+
+Share-Based Compensation 
+
+The Company records share-based compensation in accordance with ASC 718, “Stock Compensation”. ASC 718 requires the fair value of all share- based employee compensation awarded to employees and non-employees to be recorded as an expense over the related requisite service period. The Company values employee and non-employee share-based compensation at fair value using the Black-Scholes Option Pricing Model. 
+
+Recent Accounting Pronouncements 
+
+Accounting Standards recently adopted 
+
+ASU 2016-13—In June 2016, the FASB issued ASU No. 2016-13: “Financial Instruments-Credit Losses (Topic 326)”. This ASU represents a significant change in the accounting for credit losses model by requiring immediate recognition of management’s estimates of current expected credit losses (CECL). Under the prior model, losses were recognized only as they were incurred. The Company adopted this ASU effective July 1, 2023 and determined that its impact on the accompanying consolidated financial statements is immaterial. 
+
+Recently Issued Accounting Standards not yet adopted 
+
+In December 2023, the FASB issued ASU No. 2023-09, “Income Taxes (Topic 740)—Improvements to Income Tax Disclosures”, which enhances the transparency, effectiveness and comparability of income tax disclosures by requiring consistent categories and greater disaggregation of information related to income tax rate reconciliations and the jurisdictions in which income taxes are paid. This guidance is effective for annual periods beginning after December 15, 2024 with early adoption permitted. The Company is currently evaluating the impact of the ASU on its income tax disclosures within the consolidated financial statements. 
+
+In November 2023, the FASB issued ASU No. 2023-07, “Segment Reporting (Topic 280)—Improvements to Reportable Segment Disclosures”, which improves reportable segment disclosure requirements, primarily through enhanced disclosures about significant segment expenses. This ASU also expands disclosure requirements to enable users of financial statements to better understand the entity’s measurement and assessment of segment performance and resource allocation. This guidance is effective for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024, with early adoption permitted. The Company is currently evaluating the impact of the ASU on its disclosures within the consolidated financial statements. 
+
+Item 7A. Quantitative and Qualitative

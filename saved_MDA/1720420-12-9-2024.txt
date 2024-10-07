@@ -1,0 +1,83 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis should be read in conjunction with the audited Consolidated Financial Statements and accompanying notes thereto included elsewhere in this Form 10-K. Unless otherwise noted, all of the financial information in this Form 10-K is consolidated financial information for the Company. The forward-looking statements in this discussion regarding our industry and the industries we serve, our expectations regarding our future performance, liquidity and capital resources and other non-historical statements in this discussion are subject to numerous risks and uncertainties. See "Cautionary Note Regarding Forward-Looking Statements" and Part I, Item 1A of this Form 10-K. Our actual results may differ materially from those contained in any forward-looking statements. 
+
+This Form 10-K includes certain historical consolidated financial and other data for IBEX Limited (“ibex,” “we,” “us,” “our” or the “Company”). The following discussion provides a narrative of our financial condition and results of operations for the fiscal year ended June 30, 2024 compared to the fiscal year ended June 30, 2023. Discussion and analysis for the fiscal year ended June 30, 2023 compared to the fiscal year ended June 30, 2022 may be found in the Company’s Annual Report on Form 10-K for the year ended June 30, 2023 filed with the SEC on September 13, 2023.
+
+Overview
+
+ibex delivers innovative business process outsourcing (“BPO”), smart digital marketing, online acquisition technology, and end-to-end customer engagement solutions to help companies acquire, engage, and retain valuable customers. Today, ibex operates a global customer experiences (“CX”) delivery center model consisting of 29 delivery centers around the world, while deploying next-generation technology to drive superior customer experiences for many of the world’s leading companies across various verticals, including Retail & E-commerce, HealthTech, FinTech, Utilities and Logistics. ibex leverages its diverse global team of approximately 30,000 employees together with industry-leading technology, including its Wave iX platform, to manage nearly 169 million customer interactions on behalf of our clients, driving a truly differentiated customer experience. 
+
+Business Highlights
+
+During the fiscal year ended June 30, 2024, the Company continued to deliver a solid financial performance, in particular, growth in our digital-first solutions with leading clients in our Retail & E-commerce, HealthTech and Travel, Transportation & Logistics verticals. We closed two sites during the year to optimize utilization in our onshore and nearshore geographies. Despite macroeconomic conditions impacting our historical growth trends, as well as the unfavorable impact on our revenue from shifting mix from onshore to offshore geographies, the business performed well in several important areas, including profitability, strong free cash flows, new client wins with key clients in strategic verticals, and continued client and vertical diversification. As expected, our new sales pipeline and wins have picked up pace, with eighteen new clients during the fiscal year ended June 30, 2024 compared to ten in the prior year. 
+
+Recent Financial Highlights
+
+The Company delivered revenues of $508.6 million during the fiscal year ended June 30, 2024, a 2.8% decline compared to the prior year, largely due to the year over year migration of delivery from onshore to higher margin offshore regions, macroeconomic conditions, and external factors impacting the FinTech and Telecommunication verticals, partially offset by growth in the Retail & E-commerce, HealthTech, and Travel, Transportation & Logistics verticals. Net income during the year ended June 30, 2024 was $33.7 million, a 6.6% increase from $31.6 million during the prior year. The increase was driven by improved operational delivery, increased interest income on invested funds, and lower income tax expense which is attributed to changes in geographic mix, compared to the prior year. Fully diluted earnings per share of $1.84 was up from $1.67 in the prior year. 
+
+Trends and Factors Affecting our Performance
+
+There are a number of key trends and factors that have affected and may affect our results of operations.
+
+Macroeconomic Trends
+
+Macroeconomic factors, including but not limited to, increasing inflation and interest rates, global economic and geopolitical uncertainty, changes in foreign currency exchange rates, and the impact that these factors are having on our clients and their customers, have also impacted our financial results during fiscal year 2024. Some of our customers have increased their focus on cost reduction, resulting in decisions to shift work from onshore sites to offshore sites, which has contributed to a modest decline in revenue during fiscal year 2024 compared to prior years. We expect that these factors will continue to impact our operations in the near term; however, we also believe that they present opportunities with both new and existing clients, as companies maintain a focus on cost reduction.
+
+Artificial Intelligence (“AI”)
+
+With the increasing applicability of AI in enhancing business processes, the BPO industry is increasingly evaluating and starting to integrate AI into its range of solutions to improve the customer experience and efficiencies. We are moving aggressively to leverage generative AI in our business. We introduced our Wave iX technology on January 30, 2024. We have created a three-pronged AI strategy, which continues to keep ibex at the forefront of digital transformation. Our solutions are focused on increasing agent productivity, providing deeper customer insights to elevate the customer experience and putting AI in front of the customer journey with voice and chat bots. We believe we are well positioned to leverage our leadership position in adopting new technology in the CX sector and to create significant value for our clients through the application of AI. We believe that our approach to bringing a combination of our AI-enabled solutions plus a robust set of third-party AI-enabled solutions to our clients positions the company to not only be a fast-mover in the market, but also to capture an outsized share of AI-impacted future revenue, and to help minimize risk to our overall revenue and provide opportunities for future profitability enhancement. While the initial implementation of some AI-solutions may impact revenue directly derived from traditional agent-driven activities, it is our belief that by remaining on the forefront and bringing these solutions to our clients, we will be able to capture a greater share of AI-enabled revenue work and maintain and grow our overall business and results.
+
+Client’s Underlying Business Performance
+
+Demand for customer interaction services reflects a client’s underlying business performance and priorities. Growth in a client’s business often results in increased demand for our customer engagement solutions. Conversely, a decline in a client’s business generally results in a decrease in demand for our customer engagement solutions, shifting volume to lower cost geographies, and potential increases in demand for our customer acquisition and expansion solutions. The correlation between business performance and demand for outsourced customer interaction solutions can therefore be complex, and depends upon several factors, such as industry consolidation, client investments in growth, and overall macroeconomic environment, all of which can result in short term revenue volatility for outsourcing providers. Demand during the fiscal year ended June 30, 2024 was constrained when compared to prior fiscal years, due in large part to the aforementioned macroeconomic conditions.
+
+Capacity Utilization
+
+As a significant portion of our customer interaction services are performed by customer-facing agents located in delivery centers, our margins are impacted by the level of capacity utilization in those facilities. We incur substantial fixed costs in operating such facilities. The greater the volume of interactions handled, the higher the utilization level of workstations within those facilities and the revenues generated to cover those fixed costs, thus the greater the percentage operating margin.
+
+As demand for delivery locations has continued to shift towards lower cost geographies during the year ended June 30, 2024, we have continued to fill the additional capacity in our offshore region and expect this capacity to be absorbed quickly as clients and prospective clients look to relocate work to cost advantageous markets in the near term. We continue to realize cost savings as we optimize the number of onshore and nearshore delivery centers. 
+
+Labor Costs
+
+When compensation levels of our employees increase, we may not be able to pass on such increased costs to our clients or do so on a timely basis, which tends to depress our operating profit margins if we cannot generate sufficient offsetting productivity gains. During fiscal year 2024, we continued to see increasing wage pressure in all of our geographies, in part brought on by the current global inflation and labor shortage, which is increasing competition for contact center agents from other sectors of the economy. During fiscal year 2024, we have offset some of these wage increases with higher agent quality and increased productivity, higher agent retention, and increased client prices under contractual cost of living adjustments (“COLA”). Furthermore, our overall labor cost as a percentage of revenue is impacted by the aforementioned shift in delivery location from onshore delivery centers to offshore centers. 
+
+Delivery Location
+
+We generate greater profit margins from our work carried out by agents located in offshore and nearshore geographies compared to our work carried out from onshore locations in the United States. As a result, our operating margins are influenced by the proportion of our work delivered from these higher margin locations. Over time we have expanded and further diversified our delivery network by adding facilities in these locations, offering a significant relative cost advantage. Our percentage of workstations in nearshore and offshore centers is approximately 95% as of June 30, 2024. We regularly evaluate whether to procure additional space or enter into new markets as we continue to add employees and expand geographically to meet the demands of our business.
+
+Provider Performance
+
+Generally, our clients will re-allocate spend and market share in favor of outsourcing providers who consistently perform better and add more value than their competitors. Such re-allocation of spend can either take place on a short-term basis as higher performing providers are shielded by the client against demand volatility, or on a longer term basis as the client shifts more and more of its overall outsourcing spend and volume to higher performing providers. Our revenues have generally increased as a result of performance-based market share gains with our existing clients, as well as due to our new client wins.
+
+Sales Cycles and New Client Wins
+
+We have a strong track record of winning key new client accounts and as a result of our land and expand strategy, we have been successful in winning an increasing number of new client engagements, and subsequently increasing our revenues with these clients year over year. Historically, our in-year new client wins have generated 2.5x to 3.0x revenue in the second and third years of the engagement. However, in the slowing economic environment, our sales cycles lengthened in fiscal year 2023 and the first two quarters of fiscal year 2024. We experienced a faster pace of sales activity during the second half of fiscal year 2024. 
+
+Client Concentration
+
+During the fiscal year 2024, our largest client accounted for 12% while our three largest clients accounted for 29% of our consolidated revenue. We now have over 55 clients with greater than $1 million in annual revenue. We believe client diversification is an important attribute in a challenging market.
+
+Pricing
+
+Our revenues are dependent upon both volumes and unit pricing for our services. Client pricing is often expressed in terms of a base price per minute or hour as well as, in limited cases, with bonuses and occasionally penalties depending upon our achievement of certain client objectives. During fiscal year 2024, the tightening in the global labor market and corresponding wage inflation, as well as increasing facilities expenses have resulted in us pursuing and successfully negotiating price increases or COLA with many of our clients.
+
+The current economic environment is also encouraging our clients to consider locating more of their support offshore. Within our customer engagement solutions, pricing for services delivered from onshore locations is higher than pricing for services delivered from offshore locations, largely driven by higher wage levels in onshore locations. Accordingly, a shift in service delivery location from onshore to offshore locations results in a 
+
+lower price for our clients and a decline in our absolute revenues; however, our margins tend to increase, in percentage and often in absolute terms, as compared to onshore service delivery.
+
+Attrition Among Customer Facing Agents
+
+The outsourcing industry is generally characterized by high employee turnover. Such turnover has a significant impact upon profitability as recruiting and training expenses are incurred to replace departing agents. We closely monitor the markets where we operate and where we consider expanding operations as part of our efforts to stay competitive on wages. We believe our efforts to cultivate an environment conducive to employee engagement support lower attrition rates. 
+
+Increases in Expenses Related to Sourcing or Generating Leads
+
+A key element of our customer acquisition solution is the generation or purchase of leads or projects. We either generate our leads ourselves, often through digital means, or purchase our leads from external sources. Any increase in the cost of sourcing or generating leads or changes in the rate of conversion of those leads could impact our profit margins. We occasionally experience some volatility in our internal lead generation costs, either due to competitive keyword bidding by other digital marketing agencies, or due to bidding restrictions imposed by our clients.
+
+Increased Up-Front Costs Driven by Increased Demand
+
+Aside from short-term increases in demand for which we tend to delay increases in headcount, an increase in demand for customer interaction services typically results in an up-front increase in employee compensation expenses, due to the in-advance need to hire and train additional employees, predominantly delivery center agents, to service client campaigns. As these expenses for hiring and training our employees are typically incurred in a period before the revenues associated with the increase in demand are recognized, it has the effect of causing an initial decrease in our operating profit margins prior to the full impact of the profitability from the additional demand.
+
+Net Effect of Currency Exchange Rate Fluctuations
+
+While substantially all of our revenues are generated in U.S. dollars, a significant portion of our operating expenses are incurred outside of the United States and paid for in the respective foreign currencies, principally the local currencies of the Philippines, Jamaica and Pakistan. During the fiscal year ended June 30, 2024, out of our total employee benefits expenses, 30.9% were incurred in the Philippine Pesos, 15.5% were incurred in the Jamaican Dollar and 8.7% were incurred in Pakistani Rupee. As a result, our operations are subject to the effects of changes in exchange rates against the U.S. dollar. See “Item 7A. Quantitative and Qualitative

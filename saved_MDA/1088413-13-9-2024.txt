@@ -1,0 +1,105 @@
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations.
+
+Cautionary Statement Regarding Forward-Looking Information
+
+This Annual Report on Form 10-K includes "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These statements concern Greystone's plans, expectations and objectives for future operations. All statements, other than statements of historical facts, included in this Form 10-K that address activities, events or developments that Greystone expects, believes or anticipates will or may occur in the future are forward-looking statements. The words "believe," "plan," "intend," "anticipate," "estimate," "project," and similar expressions are intended to identify forward-looking statements. These forward-looking statements include, among others, such things as:
+
+These forward-looking statements are based on assumptions that Greystone believes are reasonable based on current expectations and projections about future events and industry conditions and trends affecting Greystone's business. However, whether actual results and developments will conform to Greystone's expectations and predictions is subject to a number of risks and uncertainties that could cause actual results to differ materially from those contained in the forward-looking statements, including those factors discussed under the section of this Form 10-K entitled "Risk Factors." In addition, Greystone's historical financial performance is not necessarily indicative of the results that may be expected in the future and Greystone believes that such comparisons cannot be relied upon as indicators of future performance.
+
+Results of Operations
+
+General
+
+The consolidated financial statements include Greystone and its two wholly owned subsidiaries, Greystone Manufacturing, L.L.C. (“GSM”), and Plastic Pallet Production, Inc. (“PPP”), and one variable interest entity, Greystone Real Estate, L.L.C. (“GRE”). Effective July 29, 2022, GRE was no longer deemed to be a beneficiary of Greystone and, accordingly, was deconsolidated on the effective date as discussed further in Note 1 to the consolidated financial statements.
+
+Greystone's primary business is the manufacturing of plastic pallets utilizing recycled plastic and selling the pallets through one of its wholly owned subsidiaries, GSM.
+
+As of May 31, 2024 and 2023, Greystone had FTE’s of approximately 190 and 179 employees, respectively. Temporary personnel from a personnel service entity are utilized as needed. There were FTE’s of approximately 69 and 109 temporary personnel as of May 31, 2024 and 2023, respectively. Greystone's in-house production capacity for its injection molding machines capable of producing pallets is approximately 225,000 plastic pallets per month, or 2,700,000 per year. Production levels will vary proportionately as a result of the pallet design, machine downtime or customer restrictions for maintaining stringent sizing on certain pallets.
+
+Year Ended May 31, 2024 Compared to Year Ended May 31, 2023
+
+Sales
+
+Sales were $61,780,715 for fiscal year 2024 compared to $60,758,962 for fiscal year 2023 representing an increase of $1,021,753, or about 2%. Fiscal year 2023 was a turn-around period to recover from declining sales as customers shied away from inflationary pricing during the pandemic period. As raw material pricing returned to relatively normal historic levels during the second quarter of fiscal year 2023, the Company focused its efforts on rebuilding relations with existing customers as well as seeking new customers.
+
+Greystone’s major customers, varying from three to four, accounted for approximately 81% and 73% of total sales in fiscal years 2024 and 2023, respectively. Customers that account for significant sales may vary in any one year. Generally, customers purchasing substantial quantities to replace or add pallets to their inventory consistently comprise a significant portion of sales. Any customer(s) needing a substantial quantity of pallets to fulfill a specific need may vary from year to year.
+
+Cost of Sales
+
+Cost of sales was $50,065,085 (81% of sales) and $51,427,409 (85% of sales) in fiscal years 2024 and 2023, respectively. The decrease in the ratio of cost of sales to sales (the “ratio”) in fiscal year 2024 from fiscal year 2023 was the result of several factors, including a decline in the price of raw materials toward relatively historic levels.
+
+Selling, General and Administrative Expenses
+
+Selling, general and administrative (SGA) expenses were $5,168,607, (8.4% of sales) for fiscal year 2024 compared to $5,100,170 (8.4% of sales) for fiscal year 2023, representing an increase of $68,437.
+
+Gain on Involuntary Conversion
+
+Gain on involuntary conversion was $593,647 for fiscal year 2024. In February 2024, one of the Company’s storage warehouses caught fire with damage to finished goods inventory valued at $1,326,752 and the building with a net book value of $161,850. The Company recorded an insurance receivable of $2,058,602 as an estimate for damage to the inventory and building, which resulted in a gain from the involuntary conversion of $593,647. The insurer and Company are currently reviewing and finalizing the claim value for the inventory. The Company will record any additional consideration once a settlement has been reached, which may increase the gain recorded in future periods.
+
+Other Income (Expenses)
+
+During fiscal years 2023, Greystone received $4,911,863, reimbursement from the Department of Treasury for refundable tax credits against certain employment taxes pursuant to the Employee Retention Credit (“ERC”) under the Coronavirus Aid, Relief, and Economic Security Act (“CARES Act”). There were no such credits recognized in 2024.
+
+As a result of the deconsolidation of GRE in 2023, the Company recognized a gain of $569,997 in fiscal year 2023 which was attributable to a deferred gain from Greystone’s sell and leaseback of the building to GRE in the prior years.
+
+Other income for fiscal years 2024 and 2023 included:
+
+Interest expense was $1,291,054 in fiscal year 2024 compared to $1,189,034 in fiscal year 2023 for an increase of $99,903. This increase is primarily attributable to the increase in the prime rate of interest which was 8.50% at May 31, 2024, compared to 8.25% at May 31, 2023.
+
+Provision for Income Taxes
+
+The provision for income taxes was $1,031,204 in fiscal year 2024 compared to $2,461,700 in fiscal year 2023. The effective tax rate differs from federal statutory rates due to state income taxes, charges which have no income tax benefit, changes in the valuation allowance, and changes in state income tax rates.
+
+Based upon a review of its income tax filing positions, Greystone believes that its positions would be sustained upon an audit by the Internal Revenue Service and does not anticipate any adjustments that would result in a material change to its financial position. Therefore, no reserves for uncertain income tax positions have been recorded.
+
+Net Income
+
+Net income was $5,027,491 in fiscal year 2024 compared to $6,388,108 in fiscal year 2023 for a decrease of $1,360,617 for the reasons discussed above.
+
+Net Income Attributable to Common Stockholders
+
+After deducting preferred dividends and income attributable to non-controlling interests, the net income attributable to common stockholders was $4,440,265, or $0.16 per share, in fiscal year 2024 compared to $5,842,828, or $0.21 per share, in fiscal year 2023 for the reasons discussed above.
+
+Liquidity and Capital Resources
+
+General
+
+A summary of Greystone’s cash flows for the year ended May 31, 2024, was as follows:
+
+The cash provided by operations included payments of approximately $3,756,000 on long term loans, financing leases, and revolving loans.
+
+As a result of the fire at the Company's Comanche location, the Company has filed an insurance claim which amounts to approximately $2,100,000. Once received the Company will commence construction plans and operations to remediate the damage at the Comanche location. Additionally, the remaining insurance funds are anticipated to be used to bolster the Company's inventory position as needed.
+
+Contractual obligations of Greystone as of May 31, 2024, were as follows:
+
+Greystone had a working capital of $9,607,867 as of May 31, 2024.
+
+Greystone’s principal long-term debt obligations include a $6,000,000 revolving line of credit and several term notes with various maturities. To provide for the funding to meet Greystone's operating activities and contractual obligations as of May 31, 2024, Greystone will have to continue to produce positive operating results or explore various options including long-term debt and equity financing. However, there is no guarantee that Greystone will continue to create positive operating results or be able to raise sufficient financing to meet these obligations.
+
+A substantial portion of debt financing that Greystone received through May 31, 2024, has been provided by loans or through bank loan guarantees from the officers and directors of Greystone. Greystone continues to be dependent upon its officers and directors to provide and/or secure additional financing and there is no assurance that either will do so.
+
+Greystone has 50,000 outstanding shares of cumulative 2003 Preferred Stock for a total of $5,000,000 with a preferred dividend rate at the prime rate of interest plus 3.25% (11.75% as of May 31, 2024). Greystone paid accrued dividends to its preferred stockholders during fiscal years 2024 and 2023 of $721,640 and $446,644, respectively, and plans to continue to make preferred stock dividend payments to the holders of its preferred stock as allowed under the terms of the IBC Restated Loan Agreement as discussed herein under the caption “Loans from International Bank of Commerce” which allows for such payments not to exceed $1,000,000 per year. Greystone does not anticipate that it will make cash dividend payments to any holders of its common stock unless and until the financial position of Greystone improves through increased revenues, additional financing or otherwise. Further, pursuant to the terms and conditions of certain loan documentation with International Bank of Commerce, as discussed herein under the caption “Loans from International Bank of Commerce,” and the terms and conditions of Greystone's 2003 preferred stock, Greystone is restricted in its ability to pay dividends to holders of its common stock.
+
+Transactions with Warren Kruger and Related Entities
+
+Yorktown Management & Financial Services, LLC (“Yorktown”), an entity wholly owned by Mr. Kruger, Greystone’s CEO and President, owns and rents to Greystone certain grinding equipment used to grind raw materials and certain extruders for pelletizing recycled plastic into pellets for use as raw material in the manufacture of pallets. Greystone compensates Yorktown for the use of equipment as discussed below.
+
+Rental fees. GSM pays weekly rental fees of $27,500 to Yorktown for grinding equipment and pelletizing equipment. Total rental fees of approximately $1,457,200 and $1,430,000 were paid in both fiscal years 2024 and 2023, respectively.
+
+Yorktown provides administrative office space for Greystone in Tulsa, Oklahoma under a 6 year lease agreement at a rental rate of $6,250 per month.
+
+Loans from International Bank of Commerce (“IBC”)
+
+On July 29, 2022, Greystone and International Bank of Commerce (“IBC”) entered into an Amended and Restated Loan Agreement (the “Restated IBC Loan Agreement”) as further described in Note 5, Long-Term Debt, of the consolidated financial statements. The Restated IBC Loan Agreement provides for the IBC to make to Greystone (i) a term loan in the amount of $7,854,708 to consolidate all existing term loans in the aggregate amount of $2,669,892 with Lender, extend credit in the amount of $3,271,987 to pay off a note payable to Robert B. Rosene, Jr. and extend additional credit in the amount of $1,912,829 to fund the purchase of the equipment subject to the iGPS Logistics, LLC, leases, (ii) an advancing term loan facility whereby Greystone may obtain advances up to the aggregate amount of $7,000,000 subsequently increased by $1,000,000 under the First Amendment dated May 5, 2023 (items i and ii referred to as “Term Loans”), and (iii) a renewal of the revolving loan with an increase of $2,000,000 (the “Revolving Loan”). The exact amount which can be borrowed under the Revolving Loan from time to time is dependent upon the amount of the borrowing base but can in no event exceed $6,000,000. The Restated Loan Agreement requires limited guarantees from Warren F. Kruger, President and CEO, and Robert B. Rosene, Jr., a director of Greystone.
+
+On February 5, 2024, Greystone and IBC entered into a Second Amendment to the Amended and Restated Loan agreement. Among other things, the primary terms extended the maturity date of the Revolving Loan from July 29, 2024 to February 5, 2026. In addition distributions to holders of its preferred stock was raised to $1,000,000. IBC authorized the Greystone stock repurchase plan not to exceed $1,000,000.
+
+Transactions with Robert B. Rosene, Jr.
+
+Effective August 1, 2022, Greystone and GRE, a limited liability company owned by Mr. Rosene, entered into a non-cancellable ten-year lease agreement with a five-year extension for which Greystone recorded a right-of-use asset and liability based on the present value of the lease payments in the amount of $5,516,006, using a term of one hundred eighty months and a discount rate of 6.00%.
+
+Off-Balance Sheet Arrangements
+
+Greystone does not have any off-balance sheet arrangements.
+
+Item 7A. Quantitative and Qualitative

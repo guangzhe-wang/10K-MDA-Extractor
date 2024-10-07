@@ -1,0 +1,331 @@
+ITEM 6. RESERVED.
+
+​
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+Overview
+
+Our management’s discussion and analysis of financial condition and results of operations relates to Ferrellgas Partners and the operating partnership.
+
+Ferrellgas Partners is a holding entity that conducts no operations and has two direct subsidiaries, the operating partnership and Partners Finance Corp. Both Partners Finance Corp. and Finance Corp. have nominal assets, do not conduct any operations and have no employees other than officers. Our activities are primarily conducted through the operating partnership. Partners Finance Corp. has served as co-issuer and co-obligor for debt securities of Ferrellgas Partners, while Finance Corp., a subsidiary of the operating partnership, serves as co-issuer and co-obligor for debt securities of the operating partnership. Accordingly, and due to the reduced disclosure format, a discussion of the results of operations, liquidity and capital resources of Partners Finance Corp. and Finance Corp. is not presented in this section.
+
+The following is a discussion of our historical financial condition and results of operations and should be read in conjunction with our audited historical consolidated financial statements and accompanying notes thereto included elsewhere in this Annual Report on Form 10-K.
+
+The discussions set forth in the “Results of Operations” and “Liquidity and Capital Resources” sections generally refer to Ferrellgas Partners and its consolidated subsidiaries.
+
+Recent developments
+
+In response to a judgment related to litigation, described in Note P “Contingencies and commitments” to the consolidated financial statements, the operating partnership guaranteed the issuance of an aggregate $124.5 million in letters of credit under its Credit Facility to surety providers for a $190.0 million appeal bond posted on behalf of Ferrellgas Partners in July 2024. See Note H “Debt” for additional information related to the Credit Facility.
+
+How We Evaluate Our Operations
+
+We evaluate our overall business performance based primarily on a metric we refer to as “Adjusted EBITDA,” which is not defined by GAAP and should not be considered an alternative to earnings measures defined by GAAP. We do not utilize depreciation, depletion and amortization expense in our key measures because we focus our performance management on cash flow generation and our revenue generating assets have long useful lives. For the definition of Adjusted EBITDA and a reconciliation of Adjusted EBITDA to net earnings attributable to Ferrellgas Partners, L.P., the most directly comparable GAAP measure, see the subheading “Non-GAAP Financial Measures” below.
+
+Propane operations and related equipment sales
+
+Based on our propane sales volumes in fiscal 2024, we believe that we are the second largest retail marketer of propane in the United States and a leading national provider of propane by portable tank exchange. We serve residential, industrial/commercial, portable tank exchange, agricultural, wholesale and other customers in all 50 states, the District of Columbia and Puerto Rico. Our operations primarily include the retail distribution and sale of propane and related equipment and supplies.
+
+We use information on temperatures to understand how our results of operations are affected by temperatures that are warmer or colder than normal. Normal temperatures computed by us are the average of the last 10 years of information published by the National Oceanic and Atmospheric Administration. Based on this information we calculate a ratio of actual heating degree days to normal heating degree days. Heating degree days are a general indicator of weather impacting propane usage.
+
+Weather conditions have a significant impact on demand for propane for heating purposes primarily during the months of November through March (the “winter heating season”). Accordingly, the volume of propane used by our customers for this purpose is directly affected by the severity of the winter weather in the regions we serve and can vary substantially from year to year. In any given region, sustained warmer-than-normal temperatures will tend to result in reduced propane usage, while sustained colder-than-normal temperatures will tend to result in greater usage. Although there is a strong correlation between weather and customer usage, general economic conditions in the United States and the wholesale price of propane can have a significant impact on this correlation. Additionally, there is a natural time lag between the onset of cold weather and increased sales to customers. If the United States were to experience a cooling trend, we could expect nationwide demand for propane to increase which could lead to greater sales, income and liquidity availability. Conversely, if the United States were to experience a continued warming trend, we could expect nationwide demand for propane for heating purposes to decrease which could lead to a reduction in our sales, income and liquidity availability as well as impact our ability to maintain compliance with our debt covenants.
+
+We employ risk management activities that attempt to mitigate price risks related to the purchase, storage, transport and sale of propane generally in the contract and spot markets from major domestic energy companies. We attempt to mitigate these price risks through the use of financial derivative instruments and forward propane purchase and sales contracts. We enter into propane sales commitments with a portion of our customers that provide for a contracted price agreement for a specified period of time. These commitments can expose us to product price risk if not immediately hedged with an offsetting propane purchase commitment.
+
+Our open financial derivative propane purchase commitments are designated as hedges primarily for fiscal 2024 and 2025 sales commitments and, as of July 31, 2024, we have experienced net mark-to-market gains of approximately $2.1 million. Because these financial derivative purchase commitments qualify for hedge accounting treatment, the resulting asset, liability and related mark-to-market gains or losses are recorded on the consolidated balance sheets as “Prepaid expenses and other current assets,” “Other assets, net,” “Other current liabilities,” “Other liabilities” and “Accumulated other comprehensive income,” respectively, until settled. Upon settlement, realized gains or losses on these contracts will be reclassified to “Cost of sales-propane and other gas liquid sales” in the consolidated statements of operations as the underlying inventory is sold. These financial derivative purchase commitment net gains are expected to be offset by decreased margins on propane sales commitments that qualify for the normal purchase normal sale exception. At July 31, 2024, we estimate 87% of currently open financial derivative purchase commitments, the related propane sales commitments and the resulting gross margin will be realized into earnings during the next twelve months.
+
+Summary Discussion of Results of Operations:
+
+For the years ended July 31, 2024 and 2023
+
+We recognized net earnings attributable to Ferrellgas Partners, L.P. of $110.2 million and $136.9 million during fiscal 2024 and 2023, respectively. The $26.7 million decrease was primarily driven by:
+
+partially offset by the following:
+
+Distributable cash flow attributable to equity investors decreased to $212.3 million in fiscal 2024 compared to $254.4 million in fiscal 2023. The $42.1 million decrease was primarily due to a $42.8 million decrease in Adjusted EBITDA. 
+
+Distributable cash flow excess was $43.2 million in fiscal 2024 as compared to $135.0 million in fiscal 2023. The $91.8 million decrease was primarily due to an increase of $50.0 million in distributions paid to Class B unitholders and the $42.1 million decrease in distributable cash flow attributable to equity investors noted above. 
+
+Consolidated Results of Operations
+
+​
+
+Non-GAAP Financial Measures
+
+In this Annual Report we present the following non-GAAP financial measures: Adjusted EBITDA, Distributable cash flow attributable to equity investors, Distributable cash flow attributable to Class A and B Unitholders, and Distributable cash flow excess.
+
+Adjusted EBITDA. Adjusted EBITDA for Ferrellgas Partners is calculated as net earnings attributable to Ferrellgas Partners, L.P., plus the sum of the following: income tax expense, interest expense, depreciation and amortization expense, non-cash employee stock ownership plan compensation charge, loss on asset sales and disposals, other income, net, severance costs, legal fees and settlements related to non-core businesses, acquisition and related costs, business transformation costs, and net earnings attributable to noncontrolling interest. Management believes the presentation of this measure is relevant and useful because it allows investors to view the partnership’s performance in a manner similar to the method management uses, adjusted for items management believes make it easier to compare its results with other companies that have different financing and capital structures. Adjusted EBITDA, as management defines it, may not be comparable to similarly titled measurements used by other companies. Items added into our calculation of Adjusted EBITDA that will not occur on a continuing basis may have associated cash payments. This method of calculating Adjusted EBITDA should be viewed in conjunction with measurements that are computed in accordance with GAAP.
+
+Distributable Cash Flow Attributable to Equity Investors. Distributable cash flow attributable to equity investors is calculated as Adjusted EBITDA minus net cash interest expense, maintenance capital expenditures and cash paid for income taxes, plus proceeds from certain asset sales. Management considers distributable cash flow attributable to equity investors a meaningful measure of Ferrellgas’ ability to declare and pay quarterly distributions to equity investors, including holders of the operating partnership’s Preferred Units. Distributable cash flow attributable to equity investors, as management defines it, may not be comparable to similarly titled measurements used by other companies. Items added into our calculation of distributable cash flow attributable to equity investors that will not occur on a continuing basis may have associated cash payments. Distributable cash flow attributable to equity investors should be viewed in conjunction with measurements that are computed in accordance with GAAP.
+
+Distributable Cash Flow Attributable to Class A and B Unitholders. Distributable cash flow attributable to Class A and B Unitholders is calculated as Distributable cash flow attributable to equity investors minus distributions accrued or paid to Preferred Unitholders and distributable cash flow attributable to general partner and noncontrolling interest. Management considers Distributable cash flow attributable to Class A and B Unitholders a meaningful measure of the partnership’s ability to declare and pay quarterly distributions to Class A and B Unitholders. Distributable cash flow attributable to Class A and B Unitholders, as management defines it, may not be comparable to similarly titled measurements used by other companies. Items added into our calculation of distributable cash flow attributable to Class A and B Unitholders that will not occur on a continuing basis may have associated cash payments. Distributable cash flow attributable to Class A and B Unitholders should be viewed in conjunction with measurements that are computed in accordance with GAAP.
+
+Distributable Cash Flow Excess. Distributable cash flow excess is calculated as Distributable cash flow attributable to Class A and B unitholders minus Distributions paid to Class A and B unitholders. Distributable cash flow excess, if any, is retained to establish reserves, to reduce debt, to fund capital expenditures and for other partnership purposes, and any shortage is funded from previously established reserves, cash on hand or borrowings under our Credit Facility. Management considers Distributable cash flow excess a meaningful measure of the partnership’s ability to effectuate those purposes. Distributable cash flow excess, as management defines it, may not be comparable to similarly titled measurements used by other companies. Items added into our calculation of distributable cash flow excess that will not occur on a continuing basis may have associated cash payments. Distributable cash flow excess should be viewed in conjunction with measurements that are computed in accordance with GAAP.
+
+​
+
+The following table reconciles Adjusted EBITDA, Distributable cash flow attributable to equity investors, Distributable cash flow attributable to Class A and B Unitholders and Distributable cash flow excess to Net earnings attributable to Ferrellgas Partners, L.P., the most directly comparable GAAP measure, for the fiscal years indicated:
+
+Operating Results for the years ended July 31, 2024 and 2023
+
+Propane operations and related equipment sales
+
+The following table summarizes propane sales volumes and Adjusted EBITDA results for the fiscal years indicated:
+
+Propane sales volumes during fiscal 2024 decreased 5%, or 44.3 million gallons, compared to fiscal 2023. Temperatures for fiscal 2024 were 10% warmer than normal, based on a 10-year average, and 4% warmer compared to fiscal 2023. Although weather was a factor in fiscal 2024, we continue to progress in steps to be more weather-agnostic. As we seek strategic acquisitions throughout the county, such as our fiscal 2024 acquisition of California-based Eastern Sierra Propane, this helps to mitigate the impact of weather conditions in a specific region. We also benefit from our tank exchange brand, Blue Rhino, which tends to thrive during warmer weather. We continue to see some business closings and effects of inflation, which contributed to the 5% decrease in retail customers compared to fiscal 2023. We will be able to re-deploy assets related to these closed businesses for gallon growth occurring in future periods. We had a 10% increase in tank exchange selling locations as Blue Rhino gained several major nationwide customers in fiscal 2024. 
+
+Our wholesale sales price per gallon partially correlates to the change in the wholesale market price of propane. The wholesale market prices at major supply points in Mt. Belvieu, Texas and Conway, Kansas during fiscal 2024 averaged 6% and 9% less than fiscal 2023, respectively. The wholesale market price at Mt. Belvieu, Texas averaged $0.75 and $0.80 per gallon during fiscal 2024 and fiscal 2023, respectively, while the wholesale market price at Conway, Kansas averaged $0.72 and $0.79 per gallon during fiscal 2024 and fiscal 2023, respectively. This decrease in the wholesale cost of propane contributed to our decrease in sales price per gallon and therefore revenues.
+
+Revenues
+
+Retail sales decreased $167.9 million, or 12%, in fiscal 2024 compared to fiscal 2023. This decrease resulted primarily from the warmer weather noted above, as retail gallons sold decreased 6% in fiscal 2024 compared to fiscal 2023, the decrease in retail customers, and a decrease in sales price per gallon, all as discussed above. The decrease in revenues from retail customers was primarily in our residential and industrial/commercial customer bases.
+
+Wholesale sales decreased $14.8 million, or 3%, in fiscal 2024 compared to fiscal 2023. This decrease correlates with a 3% decrease in wholesale gallons sold in fiscal 2024 compared to fiscal 2023, as well as a decrease in sales price per gallon, as discussed above. Tank exchange sales partially offset the decrease in wholesale sales with an increase of $5.7 million, or 1%, in fiscal 2024 compared to fiscal 2023.
+
+Other gas sales decreased $2.8 million, or 16%, in fiscal 2024 compared to fiscal 2023 primarily due to the decrease in sales price per gallon noted above. 
+
+Other revenues decreased $3.9 million, or 4%, in fiscal 2024 compared to fiscal 2023 primarily due to a decrease in sales of tanks, cylinders, and parts and a decrease in miscellaneous revenue and fees billed to customers, which was partially offset by an increase in tank rental income.
+
+Gross margin - Propane and other gas liquids sales
+
+Gross margin decreased $23.6 million primarily due to a $35.4 million decrease in retail gross margin, partially offset by an increase of $11.8 million in wholesale gross margin. The decrease in retail gross margin was primarily due to the factors discussed above related to warmer weather, the impact of business closings, and inflation. The increase in wholesale gross margin was primarily due to a decrease in cost of sales attributable to our tank exchange business and an increase in tank exchange sales, which was partially offset by the decrease in the wholesale cost of propane discussed above.
+
+Gross margin - other
+
+Gross margin was flat with a decrease of $0.5 million in fiscal 2024 compared to fiscal 2023.
+
+Operating income
+
+Operating income decreased $28.6 million primarily due to the $24.1 million decrease in gross margin noted above, a $5.1 million increase in “Depreciation and amortization expense,” and a $3.7 million increase in “Operating, general and administrative expense.” We also recognized a decrease of $2.9 million in “Loss on assets sales and disposals.” 
+
+The $5.1 million increase in “Depreciation and amortization expense” primarily relates to a $4.9 million increase in depreciation expense as Blue Rhino continues to expand its customer base and national footprint.
+
+“Operating, general and administrative expense” increased due to a $24.1 million increase in “Operating expense – personnel, vehicle, plant and other,” which was partially offset by a $20.4 million decrease in “General and administrative expense.” 
+
+The increase in “Operating expense – personnel, vehicle, plant and other” was driven by increases of $13.1 million in personnel expense, $5.6 million in vehicle expense and $5.4 million in plant and other costs. Increases of $11.3 million in medical benefits expense and $6.6 million in payroll costs, partially offset by a $4.7 million decrease for incentive accruals drove the change in personnel expense. The increase in vehicle expense was primarily due to increases of $5.7 million for repairs and maintenance and $0.6 million in telematics technology, partially offset by a $1.7 million decrease in fuel costs. The increase in plant and other costs was primarily due to increases of $4.2 million in miscellaneous expense, $1.5 million for property repairs and network costs, and $1.2 million related to legal and general liability costs. These increases were partially offset by a decrease in credit card fees related to a new payment platform which charges less in processing fees. 
+
+The decrease in “General and administrative expense” was primarily due to a decrease of $18.8 million in legal costs associated with a non-core business. 
+
+Adjusted EBITDA
+
+Adjusted EBITDA decreased $42.8 million or 12% primarily due to the $28.6 million decrease in operating income, as discussed above, and EBITDA adjustments related to a decrease of $18.8 million in legal fees and settlements related to a non-core business and an increase of $2.2 million for non-recuring due diligence related to potential acquisition activities and restructuring costs.
+
+Liquidity and Capital Resources
+
+General
+
+Our primary sources of liquidity and capital resources are cash flows from operating activities, our Credit Facility and funds received from sales of debt and equity securities. The operating partnership, the general partner and certain of the operating partnership’s subsidiaries as guarantors are parties to a credit agreement dated March 30, 2021, as amended on July 2, 2024 (the “Credit Agreement”), with JPMorgan Chase Bank, N.A. as administrative agent and collateral agent, and the lenders and issuing lenders party thereto from time to time, which provides for a four-year revolving credit facility (the “Credit Facility”) in an aggregate principal amount of up to $350.0 million. The Credit Agreement includes a sublimit not to exceed $300.0 million for the issuance of letters of credit. For additional discussion, see Note H “Debt” in the notes to our consolidated financial statements.
+
+As of July 31, 2024, our total liquidity was $231.0 million, which was comprised of $113.5 million in unrestricted cash and $117.5 million of availability under our Credit Facility. These sources of liquidity and short-term capital resources are intended to fund our working capital requirements, acquisitions and capital expenditures. As of July 31, 2024, letters of credit outstanding totaled $193.4 million. Our access to long-term capital resources, to the extent needed to refinance debt or for other purposes, may be affected by our ability to access the capital markets, covenants in our debt agreements and other financial obligations, unforeseen demands on cash, or other events beyond our control.
+
+As of July 31, 2024, we had $10.7 million of restricted cash for a cash deposit made with the administrative agent under our prior senior secured credit facility that was terminated in April 2020.
+
+Our working capital requirements are subject to, among other things, the price of propane, delays in the collection of receivables, volatility in energy commodity prices, liquidity imposed by insurance providers, downgrades in our credit ratings, decreased trade credit, significant acquisitions, the weather, customer retention and purchasing patterns and other changes in the demand for propane. Relatively colder weather or higher propane prices during the winter heating season are factors that could significantly increase our working capital requirements.
+
+Our ability to satisfy our obligations is dependent upon our future performance, which will be subject to prevailing weather, economic, financial and business conditions and other factors, many of which are beyond our control. Due to the seasonality of the retail propane distribution business, a significant portion of our propane operations and related products cash flows from operations is generated during the winter heating season. Our net cash provided by operating activities primarily reflects earnings from our business activities adjusted for depreciation and amortization and changes in our working capital accounts. Historically, we generate significantly lower net cash from operating activities in our first and fourth fiscal quarters as compared to the second and third fiscal quarters due to the seasonality of our propane operations and related equipment sales operations.
+
+During periods of high volatility, our risk management activities may expose us to the risk of counterparty margin calls in amounts greater than we have the capacity to fund. Likewise, our counterparties may not be able to fulfill their margin calls from us or may default on the settlement of positions with us.
+
+The liquidity available from cash flows from operating activities, unrestricted cash and the Credit Facility may not be sufficient to meet our capital expenditure, working capital and letter of credit requirements for the foreseeable future. Due to the timing of the maturity date of the Credit Facility noted above and the letters of credit which it secures, there is substantial doubt about the Company’s ability to continue as a going concern for at least one year from the date of issuance of this Annual Report. We have developed and received internal approval on a plan to refinance and/or extend the maturity date for the Credit Facility. External advisors have been engaged to assist in this process, in addition to evaluating other options related to our capital structure and debt maturities. The Company believes that it is probable that the plans will be successfully implemented prior to the maturity date of the Credit Facility, and these plans will alleviate the substantial doubt about the Company’s ability to continue as a going concern.
+
+Distributable Cash Flow
+
+Distributable cash flow attributable to equity investors is reconciled to net earnings attributable to Ferrellgas Partners, L.P., the most directly comparable GAAP measure, in this Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations under the subheading “Non-GAAP Financial Measures” above. A comparison of distributable cash flow attributable to equity investors to cash distributions accrued or paid to equity investors for the year ended July 31, 2024 to the year ended July 31, 2023 is as follows (in thousands):
+
+For fiscal 2024, distributable cash flow attributable to equity investors decreased $42.1 million compared to fiscal 2023 due to a decrease in Adjusted EBITDA primarily attributable to lower propane sales due to warmer than normal weather and lower propane wholesale prices, in addition to an increase in operating expenses. As of July 31, 2024, the accrued quarterly distribution to Preferred Unitholders was $17.5 million. We paid $15.4 million of this distribution on August 15, 2024. The remaining $2.1 million represents Additional Amounts payable to certain holders of Preferred Units, pursuant to the side letters outlined in the OpCo LPA Amendment. Additionally, during the years ended July 31, 2024 and 2023, we paid $2.0 million and $1.7 million, respectively, for Additional Amounts payable pursuant to the side letters.
+
+We did not pay any cash distributions to our Class A Unitholders or the general partner during fiscal 2024 or fiscal 2023, except for a $1.0 million distribution to the general partner, made in conjunction with the Class B distributions during the year ended July 31, 2024. Ferrellgas Partners made aggregate cash distributions of approximately $99.9 million and $49.9 million to its Class B Unitholders during the years ended July 31, 2024 and 2023, respectively. We have made aggregate cash distributions of approximately $250.0 million to our Class B Unitholders since inception of our Class B Units. Cash reserves, which we utilize to meet future anticipated expenditures, were $147.5 million and $190.1 million for the years ended July 31, 2024 and 2023, respectively.
+
+Operating Activities
+
+Ferrellgas Partners
+
+Fiscal 2024 v Fiscal 2023
+
+Net cash provided by operating activities was $245.6 million for fiscal 2024 compared to $212.3 million for fiscal 2023. The $33.3 million increase in cash provided by operating activities was primarily due to a $52.5 million decrease in working capital requirements and a $7.2 million decrease in requirements for other current liabilities. These changes were partially offset by a $23.5 million decrease in cash flow from operations and a $3.3 million increase in requirements for prepaid expenses. 
+
+The $52.5 million decrease in working capital requirements for fiscal 2024 compared to fiscal 2023 was primarily due to a $47.4 million decrease in requirements for accounts and notes receivable, net and a $20.1 million decrease in requirements for accounts payable. These decreases were partially offset by an increase of $15.0 million in inventory requirements. The $7.2 decrease in net cash requirements for other current liabilities was primarily driven by increases in personal property tax liabilities, payroll and other related costs, and group medical insurance liabilities. These changes were partially offset by a decrease in the broker margin deposit liability.
+
+The $23.5 million decrease in cash flow from operations was primarily due to a $24.1 million decrease in gross profit and a $24.1 million increase in “Operating expense – personnel, vehicle, plant and other,” which was partially offset by a $20.4 million decrease in “General and administrative expense.” 
+
+The operating partnership
+
+Fiscal 2024 v Fiscal 2023
+
+Net cash provided by operating activities was $245.2 million for fiscal 2024 compared to $212.4 million for fiscal 2023. The $32.8 million increase in cash provided by operating activities was primarily due to a $52.5 million decrease in working capital requirements and a $7.0 million decrease in requirements for other current liabilities. These changes were partially offset by a $23.7 million decrease in cash flow from operations and a $3.3 million increase in requirements for prepaid expenses.
+
+The $52.5 million decrease in working capital requirements for fiscal 2024 compared to fiscal 2023 was primarily due to a $47.4 million decrease in requirements for accounts and notes receivable, net and a $20.1 million decrease in requirements for accounts payable. These decreases were partially offset by an increase of $15.0 million in inventory requirements. The $7.0 decrease in net cash requirements for other current liabilities was primarily driven by increases in personal property tax liabilities, payroll and other related costs, and group medical insurance liabilities. These changes were partially offset by a decrease in the broker margin deposit liability.
+
+The $23.7 million decrease in cash flow from operations was primarily due to a $24.1 million decrease in gross profit and a $24.1 million increase in “Operating expense – personnel, vehicle, plant and other,” which was partially offset by a $20.4 million decrease in “General and administrative expense.”
+
+Investing Activities
+
+Ferrellgas Partners
+
+Capital Requirements
+
+Our business requires continual investments to upgrade or enhance existing operations and to ensure compliance with safety and environmental regulations. Capital expenditures for our business consist primarily of:
+
+Fiscal 2024 v Fiscal 2023
+
+Net cash used in investing activities was $85.0 million for fiscal 2024 compared to $110.8 million for fiscal 2023. This $25.8 million decrease in net cash used in investing activities was primarily due to an $18.1 million decrease in “Capital expenditures” as Blue Rhino’s supply chain initiatives reduced the need for cylinder purchases and a $7.6 million decrease in “Business acquisitions, net of cash acquired.” We had one acquisition during fiscal 2024 compared to four acquisitions during fiscal 2023.
+
+Due to the mature nature of our operations, we do not anticipate significant fluctuations in maintenance capital expenditures, with the exception of future decisions regarding lease versus buy financing options. However, future fluctuations in growth capital expenditures could occur due to the opportunistic nature of these projects.
+
+The operating partnership
+
+The investing activities discussed above also apply to the operating partnership.
+
+Financing Activities
+
+Ferrellgas Partners
+
+Fiscal 2024 v Fiscal 2023
+
+Net cash used in financing activities was $173.7 million for fiscal 2023 compared to $122.9 million for fiscal 2023. This $50.8 million increase in net cash used in financing activities was primarily due to an increase of $50.0 million in distributions to Class B unitholders.
+
+On July 10, 2024, letters of credit in an aggregate principal amount of $124.5 million were issued to the surety providers under an appeal bond posted on behalf of Ferrellgas Partners. See Note P “Contingencies and commitments” to the consolidated financial statements for further information. Letters of credit were also used to secure insurance arrangements, product purchases and commodity hedges. Letters of credit outstanding at July 31, 2024 and July 31, 2023 totaled $193.4 million and $74.0 million, respectively. As of July 31, 2024, we had available borrowing capacity under our Credit Facility of $117.5 million. Assets subject to lien under the Credit Facility were $316.8 million as of July 31, 2024. 
+
+The operating partnership
+
+Fiscal 2024 v Fiscal 2023
+
+The financing activities discussed above also apply to the operating partnership. 
+
+Distributions
+
+Partnership distributions
+
+​
+
+The Sixth Amended and Restated Agreement of Limited Partnership of Ferrellgas Partners, L.P. (the “Amended Ferrellgas Partners LPA”) requires Ferrellgas Partners to make quarterly cash distributions of all of its “available cash”. Available cash is defined in the Amended Ferrellgas Partners LPA as, generally, the sum of Ferrellgas’ Partners cash receipts less consolidated cash disbursements and net changes in reserves established by our general partner for future requirements. In general, the amount of Ferrellgas Partners’ available cash depends primarily on whether and the extent to which Ferrellgas Partners receives cash distributions from the operating partnership, as such distributions generally would be Ferrellgas Partners’ only significant cash receipts.
+
+The Fifth Amended and Restated Agreement of Limited Partnership of Ferrellgas, L.P. (the “Amended OpCo LPA”), which amended and restated in its entirety the Fourth Amended and Restated Agreement of Limited Partnership of Ferrellgas L.P., and a First Amendment to the Amended OpCo LPA (the “OpCo LPA Amendment”), sets forth the preferences, rights, privileges and other terms of the Preferred Units.
+
+Pursuant to the Amended Ferrellgas Partners LPA, while any Class B Units remain outstanding, any distributions by Ferrellgas Partners to its partners must be made such that the ratio of (i) the amount of distributions made to holders of Class B Units to (ii) the amount of distributions made to holders of Class A Units and the general partner is not less than 6:1. The Amended Ferrellgas Partners LPA permits Ferrellgas Partners, in the general partner’s discretion, to make distributions to the Class B Unitholders in a greater proportion than the minimum 6:1 ratio, including paying 100% of any such distribution to Class B Unitholders. The Class B Units will not be convertible into Class A Units until Class B Unitholders receive distributions in the aggregate amount of $357.0 million, which was the $357.0 million aggregate principal amount of Ferrellgas Partners’ unsecured senior notes due June 15, 2020 (the “Ferrellgas Partners Notes”), and the rate at which Class B Units will convert into Class A Units increases annually. Additionally, the price at which Ferrellgas Partners may redeem the Class B Units during the first five years after March 30, 2021 is based on the Class B Unitholders’ receipt of a specified internal rate of return in respect of their Class B Units. This specified internal rate of return in respect of the Class B Units is 15.85%, but that amount increases under certain circumstances, including if the operating partnership paid distributions on the Preferred Units in-kind rather than in cash for a certain number of quarters. Accordingly, distributing cash to the Class B Unitholders in a greater proportion than the minimum 6:1 ratio could result in the Class B Units becoming convertible into Class A Units more quickly or at a lower conversion rate or reduce the redemption price for the Class B Units. For additional discussion of the terms of the Class B Units, see Note J “Equity (Deficit)” in the notes to our consolidated financial statements.
+
+For these reasons, although the general partner has not made any decisions or adopted any policy with respect to the allocation of future distributions by Ferrellgas Partners to its partners, the general partner may determine that it is advisable to pay more than the minimum amount of any distribution, up to 100% of the amount of such distribution, to Class B Unitholders. During fiscal 2024, on April 9, 2024, Ferrellgas Partners made a cash distribution in the aggregate amount of approximately $99.9 million to its Class B Unitholders. During fiscal 2023, on April 7, 2023, Ferrellgas Partners made a cash distribution in the aggregate amount of approximately $49.9 million to its Class B Unitholders. We have made aggregate cash distributions of approximately $250.0 million to our Class B Unitholders since inception of our Class B Units. Under its Credit Agreement, Ferrellgas Partners is currently unable to make distributions to its Class A and Class B unitholders. See Note H "Debt" and Note R "Net (loss) earnings per Unitholders' interest" for additional information. See “Risk Factors —Risks Inherent in an Investment in our Class A or Class B Units or our Debt Securities and Other Risks Related to Our Capital Structure and Financing Arrangements—If Ferrellgas Partners is permitted to make and makes distributions to its partners, while any Class B Units remain outstanding, Class B Unitholders collectively will receive at least approximately 85.7% of the aggregate amount of each such distribution and may receive up to 100% of any such distribution. Accordingly, while any Class B Units remain outstanding, Class A Unitholders may not receive any distributions and, in any case, will not receive collectively more than approximately 14.1% of any distribution.”
+
+Ferrellgas Partners did not pay any distributions to Class A Unitholders, Class B Unitholders or the general partner during fiscal 2024 or fiscal 2023, except for the distributions to Class B Unitholders described above and a $1.0 million distribution to the general partner, made in conjunction with the Class B distributions during the year ended July 31, 2024.
+
+The ability of Ferrellgas Partners to make cash distributions to its Class A Unitholders and Class B Unitholders is dependent on the receipt by Ferrellgas Partners of cash distributions from the operating partnership. For so long as any Preferred Units remain outstanding, the amount of cash that otherwise would be available for distribution by the operating partnership to Ferrellgas Partners will be reduced by the amount of cash distributions and other payments made by the operating partnership in respect of the Preferred Units, including payments to redeem Preferred Units. Further, the indentures governing the 2026 Notes and the 2029 Notes (together with the 2026 Notes, the “OpCo Notes”), the Credit Agreement and the OpCo LPA Amendment governing the Preferred Units contain covenants that limit the ability of the operating partnership to make distributions to Ferrellgas Partners and therefore effectively limit the ability of Ferrellgas Partners to make distributions to its Class A Unitholders and Class B Unitholders. See Note H “Debt” and Note I “Preferred units” for a discussion of these limitations. See also “Risk Factors—Risks Inherent in an Investment in our Class A or Class B Units or our Debt Securities and Other Risks Related to Our Capital Structure and Financing Arrangements—Restrictive covenants in the Indentures, the Credit Agreement and the agreements governing our other future indebtedness and other financial obligations may reduce our operating flexibility and ability to make cash distributions to holders of Class A Units and Class B Units. The Indentures, the Credit Agreement and the OpCo LPA Amendment contain important exceptions to these covenants.”
+
+Preferred unit distributions
+
+​
+
+Pursuant to the OpCo LPA Amendment, the operating partnership is required to pay to the holders of each Preferred Unit a cumulative, quarterly distribution (the “Quarterly Distribution”) at the Distribution Rate (as defined below) on the unit purchase price of such Preferred Unit, which is $1,000 per unit.
+
+“Distribution Rate” means, for the first five years after March 30, 2021, a rate per annum equal to 8.956%, with certain increases in the Distribution Rate on each of the 5th, 6th and 7th anniversaries of March 30, 2021, subject to a maximum rate of 11.125% and certain other adjustments and exceptions.
+
+The Quarterly Distribution may be paid in cash or, at the election of the operating partnership “in kind” through the issuance of additional Preferred Units (“PIK Units”) at the quarterly Distribution Rate plus an applicable premium that escalates each year from 75 bps to 300 bps so long as the Preferred Units remain outstanding. In the event the operating partnership fails to make any Quarterly Distribution in cash, such Quarterly Distribution will automatically be paid in PIK Units.
+
+The Distribution Rate on the Preferred Units will increase upon violation of certain protective provisions for the benefit of Preferred Unit holders notwithstanding the cap mentioned above.
+
+As of July 31, 2024, the Quarterly Distribution accrued was $17.5 million. During fiscal 2024, four quarterly payments of $15.4 million relating to Quarterly Distributions were paid in cash to holders of Preferred Units. The remaining Quarterly Distribution accrual of $2.1 million represents Additional Amounts payable to certain holders of Preferred Units pursuant to the side letters outlined in the OpCo LPA Amendment. Additionally, during the year ended July 31, 2024, we paid $2.0 million for Additional Amounts payable pursuant to the side letters.
+
+As of July 31, 2023, the Quarterly Distribution accrued was $17.5 million. During fiscal 2023, one quarterly payment of $15.3 million and three quarterly payments of $15.4 million relating to Quarterly Distributions were paid in cash to holders of Preferred Units. The remaining Quarterly Distribution accrual of $2.1 million represents Additional Amounts payable to certain holders of Preferred Units pursuant to the side letters outlined in the OpCo LPA Amendment. Additionally, during the year ended July 31, 2023, we paid $1.7 million for Additional Amounts payable pursuant to the side letters.
+
+Preferred unit tax distributions
+
+For any quarter in which the operating partnership makes a Quarterly Distribution in PIK Units in lieu of cash, it shall make a subsequent cash tax distribution for such quarter in an amount equal to the (i) the lesser of (x) 25% and (y) the highest combined federal, state and local tax rate applicable for corporations organized in New York, multiplied by (ii) the excess (if any) of (A) one-fourth (1/4th) of the estimated taxable income to be allocated to the holders of Preferred Units for the year in which the Quarterly Tax Payment Date (which refers to certain specified dates that next follow a Quarterly Distribution date on which PIK Units were issued) occurs, over (B) any cash paid on the Quarterly Distribution date immediately preceding the Quarterly Tax Payment Date on which a quarterly tax amount would otherwise be paid (such amount, the “Tax Distribution”). Tax Distributions are treated as advances against, and reduce, future cash distributions for any reason, including payments in redemption of Preferred Units or PIK Units, or payments to the holders in their capacity as such pursuant to any side letter or other agreement.
+
+Cash distributions paid
+
+​
+
+Fiscal 2024
+
+On April 9, 2024, Ferrellgas Partners paid a cash distribution to holders of the Class B Units in the amount of $76.92 per Class B Unit or approximately $99.9 million in the aggregate.
+
+On March 15, 2024, the operating partnership paid a cash distribution to Ferrellgas Partners in the amount of approximately $99.9 million, which Ferrellgas Partners used to pay the April 9, 2024 distribution to its Class B Unitholders described above.
+
+Fiscal 2023
+
+On April 7, 2023, Ferrellgas Partners paid a cash distribution to holders of the Class B Units in the amount of $38.46 per Class B Unit or approximately $49.9 million in the aggregate.
+
+On March 15, 2023, the operating partnership paid a cash distribution to Ferrellgas Partners in the amount of approximately $49.9 million, which Ferrellgas Partners used to pay the April 7, 2023 distribution to its Class B Unitholders described above.
+
+The operating partnership paid cash distributions for the years ended July 31, 2024 and 2023 in respect of its Preferred Units as discussed above under “—Preferred unit distributions.”
+
+The operating partnership
+
+​
+
+The financing activities discussed above also apply to the operating partnership except for distributions by Ferrellgas Partners, fees paid in connection with the Class B Unit exchange and other amounts related to the Ferrellgas Partners Notes, and proceeds received by Ferrellgas Partners pursuant to the term loan credit agreement described below under “—Disclosures about Effects of Transactions with Related Parties.”
+
+Disclosures about Effects of Transactions with Related Parties
+
+We have no employees and are managed and controlled by our general partner. Pursuant to our partnership agreements, our general partner is entitled to reimbursement for all direct and indirect expenses incurred or payments it makes on our behalf, and all other necessary or appropriate expenses allocable to us or otherwise reasonably incurred by our general partner in connection with operating our business. These reimbursable costs, which totaled $351.4 million for fiscal 2024, include operating expenses such as compensation and benefits paid to employees of our general partner who perform services on our behalf as well as related general and administrative expenses.
+
+Issuance of letters of credit on behalf of Ferrellgas Partners by the operating partnership
+
+As discussed in Note O “Transactions with related parties” in the notes to the consolidated financial statements, the operating partnership guaranteed the issuance of an aggregate principal amount of $124.5 million in letters of credit to the surety providers under an appeal bond posted on behalf of Ferrellgas Partners.
+
+Term loan credit agreement between Ferrellgas Partners and the operating partnership
+
+As discussed in Note O “Transactions with related parties” in the notes to the consolidated financial statements, in fiscal 2022, Ferrellgas Partners repaid the operating partnership the full amount of the term loan of $15.3 million, which represented the outstanding principal and accrued interest. Additionally, Ferrellgas Partners paid the operating partnership $3.9 million for separate intercompany receivables related to expenses incurred during the 2021 debt transactions.
+
+Related party Class A Unitholders
+
+Related party Class A Unitholder information consisted of the following:
+
+​
+
+Material Cash Requirements
+
+The following table summarizes our future material cash requirements as of July 31, 2024:
+
+The components of other noncurrent liabilities included in our consolidated balance sheets principally consist of property and casualty liabilities and the fair value of derivatives in connection with our risk management activity. These liabilities are not included in the table above because they are estimates of future payments and not contractually fixed as to timing or amount.
+
+The operating partnership
+
+The cash requirements discussed above also apply to the operating partnership.
+
+New Accounting Standards
+
+New accounting standards that we have recently adopted, as well as those that have been recently issued but not yet adopted by us, if any, are included in Note B “Summary of significant accounting policies” to our consolidated financial statements.
+
+Critical Accounting Estimates
+
+The preparation of financial statements in conformity with GAAP requires us to establish accounting policies and make estimates and assumptions that affect our reported amounts of assets and liabilities at the date of the consolidated financial statements. These financial statements include some estimates and assumptions that are based on informed judgments and estimates of management. We evaluate our policies and estimates on an on-going basis and discuss the development, selection and disclosure of critical accounting policies with the Audit Committee of the Board of Directors of our general partner. Predicting future events is inherently an imprecise activity and as such requires the use of judgment. Our consolidated financial statements may differ based upon different estimates and assumptions.
+
+We discuss our significant accounting policies in Note B “Summary of significant accounting policies” to our consolidated financial statements. Our significant accounting policies are subject to judgments and uncertainties that affect the application of such policies. We believe these financial statements include the most likely outcomes with regard to amounts that are based on our judgment and estimates. Our financial position and results of operations may be materially different when reported under different conditions or when using different assumptions in the application of such policies. In the event estimates or assumptions prove to be different from the actual amounts, adjustments are made in subsequent periods to reflect more current information. We believe the following accounting policies are critical to the preparation of our consolidated financial statements due to the estimation process and business judgment involved in their application:
+
+Depreciation of property, plant and equipment
+
+We calculate depreciation on property, plant and equipment using the straight-line method based on the estimated useful lives of the assets ranging from two to 30 years. Changes in the estimated useful lives of our property, plant and equipment could have a material effect on our results of operations. The estimates of the assets’ useful lives require our judgment regarding assumptions about the useful life of the assets being depreciated. When necessary, the depreciable lives are revised and the impact on depreciation is treated on a prospective basis. There were no material revisions to depreciable lives in fiscal 2024.
+
+Residual value of customer and storage tanks
+
+We use an estimated residual value when calculating depreciation for our customer and bulk storage tanks. Customer and bulk storage tanks are classified as property, plant and equipment on our consolidated balance sheets. The depreciable basis of these tanks is calculated using the original cost less the residual value. Depreciation is calculated using straight-line method based on the tanks’ estimated useful life of 30 years. Changes in the estimated residual value could have a material effect on our results. The estimates of the tanks’ residual value require our judgment of the value of the tanks at the end of their useful life or retirement. When necessary, the tanks’ residual values are revised and the impact on depreciation is treated on a prospective basis. There were no such revisions to residual values in fiscal 2024, 2023 or 2022.
+
+Valuation methods, amortization methods and estimated useful lives of intangible assets
+
+The specific, identifiable intangible assets of a business enterprise depend largely upon the nature of its operations. Potential intangible assets include intellectual property such as trademarks and trade names, customer lists and relationships, and non-compete agreements, permits, favorable lease arrangements as well as other intangible assets. The approach to the valuation of each intangible asset will vary depending upon the nature of the asset, the business in which it is utilized, and the economic returns it is generating or is expected to generate. During fiscal 2024 or 2023, we did not find it necessary to adjust the valuation methods used for any acquired intangible assets.
+
+Our recorded intangible assets primarily include the estimated value assigned to certain customer-related and contract-based assets representing the rights we own arising from the acquisition of propane distribution companies and related contractual agreements. A customer-related or contract-based intangible with a finite useful life is amortized over its estimated useful life, which is the period over which the asset is expected to contribute directly or indirectly to the future cash flows of the entity. We believe that trademarks and trade names have an indefinite useful life due to our intention to utilize all acquired trademarks and trade names indefinitely. When necessary, the intangible assets’ useful lives are revised and the impact on amortization will be reflected on a prospective basis. The determination of the fair market value of the intangible asset and the estimated useful life are based on an analysis of all pertinent factors including the use of widely-accepted valuation approaches, the income approach or the cost approach, the expected use of the asset by the entity, the expected useful life of related assets, any legal, regulatory or contractual provisions, including renewal or extension periods that would cause substantial costs or modifications to existing agreements, the effects of obsolescence, demand, competition, and other economic factors and the level of maintenance required to obtain the expected future cash flows.
+
+If the underlying assumption(s) governing the amortization of an intangible asset were later determined to have significantly changed (either favorably or unfavorably), then we may be required to adjust the amortization period of such asset to reflect any new estimate of its useful life. Such a change would increase or decrease the annual amortization charge associated with the asset at that time. During fiscal 2024 or 2023, we did not find it necessary to adjust the valuation method, estimated useful life or amortization period of any of our intangible assets.
+
+Should any of the underlying assumptions indicate that the value of the intangible asset might be impaired, we may be required to reduce the carrying value and may also be required to reduce the subsequent useful life of the asset. Any such write-down of the value and any unfavorable change in the useful life (i.e., amortization period) of an intangible asset would increase operating expense at that time.
+
+We did not recognize any impairment losses related to our intangible assets during fiscal 2024. For additional information regarding our intangible assets, see Note B “Summary of significant accounting policies” and Note G “Goodwill and intangible assets, net” to our consolidated financial statements.
+
+Accounting for risk management activities and derivative financial instruments
+
+We enter into commodity forward, futures, swaps and options contracts involving propane to hedge exposures to price risk. These derivative contracts are reported in the consolidated balance sheets at fair value with changes in fair value recognized in cost of sales and operating expenses in the consolidated statements of operations or in other comprehensive income in the consolidated statement of partners’ capital. We utilize published settlement prices for exchange-traded contracts, quotes provided by brokers and estimates of market prices based on daily contract activity to estimate the fair value of these contracts. Changes in the methods used to determine the fair value of these contracts could have a material effect on our consolidated balance sheets and consolidated statements of operations. For further discussion of derivative commodity and interest rate contracts, see Item 7A. “Quantitative and Qualitative Disclosures about Market Risk,” Note B “Summary of significant accounting policies,” Note M “Fair value measurements” and Note N “Derivative instruments and hedging activities” to our consolidated financial statements. We do not anticipate future changes in the methods used to determine the fair value of these derivative contracts.
+
+Litigation accruals and environmental liabilities
+
+Our operations are subject to all operating hazards and risks normally incidental to handling, storing, transporting and otherwise providing for use by consumers of combustible liquids such as propane. As a result, at any given time, we can be threatened with or named as a defendant in various lawsuits arising in the ordinary course of business, and we are a party to several legal proceedings as described in Note P “Contingencies and commitments” to our audited consolidated financial statements. It is not possible to determine the ultimate disposition of these matters; however, management is of the opinion that there are no known claims or contingent claims that are reasonably expected to have a material adverse effect on our consolidated financial condition, results of operations and cash flows, except that management is continuing to evaluate the potential effects of a recent judgement as described in Note P “Contingencies and commitments” to our consolidated financial statements.
+
+We are involved in litigation regarding pending claims and legal actions that arise in the normal course of business and may own sites at which hazardous substances may be present. In accordance with GAAP, we establish reserves for pending claims and legal actions or environmental remediation liabilities when it is probable that a liability exists and the amount or range of amounts can be reasonably estimated. Reasonable estimates involve management judgments based on a broad range of information and prior experience. These judgments are reviewed quarterly as more information is received and the amounts reserved are updated as necessary. Such estimated reserves may differ materially from the actual liability and such reserves may change materially as more information becomes available and estimated reserves are adjusted.
+
+Goodwill impairment
+
+We record goodwill as the excess of the cost of acquisitions over the fair value of the related net assets at the date of acquisition. Goodwill recorded is not deductible for income tax purposes. We have determined that we have one reporting unit for goodwill impairment testing purposes. As of July 31, 2024, this reporting unit contains goodwill that is subject to at least an annual goodwill impairment test. In the first step of the test, the carrying value of the reporting unit is determined by assigning the assets and liabilities, including existing goodwill and intangible assets, to the reporting unit as of the date of evaluation. To the extent a reporting unit’s carrying value exceeds it fair value, the reporting unit’s goodwill is impaired. The amount of impairment would be equal to the lesser of the excess of reporting unit carrying value over its fair value and the reporting unit’s recorded amount of goodwill.
+
+​
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE

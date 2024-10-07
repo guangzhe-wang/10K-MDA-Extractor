@@ -1,0 +1,287 @@
+.
+
+| 
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+---|--- 
+
+This “Management’s Discussion and Analysis of Financial Condition and Results of Operations” (MD&A) is intended to provide an understanding of our financial condition, change in financial condition, cash flow, liquidity and results of operations. The following MD&A discussion should be read in conjunction with the consolidated financial statements and notes to those statements that appear elsewhere in this Form 10-K. The following discussion contains forward-looking statements that reflect the Company’s plans, estimates and beliefs. The Company’s actual results could differ materially from those discussed in the forward-looking statements. Factors that could cause or contribute to any differences include, but are not limited to, those discussed under the caption “Forward-Looking Information” and under Item 1A — “Risk Factors.”
+
+Business overview
+
+The Company is a leading provider of gifts designed to help inspire customers to give more, connect more, and build more and better relationships. See Item 1 in Part I for a detailed description of the Company’s business.
+
+Business Segments
+
+The Company operates in the following three business segments: Consumer Floral & Gifts, Gourmet Foods & Gift Baskets, and BloomNet. The Consumer Floral & Gifts segment includes the operations of the Company’s flagship brand, 1-800-Flowers.com, PersonalizationMall, Things Remembered, FruitBouquets.com, Flowerama and Alice’s Table, while the Gourmet Foods & Gift Baskets segment includes the operations of Harry & David, Wolferman’s Bakery, Vital Choice, Moose Munch, Cheryl’s Cookies, Mrs. Beasley’s, The Popcorn Factory, DesignPac, 1-800-Baskets.com, Simply Chocolate, Shari’s Berries, and Scharffen Berger. The BloomNet segment includes the operations of BloomNet, Napco, and Card Isle.
+
+Fiscal 2024 Results
+
+Fiscal 2024, was a challenging year from a top-line perspective due to lower demand across all segments. Consumers continued to moderate their discretionary purchases in the face of macroeconomic pressures as they remain pressured by persistent inflation, higher interest rates, and the resumption of student loan repayments. The downward trend in “Everyday” demand and, to a lesser extent, “Holiday” demand, which began in the latter half of fiscal 2022, persisted throughout fiscal 2024. The Company did see the consumer spend increase during the fiscal 2024 holiday season, but at softer than anticipated levels and later in the holiday period. However, the Company has benefited from favorable product mix, as higher income customers continued to purchase higher-end product offerings. 
+
+During fiscal 2024, net revenues declined by $186.4 million, or 9.2%, to $1,831.4 million, compared to fiscal 2023, primarily due to the aforementioned slowing demand for everyday gifting occasions as discretionary income remains under pressure and consumers continue to moderate their spending. The lower revenues were also due to the prudent use of promotional offerings and advertising campaigns that balance the long-term goals of the Company with strategies to improve gross margins and stabilize bottom-line metrics. 
+
+In fiscal 2024, the Company did experience less volatility in freight, labor, and certain commodity costs. This along with the Company's logistics optimization efforts, have driven significant improvements in the Company’s margins, with fiscal 2024 gross margins improving throughout the year and ending at 40.1%; a 260-basis point improvement over fiscal 2023.
+
+Net loss was $6.1 million, compared with a net loss of $44.7 million in fiscal 2023. Adjusted EBITDA for fiscal 2024 was $93.1 million, compared with $91.2 million in fiscal 2023, reflecting the improvement in Adjusted EBITDA of $1.9, driven by improvements in gross margin and operating expense efficiencies that offset the revenue decline noted above (See Reconciliation of net loss to adjusted EBITDA (non-GAAP) below).
+
+Goodwill and Intangible Asset Impairment
+
+During the second quarter of fiscal 2024, as a result of a decline in the actual and projected revenue for the Company’s PersonalizationMall tradename, as well as a higher discount rate resulting from the higher interest rate environment, the Company determined that an impairment assessment was required for this tradename. This assessment resulted in the Company recording a non-cash impairment charge of $19.8 million to reduce the recorded carrying value of the PersonalizationMall tradename.
+
+During the third quarter of fiscal 2023, the Company evaluated whether events or circumstances had changed such that it would indicate it was more likely than not that its goodwill, intangible and other long-lived assets of the Gourmet Foods & Gift Baskets reporting units fair values were less than their carrying amounts. After considering the continuing pressures on consumer discretionary spending, ongoing geopolitical events, the current inflationary macro-economic conditions, related cost input headwinds that have negatively impacted the Company’s gross margins, and resulting downward revisions to its forecast, the Company concluded that a triggering event had occurred for its Gourmet Foods & Gift Baskets reporting unit. As such, the Company performed an impairment test of the reporting unit’s goodwill, intangibles and long-lived assets as of April 2, 2023, and recorded a non-cash adjustment to fully impair the related goodwill ($62.3 million), and partially impaired certain tradenames ($2.3 million) within the reporting unit – see Note 6 – Goodwill and Intangible Assets in Item 15.
+
+Acquisition of Card Isle
+
+On April 3, 2024, the Company completed its acquisition of certain assets of Card Isle, an e-commerce greeting card company, expanding the Company’s presence in the greeting card category across all brands. The Company used cash on its balance sheet to fund the $3.6 million purchase. Card Isle annual revenue, based on its most recently available financial information, is deemed immaterial to the Company's consolidated financial statements – see Note 4 – Acquisitions in Item 15 .
+
+Acquisition of Things Remembered
+
+On January 10, 2023, the Company completed its acquisition of certain assets of the Things Remembered brand, a provider of personalized gifts, whose operations have been integrated within the PersonalizationMall.com brand, in the Consumer Floral & Gifts segment. The Company used cash on hand to fund the $5.0 million purchase, which included the intellectual property, customer list, certain inventory, and equipment. The acquisition did not include Things Remembered retail stores. Things Remembered’s annual revenues from its ecommerce operations, based on its most recently available unaudited financial information was $30.4 million for the twelve months ended November 30, 2022 – see Note 4 – Acquisitions in Item 15 .
+
+Acquisition of Alice’s Table 
+
+On December 31, 2021, the Company completed its acquisition of Alice's Table LLC (“Alice’s Table”), a lifestyle business offering fully digital livestreaming and on demand floral, culinary and other experiences to guests across the country. The Company utilized existing cash of $0.8 million, converted the existing accounts receivable from Alice’s Table of $0.3 million and its previous $0.3 million cost method investment in Alice’s Table, in order to acquire 100% ownership in Alice’s Table, which included tradenames, customer lists, websites and operations. Alice’s Table revenues were approximately $3.8 million during its fiscal twelve-month period ended September 30, 2021 – see Note 4 – Acquisitions in Item 15 .
+
+Acquisition of Vital Choice
+
+On October 27, 2021, the Company completed its acquisition of Vital Choice Seafood LLC (“Vital Choice”), a provider of wild-caught seafood and sustainably farmed shellfish, pastured proteins, organic foods, and marine-sourced nutritional supplements. The Company utilized its credit facility to fund the $20.0 million purchase, which included tradenames, customer lists, websites and operations. Vital Choice revenues were approximately $27.8 million during its most recent year ended December 31, 2020 – see Note 4 – Acquisitions in Item 15.
+
+Fiscal 2025 Guidance
+
+For Fiscal 2025, with a sustained challenging consumer environment, the Company expects revenues trends to improve as the fiscal year progresses benefitting from the company’s Relationship Innovation initiatives that have expanded the Company’s product offerings, broadened price points, and enhanced the user experience, combined with increased marketing spend. Additionally, the guidance assumes increased incentive compensation expense.
+
+As a result, the Company expects Fiscal 2025:
+
+• Total revenues on a percentage basis to be in a range of flat to a decrease in the low-single digits, as compared with the prior year;
+
+• Adjusted EBITDA to be in a range of $85 million to $95 million; and
+
+• Free Cash Flow to be in a range of $45 million to $55 million.
+
+Definitions of non-GAAP financial measures:
+
+We sometimes use financial measures derived from consolidated financial information, but not presented in our financial statements prepared in accordance with U.S. generally accepted accounting principles (“GAAP”). Certain of these are considered “non-GAAP financial measures” under the U.S. Securities and Exchange Commission rules. See below for definitions and the reasons why we use these non-GAAP financial measures, and reconciliations of these non-GAAP financial measures to their most directly comparable GAAP financial measures. These non-GAAP financial measures are referred to as “non-GAAP”, “adjusted” or “on a comparable basis” below, as these terms are used interchangeably. Reconciliations for forward-looking figures would require unreasonable efforts at this time because of the uncertainty and variability of the nature and amount of certain components of various necessary GAAP components, including, for example, those related to compensation, tax items, amortization or others that may arise during the year, and the Company’s management believes such reconciliations would imply a degree of precision that would be confusing or misleading to investors. For the same reasons, the Company is unable to address the probable significance of the unavailable information. The lack of such reconciling information should be considered when assessing the impact of such disclosures.
+
+EBITDA and adjusted EBITDA
+
+We define EBITDA as net income (loss) before interest, taxes, depreciation and amortization. Adjusted EBITDA is defined as EBITDA adjusted for the impact of stock-based compensation, Non-Qualified Plan Investment appreciation/depreciation, and certain items affecting period-to-period comparability. 
+
+The Company presents EBITDA and adjusted EBITDA because it considers such information meaningful supplemental measures of its performance and believes such information is frequently used by the investment community in the evaluation of similarly situated companies. The Company uses EBITDA and adjusted EBITDA as factors used to determine the total amount of incentive compensation available to be awarded to executive officers and other employees. The Company’s credit agreement uses EBITDA and adjusted EBITDA to determine its interest rate and to measure compliance with certain covenants. EBITDA and adjusted EBITDA are also used by the Company to evaluate and price potential acquisition candidates.
+
+EBITDA and adjusted EBITDA have limitations as analytical tools and should not be considered in isolation or as a substitute for analysis of the Company’s results as reported under GAAP. Some of the limitations are: (a) EBITDA and adjusted EBITDA do not reflect changes in, or cash requirements for, the Company’s working capital needs; (b) EBITDA and adjusted EBITDA do not reflect the significant interest expense, or the cash requirements necessary to service interest or principal payments, on the Company’s debts; and (c) although depreciation and amortization are non-cash charges, the assets being depreciated and amortized may have to be replaced in the future and EBITDA does not reflect any cash requirements for such capital expenditures. EBITDA and Adjusted EBITDA should only be used on a supplemental basis combined with GAAP results when evaluating the Company’s performance.
+
+The following table presents the EBITDA and adjusted EBITDA for fiscal years ended June 30, 2024 and July 2, 2023. For EBITDA and adjusted EBITDA for the fiscal year ended July 3, 2022, please refer to our Annual Report on Form 10-K for the fiscal year ended July 3, 2022.
+
+Adjusted net income (loss) and adjusted or comparable net income (loss) per common share
+
+We define adjusted net income (loss) and adjusted or comparable net income (loss) per common share as net income (loss) and net income (loss) per common share adjusted for certain items affecting period-to-period comparability. We believe that adjusted net income (loss) and adjusted or comparable net income (loss) per common share are meaningful measures because they increase the comparability of period-to-period results. Since these are not measures of performance calculated in accordance with GAAP, they should not be considered in isolation of, or as a substitute for, GAAP net income (loss) and net income (loss) per common share, as indicators of operating performance and they may not be comparable to similarly titled measures employed by other companies.
+
+The following table presents the adjusted net income for fiscal years ended June 30, 2024 and July 2, 2023. For adjusted net income for fiscal year ended July 3, 2022, please refer to our Annual Report on Form 10-K for the fiscal year ended July 3, 2022.
+
+Segment contribution margin and adjusted segment contribution margin
+
+We define segment contribution margin as earnings before interest, taxes, depreciation and amortization, before the allocation of corporate overhead expenses. Adjusted segment contribution margin is defined as segment contribution margin adjusted for certain items affecting period-to-period comparability. When viewed together with our GAAP results, we believe segment contribution margin and adjusted segment contribution margin provide management and users of the financial statements meaningful information about the performance of our business segments.
+
+Segment contribution margin and adjusted segment contribution margin are used in addition to and in conjunction with results presented in accordance with GAAP and should not be relied upon to the exclusion of GAAP financial measures. The material limitation associated with the use of the segment contribution margin and adjusted segment contribution margin is that they are an incomplete measure of profitability as they do not include all operating expenses or non-operating income and expenses. Management compensates for these limitations when using this measure by looking at other GAAP measures, such as Operating Income and Net Income. 
+
+The following table presents the net revenues, gross profit, segment contribution margin, and adjusted segment contribution margin from each of the Company’s business segments, for fiscal years ended June 30, 2024 and July 2, 2023. For segment contribution margin and adjusted segment contribution margin for the fiscal year ended July 3, 2022, please refer to our Annual Report on Form 10-K for the fiscal year ended July 3, 2022.
+
+Free Cash Flow
+
+We define Free Cash Flow as net cash provided by operating activities, less capital expenditures. The Company considers Free Cash Flow to be a liquidity measure that provides useful information to management and investors about the amount of cash generated by the business after the purchases of fixed assets, which can then be used to, among other things, invest in the Company’s business, make strategic acquisitions, strengthen the balance sheet and repurchase stock or retire debt. Free Cash Flow is a liquidity measure that is frequently used by the investment community in the evaluation of similarly situated companies. Since Free Cash Flow is not a measure of performance calculated in accordance with GAAP, it should not be considered in isolation or as a substitute for analysis of the Company’s results as reported under GAAP. A limitation of the utility of free cash flow as a measure of financial performance is that it does not represent the total increase or decrease in the Company’s cash balance for the period.
+
+The following table reconciles net cash provided by operating activities, a GAAP measure, to free cash flow, a non-GAAP measure.
+
+Results of Operations
+
+The Company’s fiscal year is a 52- or 53-week period ending on the Sunday nearest to June 30. Fiscal years 2024 and 2023, which ended on June 30, 2024 and July 2, 2023, respectively, each consisted of 52 weeks. Fiscal year 2022, which ended on July 3, 2022, consisted of 53 weeks.
+
+Net Revenues
+
+Net revenues consist primarily of the selling price of the merchandise, service or outbound shipping charges, less discounts, returns and credits.
+
+During the fiscal year ended June 30, 2024, net revenues decreased 9.2% in comparison to the prior year, due to lower order volume across all segments, reflecting a continuation of the trends that we have experienced over the last two years, as discretionary income remains pressured and consumers continue to moderate their spending. Contributing to this decline was the prudent use of advertising spend, to balance the long-term goals of the Company with strategies to improve gross margins and tightly control operating expenses during this challenging economic environment.
+
+During the fiscal year ended July 2, 2023, net revenues decreased 8.6% in comparison to the prior year, due to lower order volume across all segments, as discretionary income was pressured as discussed above, combined with the prudent use of promotional offerings and advertising campaigns.
+
+Disaggregated revenue by channel follows:
+
+Revenue by sales channel:
+
+Revenue by segment:
+
+Consumer Floral & Gifts, – this segment, which includes the operations of the 1-800-Flowers.com, as well as PersonalizationMall, Alice’s Table, and Things Remembered brands derives revenue primarily from the sale of consumer floral products and gifts through its e-commerce sales channels (telephonic and online sales), retail stores, and royalties from its franchise operations.
+
+Net revenues decreased 7.7% during fiscal 2024, due to the continued reduction of “Everyday” product demand, and weaker than anticipated Valentine’s Day and Mother’s Day demand, as consumers’ available discretionary income remains strained in the current inflationary environment, combined with planned reductions in advertising spend, as our brands focused their efforts on improving gross margin and operating spend efficiency, in the face of softening demand. Despite these challenges, the 1-800-Flowers and PersonalizationMall brands were able to maintain much of the sales gains achieved during the pandemic and drive market share gains as a result of increased recognition and relevance for gifting and connective occasions and continued emphasis on existing customers as our Celebrations Passport loyalty program has increased cross-brand frequency, retention, and customer lifetime value.
+
+Net revenues decreased 13.1% during fiscal 2023, due to the reduction of “Everyday” product demand, and weaker Valentine’s Day and Mother’s Day demand, as discussed above, combined with planned reductions in advertising spend.
+
+BloomNet – revenues in this segment are derived from membership fees, as well as other product and service offerings to florists.
+
+Net revenues decreased 19.1% during fiscal 2024, due to soft wholesale product sales, as the result of weakness in demand across the industry and lower Service revenue. The lower service revenue was﻿ attributable to reduced membership/transaction fee revenues, as well as lower florist-to-florist revenue associated with a decline in order volume processed through the network, and lower directory services ad revenues.
+
+Net revenues decreased 8.6% during fiscal 2023 due to soft wholesale product sales, as well as service revenues attributable to reduced membership/transaction fee revenues associated with a decline in order volume processed through the network, and lower directory services ad revenues. 
+
+Gourmet Foods & Gift Baskets – this segment includes the operations of Harry & David, Wolferman’s Bakery, Cheryl’s Cookies, The Popcorn Factory, 1-800-Baskets.com/DesignPac, Shari’s Berries, and Vital Choice. Revenue is derived from the sale of gourmet fruits, cookies, baked gifts, premium chocolates and confections, gourmet popcorn, gift baskets, dipped berries, prime steaks, chops, and fish, through the Company’s e-commerce sales channels (telephonic and online sales) and company-owned and operated retail stores under the Harry & David and Cheryl’s Cookies brand names, as well as wholesale operations.
+
+Net revenues decreased 9.4% during fiscal 2024, as e-commerce declined 7.2% due to lower consumer demand, as a result of macro-economic weakness, which has significantly reduced “Everyday” occasion volumes, combined with planned reductions in advertising spend, as the brands focused their efforts on improving gross margins and operating spend efficiency in the face of softening demand. The unfavorable revenue trend was attributable to lower order volume, partially offset by favorable average order value as a result of product mix including more bundles and other higher priced offerings as higher income customers continued to buy at a higher rate. Wholesale/Retail channel revenues were unfavorable to prior year primarily due to lower order volume from big box retailers. 
+
+Net revenues decreased 3.9% during fiscal 2023 due to lower e-commerce consumer demand, as a result of macro-economic weakness discussed above, combined with planned reductions in advertising spend. The unfavorable revenue trend was attributable to lower order volume, partially offset by favorable average order value as a result of strategic price increases and product mix, although promotional activity was increased in order to reduce inventory levels. This segment has seen the most dramatic reductions in “EveryDay” volumes, due to the disproportionate impact of the macro-economic conditions noted above, combined with the fact that it also experienced the highest growth rates during the Pandemic when food gifts/self-consumption peaked. Wholesale/Retail channel revenues were slightly favorable to prior year as consumers returned to in person “brick-and-mortar” shopping.
+
+Gross Profit
+
+Gross profit consists of net revenues less cost of revenues, which is comprised primarily of florist fulfillment costs (fees paid directly to florists), the cost of floral and non-floral merchandise sold from inventory or through third parties, and associated costs, including inbound and outbound shipping charges. Additionally, cost of revenues includes labor and facility costs related to direct-to-consumer and wholesale production operations, as well as payments made to sending florists related to order volume referred through the Company’s BloomNet network.
+
+Gross profit decreased 3.0% during fiscal 2024 due to the lower revenues noted above, partially offset by a higher gross margin percentage, driven by favorable product mix, lower freight costs, a decline in commodity costs, and the Company’s logistics optimization efforts. Gross margins improved throughout the year ending at 40.1%; a 260-basis point improvement over fiscal 2023. 
+
+Gross profit decreased 7.8% during fiscal 2023 due to the lower revenues noted above, partially offset by a higher gross margin percentage, driven by improvements across all three segments. Although the Company continued to face inflationary pressures in the form of higher commodity costs (although certain commodities began declining during our third quarter), fuel and related third party shipping rates, in addition to the challenges required to work down inventory levels, rates on ocean containers have come down significantly off of their Fiscal 2022 peak, and the Company has focused on improving the variables within its control, implementing strategic initiatives designed to mitigate the impact of these factors, including pricing initiatives across our product assortment, implementing logistics optimization programs to enhance our outbound shipping operations and manage rising third-party shipping costs and deploying automation to increase throughput and efficiency and address the high cost of labor.
+
+Consumer Floral & Gifts segment – Gross profit in fiscal 2024 decreased in comparison to prior year by 4.5%, due to the unfavorable revenues noted above, partially offset by favorable gross profit percentage attributable to favorable product mix into higher margin direct fulfilled sales, favorable fulfillment costs, as well as lower inbound and outbound shipping cost.
+
+Gross profit in fiscal 2023 decreased in comparison to prior year by 12.8%, due to the unfavorable revenues noted above, partially offset by favorable gross profit percentage attributable to favorable product mix, strategic pricing initiatives, reflected in the higher average order value, as well as favorable rates for ocean freight, partially offset by higher outbound shipping costs and higher labor rates.
+
+BloomNet segment – Gross profit in fiscal 2024 from the BloomNet segment decreased in comparison to prior year by 8.6%, due to the unfavorable revenues noted above, partially offset by an increase in gross margin percentage. Gross margin percentage was higher than prior year due to lower florist rebates, which was driven by the lower shop-to-shop volume mainly from partners that carried higher contracted rates. In addition, wholesale margins, improved as a result of strategic pricing initiatives and lower cost of merchandise due to more favorable ocean freight rates.
+
+Gross profit in fiscal 2023 from the BloomNet segment decreased in comparison to prior year by 7.6%, due to the unfavorable revenues noted above, partially offset by an increase in gross margin percentage. Gross margin percentage was higher than prior year due to improvements in wholesale margins, as a result of strategic pricing initiatives and favorable ocean freight costs, partially offset by higher outbound shipping rates, and higher florist rebates due to higher shop-to-shop volume from senders.
+
+Gourmet Foods & Gift Baskets segment – Gross profit in fiscal 2024 decreased in comparison to prior year by 0.6%, due to the unfavorable revenues noted above, partially offset by favorable gross profit percentage. The favorable gross profit percentage was primarily due to lower delivery and shipping costs as logistical initiatives allowed the group to decrease shipping costs. Favorable cost of merchandise (favorable inbound ocean freight and lower commodity costs), along with the Company's inventory and labor optimization efforts, also contributed to the improved margin percentage. In addition, the brand benefited from favorable product mix due to the continued gap in buying behavior of higher income customers continuing to purchase higher priced merchandise with strong margins, while lower income customers continue to tighten their discretionary spending.
+
+Gross profit in fiscal 2023 was unfavorable in comparison to prior year by 1.9%, due to the unfavorable revenues noted above, partially offset by favorable gross profit percentage. The favorable gross profit percentage was primarily attributable to lower inbound/ocean freight costs and production efficiencies resulting from fulfillment automation projects, partially offset by continued inflationary pressures on certain commodity costs, and increased markdowns to reduce inventory positions.
+
+Marketing and Sales Expense
+
+Marketing and sales expense consists primarily of advertising and promotional expenditures, catalog costs, online portal and search costs, retail store and fulfillment operations (other than costs included in cost of revenues) and customer service center expenses, as well as the operating expenses of the Company’s departments engaged in marketing, selling and merchandising activities. 
+
+Marketing and sales expense decreased 3.2% during fiscal 2024 due to lower variable portal expenses and labor efficiencies, which was partially offset by higher general advertising expenses, as the brands reallocated dollars from less effective bottom of the funnel advertising to other areas to generate additional revenue in a challenging and competitive environment. 
+
+Marketing and sales expense decreased 12.4% during fiscal 2023 due to variable components associated with lower revenues, combined with reduced, but more efficient advertising spend (as the brands focused their efforts on driving profitable volume and servicing their most loyal customers during a period when discretionary purchases are still under heavy pressure), and expense optimization efforts.
+
+Technology and Development Expense
+
+Technology and development expense consists primarily of payroll and operating expenses of the Company’s information technology group, costs associated with its websites, including hosting, design, content development and maintenance and support costs related to the Company’s order entry, customer service, fulfillment, and database systems.
+
+Technology and development expenses decreased by 0.8% during fiscal 2024, primarily due to reduced labor and consulting costs, offset in part by increased maintenance and support for the Company's technology platform.
+
+Technology and development expenses increased by 7.3% during fiscal 2023, primarily due to higher maintenance and support for the Company’s technology platform, as well as higher labor costs due to annual increases.
+
+During the fiscal years 2024, 2023 and 2022, the Company expended $86.8 million, $85.8 million and $83.2 million, respectively, on technology and development, of which $26.6 million, $25.1 million and $26.6 million, respectively, has been capitalized.
+
+General and Administrative Expense
+
+General and administrative expense consists of payroll and other expenses in support of the Company’s executive, finance and accounting, legal, human resources and other administrative functions, as well as professional fees and other general corporate expenses.
+
+General and administrative expense increased 4.7% during fiscal 2024, primarily due to higher labor costs due to a change in the value of the Company’s NQDC investments - refer to equal offset in “Other expense (income), net”, as well as severance costs related to an enterprise reduction in workforce. This was partially offset by lower professional fees related to litigation and acquisition costs, and lower bad debts expense primarily related to reserves for certain big box retailers and florists taken in fiscal 2023.
+
+General and administrative expense increased 10.2% during fiscal 2023, primarily due to: (i) higher labor costs due to a change in the value of the Company’s NQDC investments - refer to equal offset in “Other expense (income), net”, (ii) higher professional fees due to litigation costs, and (iii) higher bad debts expense primarily related to reserves for certain big box retailers and florists.
+
+Depreciation and Amortization
+
+Depreciation and amortization expense for fiscal 2024 is in-line with the prior year.
+
+Depreciation and amortization expense increased 9.4% during fiscal 2023, due to recent increases in distribution facility automation projects, and IT-related e-commerce/platform enhancements, as well as incremental depreciation and amortization associated with recent acquisitions.
+
+Goodwill and Intangible Impairment
+
+During fiscal 2024, the Company recorded a non-cash impairment charge of $19.8 million related to its PersonalizationMall trademark, due to a decline in the actual and projected revenue, combined with a higher discount rate resulting from the higher interest rate environment. 
+
+During fiscal 2023, the Company recorded a non-cash impairment charge of $64.6 million related to its Gourmet Foods & Gift Baskets reporting unit. The Company fully impaired the related goodwill and partially impaired certain tradenames within the reporting unit.
+
+See Note 6 in Part IV, Item 15 for additional information.
+
+Interest Expense, net
+
+Interest expense, net consists primarily of interest expense and amortization of deferred financing costs attributable to the Company’s credit facility (See Note 9 in Part IV, Item 15 for details), net of income earned on the Company’s available cash balances.
+
+Interest expense, net in fiscal 2024 is in-line with the prior year.
+
+Interest expense, net increased 93.2% during fiscal 2023, due to higher interest rates and higher working capital borrowings during the year, partially offset by favorable interest earned on available cash balances.
+
+Other expense (income), net
+
+Other (income), net during fiscal 2024 consists primarily of the gain on the Company's NQDC investments (for which the offsetting expense was recorded in the general and administration expense line item).
+
+Other expense, net during fiscal 2023 consists primarily of a loss on the Company's NQDC investments (for which the offsetting credit was recorded in the general and administration expense line item).
+
+Income Taxes
+
+The Company recorded income tax expense of $0.2 million during fiscal 2024, an income tax benefit of $2.1 million in fiscal 2023, and income tax expense of $1.5 million in fiscal 2022, resulting in an effective tax rate of (3.4%), 4.4% and 4.8%, respectively. The Company’s effective tax rate for fiscal 2024 differed from the U.S. federal statutory rate of 21.0% primarily due to state taxes, increases in valuation allowances, and tax shortfalls related to stock-based compensation, partially offset by enhanced deductions and various tax credits. The Company’s effective tax rate for fiscal 2023 differed from the U.S. federal statutory rate of 21.0% primarily due to the impact of the non-deductible portion of the Company’s impairment charge, as well as state income taxes and non-deductible expenses for executive compensation, tax shortfalls related to stock-based compensation, partially offset by enhanced deductions and various tax credits. The Company’s effective tax rate for fiscal 2022 differed from the U.S. federal statutory rate of 21.0% primarily due to excess tax benefits from stock-based compensation and various tax credits, partially offset by state income taxes and nondeductible expenses for executive compensation. Further impacting fiscal 2022, was a reduction in the Company’s valuation allowance, offset in part by the expiration of capital loss carryforwards, as well as enhanced deductions.
+
+At June 30, 2024, the Company’s federal enhanced deduction carryforwards were $3.6 million, tax effected, which if not utilized will begin to expire in 2027. At June 30, 2024, the Company’s state and foreign net operating loss carryforwards were $2.9 million and $1.3 million, tax effected, respectively, which if not utilized will begin to expire in fiscal 2025 and fiscal 2034, respectively.
+
+Liquidity and Capital Resources
+
+Liquidity and borrowings
+
+The Company’s principal sources of liquidity are cash on hand, cash flows generated from operations and borrowings available under the Company’s credit agreement (see Note 9 in Part IV, Item 15 for details). At June 30, 2024, the Company had working capital of $157.9 million, including cash and cash equivalents of $159.4 million, compared to working capital of $152.9 million, including cash and cash equivalents of $126.8 million at July 2, 2023.
+
+As of June 30, 2024, there were no borrowings outstanding under the Company’s Revolver.
+
+Due to the seasonal nature of the Company’s business, and its continued expansion into non-floral products, the Thanksgiving through Christmas holiday season, which falls within the Company’s second fiscal quarter, generates over 40% of the Company’s annual revenues, and all of its earnings. Due to the number of major floral gifting occasions, including Mother’s Day, Valentine’s Day, Easter and Administrative Professionals Week, revenues also have historically risen during the Company’s fiscal third and fourth quarters in comparison to its fiscal first quarter.
+
+During the first two quarters of fiscal 2024, the Company borrowed under its revolving credit agreement in order to fund pre-holiday manufacturing and inventory procurement requirements, with borrowings peaking at $82.0 million in November 2023. Cash generated from operations during the Christmas holiday shopping season enabled the Company to repay the borrowings under the Revolver in December 2023. 
+
+On June 27, 2023, the Company entered into a Third Amended and Restated Credit Agreement to, among other modifications: (i) increase the amount of the outstanding term loan from approximately $150 million to $200 million, (ii) decrease the amount of the commitments in respect of the revolving credit facility from $250 million to $225 million, (iii) extend the maturity date of the outstanding term loan and the revolving credit facilities by approximately 48 months to June 27, 2028, and (iv) increase the applicable interest rate margins for SOFR and base rate loans by 25 basis points (See Note 9 – Long-Term Debt in Item 15 for details).
+
+Based on our year-end cash balances, including the incremental term loan referenced above, combined with projected cash flows, the Company expects to borrow against its Revolver to fund pre-holiday manufacturing and inventory purchases during the first quarter of fiscal 2025. The Company expects to be able to repay all working capital borrowings prior to the end of the second quarter of fiscal 2025.
+
+While we believe that our sources of funding will be sufficient to meet our anticipated operating cash needs for at least the next twelve months, any projections of future cash needs and cash flows are subject to substantial uncertainty. We continually evaluate, and will, from time to time, consider the acquisition of, or investment in, complementary businesses, products, services, capital infrastructure, and technologies, which might affect our liquidity requirements or cause us to require additional financing.
+
+Cash Flows 
+
+Net cash provided by operating activities of $95.0 million for fiscal 2024 was primarily attributable to the Company’s net loss, adjusted by a non-cash charge for an intangible asset impairment, depreciation and amortization, bad debt expense and stock-based compensation, net of deferred income taxes, combined with net working capital generated primarily from a decrease in inventories, and an increase in accounts payable and accrued expenses.
+
+Net cash used in investing activities of $42.3 million was attributable to capital expenditures primarily related to the Company's technology and automation initiatives, and the acquisition of Card Isle as noted above.
+
+Net cash used in financing activities of $20.1 million related to net repayment of bank borrowings of $10.0 million, and the acquisition of $10.4 million of treasury stock.
+
+Free Cash Flow
+
+Free cash flow was $56.4 million for fiscal 2024, compared with free cash flow of $70.7 million for fiscal 2023, a decrease of $14.3 million primarily driven by a decrease in cash flows from operations. Refer to "Definitions of non-GAAP financial measures" for reconciliation of non-GAAP results to applicable GAAP results.
+
+Stock Repurchase Program
+
+See Item 5 in Part II for details.
+
+Contractual Obligations 
+
+At June 30, 2024, the Company’s contractual obligations consist of:
+
+Critical Accounting Estimates
+
+The Company’s discussion and analysis of its financial position and results of operations are based upon the consolidated financial statements of 1-800-FLOWERS.COM, Inc., which have been prepared in accordance with U.S. generally accepted accounting principles. The preparation of these financial statements requires management to make estimates and assumptions that affect the reported amount of assets, liabilities, revenue and expenses, and related disclosure of contingent assets and liabilities. Management evaluates its estimates on an ongoing basis and bases its estimates and judgments on historical experience and on various other factors that are believed to be reasonable under the circumstances. Actual results may differ from these estimates under different assumptions or conditions. We consider accounting estimates to be critical if both: (i) the nature of the estimate or assumption is material due to the levels of subjectivity and judgment involved, and (ii) the impact within a reasonable range of outcomes of the estimate and assumption is material to the Company’s financial condition. Our critical accounting estimates relate to goodwill, other intangible assets and income taxes. Management of the Company has discussed the selection of critical accounting estimates and the effect of estimates with the audit committee of the Company’s board of directors.
+
+Goodwill
+
+Goodwill represents the excess of the purchase price over the fair value of the net assets acquired in each business combination, with the carrying value of the Company’s goodwill allocated to its reporting units, in accordance with the acquisition method of accounting. Goodwill is not amortized, but it is subject to an annual assessment for impairment, which the Company performs during the fourth quarter, or more frequently if events occur or circumstances change such that it is more likely than not that an impairment may exist. The Company tests goodwill for impairment at the reporting unit level. The Company identifies its reporting units by assessing whether the components of its operating segments constitute businesses for which discrete financial information is available and management of each reporting unit regularly reviews the operating results of those components.
+
+In applying the goodwill impairment test, the Company has the option to perform a qualitative test (also known as “Step 0”) or a quantitative test (“Step 1”). Under the Step 0 test, the Company first assesses qualitative factors to determine whether it is more likely than not that the fair value of the reporting units is less than its carrying value. Qualitative factors may include, but are not limited to, economic conditions, industry and market considerations, cost factors, overall financial performance of the reporting unit and other entity and reporting unit specific events. If after assessing these qualitative factors, the Company determines it is “more-likely-than-not” that the fair value of the reporting unit is less than the carrying value, then performing the Step 1 quantitative test is necessary.
+
+Step 1 of the quantitative test requires comparison of the fair value of each of the reporting units to the respective carrying value. If the carrying value of the reporting unit is less than the fair value, no impairment exists. Otherwise, the Company would recognize an impairment charge for the amount by which the carrying amount of a reporting unit exceeds its fair value up to the amount of goodwill allocated to that reporting unit.
+
+The Company generally estimates the fair value of a reporting unit using an equal weighting of the income and market approaches. The Company uses industry accepted valuation models and set criteria that are reviewed and approved by various levels of management. Under the income approach, the Company uses a discounted cash flow methodology, which requires management to make significant estimates and assumptions related to forecasted revenues, gross profit margins, operating income margins, working capital cash flow, perpetual growth rates, and long-term discount rates, among others. For the market approach, the Company uses the guideline public company method. Under this method, the Company utilizes information from comparable publicly traded companies with similar operating and investment characteristics as the reporting units, to create valuation multiples that are applied to the operating performance of the reporting unit being tested, in order to obtain their respective fair values. The Company also reconciles the aggregate fair values of its reporting units determined in the first step (as described above) to its current market capitalization, allowing for a reasonable control premium. See Note 6 – Goodwill and Intangible Assets, in Part IV, Item 15, for further information.
+
+Other Intangibles, net
+
+Other intangibles consist of definite-lived intangible assets (such as investment in licenses, customer lists, and others) and indefinite-lived intangible assets (such as acquired trade names and trademarks). The cost of definite-lived intangible assets is amortized to reflect the pattern of economic benefits consumed, over the estimated periods benefited, ranging from 3 to 16 years, while indefinite-lived intangible assets are not amortized.
+
+Definite-lived intangibles are reviewed for impairment whenever changes in circumstances or events may indicate that the carrying amounts are not recoverable. When such events or changes in circumstances occur, a recoverability test is performed comparing projected undiscounted cash flows from the use and eventual disposition of an asset or asset group to its carrying value. If the projected undiscounted cash flows are less than the carrying value, then an impairment charge would be recorded for the excess of the carrying value over the fair value, which is determined by discounting future cash flows.
+
+The Company tests indefinite-lived intangible assets for impairment at least annually, during the fourth quarter, or whenever changes in circumstances or events may indicate that the carrying amounts are not recoverable. In applying the impairment test, the Company has the option to perform a qualitative test (also known as “Step 0”) or a quantitative test. Under the Step 0 test, the Company assesses qualitative factors to determine whether it is more likely than not that an indefinite-lived intangible asset is impaired. Qualitative factors may include, but are not limited, to economic conditions, industry and market considerations, cost factors, financial performance, legal and other entity and asset specific events. If, after assessing these qualitative factors, the Company determines it is “more-likely-than-not” that the indefinite-lived intangible asset is impaired, then performing the quantitative test is necessary. The quantitative impairment test for indefinite-lived intangible assets encompasses calculating a fair value of an indefinite-lived intangible asset and comparing the fair value to its carrying value. If the carrying value exceeds the fair value, impairment is recognized for the difference. To determine fair value of other indefinite-lived intangible assets, the Company uses an income approach, the relief-from-royalty method. This method assumes that, in lieu of ownership, a third party would be willing to pay a royalty in order to obtain the rights to use the comparable asset. Other indefinite-lived intangible assets’ fair values require significant judgments in determining both the assets’ estimated cash flows as well as the appropriate discount and royalty rates applied to those cash flows to determine fair value.
+
+See Note 6 – Goodwill and Intangible Assets, in Part IV, Item 15, for further information.
+
+Income Taxes
+
+The Company uses the asset and liability method to account for income taxes. The Company has established deferred tax assets and liabilities for temporary differences between the financial reporting bases and the income tax bases of its assets and liabilities at enacted tax rates expected to be in effect when such assets or liabilities are realized or settled. The Company also has net operating loss carryforwards and credit carryforwards in multiple jurisdictions and has recognized deferred assets for those losses and credits.
+
+The Company evaluates the realizability of its deferred tax assets on a quarterly basis and establishes valuation allowances when it is more likely than not that all or a portion of a deferred tax asset may not be realized. In completing this evaluation, the Company considers available positive and negative evidence. Such evidence includes historical operating results, the existence of cumulative earnings and losses in the most recent fiscal years, taxable income in prior carryback year(s) if permitted under the tax law, the time period over which our temporary differences will reverse, the implementation of feasible and prudent tax planning strategies, and expectations for future pre-tax operating income. Estimating future taxable income is inherently uncertain and requires judgment. Deferred tax assets are reduced by a valuation allowance if, based on the weight of this evidence, it is more likely than not that all or a portion of the recorded deferred tax assets will not be realized in future periods.
+
+The Company recognizes the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities based on the technical merits of the position. The tax benefits recognized in the financial statements on a particular tax position are measured based on the largest benefit that has a greater than a 50% likelihood of being realized upon settlement. The amount of unrecognized tax benefits (“UTBs”) is adjusted as appropriate for changes in facts and circumstances, such as significant amendments to existing tax law, new regulations or interpretations by the taxing authorities, new information obtained during a tax examination, or resolution of an examination. We recognize both accrued interest and penalties, where appropriate, related to UTBs in income tax expense. Assumptions, judgment, and the use of estimates are required in determining if the “more likely than not” standard has been met when developing the provision for income taxes. 
+
+See Note 11– Income Taxes, in Part IV, Item 15, for further information.
+
+Recently Issued Accounting Pronouncements
+
+See Note 2 in Part IV, Item 15 for details regarding the impact of accounting standards that were recently issued on our consolidated financial statements.

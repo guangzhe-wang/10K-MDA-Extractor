@@ -1,0 +1,63 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+The following discussion and analysis should be read in conjunction with the Financial Statements and Notes thereto, and other financial information included elsewhere in this Annual Report on Form 10-K. This Management’s Discussion and Analysis of Financial Condition and Results of Operations contains descriptions of our expectations regarding future trends affecting our business. The following discussion sets forth certain factors we believe could cause actual results to differ materially from those contemplated by the forward-looking statements.
+
+Critical Accounting Policies and Estimates
+
+Allowance for Credit Losses
+
+We are subject to credit risk primarily in our trade accounts receivable. We generally do not require collateral or other security as a condition of sale, rather we rely on credit approval, balance limitation and monitoring procedures to control credit risk in trade account financial instruments. Our customer base includes many large medical device and defense/aerospace companies, as well as newly incorporated entities pursuing emerging technologies. In those cases when we cannot determine the creditworthiness of our customer, we obtain prepayments and deposits that we judge will be sufficient to mitigate the risk of a significant financial loss. We establish reserves against losses that include both a review of specific account balances and current payment characteristics which are monitored contemporaneously to determine the adequacy of our reserve. Nevertheless, our customers may be adversely impacted by economic factors beyond our understanding and control, and which are difficult to foresee or estimate. A 1% increase in the accounts receivable reserve would increase our costs by approximately $37,000. We recognized bad debt expense of $202,000 and $488,000 for the years ending June 30, 2024, and June 30, 2023, respectively.
+
+Reserve for Excess and Obsolete Inventory 
+
+Inventories, consisting of raw materials, work in process and finished goods, are primarily accounted for using the first-in first-out method, and are valued at the lower of cost and net realizable value. This valuation requires us to make judgments, based on currently available information, regarding product demand and the potential for a future financial loss resulting from the liquidation and disposal of unusable or unsaleable inventory. These assumptions about the future disposition of inventory are inherently uncertain, and changes in our estimates and assumptions may require us to realize write-downs. In addition, we enter into binding supplier commitments which are based on forecasted customer demand. If our customers reduce their forecasts, we may incur additional costs. An increase in the calculation of the reserve for excess and obsolete inventory equivalent to 1% of gross inventory value would increase our costs by approximately $35,000.
+
+Other significant accounting policies are included in the Notes to our Financial Statements contained elsewhere in this Annual Report on Form 10-K.
+
+Results of Operations for the Fiscal Year Ended June 30, 2024 as Compared to the Fiscal Year Ended June 30, 2023
+
+Revenue
+
+Total revenues for the fiscal year ended June 30, 2024 were $19,104,350, as compared to $21,044,467 for the same period in the prior year, a decrease of $1,940,117, or 9.2%. Of this decrease, $600,000 was attributable to the sale of one-time technology rights sold in December 2022 with the remaining decrease of 6.6% attributable to the factors discussed below.
+
+Revenue from Engineering Design Services increased 23.7% during the year ending June 30, 2024 from the prior year ending June 30, 2023. Revenue increases in the engineering design services resulted from increasing demand for services and continued expansion of engineering capacity. Engineering sales were driven by customer design engagements that will be transitioning into the later manufacture of new Finished Products and Assemblies.
+
+Revenue from Optical Components decreased 20.3% during the year ending June 30, 2024 from the prior year ending June 30, 2023, due in large part to reduced industry demand, which we believe to be temporary. We believe the decreases in optical components were driven by lower order volumes and delayed deliveries as customers rebalance their inventories, which had grown beyond sustainable levels due to increased ordering in response to concerns about supply chain disruptions initially driven by the Covid 19 pandemic.
+
+Revenue from Finished Products and Assemblies decreased 36.8% for the year ending June 30, 2024 from the prior year ending June 30, 2023. The decreases in Finished Products and Assemblies were primarily attributable to timing differences between the exit of certain mature customer programs and reorders for ongoing products and the introduction of new customer programs, primarily single-use medical devices and new defense / aerospace opportunities.
+
+Gross Profit
+
+Gross margin decreased to 30.3% during the year ended June 30, 2024, compared to 36.8% for the year ended June 30, 2023. Gross profit decreased to $5,797,777 during the year ended June 30, 2024, compared to $7,734,136 for the year ended June 30, 2023, primarily driven by changes in the product sales mix and underutilization of fixed cost resources due to the decreases in revenue discussed above. The $600,000 one-time technology rights revenue in December 2022 of the prior year had a significant impact on gross margin as it did not have any cost of sales associated with it. Excluding that revenue from both sales and gross profit for comparison purposes, the gross margin would have been 34.9% for the year ending June 30, 2023.
+
+Research & Development
+
+R&D expenses decreased $10,594 to $981,781 during the year ended June 30, 2024, compared to $992,375 during the year ended June 30, 2023. R&D expenses for the period primarily represent employee-related expenses to support product improvements and the development of new technologies.
+
+Selling, General and Administrative Expenses 
+
+SG&A expenses increased $160,020, or 2.2% to $7,540,329 during the year ended June 30, 2024, compared to $7,380,909 during the year ended June 30, 2023. The increase in SG&A for the year was primarily due to increased salaries and benefits, increased travel and marketing-related expenses and increased insurance expense, partially offset by decreases in our reserve for doubtful accounts.
+
+Liquidity and Capital Resources
+
+During the year ended June 30, 2024, cash on hand funded a net decrease in accounts payable and accrued expenses of $1,139,314 and an increase in inventory of $91,884, partially offset by a decrease of accounts receivable of $361,916. Capital equipment expenditures and additional patent costs during the year ended June 30, 2024, and in the same period in the prior year were $272,435 and $21,448, respectively. The increase was primarily attributable to the implementation of new computer-based ERP and IT systems. We also made payments of $556,468 on our term notes and capital leases and borrowed $1,000,000 on our revolving line of credit. These items, in addition to the impact of the net loss, net of depreciation, amortization, stock-based compensation and other non-cash items, resulted in a decrease of $2,520,574 in our cash and cash equivalents at June 30, 2024, from $2,925,852 at June 30, 2023, to $405,278 at June 30, 2024.
+
+In October 2021 we entered a $2,600,000 term loan with a commercial bank. In June 2023 we added a second term loan in the amount of $750,000. We secured a $250,000 line of credit from the same bank in October 2021 for working capital needs, which was increased to $500,000 in May 2022 and to $1,250,000 in June 2023. There were $1,000,000 in borrowings outstanding on the line of credit on June 30, 2024, and additional availability in the amount of $250,000.
+
+Our loan agreement contains a minimum annual debt service coverage ratio covenant of 1.2x, for the period ending June 30, 2024. We did not meet this annual debt service coverage ratio as of June 30, 2024. Our lender has agreed to waive compliance with the debt service ratio covenant for the period ending June 30, 2024. In addition to the waiver, we have entered into amendments dated September 30, 2024 with our lender to both term loans which provide for a six month period of interest only payments from September 15, 2024 through February 15, 2025. We will begin to pay principal and interest under the Notes beginning with the payments due on March 15, 2025, with a new amortization schedule for the remaining term for such Notes through their maturity date. There were no other changes to or modifications to the Loan Agreement or the Notes.
+
+On August 14. 2024 we entered into securities purchase agreements with institutional and accredited investors in addition to certain directors and officers of the Company for the purchase and sale of 265,868 shares of the Company’s common stock resulting in gross proceeds of approximately $1.4 million before deducting placement agent commissions and other estimated offering expenses. Net proceeds were approximately $1.2 million.
+
+Contractual cash commitments for the fiscal periods subsequent to June 30, 2024, are summarized as follows:
+
+We have contractual cash commitments related to open purchase orders as of June 30, 2024, of approximately $6,250,000.
+
+Material Trends and Uncertainties
+
+We currently have no material trends or uncertainties that have or are reasonably likely to have a current or future material effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources.
+
+Off-Balance Sheet Arrangements
+
+We currently have no off-balance sheet arrangements that have or are reasonably likely to have a current or future material effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE

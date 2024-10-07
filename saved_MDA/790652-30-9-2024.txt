@@ -1,0 +1,112 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis should be read in conjunction with the condensed financial statements and other financial data included elsewhere in this report.
+
+CRITICAL ACCOUNTING POLICIES
+
+The financial statements are prepared in accordance with Generally Accepted Accounting Principles in the United States of America (“U.S. GAAP”). The preparation of financial statements in conformity with U.S. GAAP requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Such estimates and assumptions also include the valuations of certain financial instruments, stock-based compensation, deferred tax assets, the outcome of litigation and tax matters, and other matters that affect the statements of financial condition and related disclosures. Actual results could differ materially from these estimates.
+
+We believe the following critical accounting policies affect our more significant judgments and estimates used in the preparation of our financial statements.
+
+
+Stock-Based Compensation
+
+We rely on the guidance provided by ASC 718, (“Share Based Payments”). ASC 718 requires companies to expense the value of employee stock options and similar awards and applies to all outstanding and vested stock-based awards.
+
+In computing the impact, the fair value of each option is estimated on the date of grant based on the Black-Scholes options-pricing model utilizing certain assumptions for a risk-free interest rate; volatility; and expected remaining lives of the awards. The assumptions used in calculating the fair value of share-based payment awards represent management’s best estimates, but these estimates involve inherent uncertainties and the application of management judgment. As a result, if factors change and we use different assumptions, the Company’s stock-based compensation expense could be materially different in the future. In addition, we are required to estimate the expected forfeiture rate and only recognize expense for those shares expected to vest. In estimating the Company’s forfeiture rate, we analyzed its historical forfeiture rate, the remaining lives of unvested options, and the amount of vested options as a percentage of total options outstanding. If our actual forfeiture rate is materially different from its estimate, or if the Company reevaluates the forfeiture rate in the future, the stock-based compensation expense could be significantly different from what we have recorded in the current period. No stock options were granted during the year ended June 30, 2024 or 2023. These options are being expensed pursuant to ASC 718.
+
+The fair value concepts were not changed significantly in ASC 718; however, in adopting this Standard, companies were given the option to choose among alternative valuation models and amortization assumptions. We elected to continue to use the Black-Scholes option pricing model and expense the options as compensation over the requisite service period of the grant. We will reconsider use of the Black-Scholes model if additional information becomes available in the future that indicates another model would be more appropriate, or if grants issued in future periods have characteristics that cannot be reasonably estimated using this model.
+
+Results of Operations
+
+In the continuing process of commercializing our operations and as part of our transition plan to exit from reporting as a development stage enterprise, we will use the current format of our management’s discussion and analysis of financial condition and results of operation (MD&A) to better disclose and discuss four main categories of expenses (general and administrative, salaries and wages, research and development, sales and marketing, consulting, and bad debt).
+
+Years Ended June 30, 2024 and June 30, 2023
+
+SALES AND COST OF SALES
+
+Revenues during the years ended June 30, 2024 and 2023, were $0 and $10,610, respectively.
+
+Our cost of sales during both years ended June 30, 2024 and 2023 was $0.
+
+During fiscal 2024 and 2023, the Company did not engage in any operational activities aimed at generating revenue. The only income received in fiscal year 2023 was derived from royalty payments pursuant to an ongoing licensing agreement with Trifoil Imaging, established in 2006.
+
+GENERAL AND ADMINISTRATIVE
+
+Our general and administrative expenses include travel/subsistence related to general and administrative activities, property and casualty insurance, professional fees associated with our corporate and securities attorneys and independent auditors, corporate governance expenses, stockholder expenses, utilities, maintenance, telephones, office supplies and sales and property taxes.
+
+General and administrative expenses during the year ended June 30, 2024 were $4,699, representing a decrease of $83,193 or 95% from $87,892, during the year ended June 30, 2023.
+
+The general and administrative expenses decrease of $83,193 is due primarily to the lack of filing and legal fees during fiscal 2024 as the Company did not timely file the fiscal 2023 Form 10-K or the 2024 first, second, and third quarter Form 10-Q.
+
+We do not expect a material change in our general and administrative expenses until we realize a significant increase in revenue from the sale of our product.
+
+
+SALARIES AND WAGES
+
+Our salaries and wages expenses include compensation, related benefits, payroll taxes and other payroll fees for all employees.
+
+Salaries and wages expense during the years ended June 30, 2024 and 2023, was $0.
+
+The lack of salaries and wages is due to the Company’s decision to furlough all employees on May 1, 2020 in response to the COVID-19 crisis. Some of these individuals have worked as independent contractors on an as-needed basis.
+
+RESEARCH AND DEVELOPMENT
+
+Until the fourth quarter of fiscal 2023, we incurred research and development expenses to develop significant enhancements to our sole product, the CTLM®. These expenses consisted primarily of clinical costs, costs of materials and components to make product enhancements, new product research costs, and costs associated with servicing clinical collaboration sites.
+
+Research and development expenses during the year ended June 30, 2024 were $0, representing a decrease of $91 from $91, during the year ended June 30, 2023.
+
+The lack of any substantial research and development expenses during fiscal 2024 and 2023 was due to the Company’s lack of operational activities.
+
+SALES AND MARKETING
+
+Our sales and marketing expenses have consisted primarily of expenses associated with advertising and promotion, representative office expense, trade shows, conferences, promotional and training costs related to marketing the CTLM®, commissions, travel/subsistence, patent maintenance fees, consulting, certification expenses, and product liability insurance.
+
+Sales and marketing expenses during the year ended June 30, 2024 were $1,035, representing an increase of $321 or 45% from $714, during the year ended June 30, 2023.
+
+All sales and marketing expenses during fiscal 2024 and 2023 were related to fees for maintaining our website. Variations in these expenses reflect fluctuations in website maintenance costs between the two periods.
+
+CONSULTING EXPENSES
+
+Our consulting expenses consist of all consulting fees paid as well as share-based compensation issued to our consultants. Our share-based compensation expense consists of vested stock options expensed under the Black-Scholes options pricing model.
+
+Consulting expenses for the year ended June 30, 2024 were $70,928, representing a decrease of $142,064 or 67% from $212,992, during the year ended June 30, 2023.
+
+The decrease in consulting expenses for fiscal 2024 is due to reduced activity during the year ended June 30, 2024. Erhfort, LLC received $8,500 per month in consulting fees through December 2023. Fong & Associates, LLC received $8,500 in July 2022, but transitioned to an as-needed basis thereafter. Erhfort, LLC received consulting fees of $5,000, and Fong & Associates, LLC received only a nominal amount during the year ended June 30, 2024. Stock option expenses also decreased during the year ended June 30, 2024, due to a greater portion of options having already vested in prior periods.
+
+AGGREGATE OPERATING EXPENSES
+
+Total operating expenses (general and administrative, salaries and wages, research and development, sales and marketing, depreciation and amortization, consulting, and bad debt) and cost of sales during the year ended June 30, 2024 were $76,662, representing a decrease of $225,027 or 75% from $301,689 when compared to the operating expenses and cost of sales during the year ended June 30, 2023. The overall decrease in expenses is due primarily to the reduction of consulting and general and administrative expenses during fiscal 2023.
+
+Depreciation and amortization expenses during the years ended June 30, 2024 and 2023 were $0. All fixed assets are fully depreciated and no additions were made during either fiscal year.
+
+Interest expense during the fiscal year ended June 30, 2024 was $81,963, representing an increase of $224 of less than 1% from $81,739, during the year ended June 30, 2023. Although the amount of outstanding debt at June 30, 2024 was higher than June 30, 2023, the more recent debt were 0% interest loans, which is why the amount of interest expense did not change significantly.
+
+
+BALANCE SHEET DATA
+
+Our combined cash and cash equivalents totaled $66 at June 30, 2024 and $1,088 at June 30, 2023.
+
+Our inventory, which consists of raw materials, work in process (including completed units under testing), and finished goods totaled $0 at June 30, 2024 and $100,087 at June 30, 2023. Raw materials used for research and development or other purposes are expensed and not included in inventory. The net inventory is $0 for fiscal 2024 and 2023 because the Company has booked a reserve for the entire value of the inventory due to lack of demand for parts and lack of sales. On October 16, 2023, the Company abandoned all remaining inventory.
+
+Our property and equipment, net, totaled $0 at June 30, 2024 and June 30, 2023. All property and equipment had been fully depreciated prior to fiscal 2023 and no new property and equipment were purchased during fiscal 2023 or 2024. On October 16, 2023, the Company abandoned all remaining fully depreciated fixed assets.
+
+Our current liabilities, which consist of accounts payable, accrued payroll taxes and penalties, short term debt, and convertible debt, totaled $2,183,639 at June 30, 2024 and $2,096,667 at June 30, 2023. Accounts payable and accrued expenses totaled $1,018,838 at June 30, 2024 and $946,069 at June 30, 2023. Accrued payroll taxes and penalties totaled $314,019 at June 30, 2024 and $314,019 at June 30, 2023. Related party promissory notes totaled $777,852 at June 30, 2024 and $763,649 at June 30, 2023. The current portion of long-term debt was $72,930 at June 30, 2024 and $72,930 at June 30, 2023\. Current liabilities increased primarily due to accounts payable and accrued expenses increasing by $72,769, related party promissory notes payable increasing by $14,203.
+
+Our long-term liabilities, which consist of long-term loans payable totaled $0 at June 30, 2024 and $0 at June 30, 2023.
+
+Our temporary equity, which consists of Convertible Preferred Series L (including accrued dividends), totaled $469,963 at June 30, 2024 and $451,939 at June 30, 2023. The increase of $18,024 is due to accrued dividends for fiscal 2024 that are being included in the total redemption value.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Due to the failure of our legacy business, we are a shell company focused on seeking new business opportunities through a reverse merger transaction (a “Merger”). Our continued existence is dependent upon our ability to resolve our liquidity problems, principally by obtaining additional debt and/or equity financing and entering into a Merger. While Viable has financed our operations since 2016, we do not have any formal financing arrangements with Viable and its affiliates and there can be no assurance that we will continue to receive funding from Viable or another source,. In the event that we are unable to obtain adequate debt or equity financing or are unable to obtain such financing on terms and conditions acceptable to us, we may have to cease or severely curtail our operations. This would materially impact our ability to continue as a going concern.
+
+We have financed our operating and research and development activities through multiple private placements of common stock as well as short term loans from related parties. During fiscal 2024, we received proceeds of $14,203 through short-term related party loans. During fiscal 2023, we received $88,704 through short-term related party loans. We also converted $3,669 of accounts payables to a short-term related party loan during fiscal 2023.
+
+Net cash used for operating activities, was $15,225 during fiscal 2024, compared to net cash used by operating activities and product development of the CTLM® and related software development of $88,229 during fiscal 2023. At June 30, 2024, we had negative working capital of $2,183,398 compared to negative working capital of $2,074,916 at June 30, 2023.
+
+If additional funds are raised by issuing equity securities, including in connection with a Merger, dilution to existing stockholders will result and future investors may be granted rights superior to those of existing stockholders.
+
+Item 7A. Quantitative and Qualitative

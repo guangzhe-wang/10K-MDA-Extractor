@@ -1,0 +1,311 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion should be read in conjunction with the financial statements and the notes thereto of the Trust and the Funds included elsewhere in this annual report on Form 10-K.
+
+This information should be read in conjunction with the financial statements and notes included in Item 8 of this Annual Report (the “Report”). The discussion and analysis which follows may contain trend analysis and other forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934 which reflect our current views with respect to future events and financial results. Words such as “anticipate,” “expect,” “intend,” “plan,” “believe,” “seek,” “outlook” and “estimate,” as well as similar words and phrases, signify forward-looking statements. Amplify Commodity Trust’s forward-looking statements are not guarantees of future results and conditions, and important factors, risks and uncertainties may cause our actual results to differ materially from those expressed in our forward-looking statements.
+
+You should not place undue reliance on any forward-looking statements. Except as expressly required by the Federal securities laws, Amplify Investments LLC undertakes no obligation to publicly update or revise any forward-looking statements or the risks, uncertainties or other factors described in this Report, as a result of new information, future events or changed circumstances or for any other reason after the date of this Report.
+
+Overview 
+
+The Trust is a Delaware statutory trust formed on July 23, 2014. The Trust is a series trust currently consisting of two publicly listed series: Breakwave Dry Bulk Shipping ETF (“BDRY”) and Breakwave Tanker Shipping ETF (“BWET”). All of the series of the Trust are collectively referred to as the “Funds” and singularly as the “Fund.” Each Fund issues common units, called the “Shares,” representing fractional undivided beneficial interests in the respective Fund. The Trust and the Funds operate pursuant to the Trust’s Amended and Restated Declaration of Trust and Trust Agreement (the “Trust Agreement”).
+
+The Sponsor has the power and authority to establish and designate one or more series and to issue shares thereof, from time to time as it deems necessary or desirable. The Sponsor has exclusive power to fix and determine the relative rights and preferences as between the shares of any series as to the right of redemption, special and relative rights as to dividends and other distributions and on liquidation, conversion rights, and conditions under which the series shall have separate voting rights or no voting rights. The term for which the Trust is to exist commenced on the date of the filing of the Certificate of Trust, and the Trust, the Funds, and any additional series created in the future will exist in perpetuity, unless earlier terminated in accordance with the provisions of the Trust Agreement. Separate and distinct records shall be maintained for each Fund and the assets associated with a Fund shall be held in such separate and distinct records (directly or indirectly, including a nominee or otherwise) and accounted for in such separate and distinct records separately from the assets of any other series. The Funds and each future series will be separate from all such series in respect of the assets and liabilities allocated to a Fund and each separate series and will represent a separate investment portfolio of the Trust.
+
+-24-
+
+The sole Trustee of the Trust is Wilmington Trust, N.A. (the “Trustee”), and the Trustee serves as the Trust’s corporate trustee as required under the Delaware Statutory Trust Act (“DSTA”). The Trustee’s principal offices are located at 1100 North Market Street, Wilmington, Delaware 19890. The Trustee is unaffiliated with the Sponsor. The rights and duties of the Trustee and the Sponsor with respect to the offering of the Shares and Fund management and the shareholders are governed by the provisions of the DSTA and by the Trust Agreement.
+
+On March 9, 2018, the initial Form S-1 for BDRY was declared effective by the SEC. On March 21, 2018, two Creation Baskets were issued for the Fund, representing 100,000 shares and $2,500,000. The Fund began trading on the New York Stock Exchange (“NYSE”) Arca on March 22, 2018.
+
+On April 28, 2023, the form S-1 for BWET was declared effective by the SEC. On May 1, 2023, eight Creation Baskets were issued for the Fund, representing 200,000 shares and $3,000,000. The Fund began trading on the NYSE Arca on May 3, 2023.
+
+Each Fund is designed and managed to track the performance of a portfolio (a “Benchmark Portfolio”) consisting of futures contracts (the “Benchmark Component Instruments”).
+
+Results of Operations
+
+BDRY commenced investment operations on March 22, 2018 at $25.00 per Share. The Shares have been trading on the NYSE Arca since March 22, 2018 under the symbol “BDRY.”
+
+BWET commenced investment operations on May 3, 2023 at $15.00 per Share. The Shares have been trading on the NYSE Arca since May 3, 2023 under the symbol “BWET.”
+
+Each Fund seeks to track the daily return of the Benchmark Portfolio, over time, plus the excess, if any, of the Funds’ interest income from its holdings over the expenses of the Fund.
+
+The following graphs illustrate changes in (i) the price of each Fund’s Shares (reflected, as applicable, by the graphs “Comparison of Per Share BDRY NAV to BDRY Market Value for the Three Months Ended June 30, 2024 and 2023”, “Comparison of Per Share BDRY NAV to BDRY Market Value for the Year Ended June 30, 2024 and 2023” and “Comparison of Per Share BWET NAV to BWET Market Value for the Three Months Ended June 30, 2024”, “Comparison of Per Share BWET NAV to BWET Market Value for the Year Ended June 30, 2024 and for the Period From May 3, 2023 (Commencement of Operations) to June 30, 2023” and (ii) each Fund’s NAV (as reflected by the graphs “Comparison of BDRY NAV to Benchmark Index for the Three Months Ended June 30, 2024 and 2023”, “Comparison of BDRY NAV to Benchmark Index for the Year Ended June 30, 2024 and 2023” and “Comparison of BWET NAV to Benchmark Index for the Three Months Ended June 30, 2024”, “Comparison of BWET NAV to Benchmark Index for the Year Ended June 30, 2024, and for the Period From May 3, 2023 (Commencement of Operations) to June 30, 2023”).
+
+Each Benchmark Portfolio is frictionless, in that it does not take into account fees or expenses associated with investing in the applicable Fund. The performance of the Funds involves friction, in that fees and expenses impose a drag on performance.
+
+-25-
+
+Breakwave Dry Bulk Shipping ETF 
+
+During the year ended June 30, 2024, dry bulk spot rates improved versus the previous year, with the benchmark Baltic Dry Index rising steadily, reaching its highest point in December 2023 before declining and trading in a tight range for the remainder of the period.
+
+Geopolitical turmoil has greatly affected shipping, as the Israel-Hamas conflict and the resulting ship attacks in the Red Sea passage have rearranged shipping routes in the process lengthening the average trip and leading to significant disruptions across all shipping segments. For dry bulk, longer sailing distances have also increased demand for ships while bulk commodity flows have also seen increases versus the previous year. Although dry bulk has not been affected as much as other shipping segments from the ongoing conflict, spot rates have remained elevated during the second half of the fiscal year.
+
+In addition, low water levels in the main lake that feeds the Panama Canal locks led to a decrease in the daily vessel transits of the Canal for most of the year, further pressuring the global supply of ships. However, increasing rains during the spring and early summer months led to a gradual increase in the daily transits which by the end of the period were approaching normal levels.
+
+During the year ended June 2024, iron ore trade volumes have experienced a significant increase versus the previous year, as China continued to import record amount of the steelmaking material. At the same time, portside inventories of iron ore have increased in tandem, as steel demand in China remains subdued due to weak domestic demand for new construction. Although various stimulus programs have been introduced during the period, the Chinese real estate sector remained in a relatively fragile state for the third year in a row, and while steel demand for manufacturing has increased, such improvement has been more than offset by weaker demand for construction. Iron ore prices continued to decline throughout the period, due to the aforementioned soft steel fundamentals. Coal volumes have remained relatively flat versus last year, on a slower pace in growth from China and India offset by weakening flows into Europe. Grains trade has experienced growth on improved US and Ukrainian exports.
+
+The combination of relatively strong Chinese bulk commodity demand combined with global disruptions due to geopolitical conflicts and the weather-related disruptions in the Panama Canal pushed spot rates for dry bulk shipping higher, leading to the relative outperformance for average spot rates year-over-year.
+
+The dry bulk orderbook increased marginally throughout the period from record low levels as period rates increased, incentivizing owners to place new orders.
+
+-26-
+
+Differences in the benchmark return and BDRY net asset value per share are due primarily to the following factors:
+
+NEITHER THE PAST PERFORMANCE OF THE FUND NOR THE PRIOR INDEX LEVELS AND CHANGES, POSITIVE OR NEGATIVE, SHOULD BE TAKEN AS AN INDICATION OF THE FUND’S FUTURE PERFORMANCE.
+
+-27-
+
+The per Share market value of BDRY and its NAV tracked closely for the three months ended June 30, 2024.
+
+NEITHER THE PAST PERFORMANCE OF THE FUND NOR THE PRIOR INDEX LEVELS AND CHANGES, POSITIVE OR NEGATIVE, SHOULD BE TAKEN AS AN INDICATION OF THE FUND’S FUTURE PERFORMANCE.
+
+-28-
+
+The per Share market value of BDRY and its NAV tracked closely for the year ended June 30, 2024.
+
+NEITHER THE PAST PERFORMANCE OF THE FUND NOR THE PRIOR INDEX LEVELS AND CHANGES, POSITIVE OR NEGATIVE, SHOULD BE TAKEN AS AN INDICATION OF THE FUND’S FUTURE PERFORMANCE.
+
+The per Share market value of BDRY and its NAV tracked closely for the three months ended June 30, 2023.
+
+NEITHER THE PAST PERFORMANCE OF THE FUND NOR THE PRIOR INDEX LEVELS AND CHANGES, POSITIVE OR NEGATIVE, SHOULD BE TAKEN AS AN INDICATION OF THE FUND’S FUTURE PERFORMANCE.
+
+-29-
+
+The per Share market value of BDRY and its NAV tracked closely for the year ended June 30, 2023.
+
+NEITHER THE PAST PERFORMANCE OF THE FUND NOR THE PRIOR BENCHMARK PORTFOLIO LEVELS AND CHANGES, POSITIVE OR NEGATIVE, SHOULD BE TAKEN AS AN INDICATION OF THE FUND’S FUTURE PERFORMANCE.
+
+The graph above compares the return of BDRY with the benchmark portfolio returns for the three months ended June 30, 2024. The difference in the NAV price and the benchmark value often results in the appearance of a NAV premium or discount to the benchmark. The difference is related to the cumulative impact on NAV of the Fund’s income and expenses during the period presented in the chart above.
+
+-30-
+
+NEITHER THE PAST PERFORMANCE OF THE FUND NOR THE PRIOR BENCHMARK PORTFOLIO LEVELS AND CHANGES, POSITIVE OR NEGATIVE, SHOULD BE TAKEN AS AN INDICATION OF THE FUND’S FUTURE PERFORMANCE.
+
+The graph above compares the return of BDRY with the benchmark portfolio returns for the year ended June 30, 2024. The difference in the NAV price and the benchmark value often results in the appearance of a NAV premium or discount to the benchmark. The difference is related to the cumulative impact on NAV of the Fund’s income and expenses during the period presented in the chart above
+
+-31-
+
+NEITHER THE PAST PERFORMANCE OF THE FUND NOR THE PRIOR BENCHMARK PORTFOLIO LEVELS AND CHANGES, POSITIVE OR NEGATIVE, SHOULD BE TAKEN AS AN INDICATION OF THE FUND’S FUTURE PERFORMANCE.
+
+The graph above compares the return of BDRY with the benchmark portfolio returns for the three months ended June 30, 2023. The difference in the NAV price and the benchmark value often results in the appearance of a NAV premium or discount to the benchmark. The difference is related to the cumulative impact on NAV of the Fund’s income and expenses during the period presented in the chart above.
+
+-32-
+
+NEITHER THE PAST PERFORMANCE OF THE FUND NOR THE PRIOR BENCHMARK PORTFOLIO LEVELS AND CHANGES, POSITIVE OR NEGATIVE, SHOULD BE TAKEN AS AN INDICATION OF THE FUND’S FUTURE PERFORMANCE.
+
+The graph above compares the return of BDRY with the benchmark portfolio returns for the year ended June 30, 2023. The difference in the NAV price and the benchmark value often results in the appearance of a NAV premium or discount to the benchmark. The difference is related to the cumulative impact on NAV of the Fund’s expenses during the period presented in the chart above.
+
+-33-
+
+FOR THE YEAR ENDED JUNE 30, 2024 
+
+Fund Share Price Performance
+
+During the year ended June 30, 2024, the NYSE Arca market value of each share increased (120.54%) from $5.55 per share, representing the closing price on June 30, 2023, to $12.24 per share, representing the closing price on June 30, 2024. The share price high and low for the year ended June 30, 2024 and related change from the closing share price on June 30, 2023 was as follows: shares traded from a high of $16.84 per share (203.42%) on March 8, 2024 to a low of $4.50 per share (-18.92%) on July 19, 2023.
+
+Fund Share Net Asset Value Performance
+
+For the year ended June 30, 2024, the net asset value of each share increased (-119.75%) from $5.52 per share to $12.13 per share. Net gains in the futures contracts and Fund expenses resulted in the overall increase in the NAV per share during the year ended June 30, 2024.
+
+Net income for the year ended June 30, 2024, was $46,770,200, resulting from net realized losses on investments and futures contracts of $34,476,191, net unrealized losses on investments and futures contracts of $12,895,930, and the net investment loss of $601,921.
+
+FOR THE YEAR ENDED JUNE 30, 2023
+
+Fund Share Price Performance
+
+During the year ended June 30, 2023, the NYSE Arca market value of each share decreased (-67.68%) from $17.17 per share, representing the closing price on June 30, 2022, to $5.55 per share, representing the closing price on June 30, 2023. The share price high and low for the year ended June 30, 2023 and related change from the closing share price on June 30, 2022 was as follows: shares traded from a high of $17.16 per share (-0.06%) on July 1, 2022 to a low of $5.48 per share (-68.08%) on June 28, 2023.
+
+Fund Share Net Asset Value Performance
+
+For the year ended June 30, 2023, the net asset value of each share decreased (-67.6%) from $17.06 per share to $5.53 per share. Net losses in the futures contracts and Fund expenses resulted in the overall decrease in the NAV per share during the year ended June 30, 2023.
+
+Net loss for the year ended June 30, 2023, was $36,530,822, resulting from net realized losses on investments and futures contracts of $30,983,820, net unrealized losses on investments and futures contracts of $4,404,570, and the net investment loss of $1,142,432.
+
+-34-
+
+FOR THE THREE MONTHS ENDED JUNE 30, 2024
+
+Fund Share Price Performance
+
+During the three months ended June 30, 2024, the NYSE Arca market value of each Share decreased (-11.69%) from $13.86 per Share, representing the closing price on March 31, 2024, to $12.24 per Share, representing the closing price on June 30, 2024. The Share price high and low for the three months ended June 30, 2024 and related change from the closing Share price on March 31, 2024 was as follows: Shares traded from a high of $14.60 per Share (+5.34%) on May 7, 2024 to a low of $11.40 per Share (-17.75%) on June 25, 2024.
+
+Fund Share Net Asset Performance
+
+For the three months ended June 30, 2024, the net asset value of each Share decreased (-13.30%) from $13.99 per Share to $12.13 per Share. For the three months ended June 30, 2024, losses in the investments and futures contracts and Fund expenses resulted in the overall decrease in the NAV per Share during the period.
+
+Net loss for the three months ended June 30, 2024, was $8,985,451, resulting from net realized gains on investments and futures contracts of $6,149,798, net unrealized gains on investments and futures contracts of $1,657,900, and the net investment loss of $1,177,753.
+
+FOR THE PERIOD FROM MAY 3, 2023 TO JUNE 30, 2023
+
+Fund Share Price Performance
+
+During the three months ended June 30, 2023, the NYSE Arca market value of each Share decreased (-45.05%) from $10.10 per Share, representing the closing price on March 31, 2023, to $5.55 per Share, representing the closing price on June 30, 2023. The Share price high and low for the three months ended June 30, 2023 and related change from the closing Share price on March 31, 2023 was as follows: Shares traded from a high of $10.35 per Share (+2.48%) on April 4, 2023 to a low of $5.48 per Share (-45.73%) on June 28, 2023.
+
+Fund Share Net Asset Performance
+
+For the three months ended June 30, 2023, the net asset value of each Share decreased (-44.76%) from $10.01 per Share to $5.53 per Share. For the three months ended June 30, 2023, losses in the investments and futures contracts and Fund expenses resulted in the overall decrease in the NAV per Share during the period.
+
+Net loss for the three months ended June 30, 2023, was $42,142,612, resulting from net realized losses on investments and futures contracts of $8,182,777, net unrealized losses on investments and futures contracts of $33,858,687, and the net investment loss of $101,148.
+
+-35-
+
+Breakwave Tanker Shipping ETF 
+
+During the period ended June 30, 2024, crude tanker spot rates experienced low volatility, with average spot rates for Very Large Crude Carriers (VLCC) steadily declining throughout the period.
+
+Geopolitical turmoil has greatly affected global shipping, as the Israel-Hamas conflict and the resulting ship attacks in the Red Sea passage have rearranged shipping routes in the process lengthening the average trip and leading to significant disruptions across all shipping segments. For crude tanker shipping the impact has been relatively small, as most of the crude shipped in Very Large Crude Carriers (VLCCs) do not use the Suez Canal. Although the disruption initially did also have a knock-on effect on crude tanker rates, fundamentally this sub sector of the broader tanker market has not been affected by the conflict.
+
+China remains the main region of demand growth for crude oil and, as a result, for crude tanker demand. However, slower oil import growth and weaker domestic demand in China remains a major concern for tanker rates. The Chinese economy has experienced a deceleration in economic growth, and although import activity has been relatively stable, during the first half of 2024 oil imports declined marginally. With OPEC+ maintaining its existing production quota throughout the period, there has been little room for tanker demand growth, and although longer sailing distances associated with Brazilian and US oil exports have aided overall tanker demand, such an increase has not been sufficient to push spot tanker rates higher. Towards the end of the period, OPEC+ announced its intention to gradually increase oil production starting in the fall of 2024, which, all else equal, should increase demand for crude tankers.
+
+The crude tanker orderbook for the next few years remains historically low, with very few new vessel deliveries during the period aiding the overall projected market balance. However, the orderbook marginally increased during the period from the record low levels of summer 2023.
+
+Differences in the benchmark return and BWET net asset value per share are due primarily to the following factors:
+
+-36-
+
+NEITHER THE PAST PERFORMANCE OF THE FUND NOR THE PRIOR INDEX LEVELS AND CHANGES, POSITIVE OR NEGATIVE, SHOULD BE TAKEN AS AN INDICATION OF THE FUND’S FUTURE PERFORMANCE. 
+
+The per Share market value of BWET and its NAV tracked closely for the three months ended June 30, 2024.
+
+NEITHER THE PAST PERFORMANCE OF THE FUND NOR THE PRIOR INDEX LEVELS AND CHANGES, POSITIVE OR NEGATIVE, SHOULD BE TAKEN AS AN INDICATION OF THE FUND’S FUTURE PERFORMANCE. 
+
+-37-
+
+The per Share market value of BWET and its NAV tracked closely for the year ended June 30, 2024.
+
+NEITHER THE PAST PERFORMANCE OF THE FUND NOR THE PRIOR INDEX LEVELS AND CHANGES, POSITIVE OR NEGATIVE, SHOULD BE TAKEN AS AN INDICATION OF THE FUND’S FUTURE PERFORMANCE.
+
+The per Share market value of BWET and its NAV tracked closely for period from May 3, 2023 (commencement of operations) to June 30, 2023.
+
+NEITHER THE PAST PERFORMANCE OF THE FUND NOR THE PRIOR BENCHMARK PORTFOLIO LEVELS AND CHANGES, POSITIVE OR NEGATIVE, SHOULD BE TAKEN AS AN INDICATION OF THE FUND’S FUTURE PERFORMANCE.
+
+The graph above compares the return of BWET with the benchmark portfolio returns for the three months ended June 30, 2024\. The difference in the NAV price and the benchmark value often results in the appearance of a NAV premium or discount to the benchmark. The difference is related to the cumulative impact on NAV of the Fund’s income and expenses during the period presented in the chart above.
+
+-38-
+
+NEITHER THE PAST PERFORMANCE OF THE FUND NOR THE PRIOR BENCHMARK PORTFOLIO LEVELS AND CHANGES, POSITIVE OR NEGATIVE, SHOULD BE TAKEN AS AN INDICATION OF THE FUND’S FUTURE PERFORMANCE.
+
+The graph above compares the return of BWET with the benchmark portfolio returns for the year ended June 30, 2024. The difference in the NAV price and the benchmark value often results in the appearance of a NAV premium or discount to the benchmark. The difference is related to the cumulative impact on NAV of the Fund’s income and expenses during the period presented in the chart above.
+
+NEITHER THE PAST PERFORMANCE OF THE FUND NOR THE PRIOR BENCHMARK PORTFOLIO LEVELS AND CHANGES, POSITIVE OR NEGATIVE, SHOULD BE TAKEN AS AN INDICATION OF THE FUND’S FUTURE PERFORMANCE.
+
+The graph above compares the return of BWET with the benchmark portfolio returns for the period from May 3, 2023 (commencement of operations) to June 30, 2023. The difference in the NAV price and the benchmark value often results in the appearance of a NAV premium or discount to the benchmark. The difference is related to the cumulative impact on NAV of the Fund’s expenses during the period presented in the chart above.
+
+-39-
+
+FOR THE YEAR ENDED JUNE 30, 2024
+
+Fund Share Price Performance
+
+During the year ended June 30, 2024, the NYSE Arca market value of each share decreased (-19.59%) from $20.88 per share, representing the closing price on June 30, 2023, to $16.79 per share, representing the closing price on June 30, 2024. The share price high and low for the year ended June 30, 2024 and related change from the closing share price on June 30, 2023 was as follows: shares traded from a high of $20.98 per share (+0.48%) on February 16, 2024 to a low of $13.96 per share (-33.14%) on October 5, 2023.
+
+Fund Share Net Asset Value Performance
+
+For the year ended June 30, 2024, the net asset value of each share decreased (-19.88%) from $20.83per share to $16.69 per share. Net losses in the futures contracts and Fund expenses resulted in the overall decrease in the NAV per share during the year ended June 30, 2024.
+
+Net loss for the year ended June 30, 2024, was $318,928, resulting from net realized losses on investments and futures contracts of $827,253, net unrealized gains on investments and futures contracts of $941,167, and the net investment loss of $205,014.
+
+FOR THE THREE MONTHS ENDED JUNE 30, 2024
+
+Fund Share Price Performance
+
+During the three months ended June 30, 2024, the NYSE Arca market value of each Share decreased (-9.88%) from $18.63 per Share, representing the closing price on March 31, 2024, to $16.79 per Share, representing the closing price on June 30, 2024. The Share price high and low for the three months ended June 30, 2024 and related change from the closing Share price on March 31, 2024 was as follows: Shares traded from a high of $19.80 per Share (+6.28%) on April 12, 2024 to a low of $16.18 per Share (-13.15%) on June 18, 2024.
+
+Fund Share Net Asset Performance
+
+For the three months ended June 30, 2024, the net asset value of each Share decreased (-10.51%) from $18.65 per Share to $16.69 per Share. For the three months ended June 30, 2024, losses in the investments and futures contracts and Fund expenses resulted in the overall decrease in the NAV per Share during the period.
+
+Net loss for the three months ended June 30, 2024, was $658,305, resulting from net realized gains on investments and futures contracts of $164,816, net unrealized gains on investments and futures contracts of $121,364, and the net investment loss of $372,125.
+
+-40-
+
+FOR THE PERIOD FROM MAY 3, 2023 TO JUNE 30, 2023
+
+Fund Share Price Performance
+
+During the period from May 3, 2023 (commencement of operations) to June 30, 2023, the NYSE Arca market value of each Share increased (+45.51%) from $14.35 per Share, representing the initial trade on May 3, 2023, to $20.88 per Share, representing the closing price on June 30, 2023. The Share price high and low for the period from May 3, 2023 (commencement of operations) to June 30, 2023 and related change from the opening Share price on May 3, 2023 was as follows: Shares traded from a high of $22.92 per Share (+59.72%) on June 15, 2023 to a low of $12.47 per Share (-13.10%) on May 8, 2023.
+
+Fund Share Net Asset Performance
+
+For the period from May 3, 2023 (commencement of operations) to June 30, 2023, the net asset value of each Share increased (+38.87%) from $15.00 per Share to $20.83 per Share. For the period from May 3, 2023 (commencement of operations) to June 30, 2023, gains in the investments and futures contracts more than offset Fund expenses resulting in the overall increase in the NAV per Share during the period.
+
+Net income for the period from May 3, 2023 (commencement of operations) to June 30, 2023, was $1,167,252, resulting from net realized gains on investments and futures contracts of $375,516, net unrealized gains on investments and futures contracts of $825,287, and the net investment loss of $33,551.
+
+Critical Accounting Estimates
+
+Preparation of the combined financial statements and related disclosures in accordance with U.S. generally accepted accounting principles requires the application of appropriate accounting rules and guidance, as well as the use of estimates. Each Fund’s application of these policies involves judgments and the use of estimates. Actual results may differ from the estimates used and such differences could be material. The Funds hold a significant portion of their assets in futures contracts and money market funds, which are held at fair value.
+
+There were no material estimates, which involve a significant level of estimation uncertainty and had or are reasonably likely to have had a material impact on the Funds’ financial condition, used in the preparation of these combined financial statements.
+
+Liquidity and Capital Resources
+
+The Funds do not anticipate making use of borrowings or other lines of credit to meet their obligations. The Funds meet their liquidity needs in the normal course of business from the proceeds of the sale of their investments or from the cash, and cash equivalents that they hold. The Funds’ liquidity needs include: redeeming their shares, providing margin deposits for existing Benchmark Component Instruments, the purchase of additional Benchmark Component Instruments, and paying expenses.
+
+-41-
+
+The Funds generate cash primarily from (i) the sale of Creation Baskets and (ii) interest earned on cash, and cash equivalents. Generally, all of the net assets of the Funds are allocated to trading in Benchmark Component Instruments. Most of the assets of the Funds are held in Freight Futures, cash and/or cash equivalents that could or are used as margin or collateral for trading in Benchmark Component Instruments. The percentage that such assets bear to the total net assets will vary from period to period as the market values of the Benchmark Component Instruments change. Interest earned on interest-bearing assets of the Funds is paid to the Funds. During the years ended June 30, 2024 and 2023, BDRY earned $1,816,833 and $1,255,773, respectively, in interest income. BWET earned $42,508 for the year ending June 30, 2024 and $4,478 in interest income for the period from May 3, 2023 (commencement of operations) to June 30, 2023.
+
+The investments of the Funds in Benchmark Component Instruments could be subject to periods of illiquidity because of market conditions, regulatory considerations and other reasons. Such conditions could prevent the Funds from promptly liquidating a position in Benchmark Component Instruments. Commodity exchanges may limit fluctuations in certain futures contract prices during a single day by regulations referred to as “daily limits.” During a single day, no futures trades may be executed at prices beyond the daily limit. Once the price of a futures contract has increased or decreased by an amount equal to the daily limit, positions in such futures contracts can neither be taken nor liquidated unless the traders are willing to effect trades at or within the limit. Futures contract prices have occasionally moved to the daily limit for several consecutive days with little or no trading. Such market conditions could prevent the Funds from promptly liquidating their futures positions.
+
+Because the Funds trade futures contracts, their capital is at risk due to changes in the value of these contracts (market risk) or the inability of counter-parties to perform under the terms of the contracts (credit risk).
+
+Market Risk
+
+Trading in Benchmark Component Instruments such as futures contracts will involve the Funds entering into contractual commitments to purchase or sell specific amounts of instruments at a specified date in the future. The gross or face amount of the contracts is expected to significantly exceed the future cash requirements of the Funds as the Funds intend to close out any open positions prior to the contractual expiration date. As a result, the Funds’ market risk is the risk of loss arising from the decline in value of the contracts, not from the need to make delivery under the contracts. The Funds consider the “fair value” of derivative instruments to be the unrealized gain or loss on the contracts. The market risk associated with the commitment by the Funds to purchase a specific contract will be limited to the aggregate face amount of the contracts held.
+
+The exposure of the Funds to market risk will depend on a number of factors including the markets for the specific instrument, the volatility of interest rates and foreign exchange rates, the liquidity of the instrument-specific market and the relationships among the contracts held by the Funds.
+
+-42-
+
+Credit Risk
+
+When the Funds enters into Benchmark Component Instruments, they will be exposed to the credit risk that the counterparty will not be able to meet its obligations. For purposes of credit risk, the counterparty for the Benchmark Component Instruments traded on or cleared by the futures exchanges is the clearinghouse associated with those exchanges. In general, clearinghouses are backed by their members who may be required to share in the financial burden resulting from the nonperformance of one of their members, which should significantly reduce credit risk. There can be no assurance that any counterparty, clearinghouse, or their financial backers will satisfy their obligations to the Funds.
+
+The Sponsor will attempt to minimize certain of these market and credit risks by normally:
+
+The Commodity Exchange Act (“CEA”) requires all FCMs, such as the Funds’ clearing brokers, to meet and maintain specified fitness and financial requirements, to segregate customer funds from proprietary funds and account separately for all customers’ funds and positions, and to maintain specified books and records open to inspection by the staff of the CFTC. The CFTC has similar authority over introducing brokers, or persons who solicit or accept orders for commodity interest trades but who do not accept margin deposits for the execution of trades. The CEA authorizes the CFTC to regulate trading by FCMs and by their officers and directors, permits the CFTC to require action by exchanges in the event of market emergencies, and establishes an administrative procedure under which customers may institute complaints for damages arising from alleged violations of the CEA. The CEA also gives the states powers to enforce its provisions and the regulations of the CFTC.
+
+On November 14, 2013, the CFTC published final regulations that require enhanced customer protections, risk management programs, internal monitoring and controls, capital and liquidity standards, customer disclosures and auditing and examination programs for FCMs. The rules are intended to afford greater assurances to market participants that customer segregated funds and secured amounts are protected, customers are provided with appropriate notice of the risks of futures trading and of the FCMs with which they may choose to do business, FCMs are monitoring and managing risks in a robust manner, the capital and liquidity of FCMs are strengthened to safeguard the continued operations and the auditing and examination programs of the CFTC and the self-regulatory organizations are monitoring the activities of FCMs in a thorough manner.
+
+-43-
+
+Off Balance Sheet Financing
+
+As of June 30, 2024, neither the Trust nor the Funds have any loan guarantees, credit support or other off-balance sheet arrangements of any kind other than agreements entered into in the normal course of business, which may include indemnification provisions relating to certain risks service providers undertake in performing services which are in the best interests of the Funds. While the exposure of the Funds under these indemnification provisions cannot be estimated, they are not expected to have a material impact on the financial position of the Funds.
+
+Redemption Basket Obligation
+
+Other than as necessary to meet the investment objective of the Funds and pay the contractual obligations described below, the Funds will require liquidity to redeem Redemption Baskets. The Funds intend to satisfy this obligation through the transfer of cash of the Funds (generated, if necessary, through the sale of Freight Futures) in an amount proportionate to the number of Shares being redeemed.
+
+Contractual Obligations
+
+The primary contractual obligations of the Funds will be with the Sponsor and certain other service providers.
+
+Breakwave Dry Bulk Shipping ETF
+
+BDRY pays a Sponsor Fee, monthly in arrears, in an amount equal to the greater of (i) 0.15% per year of the Fund’s average daily net assets; or (ii) $125,000. The Sponsor Fee is paid in consideration of the Sponsor’s management services to the Fund. BDRY also pays Breakwave a license and service fee (the “CTA Fee”) monthly in arrears, for the use of BDRY’s Benchmark Portfolio in an amount equal to 1.45% per annum of the Fund’s average daily net assets.
+
+Breakwave Tanker Shipping ETF
+
+BWET pays a Sponsor Fee, monthly in arrears, in an amount equal to the greater of (i) 0.30% per year of the Fund’s average daily net assets; or (ii) $50,000. The Sponsor Fee is paid in consideration of the Sponsor’s management services to the Fund. BWET also pays Breakwave a license and service fee (the “CTA Fee”) monthly in arrears, for the use of BWET’s Benchmark Portfolio in an amount equal to 1.45% per annum of the Fund’s average daily net assets.
+
+Both Funds
+
+Breakwave has agreed to waive its license and services fee and the Sponsor has agreed to correspondingly assume the remaining expenses of the Funds so that each Fund’s expenses do not exceed an annual rate of 3.50%, excluding brokerage commissions, interest expense, and extraordinary expenses, of the value of the Funds’ average daily net assets (the “Expense Cap”). The assumption of expenses and waiver of the license and services fee are contractual on the part of the Sponsor and Breakwave, respectively, through December 31, 2024. If after that date, the Sponsor and/or Breakwave no longer assumed expenses or waived the CTA Fee, respectively, the Funds could be adversely impacted, including in their ability to achieve their investment objectives.
+
+-44-
+
+The Funds currently accrue their daily expenses based on accrued expense amounts established and monitored by the Sponsor, subject to the Expense Cap. At the end of each month, the accrued amount is remitted to the Sponsor as the Sponsor has assumed, and is responsible for the payment of, the routine operational, administrative and other ordinary expenses of the Funds. BDRY aggregated $435,119 and $734,699, of which $23,879 and $-0- was waived by Breakwave for the three months ended June 30, 2024 and 2023, respectively. BWET aggregated $116,064 and $123,053, of which $90,114 and $7,574 was waived by Breakwave for the three months ended June 30, 2024, and for the period from May 3, 2023 (commencement of operations) to June 30, 2023. In addition, expenses assumed by the Sponsor for BDRY aggregated $-0-and $-0- for the three months ended June 30, 2024 and 2023, respectively. For BWET, the Sponsor assumed $-0-and $77,450 of expenses for the three months ended June 30, 2024, and for the period from May 3, 2023 (commencement of operations) to June 30, 2023. Note that the expenses assumed for the period from May 3, 2023 (commencement of operations) to June 30, 2023 were assumed by the Former Sponsor.
+
+Each Funds’ ongoing fees, costs and expenses of its operation, not subject to the Expense Cap include brokerage, brokerage interest and regulatory capital charges and other fees and commissions incurred in connection with the trading activities of the Funds, and extraordinary expenses (including, but not limited to, legal claims and liabilities and litigation costs and any indemnification related thereto). Expenses subject to the Expense Cap include (i) expenses incurred in connection with registering additional Shares of the Funds or offering Shares of the Funds; (ii) the routine expenses associated with the preparation and, if required, the printing and mailing of monthly, quarterly, annual and other reports required by applicable U.S. federal and state regulatory authorities, Trust meetings and preparing, printing and mailing proxy statements to Shareholders; (iii) the routine services of the Trustee, legal counsel and independent accountants; (iv) routine accounting, bookkeeping, custodial and transfer agency services, whether performed by an outside service provider or by affiliates of the Sponsor; (v) postage and insurance; (vi) costs and expenses associated with client relations and services; (vii) costs of preparation of all federal, state, local and foreign tax returns and any taxes payable on the income, assets or operations of the Funds.
+
+While the Sponsor has agreed to pay registration fees to the SEC and any other regulatory agency in connection with the offer and sale of the Shares offered through each Fund’s prospectus, the legal, printing, accounting and other expenses associated with such registration, and the initial fee of $7,500 for listing the Shares on the NYSE Arca, each Fund will be responsible for any registration fees and related expenses incurred in connection with any future offer and sale of Shares of the Funds in excess of those offered through its prospectus.
+
+Any general expenses of the Trust will be allocated among the Funds and any other series of the Trust as determined by the Sponsor in its sole and absolute discretion. The Trust is also responsible for extraordinary expenses, including, but not limited to, legal claims and liabilities and litigation costs and any indemnification related thereto. The Trust and/or the Sponsor may be required to indemnify the Trustee, Distributor or Administrator under certain circumstances.
+
+The parties cannot anticipate the amount of payments that will be required under these arrangements for future periods as the NAV and trading levels to meet investment objectives for the Funds will not be known until a future date. These agreements are effective for a specific term agreed upon by the parties with an option to renew, or, in some cases, are in effect for the duration of a Fund’s existence. The parties may terminate these agreements earlier for certain reasons listed in the agreements.
+
+Item 7A. Quantitative and Qualitative

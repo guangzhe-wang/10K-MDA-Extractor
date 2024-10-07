@@ -1,0 +1,787 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+CAUTIONARY STATEMENT PURSUANT TO THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995
+
+This Annual Report on Form 10-K ("Form 10-K") contains statements that are considered forward-looking statements. Forward-looking statements give the Company's current expectations and forecasts of future events. All statements other than statements of current or historical fact contained in this Annual Report, including statements regarding the Company's future financial position, business strategy, budgets, projected costs and plans, and objectives of management for future operations, are forward-looking statements. The words “anticipate,” “believe,” “continue,” “estimate,” “expect,” “intend,” “may,” “plan,” and similar expressions, as they relate to the Company, are intended to identify forward-looking statements. These statements are based on the Company's current plans, estimates and beliefs, and the Company's actual future activities and results of operations may be materially different from those set forth in the forward-looking statements. These forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from the statements made. Any or all of the forward-looking statements in this Annual Report may turn out to be inaccurate. The Company has based these forward-looking statements largely on its current expectations and projections about future events and financial trends that it believes may affect its financial condition, results of operations, business strategy, and financial needs. The forward-looking statements can be affected by inaccurate assumptions or by known or unknown risks and uncertainties. The Company undertakes no obligation to publicly revise these forward-looking statements to reflect events occurring after the date hereof. All subsequent written and oral forward-looking statements attributable to the Company or persons acting on its behalf are expressly qualified in their entirety by the cautionary statements contained in this Form 10-K.
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the consolidated financial statements and notes contained elsewhere in this Form 10-K. This discussion contains forward-looking statements that reflect our plans, estimates and beliefs. Our actual results could differ materially from those discussed in these forward-looking statements. Factors that could cause or contribute to these differences include those factors discussed below and elsewhere in this Annual Report, particularly in “Risk Factors.”
+
+INTRODUCTION
+
+Management's discussion and analysis of financial condition and results of operations is provided as a supplement to the accompanying consolidated financial statements and related notes to aid in the understanding of our results of operations and financial condition. We have omitted discussion of our fiscal year 2022 results where it would be redundant to the discussion previously included in Item 7 of our fiscal year 2023 Annual Report on Form 10-K. Our discussion is organized as follows:
+
+•
+
+Executive overview. This section provides a general description of our business, as well as significant transactions and events that we believe are important in understanding the results of operations.
+
+•
+
+Results of operations. This section provides an analysis of our results of operations presented in the accompanying consolidated statements of income by comparing the results for the respective periods presented. Included in our analysis is a discussion of seven performance metrics:
+
+o
+
+(i) ounces of gold and silver sold, 
+
+o
+
+(ii) Wholesale Sales ticket volume, 
+
+o
+
+(iii) Direct-to-Consumer ticket volume:
+
+•
+
+(a) Direct-to-Consumer ticket volume from new customers,
+
+•
+
+(b) Direct-to-Consumer ticket volume from pre-existing customers,
+
+•
+
+(c) Direct-to-Consumer total ticket volume,
+
+o
+
+(iv) Direct-to-Consumer and JMB average order value,
+
+o
+
+(v) number of Direct-to-Consumer customers:
+
+•
+
+(a) Direct-to-Consumer number of new customers,
+
+•
+
+(b) Direct-to-Consumer number of active customers,
+
+•
+
+(c) Direct-to-Consumer total customers,
+
+o
+
+(vi) inventory turnover ratio, and 
+
+o
+
+(vii) number of secured loans at period-end.
+
+•
+
+Segment results of operations. This section provides an analysis of our results of operations presented for our three segments:
+
+o
+
+Wholesale Sales & Ancillary Services,
+
+o
+
+Direct-to-Consumer, and
+
+o
+
+Secured Lending
+
+comparing results for the periods presented.
+
+•
+
+Non-GAAP Measures. This section provides an analysis of our non-GAAP measures with a reconciliation to the most directly comparable U.S. Generally Accepted Accounting Principles (“U.S. GAAP”) measure reported on the consolidated financial statements. The Company uses the following two non-GAAP measures:
+
+o
+
+"adjusted net income before provision for income taxes", and
+
+o
+
+"earnings before interest, taxes, depreciation, and amortization", or "EBITDA".
+
+•
+
+Liquidity and financial condition. This section provides an analysis of our cash flows, as well as a discussion of our outstanding debt as of June 30, 2024, sources of liquidity and the amount of financial capacity available to fund our future commitments and other financing arrangements.
+
+•
+
+Critical accounting policies and estimates. This section discusses critical accounting policies that are considered both important to our financial condition and results of operations and require management to make significant judgment and estimates. All of our significant accounting policies, including the critical accounting policies, are summarized in Note 2 to the Company’s consolidated financial statements.
+
+•
+
+Recent accounting pronouncements. This section discusses new accounting pronouncements, dates of implementation, and their expected impact on our accompanying consolidated financial statements.
+
+EXECUTIVE OVERVIEW
+
+Our Business
+
+The Company conducts its operations in three reportable segments: (i) Wholesale Sales & Ancillary Services, (ii) Direct-to-Consumer, and (iii) Secured Lending.
+
+Wholesale Sales & Ancillary Services Segment
+
+The Company operates its Wholesale Sales & Ancillary Services segment directly and through its consolidated subsidiaries, A-Mark Trading AG (“AMTAG”), Transcontinental Depository Services, LLC ("TDS" or “Storage”), A-M Global Logistics, LLC (“AMGL” or "Logistics"), AM&ST Associates, LLC ("AMST" or the “Silver Towne Mint"), and AM/LPM Ventures, LLC, which we formed in February 2024 to acquire LPM Group Limited ("LPM").
+
+The Wholesale Sales & Ancillary Services segment operates as a full-service precious metals company. We offer gold, silver, platinum, and palladium in the form of bars, plates, powder, wafers, grain, ingots, and coins. Our Industrial unit services manufacturers and fabricators of products utilizing or incorporating precious metals. Our Coin and Bar unit deals in approximately 2,100 coin and bar products in a variety of weights, shapes, and sizes for distribution to dealers and other qualified purchasers. We have a marketing support office in Vienna, Austria, a numismatics showroom in Hong Kong, and a trading center in El Segundo, California. The trading center, for buying and selling precious metals, is available to receive orders 24 hours every day, even when many major world commodity markets are closed. In addition to Wholesale Sales activity, A-Mark offers its customers a variety of ancillary services, including financing, storage, consignment, logistics, and various customized financial programs. As a U.S. Mint-authorized purchaser of gold, silver, platinum, and palladium coins, A-Mark purchases product directly from the U.S. Mint, and it also purchases product from other sovereign mints, for sale to its customers.
+
+Through its wholly-owned subsidiary AMTAG, the Company promotes its products and services to certain international markets. Through our wholly-owned subsidiary TDS, we offer a variety of managed storage options for precious metals products to financial institutions, dealers, investors, and collectors around the world.
+
+The Company's wholly-owned subsidiary AMGL is based in Las Vegas, Nevada, and provides our customers an array of complementary services, including receiving, handling, inventorying, processing, packing, and shipping of precious metals and custom coins on a secure basis.
+
+Through its wholly-owned subsidiary AMST, the Company designs and produces minted silver products. Our Silver Towne Mint operations allow us to provide greater product selection to our customers and greater pricing stability within the supply chain, as well as to gain increased access to fabricated silver products during volatile market environments, which have historically created higher demand for precious metals products.
+
+In February 2024, the Company acquired LPM, one of Asia's largest precious metals dealers. Headquartered in Hong Kong, LPM extends A-Mark's global reach by offering its full-service precious metals products and services in Asia and internationally.
+
+Direct-to-Consumer
+
+The Company operates its Direct-to-Consumer segment through its wholly-owned subsidiaries JM Bullion, Inc. (“JMB”) and Goldline, Inc. (“Goldline”), and through its investment in Silver Gold Bull, Inc. ("SGB"). JMB currently has six wholly-owned subsidiaries: Buy Gold and Silver Corp. ("BGASC"), BX Corporation ("BullionMax"), Gold Price Group, Inc. (“GPG”), Silver.com, Inc. (“Silver.com”), Provident Metals Corp. (“PMC”), and CyberMetals Corp. ("CyberMetals"). Goldline owns 100% of AMIP, LLC ("AMIP"). SGB and Goldline each have a 50% ownership interest in Precious Metals Purchasing Partners, LLC ("PMPP"). As the context requires, references to JMB may include BGASC, BullionMax, GPG, Silver.com, PMC, and CyberMetals and references to Goldline may include AMIP and PMPP.
+
+JMB is a leading e-commerce retailer providing access to a broad array of gold, silver, copper, platinum, and palladium products through its websites. JMB owns and operates numerous websites targeting specific niches within the precious metals retail market, including JMBullion.com, ProvidentMetals.com, Silver.com, CyberMetals.com, GoldPrice.org, SilverPrice.org, BGASC.com, BullionMax.com, and Gold.com.
+
+In April 2022, JMB commercially launched the CyberMetals online platform, where customers can purchase and sell fractional shares of digital gold, silver, platinum, and palladium bars in a range of denominations. CyberMetals’ customers have the option to convert their digital holdings to fabricated precious metals products via an integrated redemption flow with JMB. These products may be designated for storage by the Company or shipped directly to the customer.
+
+The Company acquired Goldline in August 2017 through an asset purchase transaction with Goldline, LLC, which had been in operation since 1960. Goldline is a direct retailer of precious metals to the investor community, and markets its precious metal products on television, radio, and the internet, as well as through customer service outreach. AMIP manages Goldline’s intellectual property.
+
+PMPP was formed in fiscal 2019 pursuant to terms of a joint venture agreement between Goldline and SGB, for the purpose of purchasing precious metals from the partners' retail customers, and then reselling the acquired products back to affiliates of the partners. PMPP commenced operations in fiscal 2020.
+
+In 2014, the Company acquired its initial ownership interest in SGB, a leading e-commerce precious metals retailer in Canada, increasing its ownership to 55.4% in June 2024. Our investment in SGB expands our direct-to-consumer footprint in the international market. SGB's financial results and performance metrics have been included in our consolidated financial results from June 21, 2024, the date we obtained a controlling ownership interest in SGB, and SGB became a consolidated subsidiary of the Company. Through its website, SilverGoldBull.com, SGB offers a variety of products from gold, silver, platinum, and palladium bars, coins and rounds, as well as certified coins from mints around the world.
+
+Secured Lending
+
+The Company operates its Secured Lending segment through its wholly-owned subsidiary, Collateral Finance Corporation, LLC, including its wholly-owned subsidiary, CFC Alternative Investments (“CAI”) (collectively “CFC”).
+
+CFC is a California licensed finance lender that originates and acquires commercial loans secured primarily by bullion and numismatic coins. CFC's customers include coin and precious metal dealers, investors, and collectors. As of June 30, 2024, CFC had approximately $113.1 million in secured loans outstanding, of which approximately 14.6% were acquired from third parties (some of which may be customers of A-Mark) and approximately 85.4% were originated by CFC.
+
+CAI is a holding company that has an equity method interest in Collectible Card Partners, LLC (“CCP”). CCP originates commercial loans secured by graded sports cards. CCP commenced operations in fiscal 2022.
+
+AM Capital Funding, LLC (“AMCF”), previously a wholly-owned subsidiary of CFC, was formed for the purpose of securitizing eligible secured loans of CFC. AMCF issued and administered Secured Senior Term Notes: Series 2018-1, Class A, with an aggregate principal amount of $72.0 million and Secured Subordinated Term Notes, Series 2018-1, Class B in the aggregate principal amount of $28.0 million (collectively referred to as the "AMCF Notes"). The AMCF Notes were repaid in full in December 2023. AMCF was dissolved in June 2024. See Note 15 to the Company’s consolidated financial statements for additional information.
+
+Our Strategy
+
+The Company was formed in 1965 and has grown into a significant participant in the bullion and coin markets, with $9.7 billion in revenues for fiscal year 2024. We have remained active in seeking investment opportunities to strategically enhance our business, and also continue to focus on growth in the volume of our business, our geographic presence, and the scope of complementary products, services, and technological tools that we offer to our customers. In doing so, we seek to leverage off the strengths of our existing integrated operations, which span trading, distribution, logistics, minting, storage, hedging, financing, and consignment products and services, including:
+
+•
+
+our expertise in e-commerce and marketing;
+
+•
+
+the depth of our customer relationships and our ability to acquire and retain new customers;
+
+•
+
+our long-standing relationships with the United States Mint and other sovereign and private mints; 
+
+•
+
+our access to market makers and suppliers;
+
+•
+
+our global trading systems; 
+
+•
+
+our network of precious metals dealers;
+
+•
+
+our depository relationships around the world;
+
+•
+
+our design and production of minted silver products; 
+
+•
+
+our ability to obtain more favorable pricing and financing terms due to our size;
+
+•
+
+our ability to manage exposure to commodity price risk through our experienced traders;
+
+•
+
+our distribution, storage and logistics capabilities; 
+
+•
+
+our knowledge of secured lending; and 
+
+•
+
+the quality and experience of our management team.
+
+Our Customers
+
+Our customers include financial institutions, bullion retailers, industrial manufacturers and fabricators, sovereign mints, refiners, coin and metal dealers, investors, collectors, and e-commerce and other retail customers. The Company makes a two-way market in its wholesale operations, which results in many customers also operating as our suppliers in that segment. This diverse base of wholesale customers purchases a variety of products from the Company in a multitude of grades, primarily in the form of coins and bars. Our Direct-to-Consumer segment sells to (and, through JMB and PMPP, buys from) retail customers, with JMB and SGB focusing on e-commerce operations and Goldline marketing through various traditional and e-commerce channels to the investor community. The Direct-to-Consumer segment offers these customers a variety of gold, silver, copper, platinum, and palladium products.
+
+Factors Affecting Revenues, Gross Profit, Interest Income, and Interest Expense
+
+Set forth below are the key factors affecting the Company’s revenues, gross profit, interest income, and interest expense. These factors may be attributable to both the Company’s ongoing business activities as well as from Company acquisitions.
+
+Revenues. The Company enters into transactions to sell and deliver gold, silver, platinum, and palladium to industrial and commercial users, coin and bullion dealers, mints, and financial institutions. The metals are investment or industrial grade and are sold in a variety of shapes and sizes.
+
+The Company also sells and delivers gold, silver, platinum, palladium, and copper products directly to customers and the investor community through its Direct-to Consumer segment. Customers may place orders online at one of the Company's websites or over the phone.
+
+The Company sells precious metals on forward contracts at a fixed price based on current prevailing precious metal spot prices with a certain delivery date in the future (up to six months from inception date of the forward contract). The Company also uses other derivative products (primarily futures contracts) or combinations thereof to hedge commodity risks. We enter into these forward and futures contracts as part of our hedging strategy to mitigate our price risk of holding inventory; they are not entered into for speculative purposes.
+
+Forward sales contracts by their nature are required to be included in revenues, unlike futures contracts which do not impact the Company’s revenue. The decision to use a forward contract versus another derivative type of product (e.g., a futures contract) for hedging purposes is based on the economics of the transaction. Since the volume of hedging can be significant, the movement in and out of forwards can substantially impact revenues, either positively or negatively, from period to period. For this reason, the Company believes ounces sold (excluding ounces sold on forward sales contracts) is a meaningful metric to assess our top line performance.
+
+In addition, the Company earns revenue by providing storage solutions for precious metals and numismatic coins for financial institutions, dealers, investors, and collectors worldwide and by providing storage and order-fulfillment services to our retail customers. The Company also earns revenue from advertisements placed on our Direct-to-Consumer websites. These revenue streams represent less than 1% of the Company’s consolidated revenues.
+
+The Company operates in a high volume/low margin industry. Revenues are impacted by three primary factors: product volume, market prices, and market volatility. A material change in any one or more of these factors may result in a significant change in the Company’s revenues. A significant increase or decrease in revenues can occur simply based on changes in the underlying commodity prices and may not be reflective of an increase or decrease in the volume of products sold.
+
+Gross Profit. Gross profit is the difference between our revenues and the cost of our products sold. Since we quote prices based on the current commodity market prices for precious metals, we enter into a combination of forward and futures contracts to effect a hedge position equal to the underlying precious metal commodity value, which substantially represents inventory subject to price risk. We enter into these derivative transactions solely for the purpose of hedging our inventory, and not for speculative purposes. Our gross profit includes the gains and losses resulting from these derivative instruments. However, the gains and losses on the derivative instruments are substantially offset by the gains and losses on the corresponding changes in the market value of our precious metals inventory. As a result, our results of operations generally are not materially impacted by changes in commodity prices.
+
+Interest Income. The Company enters into secured loans and secured financing structures with its customers under which it charges interest. CFC originates loans and acquires loan portfolios that are secured by precious metal bullion and numismatic material owned by the borrowers and held by the Company for the term of the loan. Also, the Company offers a number of secured financing options to its customers to finance their precious metals purchases including consignments and other structured inventory finance products whereby the Company earns a fee based on the underlying value of the precious metal ("repurchase arrangements with customers").
+
+Interest Expense. The Company incurs interest expense associated with its lines of credit, notes payable, product financing agreements for the transfer and subsequent re-acquisition of gold, silver, and platinum at a fixed price with a third-party finance company ("product financing arrangements"), and short-term precious metal borrowing arrangements with our suppliers ("liabilities on borrowed metals").
+
+Performance Metrics
+
+In addition to financial statement indicators, management also utilizes key operational metrics to assess the performance of our business. SGB's performance metrics have been included in our consolidated financial results from June 21, 2024, the date we obtained a controlling ownership interest in SGB, and SGB became a consolidated subsidiary of the Company.
+
+Gold and Silver Ounces Sold and Delivered to Customers. A key performance metric we utilize is the number of ounces of gold and silver sold and delivered to our customers (excluding ounces recorded on forward contracts). These metrics reflect our business volume without regard to changes in commodity pricing, which also impacts revenue, but can mask actual business trends.
+
+The primary purpose of entering into forward sales transactions is to hedge commodity price risk. Although the revenues realized from these forward sales transactions are often significant, they generally have negligible impact on gross margins. As a result, the Company excludes the ounces recorded on forward contracts from its performance metrics, as the Company does not enter into forward sales transactions for speculative purposes.
+
+Wholesale Sales Ticket Volume. Another measure of our business that is unaffected by changes in commodity pricing is ticket volume (or number of orders processed). Ticket volume for the Wholesale Sales & Ancillary Services segment measures the total number of wholesale orders processed during the period. In periods of higher volatility, there is generally increased trading in the commodity markets, causing increased demand for our products, resulting in higher business volume. During periods of heightened demand, order size per ticket may increase.
+
+Direct-to-Consumer Customers. We are focused on attracting new customers and retaining existing customers to drive revenue growth. We use the following three metrics as revenue growth indicators when assessing our customer base:
+
+•
+
+New Direct-to-Consumer Customers means the number of customers that have registered or set up a new account, made a purchase for the first time during the period, or acquired through investment activity.
+
+•
+
+Active Direct-to-Consumer Customers means the number of customers that have made a purchase during any month during the period.
+
+•
+
+Total Direct-to-Consumer Customers means the aggregate number of customers that have registered or set up an account or have made a purchase in the past.
+
+Direct-to-Consumer Ticket Volume. Ticket volume for the Direct-to-Consumer segment measures the number of product orders processed during the period. In periods of higher volatility, there is generally increased consumer demand for our products, resulting in higher business volume. We use the following three metrics indicators when assessing our ticket volume:
+
+•
+
+Ticket Volume from New Direct-to-Consumer Customers means the number of product orders from new customers (refer to the definition of new customers above) processed by JMB, Goldline, SGB, and PMPP during the period.
+
+•
+
+Ticket Volume from Pre-existing Direct-to-Consumer Customers means the number of product orders from pre-existing customers, processed by JMB, Goldline, SGB, and PMPP during the period.
+
+•
+
+Total Ticket Volume from Direct-to-Consumer Customers means the aggregate number of product orders processed by JMB, Goldline, SGB, and PMPP during the period.
+
+Average Order Value. Average order value for the Direct-to-Consumer segment and JMB measures the average dollar value of product orders (excluding accumulation program orders) delivered to the customer during the period.
+
+Inventory Turnover. Inventory turnover is another performance measure on which we are focused and is calculated as the cost of sales divided by the average inventory during the relevant period. Inventory turnover is a measure of how quickly inventory has moved during the period. A higher inventory turnover ratio, which we typically experience during periods of higher volatility when trading is more robust, typically reflects a more efficient use of our capital.
+
+The period of time that inventory is held by the Company varies depending upon the nature of our inventory commitments with customers and suppliers. See Note 6 to the Company’s consolidated financial statements for a description of our classifications of inventory by type. When management analyzes inventory turnover on a period over period basis, consideration is given to each inventory type and its corresponding impact on the inventory turnover calculation. For example:
+
+•
+
+The Company enters into various structured borrowing arrangements that commit the Company's inventory (such as product financing arrangements or liabilities on borrowed metals) for an unspecified period of time. While the Company is able to obtain access to this inventory on demand, this type of inventory tends not to turn over as quickly as other types of inventory.
+
+•
+
+The Company enters into repurchase arrangements with customers under which it holds precious metals which are subject to repurchase for an unspecified period of time. While the Company has legal title to this inventory, the Company is required to hold this inventory (or like-kind inventory) for the customer until the arrangement is terminated or the material is repurchased by the customer. As a result, this type of inventory tends not to turn over as quickly as other types of inventory.
+
+Additionally, our inventory turnover ratio can be affected by hedging activity, as the period over period change of the inventory turnover ratio may be significantly impacted by a period over period change in hedging volume. For example, if trading activity were to remain constant over two periods, but there were significantly higher forward sales in the current period compared to a prior period, the calculated inventory turnover ratio would increase notwithstanding the constancy of the trading volume.
+
+Number of Secured Loans. Finally, as a measure of the size of our Secured Lending segment, we utilize the number of outstanding secured loans to customers that are primarily collateralized by precious metals at the end of each quarter.
+
+The Company calculates a loan-to-value ("LTV") ratio for each loan as the principal amount of the loan divided by the liquidation value of the collateral, which is based on daily spot market prices of precious metal bullion. When the market price of the pledged collateral decreases and thereby increases the LTV ratio of a loan above a prescribed maximum ratio, usually 85%, the Company has the option to make a margin call on the loan. As a result, a decline of precious metal market prices may cause a decrease in the number of loans outstanding in a period.
+
+Non-GAAP Measures
+
+In addition to key operational metrics that are used to assess the performance of our business, management also uses non-GAAP financial performance and liquidity measures. We believe "adjusted net income before provision for income taxes” and "EBITDA" can provide useful information to evaluate our financial performance and liquidity position. Non-GAAP measures do not have standardized definitions and should not be a substitute for measures that are prepared in accordance with U.S. GAAP. For a reconciliation of these non-GAAP measures to the most directly comparable U.S. GAAP measure reported in our consolidated statements of income and consolidated statements of cash flows and a discussion of certain limitations inherent in such measures, refer to the “Non-GAAP Measures” section below.
+
+Fiscal Year
+
+Our fiscal year end is June 30 each year.
+
+Macroeconomic Volatility
+
+Continued macroeconomic uncertainty and the volatility in the financial markets in recent years have positively affected the Company’s trading revenues and gross profit as the volatility of the price of precious metals and numismatics typically results in an increase in the spread between bid and ask prices on these products. Although conditions may fluctuate from period to period, when volatility is high, we historically experience increased demand for products in each of our coin and bar, industrial, and retail businesses. While macroeconomic uncertainty continues to impact our business, its effects have been less pronounced in the current fiscal year. The Company cannot predict the periods during which such increased volatility will occur or the level of such increased volatility, the effect of such volatility and macroeconomic uncertainty on the Company, or whether other effects on the Company and its businesses will materialize in the short or long term.
+
+RESULTS OF OPERATIONS
+
+Overview of Results of Operations
+
+Consolidated Results of Operations for the Years Ended June 30, 2024 and 2023
+
+The operating results of our business were as follows (in thousands, except per share and performance metrics data):
+
+See "Results of Segments" for a description of additional metrics not listed above.
+
+Gold ounces sold represents the ounces of gold product sold and delivered to the customer during the period, excluding ounces of gold recorded on forward contracts.
+
+Silver ounces sold represents the ounces of silver product sold and delivered to the customer during the period, excluding ounces of silver recorded on forward contracts.
+
+Inventory turnover ratio is the cost of sales divided by average inventory for the period presented above. This calculation excludes precious metals held under financing arrangements, which are not classified as inventory on the consolidated balance sheets.
+
+Number of outstanding secured loans to customers that are primarily collateralized by precious metals at the end of the period.
+
+Revenues
+
+Revenues for the year ended June 30, 2024 increased $412.5 million, or 4.4%, to $9.699 billion from $9.287 billion in 2023. Excluding an increase of $1.561 billion of forward sales, our revenues decreased $1.148 billion, or 16.7%, which was due to a decrease in gold and silver ounces sold, partially offset by higher average selling prices of gold and silver.
+
+Gold ounces sold for the year ended June 30, 2024 decreased 828,000 ounces, or 31.0%, to 1,839,000 ounces from 2,667,000 ounces in 2023. Silver ounces sold for the year ended June 30, 2024 decreased 48,137,000 ounces, or 30.8%, to 108,096,000 ounces from 156,233,000 ounces in 2023. On average, the selling prices for gold increased by 11.4% and selling prices for silver increased by 11.0% during the year ended June 30, 2024 as compared to the prior year.
+
+JMB's revenue represented 13.6% and 19.4% of the Company's consolidated revenue for the years ended June 30, 2024 and 2023, respectively.
+
+Gross Profit
+
+Gross profit for the year ended June 30, 2024 decreased $121.4 million, or 41.2%, to $173.3 million from $294.7 million in 2023. The overall gross profit decrease was due to lower gross profits earned from both the Wholesale Sales & Ancillary Services and Direct-to-Consumer segments.
+
+The Company’s overall gross margin percentage for the year ended June 30, 2024 decreased by 138.7 basis points to 1.786% from 3.173% in 2023. Excluding an increase of $1.561 billion of forward sales that had a negligible impact to the amount of gross profit, our gross margin percentage for the year ended June 30, 2024 decreased by 126.2 basis points to 3.029% from 4.291%, which was primarily due to lower premium spreads, partially offset by higher trading profits. JMB’s retail market activity represented 40.6% and 48.5%, respectively, of the Company’s consolidated gross profit for the years ended June 30, 2024 and 2023.
+
+Our inventory turnover ratio for the year ended June 30, 2024 decreased by 12.4% to 9.2 from 10.5 in 2023. The decrease in our inventory turnover ratio was primarily due to higher average inventory balances held under product financing arrangements, partially offset by higher forward sales.
+
+Selling, General, and Administrative Expense
+
+Selling, general, and administrative expenses for the year ended June 30, 2024 increased $4.5 million, or 5.3%, to $89.8 million from $85.3 million in 2023. The change was primarily due to: (i) an increase in consulting and professional fees of $5.3 million and (ii) an increase in information technology costs of $1.0 million, partially offset by (iii) a decrease in insurance costs of $0.9 million, (iv) a decrease in compensation expense (including performance-based accruals) of $0.7 million, and (v) a decrease in advertising costs of $0.7 million.
+
+Depreciation and Amortization Expense
+
+Depreciation and amortization expense for the year ended June 30, 2024 decreased $1.1 million, or 9.0%, to $11.4 million from $12.5 million in 2023 primarily due to (i) a $2.2 million decrease in JMB’s intangible asset amortization expense, partially offset by (ii) a $0.6 million increase in depreciation expense related to our property, plant and equipment and (iii) $0.5 million of amortization expense relating to intangible assets acquired through our acquisition of LPM and acquisition of a controlling interest in SGB.
+
+Interest Income
+
+Interest income for the year ended June 30, 2024 increased $4.9 million, or 22.2%, to $27.2 million from $22.2 million in 2023. The aggregate increase in interest income was primarily due to an increase in other finance product income of $3.2 million and an increase in interest income earned by our Secured Lending segment of $1.7 million.
+
+The interest income from our Secured Lending segment increased by $1.7 million, or 17.8%, compared with the prior year period. The increase in interest income earned from the segment’s secured loan portfolio was primarily due to an increase in interest rates and higher average monthly loan balances, partially offset by fewer loans outstanding. The number of secured loans outstanding decreased by 33.3% to 588 as of June 30, 2024, from 882 as of June 30, 2023.
+
+Interest Expense
+
+Interest expense for the year ended June 30, 2024 increased $8.0 million, or 25.4%, to $39.5 million from $31.5 million in 2023. The increase in interest expense was primarily driven by each of the following components: (i) an increase of $8.4 million associated with our Trading Credit Facility due to an increase in interest rates as well as increased borrowings and (ii) an increase of $3.0 million related to product financing arrangements, partially offset by (iii) a decrease of $3.2 million related to the AMCF Notes (including amortization of debt issuance costs) due to the repayment in December 2023 and (iv) a $0.5 million decrease in loan servicing fees.
+
+Earnings from Equity Method Investments
+
+Earnings from equity method investments for the year ended June 30, 2024 decreased $8.5 million, or 67.8%, to $4.0 million from $12.6 million in 2023 due to decreased earnings of our equity method investees.
+
+Other Income, Net
+
+Other income, net for the year ended June 30, 2024 decreased $0.6 million, or 22.2%, to $2.1 million from $2.7 million in 2023. The decrease in other income, net was not significant.
+
+Remeasurement Gain on Pre-Existing Equity Interest
+
+The remeasurement gain on pre-existing equity interest was recognized in connection with the acquisition of a controlling interest in SGB in June 2024. The Company’s estimated fair value of its 47.4% pre-existing equity interest in SGB was determined to be approximately $56.8 million at the acquisition date. Based on the total consideration paid of $128.8 million, as well as adjustments to our option to acquire additional equity interest in SGB and the derecognition of our cumulative translation balances related to SGB, the remeasurement resulted in a gain of $16.7 million. For additional information about our most recent acquisition see Note 1 to the Company’s consolidated financial statements.
+
+Income Tax Expense
+
+Our income tax expense was $13.7 million and $46.4 million for the years ended June 30, 2024 and 2023, respectively. Our effective tax rate was approximately 16.6% and 22.8% for the years ended June 30, 2024 and 2023, respectively. For the year ended June 30, 2024, our effective tax rate differed from the federal statutory rate primarily due to a one-time adjustment related to the SGB step acquisition, the excess tax benefit from share-based compensation, foreign derived intangible income special deduction and partially offset by state taxes (net of federal tax benefit), Section 162(m) executive compensation disallowance, and other normal course non-deductible expenditures. For the year ended June 30, 2023, our effective tax rate differed from the federal statutory rate primarily due to the excess tax benefit from share-based compensation, foreign derived intangible income special deduction, offset by state taxes (net of federal tax benefit), Section 162(m) executive compensation disallowance, and other normal course non-deductible expenditures.
+
+SEGMENT RESULTS OF OPERATIONS
+
+The Company conducts its operations in three reportable segments: (i) Wholesale Sales & Ancillary Services, (ii) Direct-to-Consumer, and (iii) Secured Lending.
+
+Results of Operations — Wholesale Sales & Ancillary Services Segment
+
+The Company operates its Wholesale Sales & Ancillary Services segment directly and through its consolidated subsidiaries, A-Mark Trading AG (“AMTAG”), Transcontinental Depository Services ("TDS"), A-M Global Logistics, LLC ("Logistics"), AM&ST Associates, LLC ("AMST" or "Silver Towne" or the "Mint"), and AM/LPM Ventures, LLC, which we formed in February 2024 to acquire LPM Group Limited ("LPM"). The Wholesale Sales & Ancillary Services segment includes the consolidating eliminations of inter-segment transactions and unallocated segment adjustments.
+
+Overview of Results of Operations for the Years Ended June 30, 2024 and 2023
+
+— Wholesale Sales & Ancillary Services Segment
+
+The operating results of our Wholesale Sales & Ancillary Services segment were as follows (in thousands, except performance metrics data):
+
+(a)
+
+Revenues are presented net of inter-segment transactions with the Direct-to-Consumer segment that totaled $1.006 billion. This segment’s gross sales before eliminations of inter-segment activity totaled $9.253 billion.
+
+(b)
+
+Revenues are presented net of inter-segment transactions with the Direct-to-Consumer segment that totaled $1.464 billion. This segment’s gross sales before eliminations of inter-segment activity totaled $8.754 billion.
+
+(c)
+
+Gross profit percentage before elimination of inter-segment sales to the Direct-to-Consumer segment was 0.916% for the period.
+
+(d)
+
+Gross profit percentage before elimination of inter-segment sales to the Direct-to-Consumer segment was 1.449% for the period.
+
+Gold ounces sold represents the ounces of gold product sold and delivered to the customer during the period, excluding ounces of gold recorded on forward contracts.
+
+Silver ounces sold represents the ounces of silver product sold and delivered to the customer during the period, excluding ounces of silver recorded on forward contracts.
+
+Wholesales Sales ticket volume represents the total number of product orders processed.
+
+Revenues — Wholesale Sales & Ancillary Services
+
+(a)
+
+Revenues are presented net of inter-segment transactions with the Direct-to-Consumer segment that totaled $1.006 billion. This segment’s gross sales before eliminations of inter-segment activity totaled $9.253 billion.
+
+(b)
+
+Revenues are presented net of inter-segment transactions with the Direct-to-Consumer segment that totaled $1.464 billion. This segment’s gross sales before eliminations of inter-segment activity totaled $8.754 billion.
+
+Revenues for the year ended June 30, 2024 increased $958.2 million, or 13.1%, to $8.247 billion from $7.289 billion in 2023. Excluding an increase in forward sales of $1.561 billion, our revenues decreased $602.6 million, which was due to a decrease in gold and silver ounces sold, partially offset by higher average selling prices of gold and silver.
+
+Gold ounces sold for the year ended June 30, 2024 decreased 653,000 ounces, or 32.0%, to 1,385,000 ounces from 2,038,000 ounces in 2023. Silver ounces sold for the year ended June 30, 2024 decreased 37,705,000 ounces, or 28.4%, to 94,877,000 ounces from 132,582,000 ounces in 2023. On average, the selling prices for gold increased by 11.6% and selling prices for silver increased by 11.6% during the year ended June 30, 2024 as compared to the prior year.
+
+The Wholesale Sales ticket volume for the year ended June 30, 2024 increased by 3,345 tickets, or 3.3% to 104,833 tickets from 101,488 tickets in 2023.
+
+Gross Profit — Wholesale Sales & Ancillary Services
+
+(c)
+
+Gross profit percentage before elimination of inter-segment sales to the Direct-to-Consumer segment was 0.916% for the period.
+
+(d)
+
+Gross profit percentage before elimination of inter-segment sales to the Direct-to-Consumer segment was 1.449% for the period.
+
+Gross profit for the year ended June 30, 2024 decreased $35.5 million, or 28.2%, to $90.2 million from $125.7 million in 2023. The gross profit decrease was primarily due to lower premium spreads, partially offset by higher trading profits.
+
+This segment’s profit margin percentage decreased by 63.0 basis points to 1.094% from 1.724% in 2023. The decrease in gross margin percentage was mainly attributable to the impact of increased forward sales and lower premium spreads, partially offset by higher trading profits.
+
+Excluding an increase of $1.561 billion of forward sales that had a negligible impact to the amount of gross profit, this segment's gross margin percentage for the year ended June 30, 2024 decreased by 46.7 basis points to 2.114% from 2.581% in the prior year. Forward sales increase revenues but are associated with negligible gross profit. The Company enters into forward contracts to hedge its precious metals price risk exposure and not for speculative purposes.
+
+Selling, General, and Administrative Expenses — Wholesale Sales & Ancillary Services
+
+Selling, general, and administrative expenses for the year ended June 30, 2024 increased $5.8 million, or 14.4%, to $46.0 million from $40.2 million in 2023. The change was primarily due to: (i) an increase in consulting and professional fees of $5.7 million, (ii) an increase in advertising costs of $0.8 million, and (iii) an increase in information technology costs of $0.4 million, partially offset by (iv) a decrease in insurance costs of $1.0 million.
+
+Interest Income — Wholesale Sales & Ancillary Services
+
+Interest income for the year ended June 30, 2024 increased $3.2 million, or 25.6%, to $15.7 million from $12.5 million in 2023. The overall increase was primarily due to (i) an increase in interest earned from repurchase arrangements with customers of $2.3 million, (ii) a $0.4 million increase in interest income earned from spot deferred trade orders, and (iii) a $0.4 million increase in interest and fees earned related to margin orders.
+
+Interest Expense — Wholesale Sales & Ancillary Services
+
+Interest expense for the year ended June 30, 2024 increased $8.6 million, or 43.7%, to $28.3 million from $19.7 million in 2023. The overall increase was primarily due to (i) an increase of $5.0 million in connection with our Trading Credit Facility due to an increase in interest rates as well as increased borrowings, (ii) higher interest and fees from product financing arrangements of $3.0 million, and (iii) an increase in inter-segment eliminations related to JMB’s product financing activity with A-Mark of $1.3 million, partially offset by (iv) a decrease of $0.8 million related to the AMCF Notes (including amortization of debt issuance costs) due to the repayment in December 2023.
+
+Earnings from Equity Method Investments — Wholesale Sales & Ancillary Services
+
+Earnings from equity method investments for the year ended June 30, 2024 decreased $8.6 million, or 68.2%, to $4.0 million from $12.6 million in 2023 due to decreased earnings of our equity method investees.
+
+Other Income, Net — Wholesale Sales & Ancillary Services
+
+Other income, net for the year ended June 30, 2024 increased by $0.9 million primarily due to an increase in gains on other investments of $0.6 million as well as an increase in gains related to fair value adjustments to our acquisition-related contingent consideration liability of $0.4 million.
+
+Remeasurement Gain on Pre-Existing Equity Interest - Wholesale Sales & Ancillary Services
+
+The remeasurement gain on pre-existing equity interest was recognized in connection with the acquisition of a controlling interest in SGB in June 2024. The Company’s estimated fair value of its 47.4% pre-existing equity interest in SGB was determined to be approximately $56.8 million at the acquisition date. Based on the total consideration paid of $128.8 million, as well as adjustments to our option to acquire additional equity interest in SGB and the derecognition of our cumulative translation balances related to SGB, the remeasurement resulted in a gain of $16.7 million. For additional information about our most recent acquisition see Note 1 to the Company’s consolidated financial statements.
+
+Results of Operations — Direct-to-Consumer Segment
+
+The Company operates its Direct-to-Consumer segment through our wholly-owned subsidiaries: JM Bullion, Inc. (“JMB”), Goldline, Inc. (“Goldline”), through our investment in Silver Gold Bull, Inc. ("SGB"), and through our subsidiary Precious Metals Purchasing Partners, LLC ("PMPP").
+
+Overview of Results of Operations for the Years Ended June 30, 2024 and 2023
+
+— Direct-to-Consumer Segment
+
+The operating results of our Direct-to-Consumer ("DTC") segment were as follows (in thousands, except performance metrics data):
+
+(a)
+
+Includes $14.3 million of inter-segment sales from the Direct-to-Consumer segment to the Wholesale Sales & Ancillary Services segment. 
+
+(b)
+
+Includes $3.5 million of inter-segment sales from the Direct-to-Consumer segment to the Wholesale Sales & Ancillary Services segment.
+
+(c)
+
+Gross profit percentage, excluding inter-segment sales from the Direct-to-Consumer segment to the Wholesale Sales & Ancillary Services segment, was 5.758% for the period.
+
+(d)
+
+Gross profit percentage, excluding inter-segment company sales from the Direct-to-Consumer segment to the Wholesale Sales & Ancillary Services segment, was 8.468% for the period.
+
+Gold ounces sold represents the ounces of gold product sold and delivered during the period. SGB's metrics are included after the Company acquired a controlling interest on June 21, 2024.
+
+Silver ounces sold represents the ounces of silver product sold and delivered during the period. SGB's metrics are included after the Company acquired a controlling interest on June 21, 2024.
+
+Number of new customers represents the number of customers that have registered or set up a new account or made a purchase for the first time during the period. SGB's metrics are included after the Company acquired a controlling interest on June 21, 2024.
+
+Number of active customers represents the number of customers that have made a purchase during any month during the period. SGB's metrics are included after the Company acquired a controlling interest on June 21, 2024.
+
+Number of total customers represents the aggregate number of customers that have registered or set up an account or have made a purchase in the past. SGB's metrics are included after the Company acquired a controlling interest on June 21, 2024.
+
+Ticket volume from new customers represents the number of product orders from new customers processed by JMB, Goldline, SGB, and PMPP during the period. SGB's metrics are included after the Company acquired a controlling interest on June 21, 2024.
+
+Ticket volume from pre-existing customers represents the total number of product orders from pre-existing customers processed by JMB, Goldline, SGB, and PMPP during the period. SGB's metrics are included after the Company acquired a controlling interest on June 21, 2024.
+
+Total ticket volume represents the total number of product orders processed by JMB, Goldline, SGB, and PMPP during the period. SGB's metrics are included after the Company acquired a controlling interest on June 21, 2024.
+
+Average Order Value ("AOV") represents the average dollar value of product orders (excluding accumulation program orders) delivered to the customer during the period. SGB's metrics are included after the Company acquired a controlling interest on June 21, 2024.
+
+Revenues — Direct-to-Consumer
+
+Revenues for the year ended June 30, 2024 decreased $545.8 million, or 27.3%, to $1.452 billion from $1.997 billion in 2023. The decrease in revenue was due to a decrease in gold and silver ounces sold, partially offset by higher average selling prices of gold and silver. For the year ended June 30, 2024, JMB's revenue decreased $487.1 million and revenue of Goldline, SGB and PMPP, in the aggregate, decreased by $58.7 million as compared to the prior year.
+
+Gold ounces sold for the year ended June 30, 2024 decreased 175,000 ounces, or 27.8%, to 454,000 ounces from 629,000 ounces in 2023. Silver ounces sold for the year ended June 30, 2024 decreased 10,432,000 ounces, or 44.1%, to 13,219,000 ounces from 23,651,000 ounces in 2023.
+
+Gold ounces sold by JMB decreased 159,000 ounces for the year ended June 30, 2024 compared to 2023. Gold ounces sold by Goldline, SGB and PMPP, in the aggregate, decreased 16,000 ounces compared to 2023. Silver ounces sold by JMB decreased 9,586,000 ounces for the year ended June 30, 2024 compared to 2023. Silver ounces sold by Goldline, SGB and PMPP, in the aggregate, decreased 846,000 ounces compared to 2023.
+
+On average, selling prices for gold increased by 9.9% and selling prices for silver increased by 10.5% during the year ended June 30, 2024 as compared to the prior year.
+
+The number of new customers for the year ended June 30, 2024 increased 383,200, or 114.3%, to 718,500 from 335,300 in 2023. The number of active customers for the year ended June 30, 2024 increased 7,100, or 1.5% to 483,400 from 476,300 in 2023. The number of total customers as of June 30, 2024 increased 718,500, or 30.6% to 3,066,800 from 2,348,300 as of June 30, 2023. These changes in customer-based metrics were primarily due the acquisition of SGB's 523,000 total customers as of June 30, 2024, as well as JMB's activity.
+
+As of June 30, 2024, the number of total CyberMetals customers was 29,600, and CyberMetals customer assets under management were $7.3 million.
+
+For the year ended June 30, 2024, the Direct-to-Consumer ticket volume related to new customers decreased by 18,571 tickets, or 12.2%, to 134,021 tickets from 152,592 tickets in 2023. For the year ended June 30, 2024, Direct-to-Consumer ticket volume related to pre-existing customers decreased by 146,530 tickets, or 23.4%, to 479,718 tickets from 626,248 tickets in 2023. For the year ended June 30, 2024, the Direct-to-Consumer total ticket volume decreased by 165,101 tickets, or 21.2%, to 613,739 tickets from 778,840 tickets in 2023.
+
+For the year ended June 30, 2024, the Direct-to-Consumer average order value decreased by $199, or 7.6%, to $2,407 from $2,606 in 2023.
+
+Gross Profit — Direct-to-Consumer
+
+Gross profit for the year ended June 30, 2024 decreased by $85.9 million, or 50.9%, to $83.0 million from $169.0 million in 2023. The decrease in gross profit was mainly due to a decreased gross profit margin percentage as well as a lower ticket volume during the period.
+
+For the year ended June 30, 2024, the Direct-to-Consumer segment's profit margin percentage decreased by 273.9 basis points to 5.721% from 8.460% in 2023. The decrease in the gross profit margin percentage was primarily due to the lower gross profit percentages of JMB, but also to lower gross profit percentages of Goldline and PMPP.
+
+Selling, General, and Administrative Expense — Direct-to-Consumer
+
+Selling, general, and administrative expenses for the year ended June 30, 2024 decreased $0.5 million, or 1.2%, to $42.5 million from $43.0 million in 2023. The change in selling, general, and administrative expense was not significant.
+
+Depreciation and Amortization Expense — Direct-to-Consumer
+
+Depreciation and amortization expense for the year ended June 30, 2024, decreased $1.9 million, or 17.2%, to $9.3 million from $11.2 million in 2023 primarily due to a $2.2 million decrease in JMB’s intangible asset amortization expense.
+
+Interest expense — Direct-to-Consumer
+
+Interest expense for the year ended June 30, 2024 decreased $1.3 million to $2.8 million from $4.1 million in 2023. The decrease is related to JMB’s reduced product financing activity with A-Mark.
+
+Results of Operations — Secured Lending Segment
+
+The Company operates its Secured Lending segment through its wholly-owned subsidiaries, Collateral Finance Corporation, LLC ("CFC") and CFC Alternative Investments (“CAI”). AM Capital Funding, LLC (“AMCF”), previously a wholly-owned subsidiary of CFC, was formed for the issuance of certain notes, which were repaid in December 2023. AMCF was dissolved in June 2024.
+
+Overview of Results of Operations for the Years Ended June 30, 2024 and 2023
+
+— Secured Lending Segment
+
+The operating results of our Secured Lending segment were as follows (in thousands, except performance metrics data):
+
+Number of outstanding secured loans to customers at the end of the period.
+
+Interest Income — Secured Lending
+
+Interest income for the year ended June 30, 2024 increased $1.7 million, or 17.8%, to $11.4 million from $9.7 million in 2023. The increase in interest income earned from the segment’s secured loan portfolio was primarily due to an increase in interest rates and higher average monthly loan balances, partially offset by fewer loans outstanding. The number of secured loans outstanding decreased by 294, or 33.3% to 588 from 882 as of June 30, 2023.
+
+Interest Expense — Secured Lending
+
+Interest expense for the year ended June 30, 2024 increased $0.7 million, or 8.6%, to $8.4 million from $7.8 million in 2023. The increase in interest expense was primarily due to (i) an increase of $3.4 million associated with our Trading Credit Facility due to an increase in interest rates as well as increased borrowings, partially offset by (ii) a decrease of $2.3 million related to the AMCF Notes (including amortization of debt issuance costs) due to the repayment in December 2023 and (iii) a $0.5 million decrease in loan servicing fees.
+
+Selling, General, and Administrative Expenses — Secured Lending
+
+Selling, general, and administrative expenses for the year ended June 30, 2024 decreased $0.7 million, or 35.2%, to $1.4 million from $2.1 million in 2023. The change was primarily due to a decrease in consulting and professional fees of $0.3 million and a decrease in compensation expense (including performance-based accruals) of $0.2 million.
+
+Other Income, Net — Secured Lending
+
+Other income, net for the year ended June 30, 2024 decreased $1.4 million, or 57.5%, to $1.0 million from $2.4 million in 2023 primarily due to lower royalties earned.
+
+NON-GAAP MEASURES
+
+Adjusted net income before provision for income taxes
+
+Overview
+
+In addition to our results determined in accordance with U.S. GAAP, we believe the non-GAAP measure of “adjusted net income before provision for income taxes” is useful in evaluating our operating performance. We use this financial measure to present our pre-tax earnings from core business operations. This measure does not have standardized definitions and is not prepared in accordance with U.S. GAAP. The items excluded from this financial measure may have a material impact on our financial results. Certain of those items are non-recurring, while others are non-cash in nature. Accordingly, this non-GAAP financial performance measure should be considered in addition to, and not as a substitute for or superior to, the comparable measures prepared in accordance with U.S. GAAP.
+
+Reconciliation
+
+We calculate this non-GAAP financial performance measure by eliminating from net income before provision for income taxes the impact of items we do not consider indicative of our core operating performance. We eliminate the impact of the following items: (i) remeasurement gains or losses related to pre-existing equity interests, (ii) contingent consideration fair value adjustments, (iii) acquisition costs, (iv) amortization expenses related to intangible assets acquired, and (v) depreciation expense.
+
+See below for the reconciliation of this non-GAAP financial performance measure to its most closely comparable U.S. GAAP measure on our financial statements (in thousands):
+
+Adjustments
+
+Remeasurement gains or losses. When we acquired a controlling interest in SGB in June 2024, we had previously owned a noncontrolling equity interest. We are required to estimate the fair value of our pre-existing equity investment as well as our option to acquire additional equity interests in SGB and record the change in the value as a remeasurement gain or loss in our consolidated statements of income. We exclude these remeasurement gains and losses when we evaluate our on-going operational performance and to facilitate comparison of period-to-period operational performance. For additional information, see Note 1 to the Company’s consolidated financial statements.
+
+Contingent consideration fair value adjustments. Upon our acquisition of LPM, we recognized a contingent consideration liability representing the amount we expect to pay in connection with the achievement of certain EBITDA targets. We remeasure this liability each reporting period, with the resulting changes recorded as other income and expense in the Company’s condensed consolidated statements of income. We exclude these fair value adjustments when we evaluate our core operating performance and to facilitate comparison of period-to-period operating performance. See Note 1 to the Company’s consolidated financial statements for additional information about our acquisition of LPM.
+
+Acquisition costs. We incur expenses for professional services rendered in connection with business combinations, which are included as a component of selling, general, and administrative expenses in the Company’s consolidated statements of income. Acquisition expenses are recorded in the periods in which the costs are incurred, and the services are received. We exclude acquisition expenses when we evaluate our core operating performance and to facilitate comparison of period-to-period operating performance.
+
+Amortization of purchased intangibles. Amortization expense of purchased intangibles varies in amount and frequency and is significantly impacted by the timing and size of our acquisitions. Due to amortization expense being non-cash in nature, management finds it useful to exclude these charges from our operating expenses to assist in the review of a measure that more closely corresponds to cash operating income generated from our business. Amortization of purchased intangible assets will recur in future periods. For additional information about the amortization of our purchased intangibles. See Note 9 to the Company’s consolidated financial statements.
+
+Depreciation expense. Depreciation expense is calculated using a straight-line method based on the estimated useful lives of the related assets, ranging from three years to twenty-five years. Due to depreciation expense being non-cash in nature, management finds it useful to exclude these charges from our operating expenses to assist in the review of a measure that more closely corresponds to cash operating income generated from our business. See Note 8 to the Company’s consolidated financial statements.
+
+Earnings Before Interest, Taxes, Depreciation, and Amortization
+
+Overview
+
+In addition to the non-GAAP financial performance measure discussed in the section above, we use the non-GAAP liquidity measure “earnings before interest, taxes, depreciation, and amortization” or "EBITDA" to evaluate our business operations before investing activities, interest, and income taxes. Management and external users of our consolidated financial statements, such as industry analysts and investors, may use EBITDA to compare business operations with other publicly traded companies.
+
+Reconciliation
+
+We calculate EBITDA by eliminating from net income the following five items: (i) interest income, (ii) interest expense, (iii) amortization expenses related to intangible assets acquired, (iv) depreciation expense, and (v) income tax expense.
+
+Management believes the most directly comparable GAAP financial measure is “net cash provided by or used in operating activities” presented in the consolidated statement of cash flows. Below is the reconciliation of net cash provided by or used in operating activities to EBITDA (in thousands):
+
+LIQUIDITY AND FINANCIAL CONDITION
+
+Primary Sources and Uses of Cash
+
+Overview
+
+Liquidity refers to the availability to the Company of amounts of cash to meet all of our cash needs. Our sources of liquidity principally include cash from operations, Trading Credit Facility (see “Lines of Credit” below), and product financing arrangements.
+
+A substantial portion of our assets are liquid. As of June 30, 2024, approximately 78.4% of our assets consisted of cash, receivables, derivative assets, secured loans receivables, precious metals held under financing arrangements, and inventories, measured at fair value. Cash generated from the sales or financing of our precious metals products is our primary source of operating liquidity. Among other things, these include our product financing arrangements and liabilities on borrowed metals. Typically, the Company acquires its inventory by: (i) purchasing inventory from its suppliers by utilizing our own capital and lines of credit; (ii) borrowing precious metals from its suppliers under short-term arrangements which may bear interest at a designated rate, and (iii) repurchasing inventory at an agreed-upon price based on the spot price on the specified repurchase date.
+
+In addition to selling inventory, the Company generates cash from earning interest income. The Company enters into secured loans and secured financing structures with its customers under which it charges interest. The loans are secured by precious metals and numismatic material, and graded sports cards owned by the borrowers and held by the Company as security for the term of the loan. The Company also offers a number of secured financing options to its customers to finance their precious metals purchases including consignments and other structured inventory finance products. Furthermore, our customers may enter into agreements whereby the customer agrees to repurchase our precious metals at the prevailing spot price for delivery of the product at a specific point in time in the future; interest income is earned from the contract date until the material is delivered and paid for in full.
+
+We may also raise funds through the public or private offering of equity or debt securities, although there is no assurance that we will be able to do so at the times and in the amounts required.
+
+We continually review our overall credit and capital needs to ensure that our capital base, both stockholders’ equity and available credit facilities, can appropriately support our anticipated financing needs. The Company also continually monitors its current and forecasted cash requirements and draws upon and pays down its lines of credit so as to minimize interest expense. See Note 15 to the Company’s consolidated financial statements.
+
+Lines of Credit
+
+Effective December 21, 2021, A-Mark entered into a committed borrowing facility (the "Trading Credit Facility") with CIBC Bank USA, as agent and joint lead arranger, and a syndicate of banks. As of June 30, 2024, the Trading Credit Facility provided the Company with access up to $422.5 million and has a maturity date of September 20, 2025. The Trading Credit Facility was reclassified to long-term during the three months ended September 30, 2023 due to the elimination of provisions whereby lenders under certain conditions could require repayment of all obligations outstanding under the Trading Credit Facility within 10 days on demand. (See Note 15.)
+
+A-Mark routinely uses funds drawn under the Trading Credit Facility to purchase metals from its suppliers and for other operating cash flow purposes. Our CFC subsidiary also uses the funds drawn under the Trading Credit Facility to finance certain of its lending activities.
+
+Notes Payable
+
+In September 2018, AMCF, previously a wholly-owned subsidiary of CFC, completed an issuance of Secured Senior Term Notes, Series 2018-1, Class A in the aggregate principal amount of $72.0 million and Secured Subordinated Term Notes, Series 2018-1, Class B in the aggregate principal amount of $28.0 million (collectively, the "AMCF Notes".) The AMCF Notes were repaid in full in December 2023 and AMCF was dissolved in June 2024.
+
+In April 2021, CCP entered into a loan agreement ("CCP Note") with CFC, which provides CFC with up to $4.0 million to fund commercial loans secured by graded sports cards to its borrowers. All loans to be funded using the proceeds from the CCP Note are subject to CCP’s prior written approval. In March 2024, the expiration date for the CCP Note was amended to expire on April 1, 2026 and may be extended by mutual agreement. As of June 30, 2024 and June 30, 2023 the outstanding principal balance of the CCP Note was $4.0 million and $0.5 million. See Note 14 to the Company’s consolidated financial statements.
+
+In June 2024, SGB declared a $15.9 million dividend to existing shareholders based on certain levels of working capital. The dividend was paid on September 9, 2024. The dividend paid to the Company from SGB was $7.5 million which was recorded as a dividend receivable to A-Mark from SGB as of June 30, 2024 and has been eliminated upon consolidation. The remaining $8.4 million due to the other shareholders was recorded as a note payable by SGB as of June 30, 2024.
+
+Liabilities on Borrowed Metals
+
+We borrow precious metals from our suppliers and customers under short-term arrangements using other precious metal from our inventory or precious metals held under financing arrangements as collateral. Amounts under these arrangements require repayment either in the form of precious metals or cash. Liabilities also arise from unallocated metal positions held by customers in our inventory. Typically, these positions are due on demand, in a specified physical form, based on the total ounces of metal held in the position.
+
+Product Financing Arrangements
+
+The Company has agreements with financial institutions and other third parties that allow the Company to transfer its gold and silver inventory to the third-party at an agreed-upon price based on the spot price, which provides alternative sources of liquidity. During the term of the agreement both parties intend for inventory to be returned at an agreed-upon price based on the spot price on the repurchase date. The third parties charge monthly interest as a percentage of the market value of the outstanding obligation; such monthly charges are classified as interest expense. These transactions do not qualify as sales and therefore are accounted for as financing arrangements and reflected in the Company’s consolidated balance sheets as product financing arrangements. The obligation is stated at the amount required to repurchase the outstanding inventory. Both the product financing arrangements and the underlying inventory (which is entirely restricted) are carried at fair value, with changes in fair value included as a component of cost of sales.
+
+Secured Loans Receivable
+
+CFC is a California licensed finance lender that makes and acquires commercial loans secured by bullion and numismatic coins, and graded sports cards that affords our customers a convenient means of financing their inventory or collections. See Note 5 to the Company’s consolidated financial statements. Prior to the repayment of the AMCF Notes, AMCF also purchased and held secured loans from CFC to meet its collateral requirements related to the AMCF Notes. See Note 15 to Company’s consolidated financial statements. Most of the Company's secured loans are short-term in nature. The renewal of these secured loans is at the discretion of the Company and, as such, provides us with some flexibility in regard to our capital deployment strategies.
+
+Dividends
+
+The Company’s board of directors has adopted a regular quarterly cash dividend policy of $0.20 per common share ($0.80 per share on an annual basis). The declaration of regular cash dividends in the future is subject to the determination each quarter by the board of directors. Below is a summary of dividends paid to stockholders in the year ended June 30, 2024.
+
+•
+
+On July 5, 2023, the Company's board of directors declared a regular dividend of $0.20 per share of common stock to stockholders of record at the close of business on July 17, 2023. The dividend was paid to stockholders on July 28, 2023 and totaled $4.7 million. 
+
+•
+
+On August 17, 2023, the Company's board of directors declared a non-recurring special dividend of $1.00 per share of common stock to share to stockholders of record at the close of business on September 12, 2023. The dividend to stockholders was paid on September 26, 2023 and totaled $23.4 million. On the same date, the Company's board of directors declared a regular dividend of $0.20 per share of common stock to stockholders of record at the close of business on October 10, 2023. The dividend was paid to stockholders on October 24, 2023 and totaled $4.6 million.
+
+•
+
+On January 4, 2024, the Company's board of directors declared a regular dividend of $0.20 per share of common stock to stockholders of record at the close of business on January 16, 2024. The dividend was paid to stockholders on January 29, 2024 and totaled $4.6 million.
+
+•
+
+On April 4, 2024, the Company's board of directors declared a regular dividend of $0.20 per share of common stock to stockholders of record at the close of business on April 16, 2024. The dividend was paid on April 29, 2024 and totaled $4.6 million. 
+
+See Note 20 to the Company's consolidated financial statements for more information regarding our dividends.
+
+Cash Flows
+
+The majority of the Company’s trading activities involve two-day value trades under which payment is received in advance of delivery or product is received in advance of payment. The combination of sales volume, inventory turnover, and precious metals price volatility can cause material changes in the sources of cash used in or provided by operating activities on a daily basis. The Company manages these variances through its liquidity forecasts and counterparty limits by maintaining a liquidity reserve to meet the Company’s cash needs. The Company uses various short-term financial instruments to manage the cycle of our trading activities from customer purchase order to cash collections and product delivery, which can cause material changes in the amount of cash used in or provided by financing activities on a daily basis.
+
+The following summarizes components of our consolidated statements of cash flows (in thousands):
+
+For the periods presented, our principal capital requirements have been to fund (i) working capital and (ii) financing activity. Our working capital requirements fluctuated with market conditions, the availability of precious metals, and the volatility of precious metals commodity pricing.
+
+Net Cash Flows From Operating Activities
+
+Operating activities provided $60.9 million and used $30.3 million in cash for the years ended June 30, 2024 and 2023, respectively, representing a $91.3 million change compared to the year ended June 30, 2023. The period over period change was primarily due to net changes in working capital, which includes inventories, derivative liabilities, deferred revenue and other advances, liabilities on borrowed metals, accounts payable and other payables, precious metals held under financing arrangements, and receivables, net, as well as a decrease in net income adjusted for noncash items, which includes a remeasurement gain of $16.7 million related to our acquisition of a controlling interest in SGB in June 2024.
+
+Net Cash Flows From Investing Activities
+
+Investing activities used $63.6 million and provided $6.8 million in cash for the years ended June 30, 2024 and 2023, respectively, representing a $70.4 million change compared to the year ended June 30, 2023. This period over period change was primarily due to (i) higher outflows of $37.1 million associated with the net originations of secured loans in the current period and (ii) $32.2 million of net cash paid to acquire LPM in February 2024 and SGB in June 2024, (iii) an increase in purchases of intangible assets of $3.5 million, and (iv) a $2.5 million increase in capital expenditures for property, plant and equipment, partially offset by (v) a decrease in purchases of long-term investments of $5.8 million.
+
+Net Cash Flows From Financing Activities
+
+Financing activities provided $12.0 million and provided $25.0 million in cash for the years ended June 30, 2024 and 2023, respectively, representing a $13.0 million change compared to the year ended June 30, 2023. This period over period change was primarily due to (i) the $95.0 million repayment of our AMCF Notes in December 2023, (ii) an increase of $12.5 million cash used to repurchase of our common stock under our share repurchase program, (iii) a decrease in cash provided from our net borrowings and repayments of $10.0 million under our Trading Credit Facility, (iv) an increase in cash paid for dividends of $4.4 million, and (v) an increase in debt issuance costs paid in the current year of $2.8 million primarily related to our Trading Credit Facility. These were partially offset by (i) an increase in cash provided of $104.4 million related to our product financing arrangements, (ii) an increase of $2.9 million on net borrowings on related party notes, (iii) an increase in cash provided of $1.4 million related to the exercise and taxes related to share-based awards, and (iv) a $1.0 million decrease in distributions paid to PMPP's noncontrolling interest holder.
+
+Capital Resources
+
+We believe that our current cash availability under the Trading Credit Facility, product financing arrangements, financing derived from borrowed metals and the cash we anticipate generating from operating activities will provide us with sufficient liquidity to satisfy our working capital needs, capital expenditures, investment requirements, and commitments through at least the next twelve months.
+
+CONTRACTUAL OBLIGATIONS, CONTINGENT LIABILITIES AND COMMITMENTS
+
+Counterparty Risk
+
+We face counterparty risks in our Wholesale Sales and Ancillary Services segment. We manage these risks by setting credit and position risk limits with our trading counterparties, including gross position limits for counterparties engaged in sales and purchase transactions and inventory consignment transactions with us, as well as collateral limits for different types of sale and purchase transactions that counterparties may engage in from time to time.
+
+Commodities Risk and Derivatives
+
+We use a variety of strategies to manage our risk including fluctuations in commodity prices for precious metals. Our inventory consists of, and our trading activities involve, precious metals and precious metal products, for which prices are linked to the corresponding precious metal commodity prices. The Company's precious metals inventory is subject to fluctuations in market value, resulting from changes in the underlying commodity prices. Inventory purchased or borrowed by us is subject to price changes. Inventory borrowed is a natural hedge, since changes in value of the metal held are offset by the obligation to return the metal to the supplier or deliver metals to the customer.
+
+Open sale and purchase commitments in our trading activities are subject to changes in value between the date the purchase or sale price is fixed (the trade date) and the date the metal is received or delivered (the settlement date). We seek to minimize the effect of price changes of the underlying commodity through the use of forward and futures contracts. Our open sale and purchase commitments generally settle within 2 business days, and for those commitments that do not have stated settlement dates, we have the right to settle the positions upon demand.
+
+Our policy is to substantially hedge our inventory position, net of open sale and purchase commitments that are subject to price risk. We regularly enter into precious metals commodity forward and futures contracts with financial institutions to hedge against this risk. We use futures contracts, which typically settle within 30 days, for our shorter-term hedge positions, and forward contracts, which may remain open for up to six months, for our longer-term hedge positions. We have access to all of the precious metals markets, allowing us to place hedges. We also maintain relationships with major market makers in every major precious metals dealing center.
+
+The Company enters into these derivative transactions solely for the purpose of hedging our inventory holding risk, and not for speculative market purposes. Due to the nature of our hedging strategy, we are not using hedge accounting as defined under Derivatives and Hedging Topic 815 of the ASC ("ASC 815"). Unrealized gains or losses resulting from our forward and futures contracts are reported as cost of sales with the related amounts due from or to counterparties reflected as derivative assets or liabilities. The Company adjusts the derivatives to fair value on a daily basis until the transactions are settled. When these contracts are net settled, the unrealized gains and losses are reversed and the realized gains and losses for forward contracts are recorded in revenue and cost of sales and the net realized gains and losses for futures are recorded in cost of sales.
+
+The Company’s net gains and losses on derivative instruments totaled gains of $1.7 million and gains of $97.1 million for the years ended June 30, 2024 and 2023, respectively. These were substantially offset by the changes in fair market value of the underlying precious metals inventory and open sale and purchase commitments, which is also recorded in cost of sales in the consolidated statements of income.
+
+The purpose of the Company's hedging policy is to substantially match the change in the value of the derivative financial instrument to the change in the value of the underlying hedged item. The following table summarizes the results of our hedging activities, showing the precious metal commodity inventory position, net of open sale and purchase commitments, which is subject to price risk, compared to change in the value of the derivative instruments (in thousands):
+
+We are exposed to the risk of default of the counterparties to our derivative contracts. Significant judgment is applied by us when evaluating the fair value implications. We regularly review the creditworthiness of our major counterparties and monitor our exposure to concentrations. As of June 30, 2024, we believe our risk of counterparty default is mitigated based on our evaluation of the creditworthiness of our major counterparties, the strong financial condition of our counterparties, and the short-term duration of these arrangements.
+
+We had the following outstanding sale and purchase commitments and open forward and futures contracts, which are normal and recurring, in nature (in thousands):
+
+The notional amounts of the commodity forward and futures contracts and the open sales and purchase orders, as shown in the table above, are not reflected at the notional amounts in the consolidated balance sheets. The Company records commodity forward and futures contracts at the fair value, which is the difference between the market price of the underlying metal or contract measured on the reporting date and the trade amount measured on the date the contract was transacted. The fair value of the open derivative contracts is shown as a component of derivative assets or derivative liabilities in the accompanying consolidated balance sheets.
+
+The Company enters into the derivative forward and future transactions solely for the purpose of hedging its inventory holding risk, and not for speculative market purposes. The Company’s gains and losses on derivative instruments are substantially offset by the changes in fair market value of the underlying precious metals inventory position, including our open sale and purchase commitments. The Company records the derivatives at the trade date, and any corresponding unrealized gains or losses are shown as a component of cost of sales in the consolidated statements of income. We adjust the carrying value of the derivatives to fair value on a daily basis until the transactions are physically settled. See Note 12 to the Company’s consolidated financial statements.
+
+Commitments and Contingencies
+
+Refer to Note 16 to the Company’s consolidated financial statements for information relating Company's commitments and contingencies.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+The Company’s consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States (“U.S. GAAP”). In connection with the preparation of our financial statements, we are required to make estimates and assumptions about future events and apply judgments that affect the reported amounts of assets, liabilities, revenue, expenses and related disclosures. We base our assumptions, estimates and judgments on historical experience, current trends and other factors that we believe to be relevant at the time the Company’s consolidated financial statements are prepared. On a regular basis, we review our accounting policies, assumptions, estimates and judgments to ensure that the Company’s consolidated financial statements are presented fairly and in accordance with U.S. GAAP. However, because future events and their effects cannot be determined with certainty, actual results could materially differ from our estimates.
+
+Our significant accounting policies are discussed in Note 2 to the Company’s consolidated financial statements. We believe that the following accounting policies are the most critical to aid in fully understanding and evaluating our reported financial results, and they require our most difficult, subjective or complex judgments, resulting from the need to make estimates about the effect of matters that are inherently uncertain. We have reviewed these critical accounting estimates and related disclosures with the Audit Committee of our board of directors.
+
+Revenue Recognition
+
+The Company accounts for its metals and sales contracts using settlement date accounting. Pursuant to such accounting, the Company recognizes the sale or purchase of the metals at settlement date. During the period between the trade and settlement dates, the Company enters into forward contracts that meet the definition of a derivative in accordance with the Derivatives and Hedging Topic 815 of the ASC (“ASC 815”). The Company records the derivative at the trade date with any corresponding unrealized gain (loss), shown as component of cost of sales in the consolidated statements of income. The Company adjusts the derivatives to fair value on a daily basis until the transactions are settled. When these contracts are settled, the unrealized gains and losses are reversed, and revenue is recognized for contracts that are physically settled. For contracts that are net settled, the realized gains and losses are recorded in cost of sales, with the exception of forward contracts, where their associated realized gains and losses are recorded in revenue and cost of sales, respectively.
+
+Also, the Company recognizes its storage, logistics, licensing, advertising revenue, and other services revenues in accordance with ASC 606, Revenue from Contracts with Customers, which follows five basic steps to determine whether revenue can be recognized: (i) identify the contract with a customer; (ii) identify the performance obligations in the contract; (iii) determine the transaction price; (iv) allocate the transaction price to the performance obligations in the contract, and (v) recognize revenue when (or as) the entity satisfies a performance obligation.
+
+Inventories
+
+The Company's inventory, which primarily consists of bullion and bullion coins, is acquired and initially recorded at cost and then marked to fair market value. The fair market value of the bullion and bullion coins comprises two components: (i) published market values attributable to the cost of the raw precious metal, and (ii) the market value of the premium, which is attributable to the incremental value of the product in its finished goods form. The market value attributable solely to such premium is readily determinable by reference to multiple sources. The precious metal component of the inventory may be hedged through the use of precious metal commodity positions, while the premium component of our inventory is not a commodity that may be hedged.
+
+The Company’s inventory, except for certain lower of cost or net realizable value basis products (as described below), is subsequently recorded at their fair market values. The daily changes in the fair market value of our inventory are offset by daily changes in the fair market value of hedging derivatives that are taken with respect to our inventory positions; both the change in the fair market value of the inventory and the change in the fair market value of these derivative instruments are recorded in cost of sales in the consolidated statements of income.
+
+While the premium component included in inventory is marked-to-market, our commemorative coin inventory, including its premium component, is held at the lower of cost or net realizable value, because the value of commemorative coins is influenced more by supply and demand determinants than on the underlying spot price of the precious metal content of the commemorative coins. Unlike our bullion coins, the value of commemorative coins is not subject to the same level of volatility as bullion coins because our commemorative coins typically carry a substantially higher premium over the spot metal price than bullion coins. Additionally, neither the commemorative coin inventory nor the premium component of our inventory is hedged.
+
+Inventory includes amounts borrowed from suppliers and customers arising from various arrangements including unallocated metal positions held by customers in the Company’s inventory, amounts due to suppliers for the use of consigned inventory, metals held by suppliers as collateral on advanced pool metals, as well as shortages in unallocated metal positions held by the Company in the supplier’s inventory. Unallocated or pool metal represents an unsegregated inventory position that is due on demand, in a specified physical form, based on the total ounces of metal held in the position. Amounts under these arrangements require delivery either in the form of precious metals or cash. The Company mitigates market risk of its physical inventory and open commitments through commodity hedge transactions. See Note 12 to the Company’s consolidated financial statements.
+
+The Company enters into product financing agreements for the transfer and subsequent option or obligation to reacquire its gold and silver inventory at an agreed-upon price based on the spot price with a third-party finance company. This inventory is restricted and is held at a custodial storage facility in exchange for a financing fee, charged by the third-party finance company. During the term of the financing agreement, the third-party company holds the inventory as collateral, and both parties intend for the inventory to be returned to the Company at an agreed-upon price based on the spot price on the repurchase date. The third-party charges a monthly fee as a percentage of the market value of the outstanding obligation; such monthly charge is classified as interest expense. These transactions do not qualify as sales and have been accounted for as financing arrangements in accordance with ASC 470-40 Product Financing Arrangements, and are reflected in the Company’s consolidated balance sheets as product financing arrangements. The obligation is stated at the amount required to repurchase the outstanding inventory. Both the product financing and the underlying inventory (which is restricted) are carried at fair value, with changes in fair value included in cost of sales in the Company’s consolidated statements of income.
+
+The Company periodically loans metals to customers on a short-term consignment basis. Such inventory is removed at the time the customer elects to price and purchase the metals, and the Company records a corresponding sale and receivable.
+
+The Company enters into financing arrangements with certain customers under which A-Mark purchases precious metals products that are subject to repurchase by the customer at the fair value of the product on the repurchase date. The Company or the counterparty may typically terminate any such arrangement with 14 days' notice. Upon termination the customer’s rights to repurchase any remaining inventory is forfeited.
+
+Business Combinations
+
+The accounting for a business combination requires tangible and intangible assets acquired and liabilities assumed to be recorded at estimated fair value. We value intangible assets at their estimated fair values at the acquisition date based upon assumptions related to the future cash flows and discount rates utilizing the then currently available information, and in some cases, valuation results from independent valuation specialists. The use of a discounted cash flow analysis requires significant judgment to estimate the future cash flows derived from the asset and the expected period of time over which those cash flows will occur and to determine an appropriate discount rate.
+
+We make certain judgments and estimates when determining the fair value of assets acquired and liabilities assumed in a business combination. Those judgments and estimates also include determining the lives assigned to acquired intangibles, the resulting amortization period, what indicators will trigger an impairment, whether those indicators are other than temporary, what economic or competitive factors affect valuation, valuation methodology, and key assumptions including discount rates and cash flow estimates. In circumstances where an acquisition involves a contingent consideration arrangement, we recognize a liability equal to the fair value of the expected contingent payments as of the acquisition date. We remeasure this liability each reporting period, with the resulting changes recorded in earnings. The assumptions used in estimating fair value of contingent consideration liabilities require significant judgment; the use of different assumptions and judgments could result in a materially different estimate of fair value which may have a material impact on our results from operations and financial position.
+
+Goodwill and Other Purchased Intangible Assets
+
+We evaluate goodwill and other indefinite-lived intangibles for impairment annually in the fourth quarter of the fiscal year (or more frequently if indicators of potential impairment exist) in accordance with the Intangibles - Goodwill and Other Topic 350 of the ASC (“ASC 350”). Other finite-lived intangible assets are evaluated for impairment when events or changes in business circumstances indicate that the carrying amount of the assets may not be recoverable. We may first qualitatively assess whether relevant events and circumstances make it more likely than not that the fair value of the reporting unit's goodwill is less than its carrying value. If, based on this qualitative assessment, we determine that goodwill is more likely than not to be impaired, a quantitative impairment test is performed. This step requires us to determine the fair value of the business and compare the calculated fair value of a reporting unit with its carrying amount, including goodwill. If through this quantitative analysis the Company determines the fair value of a reporting unit exceeds its carrying amount, the goodwill of the reporting unit is considered not to be impaired. If the Company concludes that the fair value of the reporting unit is less than its carrying value, a goodwill impairment will be recognized for the amount by which the carrying amount exceeds the reporting unit’s fair value.
+
+The Company also performs impairment reviews on its indefinite-lived intangible assets (i.e., trade names, trademarks and domain names). In assessing its indefinite-lived intangible assets for impairment, the Company has the option to first perform a qualitative assessment to determine whether events or circumstances exist that lead to a determination that it is more likely than not that the fair value of the indefinite-lived intangible asset is less than its carrying amount. If the Company determines that it is not more likely than not that the fair value of an indefinite-lived intangible asset is less than its carrying amount, the Company is not required to perform any additional tests in assessing the asset for impairment. However, if the Company concludes otherwise or elects not to perform the qualitative assessment, then it is required to perform a quantitative analysis to determine if the fair value of an indefinite-lived intangible asset is less than its carrying value. If through a quantitative analysis the Company determines the fair value of an indefinite-lived intangible asset exceeds its carrying amount, the indefinite-lived intangible asset is considered not to be impaired. If the Company concludes that the fair value of an indefinite-lived intangible asset is less than its carrying value, an impairment will be recognized for the amount by which the carrying amount exceeds the indefinite-lived intangible asset’s fair value.
+
+Income Taxes
+
+As part of the process of preparing the Company’s consolidated financial statements, the Company is required to estimate its provision for income taxes in each of the tax jurisdictions in which it conducts business, in accordance with Income Taxes Topic 740 of the ASC ("ASC 740"). The Company computes its annual tax rate based on the statutory tax rates and tax planning opportunities available to it in the various jurisdictions in which it earns income. Significant judgment is required in determining the Company's annual tax rate and in evaluating uncertainty in its tax positions. The Company has adopted the provisions of ASC 740-10, which clarifies the accounting for uncertain tax positions. ASC 740-10 requires that the Company recognizes the impact of a tax position in the financial statements if the position is not more likely than not to be sustained upon examination based on the technical merits of the position. The Company recognizes interest and penalties related to certain uncertain tax positions as a component of income tax expense and the accrued interest and penalties are included in deferred and income taxes payable in the Company’s consolidated balance sheets. See Note 13 to the Company’s consolidated financial statements for more information on the Company’s accounting for income taxes.
+
+Income taxes are accounted for using an asset and liability approach that requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of events that have been included in the financial statements. Under this method, deferred tax assets and liabilities are determined based on the differences between the financial statement and tax basis of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. The effect of a change in tax rates on deferred tax assets and liabilities is recognized in income in the period that includes the enactment date. A valuation allowance is provided when it is more likely than not that some portion or all of the net deferred tax assets will not be realized. The factors used to assess the likelihood of realization include the Company's forecast of the reversal of temporary differences, future taxable income, and available tax planning strategies that could be implemented to realize the net deferred tax assets. Failure to achieve forecasted taxable income in applicable tax jurisdictions could affect the ultimate realization of deferred tax assets and could result in an increase in the Company's effective tax rate on future earnings. Based on our assessment, it appears more likely than not that all of the net deferred tax assets will be realized through future taxable income.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+For a description of accounting changes and recent accounting standards, including the expected dates of adoption and estimated effects, if any, on our financial position or results of operations, see Note 2 to the Company’s consolidated financial statements.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE

@@ -1,0 +1,121 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis should be read in conjunction with our financial statements and the related notes. This discussion contains forward-looking statements based upon current expectations that involve risks and uncertainties, such as its plans, objectives, expectations and intentions. Actual results and the timing of certain events could differ materially from those anticipated in these forward-looking statements.
+
+Overview of Our Business
+
+We are a Nevada corporation originally incorporated under the name Bio Energy, Inc. On January 29, 2007, we incorporated a wholly owned subsidiary, Hydrodynamic Technology, Inc. as a California corporation.
+
+We have developed, patented, and commercialized proprietary technology that can be used for processing of various industrial and consumer-oriented fluids. Our patented Nano Reactor® is the critical components of the CTi Nano Neutralization® System which has been shown to reduce operating costs and increase yields in processing oils and fats. CTi holds and applied for numerous patents covering technology and various processes in US and Internationally, covering vegetable and crude oil refining, processed and frac water treatment, algae oil extraction, and alcoholic beverage enhancement. During our Fiscal 2022, we had continuously worked on developing additional technologies and products related to low pressure nano reactor (LPN™). LPN™ is designed to become a highly efficient mixer and homogenizer. We believe that LPN™ has a great commercial utilization opportunity by providing efficient and cost-effective solution in multiple fluid processing industries. LPN™ has a number of advantages over current mechanically operated mixers and homogenizers. Industrial application of our technology in produced and frac water treatment system, LPN™ along with our proprietary chemical formulations have depicted measurable and quantifiable advantages over industry standard processes and equipment. Additionally, our miniature low pressure nano reactor MLPN has become an integral part of Barmuze®, a small home appliance device for enhancing taste and extracting unwanted impurities typically present in alcoholic beverages.
+
+During the year ended June 30, 2024, we recorded revenue of $1,363,000 and generated net income of $439,000.
+
+Inflation and potential recession
+
+We are, and our suppliers have experienced significant broad-based inflation of manufacturing and distribution costs as well as transportation challenges, partially as a result of the pandemic. Although we do not believe that inflation has had a material effect on our business, financial condition or results of operations, it may in the future. We are monitoring cost structures and evaluating to what extent any such costs can be passed on to customers, taking into account the overall impact of increasing inflation and interest rate pressures on consumers. We expect input cost inflation to continue at least throughout 2024. If we are unable to successfully manage the effects of inflation, our business, operating results, cash flows and financial condition may be adversely affected. Additionally, there have been various economic indicators that the United States economy may be entering a recession in upcoming quarters. An economic recession could potentially impact the general business environment and the capital markets, which may have a material negative impact on our financial results.
+
+Management’s Plan of Operation
+
+We are continuously engaged in manufacturing of our Nano Reactor® and Nano Neutralization® Systems which are designed to help refine vegetable oils such as soybean, canola and rapeseed. Additionally, we have developed LPN™’s that provide commercial opportunity in industrial water treatment, enhancement of alcoholic beverages, and MLPN being utilized in a consumer small home appliance.
+
+During the year ended June 30, 2024, we generated net income of $439,000, including license fee from Desmet of $498,000 and generated cash from operations of $170,000. As of June 30, 2024, we have a working capital deficiency of $403,000 and a stockholders’ deficit of $480,000.
+
+Management’s plan is to generate income from operations by licensing our technology globally through Desmet Ballestra Group (Desmet), agreements with Enviro WaterTek and Alchemy Beverages, Inc.
+
+In October 2018, we signed a three-year global R and D, Marketing and Technology License Agreement (“TLA”) with Desmet for the sale and licensing of our Nano Reactor® and Nano Neutralization® Systems. This agreement was a continuation of the original agreement we signed with Desmet in May 2012. On October 1, 2021, we executed a new three-year License Agreement with essentially the same terms of the October 2018 agreement. This agreement was terminated early and on February 15, 2024, we entered into a new three-year TLA with Desmet. The TLA provides for a worldwide limited exclusive license to market, sell, supply and assistance to customers of Nano reactor systems and nano reactor devices for the treatment of certain oil and fats, oleochemicals, biodiesels, fatty acids and fatty alcohols. The TLA may be terminated by Desmet on March 15 each year on at least one month’s written notice if the licensee and its affiliates failed to sell a minimum of 6 nano reactor systems during the preceding 12 month period. As part of the TLA, Desmet agreed to provide advances of $25,000 per month, subject to limitations. The advances will then be applied as payment from future sales of reactors to Desmet. 
+
+During the year ended June 30, 2024, advances received from Desmet amounted to $972,000 and revenues recognized from sale of reactors and licensing fee amounted to $1,363,000. These funds service operational expenses on monthly basis.
+
+There was no revenue produced from our agreements with Enviro Watertek, LLC and Alchemy Beverages, Inc.
+
+We anticipate that we may need additional funding, and we may attempt to raise additional debt and/or equity financing to fund operations and to provide additional working capital. However, there is no assurance that such financing will be consummated or obtained in sufficient amounts necessary to meet our needs, or that we will be able to meet our future contractual obligations. Should management fail to obtain such financing, we may curtail its operations.
+
+Critical Accounting Policies and Revenue Recognition
+
+Our discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements which have been prepared in accordance with accounting principles generally accepted in the United States of America. The preparation of these consolidated financial statements requires management to make certain estimates and assumptions that affect the reported amounts of assets and liabilities and the reported amounts of revenues and expenses. The accounting policies and estimates described below are those we consider most critical in preparing its consolidated financial statements. The following is a review of the accounting policies and estimates that include significant judgments made by management using information available at the time the estimates are made. However, these estimates could change materially if different information or assumptions were used instead.
+
+Note 1 of the accompanying consolidated financial statements includes a summary of significant accounting policies, estimates, and methods used in the preparation of our financial statements. Accounting estimates are an integral part of the preparation of financial statements and are based on judgments by management using its knowledge and experience about the past and current events and assumptions regarding future events, all of which we consider to be reasonable. These judgments and estimates reflect the effects of matters that are inherently uncertain and that affect the carrying value of our assets and liabilities, the disclosure of contingent liabilities and reported amounts of expenses during the reporting period.
+
+Revenue Recognition
+
+The Company follows the guidance of Accounting Standards Codification (ASC) 606, Revenue from Contracts with Customers. ASC 606 creates a five-step model that requires entities to exercise judgment when considering the terms of contracts, which includes identifying the contracts or agreements with a customer, identifying our performance obligations in the contract or agreement, determining the transaction price, allocating the transaction price to the separate performance obligations, and recognizing revenue as each performance obligation is satisfied. The Company only applies the five-step model to contracts when it is probable that the Company will collect the consideration it is entitled to in exchange for the services it transfers to its clients.
+
+Revenue from sale of our Nano Reactor® and LPN™ is recognized when products are shipped from our manufacturing facilities as this is our sole performance obligation under these contracts and we have no continuing obligation to the customer.
+
+For the license fee revenue, revenue is recognized when the Company satisfies the performance obligation based on the related license agreement.
+
+In addition, the Company also recognizes revenues from usage fees of certain reactors. Usage fees are recognized based on actual usage by the customer.
+
+Leases
+
+The Company accounts for leases under guidance of Accounting Standards Codification (“ASC”) 842, which requires an entity to recognize a right-of-use asset and a lease liability for virtually all leases. Leases with an initial term of 12 months or less are not recorded on the balance sheet. The Company accounts for the lease and non-lease components of its office lease as a single lease component. Lease expense is recognized on a straight-line basis over the lease term.
+
+Equity Method Investment
+
+The Company accounts for investments in entities in which the Company has significant influence over the entity’s financial and operating policies, but does not control, using the equity method of accounting. The equity method investments are initially recorded at cost, and subsequently increased for capital contributions and allocations of net income, and decreased for capital distributions and allocations of net loss. Equity in net income (loss) from the equity method investment is allocated based on the Company’s economic interest. The Company assesses its investment in equity method investments for recoverability, and if it is determined that a loss in value of the investment is other than temporary, the Company writes down the investment to its fair value. Based on Management’s assessment, the value of its equity method investment was impaired as of June 30, 2023 and as such, recorded an impairment charge of $1,112,000. As of June 30, 2024 and 2023, the remaining value of its investments amounted to a de minimus amount of $1,000, respectively.
+
+Share-Based Compensation
+
+The Company periodically issues stock options and warrants to employees and non-employees in non-capital raising transactions for services and for financing costs. The Company accounts for stock option and warrant grants issued and vesting to employees based on the authoritative guidance provided by the Financial Accounting Standards Board whereas the value of the award is measured on the date of grant and recognized over the vesting period. The Company accounts for stock option and warrant grants issued and vesting to non- employees in accordance with the authoritative guidance of the Financial Accounting Standards Board whereas the value of the stock compensation is based upon the measurement date as determined at either a) the date at which a performance commitment is reached, or b) at the date at which the necessary performance to earn the equity instruments is complete. Non-employee stock-based compensation charges generally are amortized over the vesting period on a straight-line basis. In certain circumstances where there are no future performance requirements by the non-employee, option grants are immediately vested and the total stock-based compensation charge is recorded in the period of the measurement date.
+
+Recent Accounting Pronouncements
+
+See Note 1 of the financial statements for discussion of recent accounting pronouncements.
+
+Results of Operations
+
+Below is summary comparing fiscal 2024 and fiscal 2023.
+
+Revenue
+
+During the year ended June 30, 2024, revenue increased by $950,000, as a result of the increase in reactors purchased by Desmet which resulted in an increase in revenues from reactor sales from $413,000 to $865,000. In addition, the Company also recognized $498,000 of license fee pursuant to the termination of the October 2021 agreement with Desmet. There was no similar license fee revenue in fiscal 2023.
+
+During the year ended June 30, 2024, revenue- related party decreased by $20,000. In the prior year we recorded an aggregate revenue of $20,000 from water processing usage fees to Enviro Watertek, LLC. There was no similar water processing usage fees recognized in fiscal 2024.
+
+Cost of Sales
+
+During the year ended June 30, 2024 and 2023, cost of sales was $156,000 and $121,000, respectively, an overall increase of $35,000 or 28.9%. Cost of sales from the production of reactors increased from $73,000 to $156,000, which corresponds to the increase in reactors revenues. Costs of sales in fiscal 2023 also included inventory write off of $48,000, with no similar transaction in fiscal 2024. In addition, during the current year, the Company recognized license fee revenue of $498,000, with no associated cost of sales. After taking these items into account the cost of sales movement is in line with normal margins earned.
+
+General and administrative expenses
+
+General and administrative expenses decreased by $487,000 or 40.8%. The decrease is primarily related to a decrease in headcount and payroll expenses of $272,000 in a concerted effort to reduce operating expenses. In addition stock based compensation reduced by $85,000, since there were no equity awards granted during the current year. Advertising expenditure was reduced by $35,000, audit fees were reduced by $32,000 and consulting fees were reduced by $32,000, all reductions in line with our concerted effort to reduce operating expenses. The balance of the decrease of $31,000 is made up of several individually insignificant expense reductions.
+
+Research and development expenses
+
+Research and development expenses increased by $58,000. During the current year management invested in research into a new cold plasma technology to applied to new markets.
+
+Loss from equity method investment
+
+The loss from equity method investment decreased by $1,148,000, in the prior year, we determined that the value of the Ameredev joint venture that we had entered into in September 2021 no longer supported the investment that we had made due to unfavorable result of operations of Ameredev and the oil and gas industry in which it operates in. As such, we recorded an equity method investment loss of $1,148,000 in fiscal 2023. There was no similar loss in fiscal 2024.
+
+Interest income (expense), net
+
+Interest income (expense) increased by $7,000, this is primarily due to an adjustment made to accrued interest by the noteholder.
+
+Net Loss
+
+Our reporting net income in fiscal 2024 was $439,000 and our net loss in fiscal 2023 was $2,040,000, an increase in income of $2,479,000 due to an increase in revenue, a decrease in general and administrative expenses and a decrease in the loss of equity method investment, offset by an increase in research and development expenditure, discussed above.
+
+Liquidity and Capital Resources
+
+Our cash balance at June 30, 2024 and 2023 was $179,000 and $18,000, respectively, an increase of $161,000, primarily due to the increase in revenue and the reduction in operating expenses during the current year.
+
+We generated cash from operating activities of $172,000 for the year ended June 30, 2024 due to the increase in revenues and reduced operating expenses.
+
+For the year ended June 30, 2023 cash used in operating activities was $423,000.
+
+We utilized cash in financing activities of $11,000 for the year ended June 30, 2024, for the repayment of notes payable.
+
+Going concern
+
+As of June 30, 2024, we had a working capital deficit of $403,000, an accumulated deficit of $26,847,000 and stockholders’ deficit of $480,000 and the Company has had a history of operating losses. These factors, among others, raise substantial doubt about our ability to continue as a going concern within one year of the date that the financial statements are issued. In addition, the Company’s independent registered public accounting firm, in its report on our June 30, 2024 financial statements, has raised substantial doubt about the Company’s ability to continue as a going concern. The Company’s financial statements do not include any adjustments that might result from the outcome of this uncertainty be necessary should we be unable to continue as a going concern.
+
+Management’s plan is to generate income from operations by continuing to license its technology globally, including our agreements with EW and ABI.
+
+We may also attempt to raise additional debt and/or equity financing to fund operations and to provide additional working capital. There is no assurance that such financing will be available in the future or obtained in sufficient amounts necessary to meet our needs, that we will be able to achieve profitable operations or that we will be able to meet our future contractual obligations. Should management fail to obtain such financing, we may curtail its operations.
+
+Off-balance Sheet Arrangements
+
+We have no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on its financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE

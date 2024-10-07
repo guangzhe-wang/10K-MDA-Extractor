@@ -1,0 +1,145 @@
+\. Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+The following discussion and analysis of the Company’s financial condition and results of operations should be read in conjunction with our audited financial statements and the notes related thereto which are included in “Item 8. Financial Statements and Supplementary Data” of this Annual Report on Form 10-K. Certain information contained in the discussion and analysis set forth below includes forward-looking statements. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of many factors, including those set forth under “Special Note Regarding Forward-Looking Statements,” “Item 1A. Risk Factors” and elsewhere in this Annual Report on Form 10-K.
+
+Overview
+
+We are a clinical-stage biopharmaceutical company developing novel, allosteric ion channel modulators designed to transform the lives of patients suffering from serious central nervous system (“CNS”) disorders with high unmet medical need. Ion channels serve as important mediators of physiological function in the CNS and the modulation of ion channels influences neurotransmission that leads to downstream signaling in the brain. The α7 nicotinic acetylcholine (“ACh”) receptor (“α7 receptor”) is an ion channel that plays an important role in driving emotional responses and cognitive performance. Utilizing our expertise in ion channel biology and translational medicine, we are developing orally active small molecule negative allosteric modulators (“NAMs”) to treat anxiety and stressor-related disorders. In addition, through a long-standing strategic partnership with Merck & Co., Inc., in the United States and Canada (“MSD”), we are also developing positive allosteric modulators (“PAMs”) of the α7 receptor to treat cognitive dysfunction. Bionomics’ pipeline also includes preclinical assets that target Kv3.1/3.2 and Nav1.7/1.8 ion channels being developed for CNS conditions of high unmet need. 
+
+We are advancing our lead product candidate, BNC210, an oral, proprietary, selective NAM of the α7 receptor, for the chronic treatment of Post-Traumatic Stress Disorder (“PTSD”) and the acute treatment of Social Anxiety Disorder (“SAD”). There remains a significant unmet medical need for the over 27 million patients in the United States alone suffering from SAD and PTSD.
+
+Current pharmacological treatments include certain antidepressants and benzodiazepines, and there have been no new FDA approved therapies in these indications in nearly two decades. These existing treatments have multiple shortcomings, such as a slow onset of action of antidepressants, and significant side effects of both classes of drugs, including abuse liability, addiction potential and withdrawal symptoms. BNC210 has been observed in our clinical trials to have a fast onset of action and clinical activity without the limiting side effects seen with the current standard of care.
+
+We were incorporated in 1996, completed our initial public offering and listing of ordinary shares on the ASX in 1999 and completed our initial public offering and listing of our ADSs on the Nasdaq in 2021. On July 25, 2023, we requested to be delisted from the official list of the ASX, which became effective August 28, 2023 and, as a result, our ordinary shares are no longer quoted or traded on the ASX.
+
+Our ability to generate revenue from product sales sufficient to achieve profitability will depend heavily on the successful development and eventual commercialization of one or more of our product candidates. As of June 30, 2024, our operations have been financed primarily by aggregate net proceeds of $191.5 million from the sale and issuances of our equity, $13.5 million in the form of an upfront payment, research funding and a milestone payment from the 2014 MSD License Agreement, and $66.8 million from Australian research and development credits and government grants and assistance.
+
+Since inception, we have had significant operating losses. Our net loss after tax was $15.5 million and $21.4 million for the years ended June 30, 2024 and 2023, respectively. As of June 30, 2024, we had an accumulated deficit of $178.0 million and cash and cash equivalents of $12.6 million.
+
+Cash used to fund operating expenses is impacted by the timing of when we pay these expenses, as reflected in the change in our trade and other payables. We expect to continue to incur net losses for the foreseeable future, and we expect our research and development expenses, and our administrative and other expenses will continue to increase. In particular, we expect our expenses to increase as we continue our development of, and seek regulatory approvals for, our product candidates, as well as hire additional personnel, pay fees to outside consultants, lawyers and accountants, and incur other increased costs associated with being a U.S. public company, hiring U.S. personnel and establishing a U.S. infrastructure. In addition, if we seek and obtain regulatory approval to commercialize any product candidate, we will also incur increased expenses in connection with commercialization and marketing of any such product. Our net losses may fluctuate significantly from quarter-to-quarter and year-to-year, depending on the timing of our clinical trials and our expenditure on other research and development activities.
+
+
+In accordance with ASC 205-40, Going Concern, the Company has evaluated whether there are conditions and events, considered in the aggregate, that raise substantial doubt about the Company’s ability to continue as a going concern within one year after the date the financial statements included in this Annual Report on Form 10-K are issued. The Company incurred net losses of $15.5 million and $21.4 million for the years ended June 30, 2024 and 2023, respectively. The Company also used $14.6 million of cash for operating activities during each of the years ended June 30, 2024 and 2023. Based upon the Company’s current operating plans, the Company believes that its existing cash and cash equivalents, combined with its existing ATM facility, will be sufficient to continue funding its development activities into late in the first quarter of fiscal year 2026, which is less than twelve months from the date these consolidated financial statements are issued. Accordingly, based on its recurring losses from operations incurred since inception, the expectation of continued operating losses, and the need to raise additional capital to finance its future operations, the Company determined that there is substantial doubt about the Company’s ability to continue as a going concern within twelve months of the issuance date of these financial statements.
+
+Licenses and Collaborations 
+
+In January 2012, we entered into a research and license agreement with Ironwood Pharmaceuticals, Inc. (“Ironwood”), pursuant to which Ironwood was granted worldwide development and commercialization rights for BNC210. In November 2014, the parties mutually agreed to terminate this license agreement, reverting all rights to BNC210 back to us. The sole obligation to Ironwood is to pay Ironwood low to mid-single digit royalties on the net sales of BNC210, if commercialized.
+
+In June 2014, we entered the 2014 MSD License Agreement to develop compounds targeting cognitive dysfunction associated with Alzheimer’s disease and other central nervous system conditions. Pursuant to the 2014 MSD License Agreement, we received upfront payments totaling A$20 million, and another A$10 million in February 2017 when the first compound from the collaboration entered Phase 1 clinical trials and we are eligible to receive up to an additional A$465 million in milestone payments for achievement of certain development and commercial milestones. Further, MSD is obligated to pay us tiered royalties in the mid-single digit to low sub-teen double digit percentage range on net sales of the licensed products, subject to reduction upon certain events.
+
+In November 2020, we entered into an IP license agreement (the “Carina Biotech License”) with Carina Biotech. Pursuant to the Carina Biotech License, we are eligible to receive approximately $3 million in certain development, regulatory milestone payments if Carina Biotech advances the development of the therapy to a Phase 3 trial. Carina Biotech is also obligated to pay us royalties on its net sales of licensed products, on a country-by-country and product-by-product basis, ranging from the low single digits to the mid-single digits, subject to certain specified deductions. Royalties are payable until the later of expiration of all licensed patents covering the licensed products, or expiration of all data exclusivity with respect to the licensed product. If Carina Biotech enters into one or more sublicensing agreements relating to the licensed product, we are eligible to receive a percentage of sublicensing revenues. To date, no payments have been made pursuant to the Carina Biotech License.
+
+Components of Operating Results from Continuing Operations 
+
+Expenses 
+
+Our expenses since inception have consisted primarily of research and development expenses, general and administrative expenses, and other costs.
+
+
+Research and Development Expenses 
+
+Our research and development expenses represent costs incurred to conduct discovery and development of our proprietary drug candidates and consist primarily of:
+
+| ●| expenses incurred under agreements with outside consultants and advisors, including their fees and related travel expenses; and 
+---|---|--- 
+
+| ●| expenses incurred under agreements with third parties, including CROs that conduct research, preclinical activities and clinical trials on our behalf as well as CMOs that manufacture our product candidates for use in our preclinical studies and clinical trials and perform other required manufacturing activities. 
+---|---|--- 
+
+We expense all research and development costs as they are incurred, with development expenses being expensed to the extent they do not meet the criteria for capitalization. To date, we have not capitalized any of our research and development costs and manage our research and development costs on a consolidated basis. Our collaboration partners typically carry the majority of the research and development expenses for out-licensed product candidates at amounts that are not known or made available to us. Therefore, our research and development expenses do not reflect a complete picture of all financial resources devoted to our product candidates, nor do historical research and development expenses necessarily reflect the stage of development for particular product candidates or development projects.
+
+Substantially all our direct research and development expenses in the years ended June 30, 2024 and 2023 were on BNC210 and consisted primarily of external costs, such as consultants, CMOs that conduct research and development activities on our behalf, costs related to production of preclinical and clinical materials, including fees paid to CMOs, and laboratory and vendor expenses related to the execution of our ongoing and planned preclinical studies and clinical trials. We deploy our personnel resources across all our research and development activities.
+
+Because of the numerous risks and uncertainties associated with product development and the current stage of development of our product candidates, we cannot reasonably estimate or know the nature, timing, and estimated costs necessary to complete the remainder of the development of our product candidates. We are also unable to predict if, when, or to what extent we will obtain approval and generate revenues from the commercialization and sale of our product candidates. The duration, costs, and timing of preclinical studies and clinical trials and development of our product candidates will depend on a variety of factors, including:
+
+
+We may never succeed in achieving regulatory approval for any of our product candidates. We may obtain unexpected results from our preclinical studies and clinical trials. We may elect to discontinue, delay or modify clinical trials of some product candidates or focus on others. A change in the outcome of any of these factors could mean a significant change in the costs and timing associated with the development of our current and future preclinical and clinical product candidates. For example, if the FDA or another regulatory authority were to require us to conduct clinical trials beyond those that we currently anticipate will be required for the completion of clinical development, or if we experience significant delays in execution of or enrollment in any of our preclinical studies or clinical trials, we could be required to expend significant additional financial resources and time on the completion of preclinical and clinical development.
+
+Research and development activities account for a significant portion of our operating expenses. We expect our research and development expenses to increase substantially for the foreseeable future as we continue to implement our business strategy, which includes advancing BNC210 through clinical development and other product candidates into clinical development, expanding our research and development efforts, including hiring additional personnel to support our research and development efforts, and seeking regulatory approvals for our product candidates that successfully complete clinical trials. In addition, product candidates in later stages of clinical development generally incur higher development costs than those in earlier stages of clinical development, primarily due to the increased size and duration of later-stage clinical trials. As a result, we expect our research and development expenses to increase as our product candidates advance into later stages of clinical development. However, we do not believe that it is possible at this time to accurately project total program-specific expenses through commercialization. There are numerous factors associated with the successful commercialization of any of our product candidates, including future trial design and various regulatory requirements, many of which cannot be determined with accuracy at this time based on our stage of development. The process of conducting the necessary clinical development to obtain regulatory approval is costly and time-consuming, and the successful development of our product candidates is highly uncertain.
+
+General and Administration Expenses 
+
+We expect our general and administration expenses to increase over the next several years to support expanded research and development activities and operating as a U.S. public company, including costs of additional personnel, increased costs related to additional investor relations activities, director and officer insurance premiums, and increased fees to outside consultants, lawyers, and accountants.
+
+Our general and administration expenses consist primarily of:
+
+
+Other Income
+
+Other income consists of net interest income, income from a research and development tax incentive award, foreign currency gains and losses, fair value adjustments, and other gains and losses.
+
+The tax incentive awards relate to the Australian Government’s Research and Development Tax Incentive program.
+
+The Australian Government’s Research and Development Tax Incentive program provides a refundable tax offset for up to 43.5% of eligible research and development expenditures by Australian companies with an “aggregated turnover” of less than A$20.0 million. Grants under the program have been available for our research and development activities in Australia, as well as certain activities conducted overseas that are approved by the Australian Government. Grants are calculated at the end of the fiscal year to which they relate, based on the expenses incurred in such fiscal year and included in such fiscal year’s Australian income tax return after registration of the research and development activities with the relevant authorities.
+
+Foreign Currency Exchange 
+
+Our financial results are reported in U.S. dollars. A substantial portion of our operating expenses and other income, if any, are denominated in the Australian dollar. During the years ended June 30, 2024 and 2023, we managed our exchange rate exposure principally by maintaining foreign currency cash accounts and managing our payments from the most appropriate accounts. From time to time, we may additionally use forward exchange contracts in an effort to manage certain foreign exchange rate exposures when appropriate. There were no foreign exchange contracts used during the years ended June 30, 2024, and 2023, respectively. See “Quantitative and Qualitative Disclosures about Market Risk” for more information.
+
+Results of Operations
+
+Comparison of Fiscal Years ended June 30, 2024 and 2023 
+
+Research and Development Expenses 
+
+Our research and development activities in the fiscal years ended June 30, 2024 and June 30, 2023 were principally focused on the advancement of BNC210. The decrease in the fiscal year ended June 30, 2024 of approximately $3.6 million as compared to the fiscal year ended June 30, 2023 was primarily due to decreased expenditures associated with the PTSD ATTUNE clinical trial, which started during July 2021, the SAD PREVAIL clinical trial, which started during February 2022, and work in relation to preparation for an End-of-Phase 2 meeting with the FDA to discuss our Phase 3 clinical program in SAD.
+
+
+In the fiscal year ended June 30, 2024, approximately 85% of the total research and development expenses related to the advancement of our BNC210-based programs. Of the total BNC210-based program spend during the year ended June 30, 2024, approximately 35% was attributable to PSTD ATTUNE, 40% to SAD Prevail, and 25% to overall CMC costs. We do not track labor associated with each program and have allocated headcount costs on a pro-rated basis. Management believes the pro rata allocation results in a reasonable estimate of the headcount costs associated with each of the programs noted above.
+
+General and Administrative Expenses 
+
+The decrease in general and administrative expenses in fiscal year 2024 of $0.4 million as compared to fiscal year 2023 was due to decreases in headcount-related costs of $1.0 million resulting from costs associated with hiring a new Chief Executive Officer and paying out severance to the outgoing CEO in fiscal year 2023, and decreased insurance expense in the current year of $0.8 million, partially offset by increases in administrative costs associated with our delisting from the ASX of $0.3 million, increased public relations costs in support of fundraising efforts of $0.4 million, and warrant liability issuance costs of $0.7 million associated with the private placement that closed in June 2024 and which is further discussed below in “Financing Activities”.
+
+Other Income 
+
+The increase in other income of $1.9 million for fiscal year 2024, as compared to fiscal year 2023, was primarily due to increases in the fair value adjustment of our contingent consideration liability and our warrant liability of $2.8 million, partially offset by a decrease in interest income of $0.1 million, an increased loss in realized foreign currency transaction expense of $0.5 million, and a decrease in the research and development incentive award of $0.3 million.
+
+Off-Balance Sheet Arrangements
+
+We did not have during fiscal year 2024, and we do not currently have, any off-balance sheet financing arrangements or any relationships with unconsolidated entities or financial partnerships, including entities sometimes referred to as structured finance or special purpose entities, that were established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes.
+
+Liquidity and Capital Resources
+
+We have incurred significant operating losses and negative cash flows from operations since our inception, and we anticipate that we will incur net losses for the next several fiscal years. As of June 30, 2024, we had cash and cash equivalents of $12.6 million and an accumulated deficit of $178.0 million.
+
+The following table sets forth the primary sources and uses of cash for each of the periods presented:
+
+Comparison of Fiscal Years ended June 30, 2024 and 2023
+
+
+Operating Activities 
+
+The less than $0.1 million decrease in net cash used in operating activities from $14.7 million for fiscal year 2023 to $14.6 million for fiscal year 2024 reflects a $5.9 million decrease in net loss combined with a favorable $0.5 million change in the effect of foreign currency translation and remeasurement in year 2024, as compared to fiscal year 2023, partially offset by a $0.5 million decrease in year-over year share-based compensation expense, a favorable $2.8 million year-over-year change in fair value adjustments on the warrant and contingent consideration liabilities, and a $3.1 million year-over-year change in working capital.
+
+Investing Activities 
+
+There were no transactions categorized as investing activities during either of fiscal years 2024 or 2023.
+
+Financing Activities 
+
+Financing activities in the fiscal year ended June 30, 2024 included gross proceeds of $16.4 million from the sale and issuance of ADSs and warrants, partially offset by equity issuance costs of $1.3 million. Financing activities in fiscal year 2023 included $5.0 million of gross proceeds from the sale and issuance of ADSs, partially offset by equity issuance costs of $1.1 million.
+
+In May 2023, the Company announced the establishment of an “at-the-market” program (the “ATM Program”) with Cantor Fitzgerald & Co. (“Cantor”) as sales agent. Under the ATM Program, the Company may offer and sell up to $11.5 million of ordinary shares in the form of ADSs, with each ADS representing 180 fully paid ordinary shares, through Cantor. Sales of ADSs under the ATM Program may be made from time to time, with the timing and amount of any sales to be determined by Bionomics based on a variety of factors. Bionomics may determine to sell some, all, or none of the ADSs under the ATM Program and may terminate the ATM Program at its discretion. Bionomics, through Cantor, may sell ADSs by any lawful method deemed to be an “at-the-market offering”. Sales made through the ATM Program may be made at market prices prevailing at the time of a sale or at prices related to prevailing market prices. As a result, actual sales prices may vary. We currently intend to use the net proceeds from the ATM, together with its existing cash and cash equivalents, to fund our pipeline development, to maintain working capital and for general corporate purposes. During fiscal year ended June 30, 2024, we issued an aggregate of 3,791,317 ADSs under the ATM program, receiving gross proceeds in the aggregate amount of approximately $8.9 million.
+
+In May 2024, we entered into a Securities Purchase Agreement with Armistice Capital Master Fund Ltd. pursuant to which Bionomics agreed to issue and sell in a three-tranche private placement a certain number of restricted ADSs, a pre-funded warrant to purchase ADSs and an accompanying 5-year cash purchase warrant. The first tranche of the private placement closed in June 2024, resulting in aggregate gross proceeds to Bionomics of $7.5 million. For further information, see Item 5 – Recent Sales of Unregistered Securities.
+
+Funding Requirements 
+
+Any product candidates we may develop may never achieve commercialization and we anticipate that we will continue to incur losses for the foreseeable future. We expect that our research and development expenses and our general and administrative expenses will continue to increase. As a result, until such time, if ever, as we can generate substantial product revenue, we expect to finance our cash needs through a combination of equity offerings, debt financings or other capital sources, including potentially collaborations, licenses and other similar arrangements. Our primary uses of capital are, and we expect will continue to be, compensation and related expenses (including share-based compensation); costs related to third-party clinical research, non-clinical research, manufacturing and development services; costs relating to the build-out of our headquarters and other offices; license payments or milestone obligations that may arise; legal and other regulatory expenses and general overhead costs.
+
+
+Based upon our current operating plan, we believe that our existing cash and cash equivalents, combined with our existing ATM facility, will be sufficient to continue funding our development activities through late in the first quarter of fiscal year 2026. We have based this estimate on assumptions that may prove to be wrong, and we could exhaust our available capital resources sooner than we expect. To finance our operations beyond that point we will need to raise additional capital, which cannot be assured. We have based this estimate on assumptions that may prove to be wrong, and we could utilize our available capital resources sooner than we currently expect. We will continue to require additional financing to advance our current product candidates through clinical development, to develop, acquire or in-license other potential product candidates and to fund operations for the foreseeable future. We will continue to seek funds through equity offerings, debt financings or other capital sources, including potential collaborations, licenses and other similar arrangements. However, we may be unable to raise additional funds or enter into such other arrangements when needed on favorable terms or at all. If we do raise additional capital through public or private equity offerings, the ownership interest of our existing shareholders, will be diluted, and the terms of these securities may include liquidation or other preferences that adversely affect our shareholders’ rights. If we raise additional capital through debt financing, we may be subject to covenants limiting or restricting our ability to take specific actions, such as incurring additional debt, making capital expenditures or declaring dividends. Any failure to raise capital as and when needed could have a negative impact on our financial condition and on our ability to pursue our business plans and strategies. If we are unable to raise capital, we will need to delay, reduce or terminate planned activities to reduce costs.
+
+Further, our operating plans may change, and we may need additional funds to meet operational needs and capital requirements for clinical trials and other research and development activities. Because of the numerous risks and uncertainties associated with the development and commercialization of our product candidates, we are unable to estimate the amounts of increased capital outlays and operating expenditures associated with our current and anticipated product development programs.
+
+If we were unable to obtain additional financing to fund our operations through successful development and commercialization of all our potential product candidates, we may be required to reduce the scope of, delay, or terminate some or all of our planned development and commercialization activities, which could harm our business. For more information as to the risks associated with our future funding requirements, see “Risk Factors.”
+
+Contractual Obligations
+
+We do not have any long-term debt or capital lease obligations. We have a long-term operating lease obligation for our Australian office space and a non-current warrant liability which commits us to issuing shares to accompanying warrant holders upon the exercise of their ADS warrants. 
+
+
+Critical Accounting Estimates
+
+The preparation of audited financial statements and related disclosures in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the audited financial statements, and income and expenses during the periods reported. Actual results could materially differ from those estimates. See Note 1 to the audited financial statements included in Item 8 - Financial Statements and Supplementary Data included elsewhere in this document for critical accounting estimates as of June 30, 2024.

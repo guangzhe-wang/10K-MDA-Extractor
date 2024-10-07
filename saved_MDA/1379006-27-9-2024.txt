@@ -1,0 +1,143 @@
+: MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion should be read in conjunction with the information contained in the financial statements of the Company and the notes thereto appearing elsewhere herein and in conjunction with the Company’s Annual Report on Form 10-K for the year ended June 30, 2024. Readers should carefully review the risk factors disclosed in this Form 10-K and other documents filed by the Company with the SEC.
+
+As used in this report, the terms “Company”, “we”, “our”, “us” and “NNVC” refer to NanoViricides, Inc., a Delaware corporation.
+
+PRELIMINARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+This Annual Report contains forward-looking statements within the meaning of the federal securities laws. These include statements about our expectations, beliefs, intentions or strategies for the future, which we indicate by words or phrases such as “anticipate,” “expect,” “intend,” “plan,” “will,” “we believe,” “NNVC believes,” “management believes” and similar language. The forward-looking statements are based on the current expectations of NNVC and are subject to certain risks, uncertainties and assumptions, including those set forth in the discussion under “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in this report. Actual results may differ materially from results anticipated in these forward-looking statements. We base the forward-looking statements on information currently available to us, and we assume no obligation to update them.
+
+Investors are also advised to refer to the information in our previous filings with the Securities and Exchange Commission (SEC), especially on Forms 10-K, 10-Q and 8-K, in which we discuss in more detail various important factors that could cause actual results to differ from expected or historic results. It is not possible to foresee or identify all such factors. As such, investors should not consider any list of such factors to be an exhaustive statement of all risks and uncertainties or potentially inaccurate assumptions.
+
+Management’s Plan of Operation
+
+The Company’s drug development business model was formed in May 2005 with a license to the patents and intellectual property held by TheraCour that enabled creation of drugs engineered specifically to combat viral diseases in humans. This exclusive license from TheraCour serves as a foundation for our intellectual property. The Company was granted a worldwide exclusive license to this technology for several drugs with specific targeting mechanisms for the treatment of the following human viral diseases: Human Immunodeficiency Virus (HIV/AIDS), Hepatitis B Virus (HBV), Hepatitis C Virus (HCV), Rabies, Herpes Simplex Virus (HSV-1 and HSV-2), Influenza and Asian Bird Flu Virus. The Company entered into an additional license agreement with TheraCour granting the Company the exclusive licenses for technologies developed by TheraCour for the additional virus types: Dengue viruses, Japanese Encephalitis virus, West Nile Virus, Viruses causing viral Conjunctivitis (a disease of the eye) and Ocular Herpes, and Ebola/Marburg viruses. The Company completed a license agreement for the field of VZV indications in November 2019 from TheraCour. The Company completed a license agreement for the field of human Coronavirus indications in September 2021 from TheraCour. TheraCour has not denied any licenses sought by the Company in the past.
+
+The Company may seek to add additional virus types to its drug pipeline as the Company progresses further. The Company would then need to negotiate with TheraCour or an unrelated party appropriate license agreements to include those of such additional viruses that the Company determines it wants to follow for further development. Historically, the Company initiates negotiations for additional licenses when initial exploratory research determines that a viable drug candidate for the targeted field is possible. We are seeking to add to our existing portfolio of products through our internal discovery pre-clinical development programs and through an in-licensing strategy.
+
+The licenses granted by TheraCour are for entire set of pathologies that the licensed virus is a causative agent for. The licenses are not for single drug/indication pairs, which is the customary mode of licensing in the pharmaceutical industry. Thus, these are very broad licenses and enable NanoViricides to pursue a number of indications as well as develop drug candidates with different characteristics as is best suited for the indications, without having to license the resulting drugs for each indication separately, as with normal pharmaceutical industry licensing.
+
+Page 83 of 106
+
+The Company plans to develop several drugs through the preclinical studies and clinical trial phases with the goal of eventually obtaining approval from the United States Food and Drug Administration (“FDA”) for these drugs. The Company plans, when appropriate, to seek regulatory approvals in several international markets, including developed markets such as Europe, Japan, Canada, Australia, and Emerging Regions such as Southeast Asia, India, China, Central and South America, as well as the African subcontinent. Seeking these regulatory approvals would only occur when and if one or more of our drugs have significantly advanced through the FDA and international regulatory process. If and as these advances occur, the Company may attempt to partner with more established pharmaceutical companies to advance the various drugs through the approval process.
+
+The Company intends to perform the regulatory filings for the drugs it is currently developing. The Company will develop these drugs in part via subcontracts to TheraCour, the exclusive source for these nanomaterials. The Company may manufacture these drugs itself, or under subcontract arrangements with external manufacturers that carry the appropriate regulatory licenses and have appropriate capabilities. The Company intends to distribute these drugs via subcontracts with distributor companies or in partnership arrangements. The Company plans to market these drugs either on its own or in conjunction with marketing partners. The Company also plans to actively pursue co-development, as well as other licensing agreements with other pharmaceutical companies. Such agreements may entail up-front payments, milestone payments, royalties, and/or cost sharing, profit sharing and many other instruments that may bring early revenues to the Company. Such licensing and/or co-development agreements may shape the manufacturing and development options that the Company may pursue.
+
+Although we have been able to develop nanoviricide drug candidates for multiple indications that are safe and effective in pre-clinical studies there can be no assurance that we will have sufficient resources to be able to successfully obtain regulatory approvals, manufacture, and market these products to commence revenue-generating operations.
+
+There can be no assurance that other developments in the field would not impact our business plan adversely. For example, successful creation and availability of an effective vaccine may reduce the potential market size for a particular viral disease, or an effective drug may be developed by competitors that becomes difficult to compete against with our limited resources. Our goal, which we can give no assurance that we will achieve, is for NanoViricides, Inc. to become the premier company developing highly safe and effective drugs that employ an integrated multiplicity of actions as enabled by our nanomedicine approach for anti-viral therapy.
+
+In summary, we are developing and sourcing compounds and preparing nano-materials; performing experiments involving preclinical studies using cell cultures and animal models of efficacy and safety, advancing drug candidates against different indications into IND-enabling safety/toxicology studies, and we have advanced our first drug candidate for treatment of COVID into Phase Ia/Ib clinical studies. We have generated funding through the issuances of debt and the sales of securities under our shelf registration and the private placement of common stock. We have not generated any revenues and we do not expect to generate revenues in the near future. We may not be successful in developing our drugs and start selling our products when planned, or we may not become profitable in the future. We have incurred net losses in each fiscal period since inception of our operations.
+
+Results of Operations
+
+The Company is a biopharmaceutical company and does not have any revenue for the years ended June 30, 2024 and June 30, 2023.
+
+Comparison of the Year End June 30, 2024 to the Year Ended June 30, 2023
+
+Revenues - The Company is a non-revenue producing entity.
+
+Research and Development Expenses \- Research and development expenses for the year ended June 30, 2024 decreased approximately $955,000, to approximately $5,437,000 from approximately $6,392,000 for the year ended June 30, 2023. This year-to-year decrease is generally attributable to the decrease in license fees, offset by the increase in outside laboratory services.
+
+General and Administration Expenses \- General and administrative expenses increased approximately $528,000 to approximately $3,079,000 for the year ended June 30, 2024 from approximately $2,551,000 for the year ended June 30, 2023. The increase in general and administrative expenses is generally attributable to an increase in professional services including, legal, accounting and investor outreach expenditures.
+
+Page 84 of 106
+
+Interest Income \- Interest income was approximately $272,000 and approximately $356,000 for the years ended June 30, 2024 and 2023, respectively. Interest income decreased due to lower cash balances.
+
+Interest Expense\- The Company has incurred interest expense of approximately $50,000 and $900 for the years ended June 30, 2024 and June 30, 2023 respectively. The increase in interest expense for the year ended June 30, 2024 is a result of interest expense charged pursuant to the milestone payment note with TheraCour. The interest charged pursuant to the milestone payment note was cancelled by TheraCour on October 27, 2023. The cancellation of the note interest reduced accrued expenses and increased additional paid in capital by approximately $50,000.
+
+Income Taxes - There is no provision for income taxes due to ongoing operating losses. As of June 30, 2024, we had estimated cumulative tax benefits and development tax credits and other deferred tax credits resulting in a deferred tax asset of approximately $39,772,000. This amount has been offset by a full valuation allowance.
+
+Net Loss \- For the year ended June 30, 2024, the Company had a net loss of approximately $8,294,000, or a basic and fully diluted loss per share of $0.70 compared to a net loss of approximately $8,589,000, or a basic and fully diluted loss per share of $0.74 for the year ended June 30, 2023. The decrease in the Company’s net loss for the year ended June 30, 2024 from the year ended June 30, 2023 of $295,000 is generally attributable to the items discussed above.
+
+Research and Development Costs
+
+The Company does not maintain separate accounting line items for each project in development. The Company maintains aggregate expense records for all research and development conducted. Because at this time all of the Company’s projects share a common core material, the Company allocates expenses across all projects at each period-end for purposes of providing accounting basis for each project. Project costs are allocated based upon labor hours performed for each project.
+
+The Company has signed several cooperative research and development agreements with TheraCour, and expects to enter into additional cooperative agreements with other governmental and non-governmental, academic, or commercial, agencies, institutions, and companies. There can be no assurance that a final agreement may be achieved and that the Company will execute any of these agreements. However, should any of these agreements materialize, the Company will implement a system to track these costs by project and account for these projects as customer-sponsored activities and show these project costs separately.
+
+The following table summarizes the primary components of our research and development expenses as allocated, during the periods presented in this Annual Report on Form 10-K.
+
+Table : R&D Costs Allocation
+
+​
+
+As many of our programs share a substantial amount of materials as well as laboratory work, we do not maintain project-based accounting of costs at present. The table above represents estimated cost allocations for specific activities in the different programs, with the bulk of common activities reported under the “Pan-coronavirus drug program – NV-387” heading.
+
+Page 85 of 106
+
+Financings
+
+On May 5, 2023, we filed a registration statement on Form S-3 (File No. 333-271706) with the Securities and Exchange Commission (the “SEC”), as amended on May 8, 2023, which registration statement was declared effective by the SEC on May 22, 2023. Under this shelf registration process, we may, from time to time, sell up to $150 million in the aggregate of shares of common stock, shares of preferred stock, debt securities, warrants and units. Approximately $145 million remains available for sale as of the date of this filing.
+
+On or about August 1, 2023, the ATM Sales Agreement that we previously had with EF Hutton, division of Benchmark Investments, LLC and B. Riley Securities, Inc., taken together as the Sales Agent, was amended to name EF Hutton as the only sales agent (the “Agent”) and to remove B. Riley as a sales agent. On August 4, 2023, we filed a prospectus supplement relating to the issuance and sale of our common stock, par value $0.00001 per share, having an aggregate offering price of up to $5,713,022, from time to time through or to our sole sales agent, EF Hutton. These sales, if any, would have been made pursuant to the terms of the August 1, 2023 ATM Sales Agreement. 
+
+On April 5, 2024, the Company entered into a new ATM sales agreement with. E.F. Hutton Securities (now EF Hutton, LLC), the sales agent, replacing the prior August 1, 2023 sales agreement, pursuant to which the Company may offer and sell, from time to time, through or to the Sales Agents, shares of common stock having an aggregate offering price of up to $50 million (each such offering an “At-the-Market” or ATM Offering). As of June 30, 2024, the Company sold 1,308,651 shares of common stock at an average price of approximately $2.47 per share. The shares were issued pursuant to a prospectus supplement dated May 5, 2023 and filed with the Securities and Exchange Commission on May 5, 2023 in connection with the Company’s shelf registration statement on Form S-3, as amended (File No. 333-271706), which became effective on May 22, 2023. The net proceeds to the Company from the offering was approximately $3,120,000 after placement agent fees and other estimated offering expenses.
+
+From July 1, 2024 through September 10, 2024, subsequent to the Company’s fiscal year end, the Company sold 772,836 shares of common stock at an average price of approximately $1.98 per share. The net proceeds to the Company from the offering was approximately $1,533,000 after placement agent fees and other estimated offering expenses.
+
+Liquidity and Capital Reserves
+
+As of June 30, 2024, we had approximately $4,798,000 in cash and cash equivalents. Our liabilities as of June 30, 2024 are approximately $1,359,000, including accounts payable of approximately $376,000 payable to third parties, accounts payable to TheraCour of approximately $720,000, accrued expenses approximately $262,000.
+
+The Company has an accumulated deficit at June 30, 2024 of approximately $139,375,000 and net cash used in operating activities of approximately $6,316,000 for the fiscal year then ended. In addition, the Company has not generated any revenues and no revenues are anticipated in the foreseeable future. Since May 2005, the Company has been engaged exclusively in research and development activities focused on developing targeted antiviral drugs. The Company has not yet commenced any product commercialization. Such losses are expected to continue for the foreseeable future and until such time, if ever, as the Company is able to attain sales levels sufficient to support its operations. 
+
+Management believes that the Company’s cash and cash equivalents balance of approximately $4.8 million and additional capital raised of approximately $1.5 million by ATM sales of our common stock from July 1, 2024 through September 10, 2024 and the Company’s existing resources, including availability under its $3 million line of credit will not be sufficient to fund the Company’s planned operations and expenditures for at least 12 months from the date of the filing of this Form 10-K. As a result substantial doubt exists about the Company’s ability to continue as a going concern. 
+
+Management is actively exploring additional required funding through non-dilutive grants and contracts, partnering, debt or equity financing pursuant to its plan. There is no assurance that we will be successful in obtaining sufficient financing on terms acceptable to us to fund continuing operations.
+
+The Company believes that it has several important milestones, including data from and final reports from the Phase Ia/Ib human clinical trial for the Company’s broad-spectrum, antiviral drug NV-387. This Phase Ia/Ib human clinical trial is for evaluating the safety and tolerability of two oral formulations of NV-387, namely (i) NV-CoV-2 Oral Gummies, and (ii) NV-387 Oral Syrup, as described elsewhere, with COVID as the indication. The safety and tolerability data from this clinical trial is expected to be applicable as Phase 
+
+Page 86 of 106
+
+Ia/Ib data for other indications of NV-387 as well, including RSV, MPOX, Influenza and others. Additional milestones include Pre-IND and IND filing to the US FDA for RSV and clinical trial application for Phase II clinical trial of NV-387 for the treatment of RSV infection in adults with the goal towards further regulatory advancement and approval of NV-387 for the treatment of pediatric RSV infection. Additionally, we believe that NV-387 qualifies for a Phase II clinical trial for the treatment of MPOX infection in Central African nations under the MEURI protocol of WHO because there is no other treatment available for this epidemic that is declared by the WHO as a public health emergency of international concern (MEURI = Monitored Emergency Use of Unregistered and Investigational Interventions.). We plan on initiating the Phase II study for MPOX as soon as feasible if we get the appropriate regulatory clearances. Additionally, we continue towards developing the Pre-IND and IND applications for a Phase IIa clinical trial of NV-387 for the treatment of RSV infection in adults, to be followed by a Phase IIb/III clinical trial of NV-387 for the treatment of RSV infection in hospitalized pediatric patients. To this end, we are also evaluating the possibility of a Phase IIa clinical trial of a RSV Infection Challenge in Humans.
+
+As these milestones are achieved, the Company would likely experience improvement in the liquidity of the Company’s stock, and such improvement, if any, would enhance the Company’s ability to raise funds on the public markets at terms that may be favorable to the terms offered at present. 
+
+Management believes that it has on-going access to the capital markets including the “At-The-Market” (ATM) agreement with EF Hutton, the Sales Agent, that became active around April 5, 2024. However, we cannot provide assurance that the Company’s plans will not change or that changed circumstances will not result in the depletion of its capital resources more rapidly than it currently anticipates.
+
+Requirement for Additional Capital
+
+As of June 30, 2024 we have a cash balance of approximately $4,798,000 and raised an approximate additional $1.5 through September 10, 2024 through ATM sales of our common stock.
+
+We believe we will need additional funding to continue further development of our drug candidates through later stages of human clinical trials into regulatory approvals if we do not form a collaborative licensing or partnership agreement with a party that would provide such funding such as Big Pharma.
+
+These anticipated expenses for the subsequent period commencing on July 1, 2024 can be summarized as follows:
+
+As our programs mature and as we are able to move additional drug candidates into human clinical trials we will continue to require additional funding for such activities. The estimates assume that our drug candidates demonstrate effectiveness in humans that is consistent with the activity observed in animal studies, and therefore would require relatively few patients in each arm of each trial in order to establish statistically significant results.
+
+Page 87 of 106
+
+We believe that as our programs mature towards FDA approval, the Company’s market capitalization should improve substantially, based on market capitalizations of comparable public companies in clinical stages.
+
+Management believes that as a result of the management plan, our existing resources and access to the capital markets will permit us to fund planned operations and expenditures for at least one year from the filing of the 10-K. However, we cannot provide assurance that our plans will not change or that changed circumstances will not result in the depletion of our capital resources more rapidly than we currently anticipate.
+
+The Company has limited experience with pharmaceutical drug development. Thus, our budget estimates are not based on experience, but rather based on advice given by our associates and consultants. As such, these budget estimates may not be accurate. In addition, the actual work to be performed is not known at this time, other than a broad outline, as is normal with any scientific work. As further work is performed, additional work may become necessary or change in plans or workload may occur. Such changes may have an adverse impact on our estimated budget. Such changes may also have an adverse impact on our projected timeline of drug development.
+
+Our strategy is to minimize capital expenditure. We therefore rely on third party collaborations for the testing of our drug candidates. We continue to engage with our previous collaborators.
+
+Management further intends to use capital and debt financing, as required, to fund the Company’s operations. There can be no assurance that we will be able to obtain the additional capital resources, non-dilutive financings, grants and contracts, or pharmaceutical partnerships.
+
+We are considered to be a clinical drug development stage company and will continue in the clinical drug development stage until we can get regulatory approvals and thereafter generate revenues from the sales of our products or services.
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+Accounting for Stock Based Compensation – The Company follows the provisions of ASC 718 – Stock Compensation, which requires the measurement of compensation expense for all shared-based payment awards made to employees, non-employee directors, and non-employees including employee stock options. Shared-based compensation expense is based on the grant date fair value estimated in accordance with the provisions of ASC 718 and is generally recognized as an expense over the requisite service period, net of forfeitures.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+Recently Issued Accounting Pronouncements
+
+The Company considers the applicability and Impact of all Accounting Standard Updates (“ASU’s”). ASU’s not discussed below were assessed and determined to be either not applicable or are expected to have minimal impact on the Company’s financial statements.
+
+ASU 2023-09 Income Taxes (Topic 740) Improvements to Income Tax Disclosures. The amendments in this Update require that public business entities on an annual basis disclose specific categories in the rate reconciliation and provide additional information for reconciling items that meet a quantitative threshold (if the effect of those reconciling items is equal to or greater than 5 percent of the amount computed by multiplying pretax income (or loss) by the applicable statutory income tax rate). Additionally, the ASU requires all entities to disclose the amount of income taxes paid disaggregated by federal, state, and foreign taxes, as well as individual jurisdictions where income taxes paid are equal to or greater than 5 percent of total income taxes paid. ASU 2023-09 is effective for annual periods beginning after December 31, 2024. Early adoption is permitted and this ASU should be applied on a prospective basis. While the Company is currently evaluating the adoption impact of this ASU on its financial statements, the preliminary assessment is that the adoption of this standard is not expected to have a material effect on the Company’s financial statements and the Company’s disclosures.
+
+ASU 2023-07 Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures. The requirements of this update require disclosure of significant segments expenses and increase the frequency of segment reporting to interim periods. The ASU is effective for all public companies for fiscal years beginning after December 15, 2023 and for interim period beginning after December 15, 2024. Early adoption is permitted and is applicable to all periods presented in the financial statements unless retrospective application is impracticable. While the Company is currently evaluating the adoption impact of this ASU on its financial statements, the preliminary 
+
+Page 88 of 106
+
+assessment is that the adoption of this standard is not expected to have a material effect on the Company’s financial statements and the Company’s disclosures.
+
+There have been certain changes in ASU 2020-06, Debt - Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging - Contracts in Entity’s Own Equity (Subtopic 815-40) - Accounting for Convertible Instruments and Contracts in an Entity’s Own Equity, which simplifies accounting for convertible instruments by removing major separation models required under GAAP. The ASU also removes certain settlement conditions that are required for equity-linked contracts to qualify for the derivative scope exception, and it also simplifies the diluted earnings per share calculation in certain areas. The Company adopted this guidance on July 1, 2023 using the modified retrospective method. The adoption of this standard did not have a material effect on the Company’s financial statements.

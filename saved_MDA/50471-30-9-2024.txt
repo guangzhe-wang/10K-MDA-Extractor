@@ -1,0 +1,167 @@
+.
+
+| 
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+---|--- 
+
+The following Management’s Discussion and Analysis is intended to assist the reader in understanding our results of operations and financial condition. Management’s Discussion and Analysis is provided as a supplement to, and should be read in conjunction with, our audited consolidated financial statements beginning on page F-1 of this Annual Report on Form 10-K (this "Annual Report"). This Annual Report includes certain statements that may be deemed to be “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”). All statements, other than statements of historical fact, included in this Annual Report that address activities, events or developments that we expect, project, believe, or anticipate will or may occur in the future, including matters having to do with expected and future revenue, our ability to fund our operations and repay debt, business strategies, expansion and growth of operations and other such matters, are forward-looking statements. These statements are based on certain assumptions and analyses made by our management in light of its experience and its perception of historical trends, current conditions, expected future developments, and other factors it believes are appropriate in the circumstances. These statements are subject to a number of assumptions, risks and uncertainties, including general economic and business conditions, the business opportunities (or lack thereof) that may be presented to and pursued by us, our performance on our current contracts and our success in obtaining new contracts, our ability to attract and retain qualified employees, and other factors, many of which are beyond our control. You are cautioned that these forward-looking statements are not guarantees of future performance and those actual results or developments may differ materially from those projected in such statements.
+
+Overview
+
+ReposiTrak, Inc. is a SaaS which operates a B2B e-commerce, compliance & traceability, and supply chain management platform that partners with retailers, wholesalers, distributors and their product suppliers to (a) help them manage specific programs, such as out-of-stock management and scan-based trading; (b) reduce risk in their supply chain by managing compliance documents and data; ensure compliance with new regulatory requirements supporting traceability; and (c) improve product ordering and forecasting in order to accelerate sales, control risks, and improve supply chain efficiencies. The Company’s fiscal year ends on June 30. References to fiscal 2024 refer to the fiscal year ended June 30, 2024, and references to fiscal 2023 refer to the fiscal year ended June 30, 2023.
+
+Sources of Revenue
+
+The principal customers for the Company’s products are multi-store retail chains, wholesalers and distributors, and their suppliers. The Company has a hub and spoke business model, whereby the Company is typically engaged by Hubs, which in turn require their Spokes to utilize the Company’s services. The Company’s services are grouped in three application suites: 
+
+ReposiTrak Compliance Management (“Compliance”) solutions, which helps the Company’s customers vet suppliers and reduce a company’s potential regulatory, legal, and criminal risk from its supply chain partners by providing a way for them to ensure these suppliers are compliant with food safety regulations, such as the Food Safety Modernization Act of 2011 (“FSMA”);
+
+ReposiTrak Traceability Network (“Traceability” or “RTN”), which helps the Company’s customers comply with federal regulatory requirements of traceability and provides the lowest cost, easiest to use way to manage the capture and sharing of key data elements (“KDEs”) now required by Section 204d of FSMA 2011 as designated products move through the supply chain at each ‘event’ known as a ‘critical tracking event’ or “CTE”, which includes tracking from farm to shelf; and
+
+ReposiTrak Supply Chain Solutions (“Supply Chain”), which help the Company’s customers to more efficiently manage various interactions with their suppliers. In other words, it provides customers with greater flexibility in sourcing products by enabling them to choose new suppliers and integrate them into their supply chain faster and more cost effectively, and it helps them to manage these relationships more efficiently, enhancing revenue while lowering working capital, labor costs and reducing waste.
+
+The Company derives revenue from five sources: (i) subscription fees, (ii) transaction-based fees, (iii) professional services fees, (iv) license fees, and (v) hosting and maintenance fees.
+
+A significant portion of the Company’s revenue is generated from its Compliance and Supply Chain Food Safety solutions, with a growing portion of the revenue derived from its newest Traceability solution. The revenue generated is primarily in the form of a recurring subscription payment from the suppliers. Subscription fees can be based on a negotiated flat fee per supplier, or some volumetric metric, such as the number of stores, or the volume of economic activity between a retailer and its suppliers. Subscription revenue contains arrangements with customers for use of the application, application and data hosting, maintenance of the application, and standard support.
+
+The Company also provides professional consulting services targeting implementation, assessments, profit optimization and support functions for its applications and related products, for which revenue is recognized on a percentage-of-completion or pro rata basis over the life of the subscription, depending on the nature of the engagement. Premier customer support includes extended availability and additional services and is available along with additional support services such as developer support and partner support for an additional fee.
+
+In rare instances, the Company may sell its software in the form of a license. License arrangements are a time-specific and perpetual license. Software license maintenance agreements are typically annual contracts, paid in advance or according to terms specified in the contract. When sold as a license, the Company’s software is usually accompanied by a corresponding maintenance and/or hosting agreement to support the service.
+
+Software maintenance agreements provide the customer with access to new software enhancements, maintenance releases, patches, updates and technical support personnel. Our hosting services provide remote management and maintenance of our software and customers’ data, which is physically located in third-party facilities. Customers access “hosted” software and data through a secure internet connection. 
+
+Revenue Recognition
+
+Effective July 1, 2018, we adopted the Financial Accounting Standards Board’s (“FASB”) Accounting Standards Update (“ASU”) 2014-09: Revenue from Contracts with Customers (Topic 606), and its related amendments (“ASU 2014-09”). ASU 2014-09 provides a unified model to determine when and how revenue is recognized and enhances certain disclosure around the nature, timing, amount and uncertainty of revenue and cash flows arising from customers.
+
+ASU 2014-09 represents a change in the accounting model utilized for the recognition of revenue and certain expense arising from contracts with customers. We adopted ASU 2014-09 using a “modified retrospective” approach and, accordingly, revenue and expense totals for all periods before July 1, 2018 reflect those previously reported under the prior accounting model and have not been restated.
+
+Other Metrics – Non-GAAP Financial Measures
+
+To supplement our financial statements, historically we have provided investors with adjusted EBITDA and non-GAAP income per share, both of which are non-GAAP financial measures. We believe that these non-GAAP measures may provide useful information regarding certain financial and business trends relating to our financial condition and operations. Our management uses these non-GAAP measures to compare the Company’s performance to that of prior periods for trend analyses and planning purposes. These measures are also presented to our Board of Directors.
+
+These non-GAAP measures should not be considered a substitute for, or superior to, financial measures calculated in accordance with generally accepted accounting principles in the U.S. (“GAAP”). These non-GAAP financial measures exclude significant expenses and income that are required by GAAP to be recorded in the Company’s financial statements and are subject to inherent limitations. Investors should review the reconciliations of non-GAAP financial measures to the comparable GAAP financial measures that are included in this “Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+
+Critical Accounting Policies
+
+This “Management’s Discussion and Analysis of Financial Condition and Results of Operations” discusses the Company’s financial statements, which have been prepared in accordance with GAAP. The preparation of our financial statements requires management to make estimates and assumptions that affect reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amount of revenue and expense during the reporting period.
+
+On an ongoing basis, management evaluates its estimates and assumptions based on historical experience of operations and on various other factors that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+
+Income Taxes
+
+In determining the carrying value of the Company’s net deferred income tax assets, the Company must assess the likelihood of sufficient future taxable income in certain tax jurisdictions, based on estimates and assumptions, to realize the benefit of these assets. If these estimates and assumptions change in the future, the Company may record a reduction in the valuation allowance, resulting in an income tax benefit in the Company’s statements of operations. Management evaluates quarterly whether to realize the deferred income tax assets and assesses the valuation allowance.
+
+Goodwill and Other Long-Lived Asset Valuations
+
+Goodwill is assigned to specific reporting units and is reviewed for possible impairment at least annually or upon the occurrence of an event or when circumstances indicate that a reporting unit’s carrying amount is greater than its fair value. Management reviews the long-lived tangible and intangible assets for impairment when events or changes in circumstances indicate that the carrying value of an asset may not be recoverable. Management evaluates, at each balance sheet date, whether events and circumstances have occurred which indicate possible impairment.
+
+The carrying value of a long-lived asset is considered impaired when the anticipated cumulative undiscounted cash flows of the related asset or group of assets is less than the carrying value. In that event, a loss is recognized based on the amount by which the carrying value exceeds the estimated fair market value of the long-lived asset. Economic useful lives of long-lived assets are assessed and adjusted as circumstances dictate. 
+
+Stock-Based Compensation
+
+The Company recognizes the cost of employee services received in exchange for awards of equity instruments based on the grant-date fair value of those awards. The Company records compensation expense on a straight-line basis. The fair value of any options granted are estimated at the date of grant using a Black-Scholes option pricing model with assumptions for the risk-free interest rate, expected life, volatility, dividend yield and forfeiture rate.
+
+Capitalization of Software Development Costs
+
+The Company accounts for research costs of computer software to be sold, leased or otherwise marketed as expense until technological feasibility has been established for the product. Once technological feasibility is established, all software costs are capitalized until the product is available for general release to customers. Judgment is required in determining when technological feasibility of a product is established.
+
+We have determined that technological feasibility for our software products is reached shortly after a working prototype is complete and meets or exceeds design specifications including functions, features, and technical performance requirements. Costs incurred after technological feasibility is established have been and will continue to be capitalized until such time as when the product or enhancement is available for general release to customers.
+
+Available-for-Sale Debt Investments
+
+We classify our investments in fixed income securities as available-for-sale debt investments. Our available-for-sale debt investments primarily consist of U.S. government, U.S. government agency, non-U.S. government and agency, corporate debt, U.S. agency mortgage-backed securities, commercial paper and certificates of deposit. These available-for-sale debt investments are primarily held in the custody of a major financial institution. A specific identification method is used to determine the cost basis of available-for-sale debt investments sold. These investments are recorded in the Consolidated Balance Sheets at fair value. Unrealized gains and losses on these investments are included as a separate component of accumulated other comprehensive income (“AOCI”). We classify our investments as current based on the nature of the investments and their availability for use in current operations.
+
+Impairment Consideration of Investments
+
+For our available-for-sale debt securities in an unrealized loss position, we determine whether a temporary or permanent credit loss exists. In this assessment, which requires judgment, among other factors, we consider the extent to which the fair value is less than the amortized cost, any changes to the rating of the security by a rating agency, and adverse conditions specifically related to the security. If factors indicate a permanent credit loss exists, an allowance for credit loss is recorded to other income (loss), net, limited by the amount that the fair value is less than the amortized cost basis. The amount of fair value change relating to all other factors will be recognized in other comprehensive income (“OCI”).
+
+Off-Balance Sheet Arrangements
+
+The Company does not have any off-balance sheet arrangements that are reasonably likely to have a current or future effect on our financial condition, revenue and results of operation, liquidity or capital expenditures.
+
+Recent Accounting Pronouncements
+
+In February 2016, the FASB issued ASU 2016-02 Leases (Topic 842) (“ASU 2016-02”). Under ASU 2016-02, lessees will be required to recognize for all leases (with the exception of short-term leases) a lease liability, which is a lessee’s obligation to make lease payments arising from a lease, measured on a discounted basis and a right-of-use asset, which is an asset that represents the lessee’s right to use, or control the use of, a specified asset for the lease term.
+
+Effective July 1, 2019, the Company adopted the requirements of ASU 2016-02. All amounts and disclosures set forth in this Annual Report have been updated to comply with ASU 2016-02, with results for reporting periods beginning after July 1, 2019 presented under ASU 2016-02, while prior period amounts and disclosures are not adjusted and continue to be reported under the accounting standards in effect for the prior period.
+
+Results of Operations – Fiscal Years Ended June 30, 2024 and 2023
+
+Revenue
+
+During the fiscal year ended June 30, 2024, the Company had revenue of $20,453,320 as compared to $19,098,910 for the year ended June 30, 2023, an increase of 7%. The increase in revenue was due to growth in recurring subscription revenue, in all lines of business, which includes compliance, supply chain and traceability. This is the result of growing industry and consumer response to food contaminations and food safety hazards, whether biological, chemical, physical, or allergenic. The risks have elevated regulatory requirements, documentation requisites, and principally “where does your food come from” transparency on grocery retailers and their suppliers. As more and more retailers, wholesalers and distributors adopt the increased regulatory disclosure requirements, the Company has seen a corresponding rise in demand for its services.
+
+Although no assurances can be given, we continue to focus our sales efforts on marketing our software services on a recurring subscription basis and placing less emphasis on transactional revenue. However, we believe there will continue to be a small percentage of customers that will, from time to time, require buying a particular service outright (i.e., a license). Nonetheless, we will continue to deemphasize non-recurring transactional revenue when we are able.
+
+Cost of Services and Product Support
+
+Cost of services and product support was $3,416,450, or 17% of total revenue, and $3,309,345 or 17% of total revenue for the years ended June 30, 2024 and 2023, respectively, an increase of 3%. This increase is primarily the result of cybersecurity spending and increased offshore developer headcount and support services in effort to support the acceleration and expansion of the FSMA 204 initiative. Given the demand in traceability the Company has also expended additional resources on further upgrading its information security services and confidentiality protocols to increase protection of customer data. 
+
+Sales and Marketing Expense
+
+The Company’s sales and marketing expense was $5,492,719, or 27% of total revenue, as compared to $4,933,405, or 26% of total revenue, for the fiscal years ended June 30, 2024 and 2023, respectively, an increase of 11%. The increase in sales and marketing expense was primarily the result of an increase in commission, trade show expense, investment in FSMA 204 traceability marketing, and higher sales travel expense. As the pandemic concerns have been reduced, customers and prospects are returning to in person meetings and participation in large tradeshows. The largest contributors to the increase in sales and marketing expense has been an increase in commission and FSMA 204 traceability marketing. We believe the uptick in marketing costs will flatten over the next twelve months as awareness of the 2026 traceability regulatory deadline approaches.
+
+General and Administrative Expense
+
+The Company’s general and administrative expense was $5,330,437, or 26% of total revenue, and $4,685,783 or 25% of total revenue for the years ended June 30, 2024 and 2023, respectively, an increase of 14%. The increase in general and administrative expense was primarily due to refund of payroll taxes associated with the Employee Retention Credit (“ERC”) that occurred in the prior fiscal year that did not reoccur in fiscal 2024. The ERC was a refund of certain payroll taxes for businesses that continued to pay employees while shut down due to the COVID-19 pandemic or had significant declines in gross receipts. During the prior fiscal year, the Company received approximately $1.175 million in payroll tax refunds, net of fees. The ERC credit was partially offset by increases in bad debt expense and increases in cost of benefits for employees.
+
+Depreciation and Amortization Expense
+
+The Company’s depreciation and amortization expense was $1,189,483 and $1,079,799 for the years ended June 30, 2024 and 2023, respectively, an increase of 10%. The increase was due to additional assets acquired in the prior fiscal year. Given the rising global hacks on software companies, banks, and financial institutions, we spent approximately $440,000 on security, backup, storage, and redundancy. The upgrades were financed through a leasing agent with an effective APR rate of 4.78%.
+
+Other Income and Expense
+
+Net other income was $1,308,550 compared to net other income of $821,082 for the years ended June 30, 2024 and 2023, respectively. Other income increased due to higher cash balances and an increase in interest income attributable to higher interest rates on fixed income instruments. As the Federal Reserve begins to cut rates in the future, it is unlikely the Company will be able to maintain the same interest income on its existing cash balances without taking additional credit risk.
+
+Preferred Dividends
+
+Dividends accrued on the Company’s Series B Preferred and Series B-1 Preferred was $549,645 and $586,444 for the years ended June 30, 2024 and 2023, respectively, a decrease of 6%. Dividends decreased due to the redemption and retirement of Preferred Stock. Although no assurances can be given, the Company announced that it intends to redeem all of the Series B and B-1 Preferred stock over three years which commenced August of 2023.
+
+Financial Position, Liquidity and Capital Resources
+
+We believe that our existing cash and short-term investments, together with funds generated from operations, are sufficient to fund operating and investment requirements for at least the next twelve months. Our future capital requirements will depend on many factors, including macroeconomic conditions, our rate of revenue growth, sales and marketing activities, the timing and extent of spending required for research and development efforts and the continuing market acceptance of our products and services.
+
+We have historically funded our operations with cash from operations, equity financings, and borrowings from our existing line of credit with U.S. Bank N.A. (the “Bank”), which was revised on October 6, 2021, and again in 2022. In March 2024, given our strong financial position, we terminated the credit facility with our bank.
+
+Cash was $25,153,862 and $23,990,879 at June 30, 2024 and 2023, respectively. This 5% increase is primarily the result of higher revenue and the corresponding cash receipts from customers. It also includes higher interest income earnings associated with growing cash balances.
+
+Net Cash Flows from Operating Activities
+
+Net cash provided by operating activities is summarized as follows:
+
+Net cash provided by operating activities for the year ended June 30, 2024 was $6,694,401 compared to net cash provided by operating activities of $8,860,019 for the year ended June 30, 2023. Net cash provided by operating activities decreased 21% due principally to the receipt of the ERC refund in fiscal 2023, that did not reoccur in fiscal 2024, an increase in accounts receivable due to an increase in subscription sales, and a decrease in accounts payable and other obligations that had become due. Noncash expense decreased by $836,111 for the year ended June 30, 2024 compared to the year ended June 30, 2023 as a result of a decrease in bad debt expense and stock compensation expense offset by an increase in depreciation and amortization.
+
+Net Cash Flows Used in Investing Activities
+
+Net cash used in investing activities for the year ended June 30, 2024 was $100,007 compared to net cash used in investing activities of $903,187 for the year ended June 30, 2023. This decrease in cash used in investing activities for the for fiscal 2024 was due to capitalization of certain software costs and purchases of property and equipment in the prior fiscal year that did not occur in the current fiscal year.
+
+Net Cash Flows from Financing Activities
+
+Net cash used in financing activities totaled $5,700,711 for the year ended June 30, 2024 compared to net cash used in financing activities of $5,426,901 for the year ended June 30, 2023. The increase in net cash used in financing activities is due to the payment of higher Common Stock dividends, the purchase of Common Stock under the Share Repurchase Program, and the redemption and retirement of shares of Preferred Stock.
+
+Liquidity and Working Capital
+
+At June 30, 2024, the Company had positive working capital of $24,757,025, as compared with positive working capital of $23,042,199 at June 30, 2023. This $1,714,826 increase in working capital is primarily due to an increase in accounts receivable and decrease in prepaid and other assets offset by a decrease in contract liabilities and an increase in deferred revenue. Cash and cash equivalents also increased due to cash receipts from customers who have signed up for, among other offerings, the ReposiTrak Traceability Network.
+
+Current assets totaled $29,300,167 as of June 30, 2024, as compared to $27,274,620 as of June 30, 2023. The increase in current assets is primarily attributable to the increase in cash and accounts receivables offset by a decrease of prepaid expense and other current assets.
+
+Current liabilities totaled $4,543,142 as of June 30, 2024 as compared to $4,232,421 as of June 30, 2023. The increase in current liabilities is primarily attributable to the increase in deferred revenue offset by a decrease in accrued liabilities and financing lease liabilities due to capital expenditures on cybersecurity, storage and other information technology services. As of June 30, 2024, the Company had zero bank debt.
+
+On October 6, 2021, the Company and the Bank executed a Revolving Credit Agreement (the "Revolving Credit Agreement”) and accompanying addendum (the "Addendum"), and Stand-Alone Revolving Note (the "Note" and collectively with the Revolving Credit Agreement and Addendum, the "Credit Agreement"), with an effective date of September 30, 2021. The Credit Agreement replaced the Company’s prior $6.0 million Revolving Credit Agreement and Stand-Alone Revolving Note between the Company and the Bank, as amended and revised on January 9, 2019, and provided the Company with a $10.0 million revolving line of credit that matured on March 31, 2023. The Credit Agreement contained customary affirmative and negative covenants and conditions to borrowing, as well as customary events of default. Among other things, the Company must maintain liquid assets equal to $12 million and maintain a Senior Funded Debt (as defined in the Credit Agreement) to EBITDA Ratio (as defined in the Credit Agreement) of not more than 3:1.
+
+On April 28, 2023, the Company and the Bank executed an amendment to the Credit Agreement (the “Amendment”), with an effective date of March 31, 2023. The Amendment sets forth that the Company will increase its liquidity requirement from $10 million to $12 million, which the Company currently maintains over $22 million in cash and a current ratio of over 6:1, and draws on the facility accrue interest at the annual rate, equal to 1.75% plus the one-month SOFR rate, instead of the previous LIBOR rate. As of March 31, 2024, the balance of the facility was zero. The Company had zero bank debt at June 30, 2024.
+
+On March 15, 2024, given its strong financial position, the Company chose not to renew the Revolving Credit Agreement. There were no amounts due at the time of renewal.
+
+While no assurances can be given, management currently believes that the Company will continue to increase its cash flow from operations and working capital position in subsequent periods. The Company’s increase in anticipated cash flow from operations and working capital position is expected to be offset by the use of cash required to fund the Company’s quarterly cash dividends of $0.015 per share, announced on September 28, 2022, December 30, 2022, February 10, 2023, March 21, 2023, June 20, 2023, September 19, 2023, and of $0.0165 per share, announced on December 12, 2023, March 18, 2024 and June 18, 2024, as well as the redemption and retirement of the Company’s Series B Convertible Preferred Stock and Series B-1 Preferred Stock (together, the “Preferred Stock”) for their stated value, or $10.70 for each share of Preferred Stock, resulting in an aggregate purchase price of $8,964,214. 
+
+Contractual Obligations
+
+Total contractual obligations and commercial commitments as of June 30, 2024 are summarized in the following table:
+
+Inflation
+
+The impact of inflation has historically not had a material effect on the Company’s financial condition or results from operations; however, higher rates of inflation may cause retailers to slow their spending in the technology area, which could have an impact on the Company’s sales.

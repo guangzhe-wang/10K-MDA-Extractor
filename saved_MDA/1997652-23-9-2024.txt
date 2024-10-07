@@ -1,0 +1,249 @@
+ITEM 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The following Managements Discussion and Analysis of Financial Condition and Results of Operations (MD&A) summarizes the significant factors affecting the operating results, financial condition, liquidity and capital resources, and cash flows of our Company for the years ended June 30, 2024 and 2023. This MD&A should be read in conjunction with, and is qualified in its entirety by, our consolidated financial statements, the accompanying notes to consolidated financial statements and other financial information included in this report. Except for historical information, the matters discussed in this MD&A contain various forward-looking statements that involve risks, uncertainties and assumptions and other important factors and are based upon judgments concerning various factors beyond our control. Our actual results could differ materially from those anticipated in these forward-looking statements as a result of many factors, including those discussed under Item 1A - Risk Factors and elsewhere in this report, any of which could cause the Companys actual results, performance or achievements, or industry results, to differ materially from any future results, performance or achievements expressed or implied by such forward-looking statements. All forward-looking statements speak only as of the date on which they are made. We undertake no obligation to update such statements to reflect events that occur or circumstances that exist after the date on which they are made. Additionally, you should refer to the Cautionary Note Regarding Forward-Looking Statements. 
+
+Overview 
+
+We are an early stage, growth-driven independent natural gas exploration and production company focused on an integrated approach to the commercial development of the natural gas resources in the Beetaloo located 
+
+##### Table of Contents
+
+within the Northern Territory of Australia. We and our working interest partners have EPs to approximately 4.7 million contiguous gross acres (1.9 million net acres to Tamboran) and are currently the largest acreage holder in the Beetaloo. 
+
+We are focused on developing early stage, unconventional gas resources within our portfolio. Our key assets are (i) a 25% non-operated working interest in EP 161, (ii) a 38.75% working interest in EPs 76, 98 and 117, where we are the operator, and (iii) a 100% working interest in EPs 136, 143 and EP(A) 197, where we are the operator, all of which are located in the Beetaloo. 
+
+Recent Developments 
+
+IPO Over-Allotment 
+
+In July 2024, the underwriters partially exercised their over-allotment option granted in connection with our IPO to purchase an additional 308,750 shares of common stock, resulting in gross proceeds of $7.4 million and net proceeds to us of $7.0 million, after deducting the underwriting discount. 
+
+Variation to EP 136 minimum requirements 
+
+The DITT granted a five-year extension for EP 136 for the period July 24, 2025, to July 23, 2030, with minimum work requirements of $23,283,260 including the drilling and multistage fracture stimulation of one horizontal well in Permit Year 2. 
+
+Progress on the NTLNG project 
+
+In July 2024, we executed an interim agreement with the NT Government for exclusive access to the Wirraway North land for our NTLNG project, subject to meeting certain milestones. This replaces the Do Not Deal letter agreement previously executed with the NT Government and will be the active agreement that secures the land for the Company until just before it considers a final investment decision on NTLNG. In August 2024, the Company appointed Bechtel to undertake pre-FEED engineering services for NTLNG for $4,620,000 until the end of March 2025. Pre-FEED activities are expected to be completed in 1H 2025. 
+
+Shenandoah South Pilot Project 
+
+In August 2024, we spudded the Shenandoah South well SS2H using the H&P FlexRig®. 
+
+Also in August 2024, the Company signed a contract with Liberty for the fracture stimulation of the six wells planned to be drilled from the Shenandoah South 2 well pad, being SS2H and SS3H, during 2024, plus the four wells planned for 2025. 
+
+Employee Awards 
+
+In August 2024, the Company granted 842,400 RSU awards under the 2024 Incentive Award Plan. 
+
+Rig 403 sale 
+
+In September 2024, we entered into an exclusivity agreement for the sale of Rig 403 for $8.5 million gross (excluding sales commission of 6%), which includes a $400,000 non-refundable payment for a 30-day exclusivity period.
+
+Market Outlook 
+
+We believe natural gas can play a key role in supporting the emissions reduction targets of many regional markets through the transition of coal-to-gas fired power plants. To date the increasing global demand for LNG, as well as under-investment in new supply, is expected to lead to LNG supply shortages. 
+
+##### Table of Contents
+
+We have the potential, subject to achieving commercial viability in the Beetaloo, to supply natural gas to both Australian domestic and international LNG markets, which would support countries in the region in achieving their GHG emission reduction targets and help reduce global GHG emissions if LNG is adopted as an alternative to coal fired power. We are in the initial phase of development of our operations. Successful commercialization of the Beetaloo will require the development of the infrastructure necessary to conduct our business as planned on commercially acceptable terms. In addition, success of our business will rely on the Australian East Coast and the Asian LNG markets maintaining elevated prices relative to North America to offset the higher costs associated with developing infrastructure in the Beetaloo. The natural gas industry is cyclical and commodity prices are highly volatile. We expect the natural gas markets will continue to be volatile in the future. Our future revenue, profitability and future growth are highly dependent on the prices we will receive for natural gas production. See our risk factor titled Natural gas prices are volatile. A reduction or sustained decline in prices may adversely affect our business, financial condition or results of operations and our ability to meet our financial commitments or raise capital. 
+
+Global, industry-wide supply chain disruptions have resulted in widespread shortages of labor, materials and services. Such shortages have resulted in our facing significant cost increases for labor, materials and services. Principally, commodity costs for steel and chemicals required for drilling, higher transportation and fuel costs and annual wage increases have increased our operating costs for fiscal years 2023 and 2024. Typically, as the price for natural gas increases, so do associated costs. Conversely, in a period of declining prices, associated cost declines are likely to lag and may not adjust downward in proportion to prices. Some supply chain constraints and inflationary pressures could persist into fiscal year 2025 but are expected to plateau, however we cannot accurately predict future supply chain constraints and inflation. We cannot predict the future inflation rate but to the extent inflation remains elevated, we may experience cost increases in our operations, including costs for drill rigs, workover rigs, hydraulic fracturing fleets, tubulars and other well equipment, as well as increased labor costs. If we are unable to recover higher costs through higher commodity prices, our future revenue stream, would be significantly impacted. 
+
+We are taking actions to mitigate supply chain and inflationary pressures. We are monitoring the situation and assessing its impact on our business, including with respect to our partners. For example, we pre-purchased long lead materials including casing and tubulars, chemicals and downhole equipment necessary for our planned development for fiscal year 2025. We have in place a 10-year option with H&P to contract for up to four additional FlexRigs®. We are working closely with other suppliers and contractors to ensure availability of supplies on site, especially fuel, steel and chemical supplies which are critical to many of our operations and are working on diversifying suppliers. However, these mitigation efforts may not succeed or be insufficient. 
+
+Factors that Affect Comparability of Future Results 
+
+Our financial condition and results of operations for the periods presented and future periods may not be comparable, either from period to period or going forward primarily for the following reasons: 
+
+Recent events and formation transactions 
+
+Tamboran was incorporated as a Delaware corporation on October 3, 2023 and does not have historical financial operating results prior to the Corporate Reorganization effective December 13, 2023. As a result of the Corporate Reorganization, Tamboran became the parent company of TR Ltd., and for financial reporting purposes, the financial statements of TR Ltd. became the financial statements of Tamboran. See Business and PropertiesGeneral Development of Business and Corporate Reorganization. 
+
+##### Table of Contents
+
+Success in our development of our natural gas properties 
+
+Because we have no operating history in the production of natural gas, our future results of operations and financial condition will be directly affected by our ability to develop and commercialize our assets through our drilling programs and future sales and marketing. 
+
+Natural gas revenue 
+
+We have not generated any revenue from natural gas production since inception due to the current stage of our operations, which is exploration drilling of our assets to test their commercial viability. If and when we do commence natural gas production, we expect to generate revenue from such production. No revenue from natural gas production is reflected in our financial statements.
+
+Operating costs and expenses 
+
+We have not yet commenced natural gas production. If and when we do commence production, we will incur additional operating costs and expenses, which may include lease operating expenses, workover costs, taxes and royalty fees. Our operating costs and expenses consisted of the following during fiscal years 2023 and 2024: salaries, share based compensation, and related taxes and benefits of personnel employed by us, professional fees for consultants, auditors, tax advisors and legal services, depreciation and amortization of natural gas properties, impairment of our natural gas properties, the loss on sale of assets due to the sale of rigs in fiscal year 2023, exploration expenses, and general and administrative expenses. 
+
+Acquisitions 
+
+We may continue to grow our operations and financial results through strategic acquisition opportunities that may arise relevant to our Beetaloo strategy. Additionally, we may from time to time effect divestitures of certain of our non-core assets. 
+
+Supply, demand, market risk and the impact on natural gas prices 
+
+As discussed above in Market Outlook, the natural gas industry historically has been cyclical with highly volatile commodity prices. Natural gas prices are subject to large fluctuations in response to relatively minor changes in the demand for natural gas. Prices are affected by current and expected supply and demand dynamics, including the market disruptions resulting from the Russian-Ukraine war, the impact of the COVID-19 pandemic and related erosion of demand for natural gas, supply growth driven by advances in drilling and completion technologies, resulting in increased supply in the global market. Other factors impacting supply and demand include weather conditions (including severe weather events), pipeline capacity constraints, inventory storage levels, basis differentials, export capacity, supply chain quality and availability, as well as other factors, the majority of which are outside of our control. These commodity prices are likely to remain volatile in the future. Sustained periods of low natural gas prices could materially and adversely affect our financial condition, our results of operations, the quantities of natural gas that we can economically produce and our ability to access capital. Since we have not generated revenues, these key factors will only affect us when we produce and sell natural gas. 
+
+U.S. reporting company expenses 
+
+Prior to our Corporate Reorganization, the ordinary shares of TR Ltd. were listed on the ASX. Following our IPO, and the listing of our common stock on the NYSE, we are subject to the periodic reporting requirements of the Exchange Act. Although we have been listed on the ASX and have been required to file financial information and make certain other filings with the ASX, our status as a U.S. reporting company under the Exchange Act will cause us to incur additional legal, accounting and other expenses that we have not previously 
+
+##### Table of Contents
+
+incurred, including costs related to compliance with the requirements of the Sarbanes-Oxley Act. These incremental legal and financial compliance expenses are not included in our historical results of operations; therefore, our results of operations for future periods may not be comparable to our results of operations for the periods under review. 
+
+Results of Operations 
+
+Our functional currency is the Australian dollar, and our reporting currency is the U.S. dollar. For revenues and expenses reported in any period, we use the average currency exchange rate between U.S. dollars and Australian dollars for the period. For assets and liabilities, we use the current currency exchange rate as at the end of the period, based on the same source. Given the fluctuations in currency exchange rates, we may experience changes in reported amounts from period to period that occur primarily as a result of these fluctuations and that are not reflective of actual changes in our business or operations. 
+
+Currently, we are exposed to foreign exchange risk, particularly with the U.S. dollar and Australian dollar, as a result of revenue and expenses that are denominated in each currency. It is our policy to limit the use of financial derivatives and seek risk mitigation through natural hedges. These natural hedges include the maintenance of U.S. dollar and Australian bank accounts and deposits. Because our functional currency is the Australian dollar, our reported financial results are subject to fluctuation resulting from changes in the U.S. dollar to Australian dollar exchange rate. 
+
+The following tables present selected financial information for the periods presented (dollar amounts in thousands): 
+
+##### Table of Contents
+
+Fiscal Years Ended June 30, 2023 and June 30, 2024 
+
+Revenue and other operating income. We have not yet commenced natural gas production. Therefore, we did not realize any revenue and other operating income during fiscal years 2023 and 2024, respectively. 
+
+Compensation and benefits, including stock based compensation. Compensation and benefits, including stock based compensation, decreased by $0.9 million during fiscal year 2024, as compared to fiscal year 2023, due primarily to forfeiture of options during the period and, although the company increased headcount as compared to the prior period, the compensation of the majority of those employees has been capitalized to unproven properties. 
+
+Consultancy, legal and professional fees. Consultancy, legal and professional fees increased by $2.6 million during fiscal year 2024, as compared to fiscal year 2023, due to increased costs related to significant capital raising activities and related transactions including preparation for a U.S. initial public offering in addition to consulting costs related to government and community relations and midstream activities. 
+
+Loss on sale of assets classified as held for sale. Loss on sale of assets classified as held for sale decreased by $12.6 million during fiscal year 2024, as compared to fiscal year 2023, due to a write down of two rigs in the prior period which did not recur. 
+
+Accretion of asset retirement obligations expense. For fiscal year 2024, an expense for accretion of asset retirement obligations of $0.9 million was recognized. The recognition of such an expense was due to the accretion of asset retirement obligation liabilities in relation to all EPs, inclusive of EPs 76, 98, 117, 136 and 161, including for the two new wells drilled during the period. 
+
+Exploration expense. Exploration expense decreased by $0.6 million during fiscal year 2024, as compared to fiscal year 2023, due to the focus of the Company on drilling our SS1H and A3H wells. Our exploration expense consisted of costs related to topographical, geographical and geophysical studies and other indirect expenditure. 
+
+General and administrative. General and administrative costs decreased by $0.3 million during fiscal year 2024, as compared to fiscal year 2023 as a result of overhead allocations recovery from the joint venture. Our general and administrative expense consisted of the following during fiscal years 2023 and 2024: expenses related to travel, insurance, and office and administrative fees. 
+
+Interest Income, net. Interest income, net increased by $0.7 million during fiscal year 2024, as compared to fiscal year 2023, due to interest received from term deposits during the period. 
+
+Loss on extinguishment of debt. For fiscal year 2024, an expense for loss on extinguishment of debt of $3.9 million was recognized. The recognition of such an expense was due to the extinguishment of payables to H&P in exchange of the issuance of the 5.5% Convertible Senior Note due 2029 between Helmerich & Payne International Holdings, LLC, Tamboran Resources Corporation, and the guarantors thereto dated June 4, 2024 (the Convertible Note which was converted to common stock upon the IPO. 
+
+Foreign currency translation. In fiscal year 2024, we recognized a foreign currency translation loss of $0.4 million, primarily due to slight weakening of the Australian Dollar as of June 30, 2024, as compared to July 1, 2023. In fiscal year 2023, we recognized a foreign currency translation gain of $1.6 million, primarily due to the acquisition of assets from Origin amounting to A$81.9 million on November 9, 2023 and the strengthening of the Australian Dollar from that date to June 30, 2023. Foreign exchange gains and losses resulting from the settlement of foreign currency transactions and from the translation at fiscal year-end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognized on our income statement. 
+
+Income Tax Expense. We have no income tax expense due to operating losses incurred for fiscal years 2023 and 2024. We have provided a full valuation allowance on our net deferred tax asset because management has 
+
+##### Table of Contents
+
+determined that it is more likely than not that we will not earn income sufficient to realize the deferred tax assets during a foreseeable future period. Management will continue to assess the potential for realizing deferred tax assets based upon income forecast data and the feasibility of future tax planning strategies and may record adjustments to the valuation allowance against deferred tax assets in future periods, as appropriate, that could have a material impact on the statement of operations. 
+
+Liquidity and Capital Resources 
+
+We are a development stage enterprise and will continue to be so until commencement of substantial production from our natural gas properties. We do not expect to generate any revenue from production until 2026, at the earliest, which will depend upon successful drilling results, additional and timely capital funding, and access to suitable infrastructure. Until then our primary sources of liquidity are expected to be cash on hand, net proceeds from our IPO, and funds from future private and public equity placements, debt funding and asset sales. 
+
+We expect to incur substantial expenses and generate significant operating losses as we continue to develop our natural gas prospects and as we: 
+
+Our future financial condition and liquidity will be impacted by, among other factors, the success of our exploration and appraisal drilling program, the number of commercially viable natural gas discoveries made, the quantities of natural gas discovered, the speed with which we can bring such discoveries to production, and the actual cost of exploration, appraisal and development of our prospects. 
+
+For the fiscal year ended June 30, 2025, we estimate that we will need to invest approximately $68 million to progress our development plans. We expect the additional proceeds of the IPO received in July 2024, together with our existing cash on hand, to be sufficient to fund our planned drilling and flow testing of SS2H and SS3H. However, we may require significant additional funds earlier than we currently expect in order to execute our strategy as planned. We may seek additional funding through asset sales or public or private financings. Additional funding may not be available to us on acceptable terms or at all. In addition, the terms of any financing may adversely affect the holdings or the rights of our stockholders. For example, if we raise additional funds by issuing additional equity securities, further dilution to our existing stockholders will result. If we are unable to obtain funding on a timely basis, we may be required to significantly curtail one or more of our planned activities. We also could be required to seek funds through arrangements with collaborators or others that may require us to relinquish rights to some of our assets which we would otherwise develop on our own, or with a majority working interest. 
+
+Cash and Cash Equivalents 
+
+The following table summarizes our key measures of liquidity for the periods indicated (in thousands). 
+
+##### Table of Contents
+
+As of June 30, 2024, we had $74.7 million of cash and cash equivalents. This balance represents an increase of $68.3 million from June 30, 2023, due to capital raises during the period of $134.6 million, net of fees, offset primarily by spending on operations, particularly drilling two appraisal wells in the fiscal period. 
+
+H&P Convertible Note Conversion 
+
+In June 2024, in connection with the IPO, 489,088 shares of common stock were issued to H&P pursuant to the terms of the Convertible Note that was issued in exchange and satisfaction of mobilization and related expenses incurred by us for the transportation of a H&P FlexRig® from the United States to the Northern Territory. 
+
+Capital Commitments 
+
+We had the following five-year capital commitments as of June 30, 2024 and June 30, 2023 which are not recognized as liabilities or payable in the consolidated statement of financial position (in thousands): 
+
+Sweetpea Commitments 
+
+As of June 30, 2024, Sweetpea committed to spend $23.3 million related to two licenses, EP 136 with total commitments of $14.1 million and EP 143 with total commitments of $9.2 million over the following five years. 
+
+In relation to EP 136, the Year 1 minimum work requirement is $0.2 million to undertake planning, design, contracting, and operational readiness by July 2026. The minimum expenditure for Permit Years 2-5 inclusive (July 2026 to July 2030) is $13.9 million, including drilling and multistage fracture stimulation of one horizontal well in Year 2, followed by evaluation of the results and development of viability assessments in the subsequent years. 
+
+In relation to EP 143, the Year 2 minimum work requirements, which include various desktop evaluations including subsurface studies, acquire, process and interpret 125km of 2D seismic survey and finalize land access negotiations with pastoralist for regulated activities for a minimum expenditure of $1.7 million by April 2025. The remaining committed spend for EP 143 of $7.5 million relates to Year 3 to Year 5 inclusive with minimum work requirements over the period May 2025 to April 2028. 
+
+EP 161 
+
+For the McArthur working interest in EP 161, we are obligated to contribute our share of expenses to uphold our stake in EP 161. Our commitment through March 2026 is $2.6 million based on the minimum work requirements. There are no minimum commitment requirements after March 2026. 
+
+Beetaloo Joint Venture 
+
+The terms of the Beetaloo Joint Venture necessitate specific work obligations through May 2028. These commitments include an expected spend of $62.6 million related to drilling and multi-stage hydraulic fracturing of six wells, a 2D seismic survey in each license and subsurface studies, with expenditure across EP 76 of $21.3 million, EP 98 of $20.0 million and EP 117 of $21.3 million. 
+
+##### Table of Contents
+
+Midstream 
+
+Tamboran and Daly Waters are in the process of forming a new joint venture which will own the SPCF, each with a 50% interest. Procurement of the long lead items for the compressor package and dehydration package was placed in June 2024 with progress payments for these items and other costs of $3.5 million required prior to the end of calendar year 2025. 
+
+Cash Flows 
+
+The following table summarizes our cash flows for the periods indicated (in thousands): 
+
+Net Cash Used in Operating Activities 
+
+For fiscal year 2024, net cash used in operating activities was $11.4 million during which we incurred a net loss of $23.9 million, compared to net cash used in operating activities for fiscal year 2023 of $12.8 million, during which we incurred a net loss of $32.2 million. The net loss for fiscal year 2024 included the non-cash impacts of depreciation and amortization, stock-based compensation, accretion of asset retirement obligations, loss on extinguishment of debt, and foreign exchange differences. Additionally, in the year ended June 30, 2024, net favorable changes in operating assets and liabilities totaled $6.9 million, primarily consisting of a $9.3 million increase in accounts payable and accrued expenses due to timing of our pay cycle during the fiscal period, a $0.1 million decrease in trade and other receivables, and a $2.4 million increase in prepaid expenses and other assets. 
+
+Net Cash Used in Investing Activities 
+
+For fiscal year 2024, net cash used in investing activities was $66.1 million compared to $107.5 million for fiscal year 2023. This change was primarily due to the acquisition of EPs 76, 98 and 117 in November 2022. In the current period there was spend on exploration and evaluation activities of $60.2 million in connection with the drilling, completion and stimulation of our initial appraisal wells, $2.9 million related to interest on financing lease liabilities, and the spend of $3.5 million related to SPCF offset by proceeds from the sale of property, plant and equipment of $0.4 million due to the sale of one rig. 
+
+Net Cash from Financing Activities 
+
+For fiscal year 2024, net cash received in financing activities was $146.4 million compared to $106.2 million received for fiscal year 2023. This change was primarily due to $148.6 million in proceeds from the issue of shares in connection with the Companys capital raises in fiscal year 2024, $17.2 million attributable to contributions from noncontrolling interest holders in connection with investments by Daly Waters, offset by transaction costs of $14.0 million, and repayments of finance lease liabilities of $5.5 million. 
+
+Critical Accounting Estimates 
+
+Managements discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with GAAP. The preparation of our financial statements in conformity with GAAP requires us to make estimates and assumptions that affect the reported amounts of certain assets, liabilities and related disclosure of contingent assets and liabilities at the date 
+
+##### Table of Contents
+
+of the financial statements and the reported amounts of revenues and expenses during the reporting period. The following critical accounting policies relate to the more significant estimates and assumptions used in preparing the consolidated financial statements. 
+
+Accounting for Natural Gas Properties 
+
+We are in the exploration stage and have not yet realized any revenues from our operations. We group our EPs into areas of interest according to geographical and geological attributes. We use the successful efforts method of accounting for expenditure incurred in each area of interest. Under this method, all general exploration and evaluation costs such as geological and geophysical costs are expensed as incurred. The direct costs of acquiring the rights to explore, drilling exploratory wells and evaluating the results of drilling are capitalized as exploration and evaluation assets (as a part of unproved properties) pending the determination of the success of the well. If a well does not result in a successful discovery, the previously capitalized costs are immediately expensed. 
+
+Impairment of Natural Gas Properties 
+
+Where an indicator of impairment exists for an unproved property and it is determined that future appraisal drilling or development activities are unlikely to occur, an impairment expense is recorded. Upon approval of the commercial development of a project, the exploration and evaluation asset is classified as a development asset. Once production commences, development assets are transferred to property, plant and equipment and are depleted using the unit-of-production method based upon estimates of proved developed reserves. 
+
+Joint Interest Activities 
+
+Some of the Companys exploration, development and production activities are conducted jointly with other entities whereby each party holds an undivided interest in each asset and is proportionately liable for each liability in the scope of such arrangement. The Company has recognized its proportionate share of assets, liabilities, revenues and expenses in respect of such arrangements. These have been incorporated in the consolidated financial statements under the appropriate classifications. 
+
+Asset Retirement Obligations 
+
+Our asset retirement obligations (AROs) consist primarily of estimated future costs associated with the plugging, dismantling, removal, site reclamation and similar activities of natural gas properties in accordance with the requirements of respective EPs and with applicable local, state and federal laws. The discounted fair value of an ARO liability is required to be recognized in the period in which it is incurred, with the associated asset retirement cost capitalized as part of the carrying cost of the related long-lived asset. The recognition of an ARO requires numerous assumptions to be made by management regarding such factors as the estimated probabilities, amounts and timing of settlements; the credit-adjusted risk-free rate to be used; inflation rates; and future advances in technology. In periods subsequent to the initial measurement of the ARO, we recognize period-to-period changes in the liability resulting from the passage of time and revisions to either the timing or the amount of the original estimate of undiscounted cash flows. Increases in the ARO liability due to passage of time impact net income as accretion expense. The related capitalized cost, including revisions thereto, is charged to expense through depreciation and amortization over the life of the related asset. 
+
+Litigation and Environmental Contingencies 
+
+In the ordinary course of business, we may at times be subject to claims and legal actions. Management does not believe the impact of such matters will have a material adverse effect on our financial position or results of operations. We are subject to extensive federal, state, and local environmental laws and regulations, which may materially affect our operations. These laws, which are constantly changing, regulate the discharge of materials into the environment and may require us to remove or mitigate the environmental effects of the disposal or release of petroleum or chemical substances at various sites. 
+
+##### Table of Contents
+
+In our acquisition of existing assets, we may not be aware of what environmental safeguards were taken during the time such assets were operated or the environmental liabilities associated with such assets. 
+
+We maintain comprehensive insurance coverage that we believe is adequate to mitigate the risk of any adverse financial effects associated with these risks. However, should it be determined that a liability exists with respect to any environmental cleanup, remediation, or restoration, the liability to cure such a violation could still fall upon us. No claim has been made, nor are we aware of any liability which we may have, as it relates to any material environmental cleanup, remediation, restoration, or the material violation of any rules or regulations relating thereto. 
+
+Environmental expenditures are expensed or capitalized depending on their future economic benefit. Those related to an existing condition caused by past operations and that have no future economic benefits are expensed as incurred. Liabilities for expenditures of a noncapital nature are recorded when environmental assessment and/or remediation is probable, and the cost can be reasonably estimated. 
+
+Income Taxes 
+
+Income taxes are accounted for under the asset-and-liability method. Deferred tax assets and liabilities occur when differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating loss and tax credit carryforwards exist and are recognized for future tax consequences. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences and carryforwards are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. Current income tax recognized in the profit or loss is the tax payable or receivable on taxable income calculated using applicable income tax rates enacted as at reporting date. Current tax liabilities or assets are measured at the amounts expected to be paid or recovered from the relevant tax authority. 
+
+In assessing the probability that a deferred tax asset will be realized management considers whether it is more likely than not that all or some portion of the deferred tax assets will not be realized. We provide valuation allowances against deferred tax assets that are not considered more likely than not to be realized. The valuation of the deferred tax asset is dependent on, among other things, our ability to generate a sufficient level of future taxable income, in estimating future taxable income, we consider both positive and negative evidence in our assessment. If our estimate of future taxable income or tax strategies changes at any time in the future, we would record an adjustment to our valuation allowance. Recording such an adjustment could have a material effect on our financial condition or results of operations. 
+
+Deferred income tax relating to timing difference and unused tax losses are only recognized to the extent that it is probable that future tax profit will be available against which the benefits of the deferred tax asset can be utilized. 
+
+Stock-Based Compensation 
+
+We measure and recognize compensation expense related to our share-based compensation based on the estimated fair value of the awards. The fair value of the award is measured at the grant date and is recognized as an expense over the course of the awards vesting period. The fair value of the stock options granted is estimated using either the Black-Scholes (for awards that vest based on service conditions) or the Monte-Carlo option-pricing model (for awards that vest based on market conditions). Each of these models include the share price at grant date, exercise price, the term of the right, expected price volatility of the underlying share, the expected dividend yield and the risk-free interest rate for the term of the right. The Monte Carlo model also incorporates a probability-based value impact of the market condition. 
+
+##### Table of Contents
+
+Recent Accounting Pronouncements 
+
+See Note 2Summary of Significant Accounting Policies to our consolidated financial statements included elsewhere in this report for more information about recent accounting pronouncements, the timing of their adoption, and our assessment, to the extent we have made one, of their potential impact on our financial condition and our results of operations. 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE

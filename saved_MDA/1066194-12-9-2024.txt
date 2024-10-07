@@ -1,0 +1,543 @@
+.
+
+| 
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+---|--- 
+
+The following discussion of eGain’s financial condition and results of operations should be read together with the consolidated financial statements and related notes in this Annual Report on Form 10-K. This discussion may contain forward-looking statements based upon current expectations that involve risks and uncertainties. These risks and uncertainties may cause actual results to differ materially from those discussed in the forward-looking statements.
+
+Overview
+
+​
+
+eGain automates customer engagement with an AI knowledge hub SaaS solution. We sell to enterprises who want to better serve customers at scale by delivering trusted answers across self-service, contact centers, and field staff. True to our mantra of AX + BX + CX = DX™, our AI knowledge hub orchestrates effortless Digital eXperience (DX) as it assists Agent eXperience (AX), empowers Business eXperience (BX) and assures Customer eXperience (CX). Many global brands use eGain to improve experience and reduce costs. We are headquartered in the Sunnyvale, California, United States. We also operate in the United Kingdom and India.
+
+​
+
+We have transitioned from a hybrid model, where we sold both SaaS and perpetual license solutions, to a SaaS only business model. As we migrated our legacy perpetual license clients to SaaS, we expect our legacy revenue, primarily comprising annual maintenance and support fees for legacy perpetual license clients to continue to decline to a non-significant amount in our SaaS business.
+
+​
+
+We believe our go-forward SaaS business model affords us recurring revenue visibility and more predictability. Historical fiscal years affirmed our view that SaaS clients adopt our product innovation much faster than the perpetual license model and get better service levels. We believe SaaS clients enjoy up to 50% faster time to value from their eGain investment.
+
+​
+
+Key Financial Measures
+
+We monitor the key financial performance measures set forth below as well as cash and cash equivalents and available debt capacity, which are discussed in Liquidity and Capital Resources, to help us evaluate trends, establish budgets, measure the effectiveness of our sales and marketing efforts and assess operational effectiveness and efficiencies.
+
+SaaS Revenue
+
+With our transition to a SaaS only business model, we believe SaaS revenue better reflects our business momentum and to analyze progress and thus, we disaggregate our subscription revenue growth between: 
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+The following table presents a break out of subscription revenue between SaaS and legacy revenues for each of the following periods:
+
+​
+
+​
+
+SaaS and Professional Services Revenue
+
+​
+
+As we have shifted to a SaaS only business model, substantially all of professional services revenue is now generated from our SaaS customer base. We believe the combination of SaaS and professional services revenue is a useful measure to value our business on a forward-looking basis.
+
+​
+
+The following table presents total SaaS and professional services revenue for each of the following periods:
+
+​
+
+​
+
+​
+
+Non-GAAP Operating Income
+
+​
+
+Non-GAAP operating income is defined as income from operations, adjusted for the impact of stock-based compensation expense.
+
+Management believes that it is useful to exclude certain non-cash charges and non-core operational charges from non-GAAP operating income because (i) the amount of such expenses in any specific period may not directly correlate to the underlying performance of our business operations; and (ii) such expenses can vary significantly between periods as a result of the timing of new stock-based awards. The presentation of the non-GAAP financial measures is not intended to be considered in isolation, or as a substitute for, or superior to, the financial information prepared and presented in accordance with generally accepted accounting principles in the United States of America (GAAP).
+
+The following table presents a reconciliation of GAAP income from operations to non-GAAP income from operations for each of the following periods:
+
+Critical Accounting Policies and Estimates
+
+​
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations discusses our consolidated financial statements, which have been prepared in accordance with GAAP in the United States. The preparation of these 
+
+financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period.
+
+​
+
+We believe that the assumptions and estimates associated with revenue recognition, stock-based compensation, provision for credit losses, the valuation of goodwill, the valuation of deferred tax allowance, and legal contingencies have the greatest potential impact on our consolidated financial statements. We evaluate these estimates on an ongoing basis. Management bases its estimates and judgments on historical experience and on various other factors that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+
+​
+
+Sources of Revenues
+
+​
+
+Our revenue is comprised of two categories, subscription and professional services. Subscription includes SaaS revenue and legacy revenue. SaaS revenue includes revenue from cloud delivery arrangements, term licenses and embedded OEM royalties and associated support. Legacy revenue is associated with license, maintenance and support contracts on perpetual license arrangements that we no longer sell. Professional services include consulting, implementation, training, and managed services.
+
+​
+
+Subscription Revenue
+
+​
+
+For our cloud delivery arrangements, our maintenance and support arrangements and our term license subscriptions that incorporate substantial cloud functionality, the combined performance obligation is recognized ratably over the contract term as the obligation is delivered. For contracts involving distinct software licenses, the license performance obligation is satisfied at a point in time when control is transferred to the customer.
+
+We typically invoice our customers in advance upon execution of the contract or subsequent renewals. Invoiced amounts are recorded in accounts receivable, deferred revenue or revenue, depending on when control is transferred to our customers based on each arrangement.
+
+​
+
+We have a royalty revenue agreement with a customer related to our embedded intellectual property. Under the terms of the agreement, the customer is to provide a combined fixed fee, per agent, for each software license sold containing the embedded software to us. These embedded OEM royalties are included as subscription revenue. Under revenue guidance, since these arrangements are for usage-based licenses of intellectual property, we estimate revenue recognized only as the performance obligation of the OEM royalties has been satisfied or partially satisfied.
+
+​
+
+Professional Services Revenue
+
+​
+
+Professional services revenue includes system implementation, consulting, training, and managed services. The transaction price is allocated to various performance obligations based on their standalone selling prices (SSP). Revenue allocated to each performance obligation is recognized as work is performed. Managed services include a comprehensive set of processes and activities that range from implementation to monitoring the evolution and support of our solutions in a company. Our consulting and implementation service contracts are bid either on a time-and-material basis or on a fixed-fee basis. Managed services contracts are bid on a time-and-material basis. Fixed fees are generally paid on milestone billing at pre-determined points in the contract. Amounts that have been invoiced are recorded in accounts receivable and in deferred revenue or revenue, depending on whether transfer of control to customers has occurred.
+
+Training revenue that meets the criteria to be accounted for separately is recognized when training is provided.
+
+​
+
+Remaining Performance Obligations
+
+​
+
+Remaining performance obligations represent contracted revenue that have not yet been recognized, and include billed deferred revenue, consisting of amounts invoiced to customers whether collected or uncollected which have not been 
+
+recognized as revenue, as well as unbilled amounts that will be invoiced and recognized as revenue in future periods. The transaction price allocated to the remaining performance obligation is influenced by a variety of factors, including seasonality, timing of renewals, average contract terms and foreign currency exchange rates. As of June 30, 2024, our remaining performance obligations were $78.4 million, of which we expect to recognize $60.4 million and $18 million as revenue within one year and beyond one year, respectively.
+
+​
+
+Under Topic 606, we expect our remaining performance obligations to change quarterly for several reasons including the timing of new contracts and renewals, duration and size of our subscription and support arrangements, variable billing cycles and foreign exchange rate fluctuation. We typically issue renewal invoices in advance of the renewal service period. Depending on timing, the initial invoice and subsequent renewal invoices may occur in different quarters. This may result in an increase or decrease to our accounts receivable and deferred revenue.
+
+​
+
+Costs Capitalized to Obtain Revenue Contracts
+
+​
+
+We capitalize incremental costs to obtain non-cancelable subscription and maintenance and support revenue contracts with amortization periods that may extend longer than the non-cancelable subscription and maintenance and support revenue contract terms.
+
+​
+
+We capitalize incremental costs of obtaining a non-cancelable subscription and maintenance and support revenue contract with amortization periods of one year or more. The capitalized amounts consist primarily of sales commissions paid to our direct sales force. Capitalized amounts also include (i) amounts paid to employees other than the direct sales force who earn incentive payouts under annual compensation plans that are tied to the value of contracts acquired and (ii) the associated payroll taxes and fringe benefit costs associated with the payments to our employees.
+
+​
+
+Costs capitalized related to new revenue contracts are generally deferred and amortized on a straight-line basis over a period of benefit that we estimate to be five years. We determine the period of benefit by taking into consideration the period from initial contract through renewal, which constitutes the length of our customer relationship or customer life. Amortization of costs capitalized related to new revenue contracts is included as a component of sales and marketing expense in our operating results.
+
+​
+
+Stock-Based Compensation 
+
+We account for stock-based compensation in accordance with Accounting Standards Codification (ASC) 718, Compensation — Stock Compensation. Under the fair value recognition provisions of ASC 718, stock-based compensation cost is measured at the grant date based on the fair value of the award and is recognized as an expense over the vesting period. Determining the fair value of the stock-based awards at the grant date requires significant judgment and the use of estimates, particularly surrounding Black-Scholes valuation assumptions such as stock price volatility and expected option lives. We determine the appropriate measure of expected volatility by reviewing historic volatility in the share price of our common stock, as adjusted for certain events that management deems to be non-recurring and non-indicative of future events. We base our estimate of expected life on the historical exercise behavior, cancellations of all past option grants made by us during the time period in which our common stock has been publicly traded, the contractual term, the vesting period and the expected remaining term of the option. Based on our historical experience of option pre-vesting cancellations, we have assumed an annualized forfeiture rate for our stock options. We record additional expense if the actual forfeiture rate is lower than we estimated and record a recovery of prior expense if the actual forfeiture rate is higher than what we estimated.
+
+Goodwill
+
+We review goodwill annually for impairment or sooner whenever events or changes in circumstances indicate that it may be impaired. These events or circumstances could include a significant change in the business climate, legal factors, operating performance indicators, competition, or sale or disposition of a significant portion of a reporting unit. We operate under a single reporting unit and accordingly, all of our goodwill is associated with the entire company. We had no impairment for fiscal years ended June 30, 2024 and 2023.
+
+Accounts Receivable and Provision for Credit Losses 
+
+We extend unsecured credit to customers on a regular basis. Our accounts receivable is derived from revenue earned from customers and are not interest bearing. We also maintain provision for credit losses to reserve for potential uncollectible trade receivables. We review our trade receivables by aging category to identify specific customers with known disputes or collectability issues. We exercise judgment when determining the adequacy of these reserves as we evaluate historical bad debt trends, general economic conditions in the U.S. and internationally, and changes in customer financial conditions. If we make different judgments or utilize different estimates, then material differences may result in additional reserves for trade receivables, which would be reflected by charges in general and administrative expenses for any period presented. We write-off a receivable after all collection efforts have been exhausted and the amount is deemed uncollectible.
+
+As described in Note 1 of Notes to Consolidated Financial Statements included in Item 8 Financial Statements and Supplementary Data of this Annual Report, certain Company contracts have contractual billings which do not coincide with revenue recognized on the contract. Unbilled accounts receivables are recorded when revenue recognized on the contract exceeds billings, pursuant to contract provisions, and become billable at contractually specified dates.
+
+Tax Legislation
+
+Under the Tax Cuts and Jobs Act, enacted on December 22, 2017 (TCJA), federal Net Operating Losses (NOLs) incurred in 2018 and in future years may be carried forward indefinitely, but generally may not be carried back, and the deductibility of such NOLs is limited to 80% of taxable income.
+
+​
+
+On March 27, 2020, the Coronavirus Aid, Relief, and Economic Security Act (CARES Act), P.L. 116-136, was passed into law, amending portions of certain relevant US tax laws. The CARES Act included a number of federal income tax law changes, including, but not limited to: (i) permitting net operating loss carrybacks to offset 100% of taxable income for taxable years beginning before 2021, (ii) accelerating alternative minimum tax credit refunds, (iii) temporarily increasing the allowable business interest deduction from 30% to 50% of adjusted taxable income, and (iv) providing a technical correction for depreciation related to qualified improvement property. The CARES Act had no impact on our consolidated financial statements. Beginning in 2022, the TCJA eliminates the option to immediately deduct research and development expenditures and requires taxpayers to capitalize and amortize domestic expenditures over five years and foreign expenditures over 15 years. While the mandatory capitalization requirement increases our deferred tax assets and cash tax liabilities for 2022, the tax year in which the provision took effect, the impact will decline annually over the five-year amortization period to an immaterial amount in year six.
+
+On August 16, 2022, the Inflation Reduction Act of 2022 (IRA) was signed into law and is effective for taxable years beginning after December 31, 2022. The IRA includes multiple incentives to promote clean energy with tax provisions primarily focused on implementing a 15% minimum tax on global adjusted financial statement income and a 1% excise tax on share repurchases. These measures may affect our consolidated financial statements and we will continue to evaluate the applicability and effect of the IRA as more guidance is issued. In 2024, California enacted legislation, with the first being S.B.167, which suspends the use of NOLs by businesses and individuals for tax years 2024 through 2026, limits the use of tax credits by businesses and individuals to $5 million for tax years 2024 through 2026, and clarifies that income not included in apportionable business income is excluded from the sales factor of the apportionment formula. The second, S.B.175, provides some relief from the $5 million credit limitation in S.B. 167 by allowing taxpayers subject to the limit to elect to later receive a refund of credits they would have otherwise used to reduce tax liabilities during the limitation period.
+
+Fiscal Year 2024 Compared with Fiscal Year 2023
+
+Our effective tax rate for both fiscal years 2024 and 2023 was a tax provision of $1.9 million and $1.2 million, respectively. The change in our effective tax rate for fiscal year 2024 as compared to fiscal year 2023 was primarily due to the change in valuation allowance, foreign rate differential, Section 267, stock-based compensation and the research and development tax credits.
+
+The income before income tax provision between the U.S. and foreign countries impacted our effective tax rate as a result of the geographic distribution and customer demand related to our products and services. In fiscal year 2024, our U.S. and 
+
+foreign income before our income tax provision was an income of $6.2 million and $3.5 million, respectively. In fiscal year 2023, our U.S. and foreign income before our income tax was loss of $460,000 and income of $3.8 million, respectively.
+
+Deferred Tax Valuation Allowance 
+
+When we prepare our consolidated financial statements, we estimate our income tax liability for each of the various jurisdictions where we conduct business. This requires us to estimate our actual current tax exposure and to assess temporary differences that result from differing treatment of certain items for tax and accounting purposes. The net deferred tax assets are reduced by a valuation allowance if, based upon weighted available evidence, it is more likely than not that some or all of the deferred tax assets will not be realized. We make significant judgments to determine our provision for income taxes, our deferred tax assets and liabilities and any valuation allowance to be recorded against our net deferred tax assets. As of June 30, 2024, we had a valuation allowance of approximately $35.6 million of which approximately $13.8 million was attributable to U.S. and state net operating losses and domestic research and development credit carryforwards. 
+
+We apply ASC 740, Income Taxes, in determining any uncertain tax positions. The guidance seeks to reduce the diversity in practice associated with certain aspects of measurement and recognition in accounting for income taxes and prescribes a recognition threshold and measurement attribute for the financial statement recognition and measurement of a tax position that an entity takes or expects to take in a tax return. Additionally, ASC 740 provides guidance on de-recognition, classification, interest and penalties, accounting in interim periods, disclosure and transition. Under ASC 740, an entity may only recognize or continue to recognize tax positions that meet a “more likely than not” threshold. In accordance with our accounting policy, we recognize accrued interest and penalties related to unrecognized tax benefits as a component of other (expense) income, net in the consolidated statements of operations. 
+
+We consider the earnings of certain non-U.S. subsidiaries to be indefinitely invested outside the United States, on the basis of estimates, that future domestic cash generation will be sufficient to meet future domestic cash needs and our specific plans for reinvestments of those subsidiary earnings. We have not recorded a deferred tax liability related to state income taxes and foreign withholding taxes on approximately $26.2 million of undistributed earnings of foreign subsidiaries indefinitely invested outside the United States. If we decide to repatriate the foreign earnings, we would need to adjust our income tax provision in the period we determined that the earnings will no longer be indefinitely invested outside the United States. 
+
+Fair Value of Financial Instruments 
+
+Our financial instruments consist of cash and cash equivalents, restricted cash, accounts receivable, accounts payable and accrued liabilities. We do not have any derivative financial instruments. We believe the reported carrying amounts of these financial instruments approximate fair value, based upon their short-term nature and comparable market information available at the respective balance sheet dates. 
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+Results of Operations 
+
+​
+
+The following table sets forth certain items reflected in our consolidated statements of operations expressed as a percent of total revenue for the periods indicated: 
+
+​
+
+​
+
+Revenue
+
+​
+
+We classify our revenue into two categories; subscription and professional services revenue. We further break down subscription revenue into SaaS revenue and legacy revenue, with SaaS revenue being a key metric.
+
+​
+
+The following table presents our subscription and professional services revenue during the fiscal years indicated:
+
+​
+
+​
+
+Total Revenue 
+
+Total revenue decreased $5.2 million during the fiscal year ended June 30, 2024, from the same period in fiscal year 2023, largely due to decreased SaaS revenue of $4.7 million and our legacy revenue of $500,000; partially offset by an increase in professional services revenue of $34,000 in fiscal year 2024. 
+
+​
+
+Our revenue was impacted by foreign exchange rate fluctuation between the U.S. Dollar, Euro, and British Pound. We recalculate our current period results using the comparable prior period exchange rates to exclude the impact of foreign exchange rate fluctuation. Foreign exchange rate fluctuation resulted in an increase of $1.0 million and $2.4 million in total revenue during the fiscal years ended June 30, 2024 and 2023, respectively.
+
+​
+
+Subscription Revenue
+
+​
+
+SaaS Revenue
+
+​
+
+​
+
+SaaS revenue includes revenue from cloud delivery arrangements, term licenses and embedded OEM royalties and associated support. Revenues from SaaS decreased by $4.7 million during the fiscal year ended June 30, 2024, from the same period in fiscal year 2023.
+
+​
+
+SaaS revenue was $84.9 million and $89.6 million during the fiscal years ended June 30, 2024 and 2023, respectively, which represented a decrease of 5% or $4.7 million. SaaS revenue represents 91% of total revenue for the fiscal years ended June 30, 2024 and 2023. 
+
+​
+
+Excluding an increase of $965,000 due to foreign exchange rate fluctuation, SaaS revenue decreased by $5.7 million during the fiscal year ended June 30, 2024, from the same period in fiscal year 2023. 
+
+​
+
+Legacy Revenue 
+
+​
+
+Legacy revenue is associated with license, maintenance and support contracts on perpetual license arrangements that we no longer sell. We experienced a decrease of $497,000 for the fiscal year ended June 30, 2024. This decrease was primarily due to our focus on migrating our legacy customers to SaaS.
+
+​
+
+Legacy revenue was $208,000 and $705,000 during the fiscal years ended June 30, 2024 and 2023, respectively, which represented a decrease of 70% or $497,000. Legacy revenue represents 0% and 1% of total revenue for the fiscal years ended June 30, 2024 and 2023, respectively.
+
+​
+
+Excluding an increase of $14,000 due to foreign exchange rate fluctuation, legacy revenue decreased by $511,000 during the fiscal year ended June 30, 2024, from the same period in fiscal year 2023.
+
+​
+
+Professional Services Revenue 
+
+​
+
+Professional services revenue includes consulting, implementation, training, and managed services. Revenues from professional services increased by $34,000 and remained flat at $7.7 million during the fiscal year ended June 30, 2024. Professional services revenue represents 8% of total revenue for the fiscal years ended June 30, 2024 and 2023.
+
+​
+
+Excluding an increase of $62,000 due to foreign exchange rate fluctuation, professional services revenues decreased by $28,000 during the fiscal year ended June 30, 2024, from the same period in fiscal year 2023.
+
+​
+
+Revenue by Geography
+
+​
+
+​
+
+Revenue from North America sales decreased by 5% from $76.4 million during the fiscal year ended June 30, 2023 to $72.6 million during the fiscal year ended June 30, 2024 due to decreases of (i) $3.6 million in SaaS revenue and (ii) $392,000 in legacy revenue; partially offset by the increase of $224,000 in professional service revenue. 
+
+​
+
+Revenue from EMEA sales decreased by 7% from $21.6 million during the fiscal year ended June 30, 2023 to $20.2 million during the fiscal year ended June 30, 2024 due to decreases of (i) $1.1 million in SaaS revenue, (ii) $190,000 in professional services revenue, and (iii) $106,000 in legacy revenue.
+
+​
+
+Cost of Revenue
+
+​
+
+Subscription 
+
+​
+
+Cost of subscription revenues consist primarily of expenses related to our cloud services and support provided to customers. These expenses are comprised of cloud computing costs, personnel-related costs directly associated with cloud operations, and customer support, including salaries, benefits, bonuses and stock-based compensation and allocated overhead. 
+
+​
+
+Cost of subscription revenues increased by $837,000 or 4% during the fiscal year ended June 30, 2024 from the same period in fiscal year 2023. The increase is primarily due to an increase in personnel related costs of $1.3 million; partially offset by a decrease in (i) outside consulting cost of $390,000 and (ii) cloud computing cost of $158,000 during the fiscal year ended June 30, 2024, from the same period in fiscal year 2023. 
+
+​
+
+Excluding an increase of $45,000 due to foreign exchange rate fluctuation, cost of subscription revenues increased by $793,000 during the fiscal year ended June 30, 2024, from the same period in fiscal year 2023.
+
+​
+
+​
+
+Professional Services
+
+​
+
+Cost of professional services consists primarily of personnel-related costs directly associated with our professional services and training departments, including salaries, benefits, bonuses, and stock-based compensation and allocated overhead. 
+
+​
+
+Cost of professional services decreased by $560,000 or 6% during the fiscal year ended June 30, 2024 from the same period in fiscal year 2023. This decrease is due to a decrease in personnel-related costs of $560,000 from the same period in fiscal year 2023.
+
+​
+
+Excluding an increase of $74,000 due to foreign exchange rate fluctuation, cost of professional services revenue decreased by $634,000 for the fiscal year ended June 30, 2024, from the same period in fiscal year 2023. 
+
+​
+
+Operating Expenses
+
+​
+
+Research and Development 
+
+​
+
+Research and development expense primarily consists of personnel-related expenses directly associated with our engineering, product management and development, and quality assurance staff. Included in these costs are salaries, benefits, bonuses, stock-based compensation and allocated overhead. Research and development expense also includes outside consulting services contracted for research and development.
+
+​
+
+Research and development expense decreased by $674,000 or 2% during the fiscal year ended June 30, 2024, from the same period in fiscal year 2023. The decrease is primarily due to decreases in (i) $470,000 in personnel-related costs and (ii) $268,000 in outside consulting costs.
+
+​
+
+Excluding an increase of $64,000 due to foreign exchange rate fluctuation, research and development expense decreased by $738,000 for the fiscal year ended June 30, 2024, from the same period in fiscal year 2023.
+
+​
+
+Sales and Marketing 
+
+​
+
+Sales and marketing expense primarily consists of personnel-related expenses directly associated with our sales, marketing, and business development staff. Included in these costs are salaries, benefits, bonuses, and stock-based compensation and allocated overhead. Sales and marketing expenses also include amortization of commissions paid to our sales staff, lead generation activities, advertising, trade show and other promotional costs and, to a lesser extent, occupancy costs and related overhead. 
+
+​
+
+Sales and marketing expenses decreased by $9.6 million or 30% during the fiscal year ended June 30, 2024 from same period in fiscal year 2023. The decrease is primarily due to a decrease of (i) $8.4 million in personnel-related costs and (ii) $1.2 million in marketing program costs. 
+
+​
+
+Excluding an increase of $376,000 due to foreign exchange rate fluctuation, sales and marketing expense decreased $10.0 million for the fiscal year ended June 30, 2024, from the same period in fiscal year 2023.
+
+​
+
+General and Administrative 
+
+​
+
+General and administrative expense primarily consists of personnel-related expenses directly associated with our finance, human resources, administrative and legal personnel. Included in these costs are salaries, benefits, bonuses, and stock-based compensation and allocated overhead. General and administrative expenses also include fees for professional services, provision for credit losses and, to a lesser extent, occupancy costs and related overhead.
+
+​
+
+General and administrative expense increased by $199,000 or 2% during the fiscal year ended June 30, 2024, from the same period in fiscal year 2023. The increase is primarily due to an increase in (i) $829,000 in legal expenses and (ii) $154,000 in accounting, audit, and administrative expenses; partially offset by decreases of (i) $526,000 in personnel-related expenses, (ii) $175,000 in bad debt expense, (iii) $150,000 in outside consulting cost and (iv) $2,000 in investor relations expense. 
+
+​
+
+Excluding an increase of $68,000 due to foreign exchange rate fluctuation, general and administrative expense increased $131,000 for the fiscal year ended June 30, 2024, from the same period in fiscal year 2023.
+
+​
+
+Stock-Based Compensation 
+
+​
+
+Stock-based compensation expense is accounted for in accordance with the provisions of the accounting guidance which requires the measurement and recognition of compensation expense for all equity-based payment awards made to employees, members of our board of directors and consultants, based upon the grant-date fair value of those awards. We value our share-based payments under ASC 718, and record compensation expense for all share-based payments made to employees based on the fair value at the date of the grant.
+
+The effect of recording stock-based compensation for fiscal year 2024 and 2023 is as follows:
+
+​
+
+​
+
+Determining the fair value of the equity-based payment awards at the grant date required significant judgment and the use of estimates, particularly surrounding the Black-Scholes valuation assumptions such as stock price volatility and expected option term. 
+
+​
+
+Below is a summary of stock-based compensation included in the cost and expenses:
+
+​
+
+​
+
+Stock-based compensation expense includes the amortization of the fair value primarily of stock options awarded to employees, members of our board of directors and consultants. The fair value of stock options granted is recognized as an expense over their respectable vesting schedule. The decrease in our stock-based compensation expense in fiscal year 2024 compared to fiscal year 2023 was primarily due to decreases in stock option vesting over their respectable periods, company-wide headcount, and option grant activity.
+
+​
+
+We expect to review our share-based payment awards annually, as necessary. 
+
+​
+
+Income from Operations 
+
+​
+
+​
+
+Results from operations was income of $6 million in fiscal year 2024, compared to income of $1.4 million in fiscal year 2023. We recorded a positive operating margin of 6% in fiscal year 2024, and a positive operating margin of 1% in fiscal year 2023.
+
+During the fiscal year ended June 30, 2024, SaaS revenue decreased by $4.7 million to $84.9 million compared to $89.6 million in fiscal year 2023. 
+
+The decrease in total costs and operating expenses in fiscal year ended June 30, 2024 was $10.1 million primarily due to decreases of (i) $8.6 million in personnel-related expenses, (ii) $1.2 million in outside consulting costs, (iii) $1.2 million in marketing costs, (iv) $175,000 in bad debt expenses, (v) $158,000 in cloud computing costs, and (vi) $2,000 in investor relations cost; partially offset with increases in (i) $829,000 in legal expense and (ii) $154,000 in accounting and administrative services expenses.
+
+Excluding a decrease from foreign exchange fluctuation of $627,000, total costs and operating expenses decreased by $10.4 million for the fiscal year ended June 30, 2024, from the same period in fiscal year 2023.
+
+Interest Income
+
+​
+
+Interest income consists primarily of interest earned on money market accounts, which have increased in rates compared to prior year. Interest income, was income of $3.8 million and $2.4 million for the fiscal years ended June 30, 2024 and 2023, respectively. 
+
+​
+
+Other Expense, Net 
+
+​
+
+Other expense, net primarily included foreign exchange rate fluctuations on international trade receivables. Other expense, net was $51,000 and $434,000 for the fiscal years ended June 30, 2024 and 2023, respectively.
+
+​
+
+Income Tax Provision
+
+​
+
+Provision for income taxes consists of federal, state and foreign income taxes. Due to the current economic state of the U.S. economy, expiring tax attributes and uncertainty of future profitability, we maintain a valuation allowance against U.S. deferred tax assets as of June 30, 2024. We consider all available evidence, both positive and negative, including but not limited to earnings history, expiring attributes, projected future outcomes, industry and market trends and the nature of each of the deferred tax assets. We recorded an income tax provision of $1.9 million and $1.2 million in the fiscal years ended June 30, 2024 and 2023, respectively.
+
+​
+
+New Accounting Pronouncements 
+
+For information with respect to recent accounting pronouncements and the impact of these pronouncements on our consolidated financial statements, see Note 1 of Notes to Consolidated Financial Statements included in Item 8 Financial Statements and Supplementary Data of this Annual Report. 
+
+Liquidity and Capital Resources 
+
+​
+
+Overview 
+
+​
+
+Our principal sources of liquidity were cash and cash equivalents, and accounts receivable, net. Our liquidity sources were $101.7 million compared to $104.8 million as of June 30, 2024 and 2023, respectively. Our cash, cash equivalents, and restricted cash were $70.0 million and $73.2 million as of June 30, 2024 and 2023, respectively. 
+
+​
+
+Our working capital was $44.5 million and $46.1 million as of June 30, 2024 and 2023, respectively. Our deferred revenue was $49.3 million and $49.9 million as of June 30, 2024 and 2023, respectively. 
+
+​
+
+Based upon our current business plan, we believe that existing capital resources will enable us to maintain current and planned operations for at least the next 12 months. From time to time, however, we may consider opportunities for raising additional capital. We can make no assurances that such opportunities will be available to us on economic terms we consider favorable, if at all. 
+
+​
+
+Our expectations as to our future cash flows and our future cash balances are subject to a number of assumptions, including assumptions regarding anticipated increases in our revenue, our ability to retain existing customers and customer purchasing and payment patterns, many of which are beyond our control.
+
+​
+
+Cash Flows
+
+For the fiscal years ended June 30, 2024 and 2023, our cash flows were as follows (in thousands):
+
+​
+
+​
+
+Cash provided by operating activities mainly consists of net income adjusted for non-cash expense items such as depreciation and amortization, expense associated with stock-based awards, the timing of employee related costs including costs capitalized to obtain revenue contracts, amortization of right-of-use assets, and changes in operating assets and liabilities during the year. 
+
+​
+
+Cash provided by operating activities increased by $7.8 million during the fiscal year ended June 30, 2024, driven primarily by the increase in net income and timing of accounts receivable collections and accrued compensation payments.
+
+​
+
+Net cash used in investing activities decreased by $90,000 during the fiscal year ended June 30, 2024, driven primarily by reduced activities related to the purchase of equipment for new employees and facility expenditures. Historically, cash used in investing activities has been used to purchase equipment and software to support our business and growth. 
+
+Net cash used in financing activities increased by $11.3 million during the fiscal year ended June 30, 2024. The changes consist primarily of proceeds from the exercise of employee stock options, our employee stock purchase plan, and funds used with repurchases of our common stock of approximately $11.5 million.
+
+​
+
+Commitments 
+
+Our principal commitments consist of obligations under leases for office space. Lease agreements are evaluated to determine whether an arrangement is or contains a lease in accordance with ASC 842, Leases. 
+
+​
+
+​
+
+The following table summarizes our contractual obligations as of June 30, 2024 and the effect such obligations are expected to have on its liquidity and cash flow in future periods (in thousands): 
+
+Off-Balance Sheet Arrangements 
+
+As of June 30, 2024, we had no significant off-balance sheet arrangements as defined in Item 303(a) of Regulation S-K. 
+
+​
+
+​
+
+​
+
+​

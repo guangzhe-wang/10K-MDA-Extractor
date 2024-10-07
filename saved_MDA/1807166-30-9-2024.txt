@@ -1,0 +1,142 @@
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations is intended to provide a reader of our financial statements with a narrative from the perspective of our management on our financial condition, results of operations, liquidity, and certain other factors that may affect our future results. You should read the following discussion and analysis of financial condition and results of operations in conjunction with our financial statements and the related notes thereto included elsewhere in this Annual Report on Form 10-K. In addition to historical information, the following discussion and analysis includes forward-looking information that involves risks, uncertainties, and assumptions. Our actual results and the timing of events could differ materially from those anticipated by these forward-looking statements because of many factors, including those discussed under “Item 1A. Risk Factors” and elsewhere in this Form 10-K. See “Cautionary Note Regarding Forward-Looking Statements” included elsewhere in this Form 10-K.
+
+Overview
+
+The following discussion highlights our results of operations and the principal factors that have affected our financial condition as well as our liquidity and capital resources for the twelve months ended June 30, 2024 and provides information that management believes is relevant for an assessment and understanding of the statements of financial condition and results of operations presented herein. The following discussion and analysis are based on our audited financial statements contained in this Annual Report on Form 10-K, which we have prepared in accordance with United States generally accepted accounting principles, or GAAP. You should read the discussion and analysis together with such financial statements and the related notes thereto.
+
+On February 15, 2023, the Company held a special meeting of stockholders (the “Special Meeting”). At the Special Meeting, the stockholders also approved a proposal to amend the Company’s certificate of incorporation to affect a reverse split of the Company’s outstanding shares of common stock, par value $0.0001 at a specific ratio within a range of one-for five (1-for-5) to a maximum of one-for-fifty (1-for-50) to be determined by the Company’s board of directors in its sole discretion.
+
+-18-
+
+Following the Special Meeting, the board of directors approved a one-for-twelve (1-for-12) reverse split of the Company’s issued and outstanding shares of common stock (the “Reverse Stock Split”). On February 21, 2023, the Company filed with the Secretary of State of the State of Delaware a certificate of amendment to its certificate of incorporation (the “Certificate of Amendment”) to affect the Reverse Stock Split. The Reverse Stock Split became effective as of 4:01 p.m. Eastern Time on February 21, 2023, and the Company’s common stock began trading on a split-adjusted basis when the Nasdaq Stock Market opened on February 22, 2023.
+
+The Reverse Stock Split did not change the par value of the Company’s common stock. Any fractional shares of common stock resulting from the Reverse Stock Split were rounded up to the nearest whole post-Reverse Stock Split share. All outstanding securities entitling their holders to acquire shares of common stock were adjusted as a result of the Reverse Stock Split. All common share and per share data are retrospectively restated to give effect to the Reverse Stock Split for all periods presented herein. 
+
+We are not currently profitable, and we cannot provide any assurance that we will ever be profitable. We incurred a net loss of $(4,403,182) for the twelve months ended June 30, 2024, and we incurred a net loss of $(37,833,501) for the period from November 14, 2017 (date of incorporation) to June 30, 2024.
+
+The assessment of the Company’s ability to meet its future obligations is inherently judgmental, subjective and susceptible to change. Based on their current forecast, management believes that it will have sufficient cash and cash equivalents to maintain the Company’s planned operations for the next twelve months following the issuance of these financial statements; however, there is uncertainty in the forecast and therefore the Company cannot assert that it is probable. The Company has considered both quantitative and qualitative factors that are known or reasonably knowable as of the date of these financial statements are issued and concluded that there are conditions present in the aggregate that raise substantial doubt about the Company’s ability to continue as a going concern.
+
+In response to the conditions, management plans include generating cash by completing financing transactions, which may include offerings of common stock. However, these plans are subject to market conditions, and are not within the Company’s control, and therefore, cannot be deemed probable. There is no assurance that the Company will be successful in implementing their plans. As a result, the Company has concluded that management’s plans do not alleviate substantial doubt about the Company’s ability to continue as a going concern.
+
+Basis of Presentation
+
+The financial statements contained herein have been prepared in accordance with GAAP and the requirements of the SEC.
+
+Critical Accounting Policies and Significant Judgments and Estimates
+
+This management’s discussion and analysis of financial condition and results of operations is based on our financial statements, which have been prepared in accordance with U.S. GAAP. The preparation of these financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenue and expenses during the reported period. In accordance with U.S. GAAP, we base our estimates on historical experience and on various other assumptions we believe to be reasonable under the circumstances. Actual results may differ from these estimates if conditions differ from our assumptions. While our significant accounting policies are more fully described in Note 2 in the “Notes to Financial Statements,” we believe the following accounting policies are critical to the process of making significant judgments and estimates in preparation of our financial statements.
+
+-19-
+
+Internally-Developed Capitalized Software
+
+We capitalize certain costs related to internal-use software, primarily consisting of direct labor and third-party vendor costs associated with creating the software. Software development projects generally include three stages: the preliminary project stage (all costs are expensed as incurred), the application development stage (certain costs are capitalized and certain costs are expensed as incurred) and the post-implementation/operation stage (all costs are expensed as incurred). Costs capitalized in the application development stage include costs related to the design and implementation of the selected software components, software build and configuration infrastructure, and software interfaces. Capitalization of costs requires judgment in determining when a project has reached the application development stage, the proportion of time spent in the application development stage, and the period over which we expect to benefit from the use of that software. Once the software is placed in service, these costs are amortized on the straight-line method over the estimated useful life of the software, which is generally three years.
+
+Stock-Based Compensation
+
+We have issued three types of stock-based awards under our stock plans: stock options, restricted stock units and stock warrants. All stock-based awards granted to employees, directors and independent contractors are measured at fair value at each grant date. We rely on the Black-Scholes option pricing model for estimating the fair value of stock-based awards granted, and expected volatility is based on the historical volatility of the Company’s stock prices. Stock options generally vest over four years from the grant date and generally have ten-year contractual terms. Restricted stock units generally have a term of 12 months from the closing date of the agreement. Stock warrants issued have a term of five years. Information about the assumptions used in the calculation of stock-based compensation expense is set forth in Notes 4 and 6 in the Notes to Financial Statements.
+
+Revenue Recognition
+
+We generate substantially all our revenue from contractual arrangements with our customers to provide a comprehensive platform of tightly integrated technology and technology enabled services related to product offerings. Revenue related to our licensing arrangements is generally recognized ratably over the contract term commencing upon platform delivery. Revenue related to licensing arrangements recognized in a given time period will consist of contracts that went live in the current period or that went live in previous periods and are currently ongoing.
+
+Performance Obligations and Timing of Recognition
+
+A performance obligation is a promise in a contract to transfer a distinct good or service to the customer. A contract’s transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied.
+
+We derive revenue from annual licensing arrangements, including maintenance fees, setup fees and other fees for course development and miscellaneous items. Our contracts with customers typically have a term of at least one year and have at least a single performance obligation. The promises to set up and provide a hosted platform of tightly integrated technology and services partners need to attract, enroll, educate, and support learners are not distinct within the context of the contracts. This performance obligation is satisfied as the partners receive and consume benefits, which occurs ratably over the contract term.
+
+We routinely provide professional services, such as custom development, non-complex implementation activities, training, and other various professional services. We evaluate these services to determine if they are distinct and separately identifiable in the context of the contract. In our contracts with customers that contain multiple performance obligations because of this assessment, we allocate the transaction price to each separate performance obligation on a relative standalone selling price basis. Standalone selling prices of our solutions and services are typically estimated based on observable transactions when the solutions or services are sold on a standalone basis. When standalone selling prices are not observable, we utilize a cost-plus margin approach to allocate the transaction price.
+
+-20-
+
+We do not disclose the value of unsatisfied performance obligations because the consideration is allocated entirely to a wholly unsatisfied promise to transfer a service that forms part of a single performance obligation (i.e., consideration received is based on the level of product offerings, which is unknown in advance). During the year ended June 30, 2024, five customers comprised approximately 97% of total revenue. During the year ended June 30, 2023, five customers comprised approximately 84% of total revenue.
+
+We also receive fees that are fixed in nature, such as annual license and maintenance charges. The fees are independent of the number of students that are enrolled in courses with our customers and are allocated to and recognized ratably over the service period of the contract that the Company’s platform is made available to the customer (i.e., the customer simultaneously receives and consumes the benefit of the software over the contract service period).
+
+The following factors affect the nature, amount, timing, and uncertainty of our revenue and cash flows:
+
+| ● | The majority of our customers are private and public learning institutions across various domestic regions 
+---|---|--- 
+| | 
+| ● | The majority of our customers have annual payment terms 
+
+Accounts Receivable, Contract Assets and Liabilities
+
+Balance sheet items related to contracts consist of accounts receivable (net) and contract liabilities on our balance sheets. Accounts receivable (net) is stated at net realizable value, and we utilize the allowance method to provide for doubtful accounts based on management’s evaluation of the collectability of the amounts due. Our estimates are reviewed and revised periodically based on historical collection experience and a review of the current status of accounts receivable. Historically, actual write-offs for uncollectible accounts have not significantly differed from prior estimates. There was no allowance for doubtful accounts on accounts receivable balances as of June 30, 2024 and 2023, respectively.
+
+We may recognize revenue prior to billing a customer when we have satisfied or partially satisfied our performance obligations as billings to our customers may not be made until after the service period has commenced. As of June 30, 2024 and 2023, we had $15,000 and $0, respectively, of contract assets.
+
+Contract liabilities as of each balance sheet date represent the excess of amounts billed or received as compared to amounts recognized in revenue on our statements of operations as of the end of the reporting period, and such amounts are reflected as a current liability on our balance sheets as deferred revenue. We generally receive payments prior to completion of the service period and our performance obligations. These payments are recorded as deferred revenue until the services are delivered or until our obligations are otherwise met, at which time revenue is recognized.
+
+Some contracts also involve annual license fees, for which upfront amounts are received from customers. In these contracts, the license fees received in advance of the platform’s launch are recorded as contract liabilities.
+
+Results of Operations
+
+Revenue
+
+We generated revenues of $166,881 for the year ended June 30, 2024 as compared to $845,009 for the year ended June 30, 2023. Revenue compared to prior year for the twelve months ended June 30, 2024 was primarily from the sale of monthly license fees.
+
+We have strongly pivoted to grow our customer base while reducing risk and losses, resulting in a larger client base, a short-term reduction in overall revenue and a dramatic reduction in cash burn. Larger, cash-upfront deals were struggling to produce sustainable revenue, as administrative barriers within nonprofits, high price points set by customers, and inability or unwillingness of customers to partner with schools, businesses and other entities to purchase products hampered growth.
+
+We continue to believe that AI-powered learning programs, priced affordably, will supplant other academic products in the mid to long term, but have defocused on securing “change agent” customers, and are now offering our academic platform for use by any community college on a fee-per-course basis. The incremental cost to Amesite in delivering the system is de minimis, as the system is turnkey, and the technology stack is robust. We have focused all new development work on delivering AI tools to markets hungry for increased capability that immediately impacts both their performance and their bottom line. The NurseMagicTM app is the first of these and has already gained traction with larger entities.
+
+General and Administrative
+
+General and administrative expenses consist primarily of personnel and personnel-related expenses, including executive management, legal, finance, human resources and other departments that do not provide direct operational services. General and administrative expenses also include professional fees and other corporate expense.
+
+General and administrative expenses for the year ended June 30, 2024, were $2,908,289 as compared to $2,492,777 for the year ended June 30, 2023. The increase of $415,512 is primarily due to Board Compensation net of significant savings in the areas of employee payroll, legal and audit, and insurance.
+
+-21-
+
+Technology and Content Development
+
+Technology and content development expenses consist primarily of personnel and personnel-related expenses and contracted services associated with the ongoing improvement and maintenance of our platform as well as hosting and licensing costs. Technology and content expenses also include the amortization of capitalized software costs.
+
+Technology and content development expenses for the year ended June 30, 2024, were $1,074,000 as compared to $1,523,547 for the year ended June 30, 2023. The decrease of $449,219 is primarily due to savings in employee payroll and contracted programming.
+
+Sales and Marketing
+
+Sales and marketing expense consist primarily of activities to attract customers to our offerings. This includes personnel and personnel-related expenses, various search engine and social media costs as well as the cost of advertising.
+
+Sales and marketing expenses for the year ended June 30, 2024 were $763,915 as compared to $1,053,193 for the year ended June 30, 2023. The decrease of $289,278 is primarily due to savings with outside vendors.
+
+Interest Income
+
+For the year ended June 30, 2024, interest income totaled $176,469 as compared to interest income of $72,824 for the year ended June 30, 2023.
+
+Interest Expense. 
+
+Interest expense amounted to $0 for the year ended June 30, 2024 as compared to interest expense of $1,619 for the year ended June 30, 2023.
+
+Net Loss
+
+Our net loss for the year ended June 30, 2024 was $4,403,182 as compared to a net loss for the year ended June 30, 2023 of $4,153,303. The loss was $249,879 higher during the year ended June 30, 2024 compared to 2023 primarily due to Board Compensation net of significant savings in the areas discussed above.
+
+Capital Expenditures
+
+During the years ended June 30, 2024 and 2023, we had capital asset additions of $375,866 and $396,033, respectively, which were comprised of $374,700 and $368,909 respectively, in capitalized technology and content development, and $1,166 and $27,124, respectively, of property and equipment, including primarily computer equipment and software. We will continue to capitalize significant software development costs, comprised primarily of internal payroll, payroll related and contractor costs, as we build out and complete our technology platforms.
+
+-22-
+
+Financial Position, Liquidity, and Capital Resources
+
+Overview
+
+We are not currently profitable, and we cannot provide any assurance that we will ever be profitable, as indicated by our losses noted above.
+
+During the period from November 14, 2017 (date of incorporation) to September 30, 2020, we raised net proceeds of approximately $11,760,000 from private placement financing transactions (stock and debt). On September 25, 2020, we completed the Offering of 250,000 shares of its common stock, $0.0001 par value per share, at an offering price of $60.00 per share (total net proceeds of approximately $12.8 million after underwriting discounts, commissions, and other offering costs).
+
+On August 2, 2021, we entered into a purchase agreement (the “Purchase Agreement”) with Lincoln Park Capital Fund, LLC (“Lincoln Park”), under which, subject to specified terms and conditions, we may sell up to $16.5 million of shares of common stock. Our net proceeds under the Purchase Agreement will depend on the frequency of sales and the number of shares sold to Lincoln Park and the prices at which we sell shares to Lincoln Park. On August 2, 2021, we sold 63,260 shares of our common stock to Lincoln Park in an initial purchase under the Purchase Agreement for a total purchase price of $1,500,000. We also issued 12,726 shares of our common stock to Lincoln Park as consideration for its irrevocable commitment to purchase our common stock under the Purchase Agreement.
+
+On February 16, 2022, we closed on an offering of common stock and received approximately $2.51 million of cash proceeds, net of underwriting discounts, commissions, and other offering costs (Note 4 to the Financial Statements).
+
+On September 1, 2022, we closed a public offering of 348,485 shares of common stock and a concurrent private placement of warrants to purchase 348,485 shares of common stock at a combined purchase price of $6.60 per share. The net proceeds to the Company were approximately $1.85 million.
+
+As of June 30, 2024, our cash balance totaled $2,171,016.
+
+The Company is developing its customer base and has not completed its efforts to establish a stabilized source of revenue sufficient to cover its expenses. The Company has had a history of net losses and negative cash flows from operating activities since inception and expects to continue to incur net losses and use cash in its operations in the foreseeable future. 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE

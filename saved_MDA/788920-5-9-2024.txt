@@ -1,0 +1,160 @@
+.| MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+---|---|--- 
+
+The following discussion of our financial condition and results of operations should be read in conjunction with our consolidated financial statements and the notes thereto contained elsewhere in this report, as well as the Risk Factors included in Item 1A of this report. The following discussion contains forward-looking statements. (See “Cautionary Note Regarding Forward-Looking Statements” included in Part I of this report.)
+
+Overview
+
+The following discussion and analysis provides information that management believes is relevant to an assessment and understanding of our results of operations and financial condition for the fiscal years ended June 30, 2024 and 2023.
+
+We specialize in the design, development, and manufacture of autoclavable, battery-powered and electric, multi-function surgical drivers and shavers used primarily in the orthopedic, thoracic, and CMF markets. Additionally, we provide engineering, quality, and regulatory consulting services to our customers. We also sell rotary air motors. Our products are found in hospitals, medical engineering labs, scientific research facilities, and high-tech manufacturing operations around the world. We are headquartered in Irvine, California.
+
+Critical Accounting Policies and Estimates
+
+Our consolidated financial statements are prepared in accordance with U.S. GAAP. The preparation of our financial statements requires management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues, expenses, and related disclosures. We base our estimates on historical experience and various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates.
+
+Revenue Recognition
+
+Under Accounting Standards Update (“ASU”) 2014-09, (Topic 606) “Revenue From Contracts with Customers,” we recognize revenue from the sales of products and services by applying the following steps: identify the contract with a customer; identify the performance obligations in the contract; determine the transaction price; allocate the transaction price to each performance obligation in the contract; and recognize revenue when each performance obligation is satisfied. We primarily sell finished products and recognize revenue at point of sale or delivery. However, we also perform services when we are engaged to design a product for a customer and there is more judgment involved in determining the amount and timing of revenue recognition under those types of contracts. In fiscal 2024, the revenue from NRE and prototype services represents approximately 1% of total revenue.
+
+Returns of our product for credit are not material; accordingly, we do not establish a reserve for product returns at the time of sale.
+
+Estimated Losses on Product Development Services
+
+Cost and revenue estimates related to the product development service portions of development and supply contracts are reviewed and updated quarterly. An expected loss on development service contracts is recognized immediately in cost of sales. Losses recorded in fiscal 2024 and 2023 related to these services totaled $118,000 and $108,000, respectively.
+
+Due to the complexity of many of the contracts we have undertaken, the cost estimation process requires significant judgment. It is based upon the knowledge and experience of our project managers, engineers, and finance professionals. Factors that are considered in estimating the cost of work to be completed and ultimate profitability of the fixed price product development portion of development and supply contracts include the nature and complexity of the work to be performed, availability and productivity of labor, the effect of change orders, the availability of materials, performance of subcontractors, and expected costs for specific regulatory approvals.
+
+Warranties
+
+Most of our products are sold with a warranty that provides for repairs or replacement of any defective parts for a period, generally one to two years, after the sale. At the time of the sale, we accrue an estimate of the cost of providing the warranty based on prior experience with such factors as return rates and repair costs, which factors are reviewed quarterly.
+
+Warranty expenses, including changes of estimates, are included in cost of sales in our statements of operations.
+
+Inventories
+
+Inventories are stated at the lower of cost (first-in, first-out method) or net realizable value. Reductions to estimated net realizable value are recorded, and charged to cost of sales, when indicated based on a formula that compares on-hand quantities to both historical usage and estimated demand from the measurement date.
+
+Accounts Receivable 
+
+Trade receivables are stated at their original invoice amounts, less an allowance for credit losses. Management determines the allowance for credit losses based on facts and circumstances related to specific accounts, and on historical experience related to the age of accounts. Trade receivables are written off when deemed uncollectible. Recoveries of trade receivables previously reserved are offset against the allowance when received.
+
+Deferred Costs
+
+Deferred costs reflect costs incurred related to NRE services under the terms of the related development and supply contracts. These costs get recorded to cost of sales in the period that the revenue is recognized.
+
+Investments
+
+Investments consist of marketable equity securities of publicly held companies and, as of June 30, 2023, a warrant (the “Monogram Warrant”) to purchase common stock of a publicly held company (which we exercised in the second quarter of fiscal 2024). The investments were made to realize a reasonable return, although there is no assurance that positive returns will be realized. Investments are marked to market at each measurement date, with unrealized gains and losses presented in other income (expense) in our consolidated income statements. Some of our investments include the common stock of public companies that are thinly traded. Certain of these investments are classified as long-term in nature, as we may not be able to liquidate the investments in a timely manner even if we wish to sell them. All of our investments were subject to a valuation analysis as of June 30, 2024 and 2023.
+
+Long-lived Assets 
+
+We review the recoverability of long-lived assets, consisting of building, equipment, and improvements, when events or changes in circumstances occur that indicate carrying values may not be recoverable.
+
+Building, equipment, and improvements are recorded at historical cost and depreciation is provided using the straight-line method over the following periods:
+
+Intangibles
+
+Other intangibles consist of legal fees incurred in connection with patent applications. The legal fees will be amortized over the estimated life of the product(s) that will be utilizing the technology or expensed immediately in the event the patent office denies the issuance of the patent. The expense associated with the amortization of the patent costs is recognized in research and development costs.
+
+Income Taxes
+
+We recognize deferred tax assets and liabilities for temporary differences between the financial reporting basis and the tax basis of our assets and liabilities, along with net operating loss and tax credit carryovers. Deferred tax assets and liabilities at June 30, 2024 and 2023 consisted primarily of basis differences related to unrealized gain/loss related to investments, stock-based compensation, fixed assets, accrued expenses and inventories. Deferred tax assets and liabilities are adjusted for the effects of changes in tax laws and rates on the date of enactment.
+
+Significant management judgment is required in determining our provision for income taxes and the recoverability of our deferred tax assets. Such determination is based on our historical taxable income, with consideration given to our estimates of future taxable income and the periods over which deferred tax assets will be recoverable. In evaluating our ability to recover our deferred tax assets, we consider all available positive and negative evidence, including reversals of deferred tax liabilities, projected future taxable income, and results of recent operations. The assumptions about future taxable income require significant judgment and are consistent with the plans and estimates we are using to manage the underlying business. In evaluating the objective evidence that historical results provide, we consider three years of cumulative operating income (loss).
+
+Results of Operations for the Fiscal Year Ended June 30, 2024 Compared to the Fiscal Year Ended June 30, 2023
+
+The following tables set forth results from operations for the fiscal years ended June 30, 2024 and 2023:
+
+Net Sales
+
+The majority of our revenue is derived from designing, developing, manufacturing and\ repairing powered surgical instruments for medical device original equipment manufacturers. We also manufacture and sell rotary air motors to a wide range of industries. The proportion of total sales by product/service type is as follows:
+
+Net sales in fiscal 2024 increased by $7.8 million, or 17%, as compared to fiscal 2023, due primarily to an increase in repair revenue of $3.9 million and an increase in medical device revenue of $6.2 million offset by a decrease in NRE and prototype services of $1.9 million. Details of our medical device sales by type is as follows:
+
+Sales of our medical device products increased $6.2 million, or 20%, during fiscal 2024 as compared to fiscal 2023. During fiscal 2024, thoracic sales increased by $460,000 to $3.0 million, up from $2.6 million in fiscal 2023, due to a product launch for a second distributor in the first quarter of fiscal 2024. Recurring revenue from distributors of CMF drivers increased $1.8 million in fiscal 2024 compared to fiscal 2023. We do not have much visibility into our customers’ distribution networks, but we surmise the increase relates to a replenishment of customer inventory. Our orthopedic sales increased $3.9 million in fiscal 2024 compared to fiscal 2023, due to continued demand from our largest customer.
+
+Sales of our industrial and scientific products, which consist primarily of our compact pneumatic air motors, decreased $100,000, or 12%, for fiscal 2024 compared to fiscal 2023. The revenue decrease is expected as these are legacy products with no substantive marketing or sales efforts.
+
+Sales of our NRE & prototype services decreased $1.9 million or 71% compared to fiscal 2023 and relates to a reduction in the number of billable engagements during fiscal 2024 compared to fiscal 2023.
+
+Sales of our dental products and components in fiscal 2024 decreased $56,000, or 22%, as compared to fiscal 2023. The decrease is as expected and we expect future declines in this area as we are no longer manufacturing dental products, but rather are simply selling remaining component inventory. 
+
+Our fiscal 2024 repair revenue increased approximately $3.9 million, or 31%, to $16.5 million, as compared to fiscal 2023, due to increased repairs of the orthopedic handpiece we sell to our largest customer. We expected repair revenue to increase based upon the customer’s requested refurbishments to upgrade previously purchased handpieces to the next generation, which we collectively term “enhanced repairs”. We are rapidly refurbishing these handpieces and we believe that our largest customer will request enhanced repairs for a similar volume or number of handpieces in fiscal 2025; however, there are no assurances as to the number of enhanced repairs that will ultimately be requested from this client in fiscal 2025 or thereafter. 
+
+At June 30, 2024, we had a backlog of $19.8 million compared with a backlog of $41.6 million at June 30, 2023. Our backlog represents firm purchase orders received and acknowledged from our customers and does not include all revenue expected to be generated from existing customer contracts. Substantially all of our backlog at June 30, 2024, as well as certain purchase orders received subsequent to June 30, 2024, are expected to be delivered during fiscal 2025. We have experienced, and may continue to experience, variability in our new order bookings due to, among other reasons, the launch of new products, the timing of customer orders based on end-user demand, and customer inventory levels. We do not expect a reduction in fiscal 2025 revenue as compared to fiscal 2024 revenue and believe that the decline in backlog at June 30, 2024 compared to June 30, 2023 is related to timing of customer orders, although there can be no assurance that there will not be a decline in future revenue. Additionally, $10.2 million of our backlog at June 30, 2023 related to orders expected to be delivered in fiscal 2025. We do not typically experience seasonal fluctuations in our shipments and revenues.
+
+Cost of Sales and Gross Margin
+
+Cost of sales in fiscal 2024 increased $6.0 million, or 18%, from fiscal 2023, primarily due to the increase in product costs, consistent with the 17% increase in net sales. During fiscal 2024, we experienced $74,000 of over-absorption of manufacturing costs compared to $1.7 million of under-absorption in fiscal 2023, due primarily to an increase in our standard labor and overhead rate recorded in the fourth quarter of fiscal 2024. Costs related to inventory and warranty charges increased $154,000 in fiscal 2024 compared to fiscal 2023, primarily due to increased inventory reserves.
+
+Operating Expenses
+
+Selling expenses consist of salaries and other personnel-related expenses related to our business development department, as well as trade show attendance, advertising and marketing expenses, and travel and related costs incurred in generating and maintaining customer relationships. Selling expenses decreased $38,000, or 25%, compared to fiscal 2023, primarily due to decreased sales commissions in the amount of $74,000 offset by increased recruiting and advertising of $20,000 and $10,000, respectively.
+
+General and administrative expenses (“G&A”) consist of salaries and other personnel-related expenses for corporate, accounting, finance, and human resource personnel, as well as costs for outsourced information technology services, professional fees, directors’ fees, and costs associated with being a public company. The $44,000 increase in G&A expenses from fiscal 2023 to 2024 is due primarily to increased audit and consulting fees in the amount of $323,000 and increased recruiting fees of $100,000 offset by reduced patent related legal fees of $233,000 and non-cash compensation expense related to stock compensation in the amount of $161,000 due primarily to forfeitures caused by employee turnover.
+
+Research and development costs generally consist of salaries, employer-paid benefits, and other personnel- related costs of our engineering and support personnel, as well as allocated facility and information technology costs, professional and consulting fees, patent-related fees, lab costs, materials, and travel and related costs incurred in the development and support of our products. Fiscal 2024 research and development costs increased $385,000 from fiscal 2023 due to increased spending on internal product development projects of $82,000 as well as reduced billable project expenditures which get reclassified to cost of sales. The majority of our research and development expenditures incurred in fiscal 2024 and 2023 relates to our sustaining activities related to products we currently manufacture and sell. As we introduce new products into the market, we expect to see an increase in sustaining and other engineering expenses. Typical examples of sustaining engineering activities include, but are not limited to, end-of-life component replacement, especially in electronic components found in our printed circuit board assemblies, analysis of customer complaint data to improve process and design, replacement and enhancement of tooling and fixtures used in the machine shop, assembly operations, and inspection areas to improve efficiency and through-put.
+
+Other Income (Expense)
+
+Interest and Dividend Income
+
+Our interest and dividend income earned in fiscal 2024 and 2023 includes income earned from our interest-bearing money market accounts and portfolio of equity investments.
+
+Unrealized gain (loss) on investments
+
+The unrealized gain (loss) on investments relates to our investment portfolio. Additional information related to the nature of our investments is more fully described in Note 4 to the consolidated financial statements contained elsewhere in this report.
+
+Gain on Sale of Investments
+
+During fiscal 2024, our investment sales were immaterial. During fiscal 2023, we liquidated some of the investments in our portfolio of equity investments receiving proceeds of $89,000 and recording a gain of $6,000.
+
+Interest Expense
+
+Interest expense incurred in fiscal 2024 and 2023 consists primarily of interest expense related to our debt with Minnesota Bank & Trust (“MBT”) described more fully in Note 7 to the consolidated financial statements contained elsewhere in this report.
+
+Income Taxes
+
+The effective tax rate for the fiscal years ended June 30, 2024 and 2023 was 19% and 25%, respectively, slightly less than our combined expected federal and applicable state corporate income tax rates due primarily to federal and state research credits.
+
+Liquidity and Capital Resources
+
+The following table is a summary of our Statements of Cash Flows and Cash and Working Capital as of and for the fiscal years ended June 30, 2024 and 2023:
+
+Cash Flows from Operating Activities
+
+Cash provided by operating activities totaled $6.2 million during fiscal 2024. Our net income was $2.1 million, which includes $4.1 million of unrealized losses on certain equity investments, as well as non-cash stock compensation expense and depreciation and amortization expense in the amount of $605,000 and $1.2 million, respectively. Additionally, our accounts payable and accrued expenses increased by $2.4 million and our inventory decreased by $898,000. Offsetting these inflows of cash, our accounts receivable and deferred tax assets grew by $3.9 million and $1.6 million, respectively.
+
+Cash provided by operating activities during fiscal 2023 totaled $5.5 million. Our net income was $7.1 million, which includes $3.9 million of unrealized gains on certain equity investments, as well as $857,000 of depreciation and amortization and $766,000 of non-cash stock compensation. Additionally, our accounts receivable decreased by $5.4 million due to the variability in the timing of shipments and our prepaid expenses and deferred income taxes decreased by $494,000 and $264,000, respectively. Offsetting this net inflow of cash, inventory increased by $3.5 million and our accounts payable and accrued expenses and deferred revenue decreased by $1.1 million and $1.0 million, respectively.
+
+Cash Flows from Investing Activities
+
+Net cash used in investing activities in fiscal 2024 was $2.2 million and related to the exercise of the Monogram Warrant for cash in the amount of $1,250,000 (See Note 4 to the consolidated financial statements contained elsewhere in this report) as well as equipment and improvements purchases in the amount of $983,000.
+
+Net cash used in investing activities in fiscal 2023 was $885,000. During the 2023 fiscal year, we made capital expenditures in the amount of $974,000 primarily for the Franklin Property and we received proceeds of $89,000 from the sales of marketable equity securities.
+
+Cash Flows from Financing Activities
+
+Net cash used in financing activities for fiscal 2024 totaled $4.3 million and related primarily to the $3.5 million repurchase of 184,901 shares of our common stock pursuant to our share repurchase program, as well as $816,000 of net principal payments related to our various loans from MBT more fully described in Note 7 to the consolidated financial statements contained elsewhere in this report.
+
+Net cash used in financing activities for fiscal 2023 totaled $2.5 million and included $809,000 in net principal payments of various notes payable to MBT, and $1.5 million related to the repurchase of 86,422 shares of our common stock pursuant to our share repurchase program, as well as payment of $223,000 of employee payroll taxes related to the award of 37,500 shares of common stock to employees under previously granted performance awards.
+
+Liquidity Requirements for the Next 12 Months
+
+As of June 30, 2024, our working capital was $23.7 million. We currently believe that our existing cash and cash equivalent balances, together with our account receivable balances, and anticipated cash flows from operations will provide us sufficient funds to satisfy our cash requirements as our business is currently conducted for at least the next 12 months. In addition to our cash and cash equivalent balances, we expect to derive a portion of our liquidity from our cash flows from operations. We may also liquidate some or all of our investment portfolio or borrow against our revolving loan with MBT (See Notes 7 and 14 to consolidated financial statements contained elsewhere in this report), under which we had availability of $4.0 million as of June 30, 2024.
+
+We are focused on preserving our cash balances by monitoring expenses, identifying cost savings, and investing only in those development programs and products that we believe will most likely contribute to our profitability. As we execute our current strategy, however, we may require debt and/or equity capital to fund our working capital needs and requirements for capital equipment to support our manufacturing and inspection processes. In particular, we have experienced negative operating cash flow in the past, especially as we procure long-lead time materials to satisfy our backlog, which can be subject to extensive variability. We believe that if we need additional capital to fund our operations, we can borrow against our revolving loan with MBT.
+
+Surplus Capital Investment Policy
+
+During fiscal 2013, our Board approved a Surplus Capital Investment Policy (the “Policy”) that provides, among other items, for the following:
+
+The Investment Committee is comprised of Messrs. Swenson (Chair), Cabillot, and Van Kirk. Both Mr. Cabillot and Mr. Swenson are active investors with extensive portfolio management expertise. We leverage the experience of these committee members to make investment decisions for the investment of our surplus operating capital or borrowed funds. Additionally, many of our securities holdings include stocks of public companies that either Messrs. Swenson or Cabillot or both may own from time to time either individually or through the investment funds that they manage, or other companies whose boards they sit on. The Investment Committee approved each of the investments comprising the $5.8 million of investments in marketable public equity securities held at June 30, 2024, which amount includes unrealized holding gains in the amount of $3.1 million at June 30, 2024.
+
+In December 2019, our Board approved a new share repurchase program authorizing us to repurchase up to one million shares of our common stock, as the prior repurchase plan, authorized by our Board in 2013, authorizing the repurchase of 750,000 shares of common stock was nearing completion. In accordance with, and as part of, these share repurchase programs, our Board has approved the adoption of several prearranged share repurchase plans intended to qualify for the safe harbor Rule 10b5-1 under the Exchange Act (“10b5-1 Plan” or “Plan”).
+
+During the fiscal year ended June 30, 2024, we repurchased 184,901 shares at an aggregate cost, inclusive of fees under the Plan, of $3.5 million. During the fiscal year ended June 30, 2023, we repurchased 86,422 shares at an aggregate cost, inclusive of fees under the Plan, of $1.5 million. On a cumulative basis, since 2013 we have repurchased a total of 1,381,349 shares under the share repurchase programs at an aggregate cost, inclusive of fees under the Plan, of $20.7 million. All repurchases under the 10b5-1 Plans were administered through an independent broker.
+
+|

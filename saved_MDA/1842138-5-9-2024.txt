@@ -1,0 +1,67 @@
+. Management’s Discussion and Analysis of our Financial Conditions and Results of Operations.
+
+Introduction
+
+We were incorporated on November 18, 2020 under the laws of the State of Wyoming.
+
+Results of Operations for Fiscal 2024
+
+From August 1, 2023 to our fiscal year end of July 31, 2024, we did not earn any revenue. During the fiscal Year Ended July 31, 2024, we incurred net loss of $129,123 consisting entirely of general and administrative fees.
+
+We have not attained profitable operations and are dependent upon obtaining financing to complete our proposed business plan. For these reasons our auditors believe that there is substantial doubt that we will be able to continue as a going concern.
+
+Our financial statements have been prepared assuming that we will continue as a going concern and, accordingly, do not include adjustments relating to the recoverability and realization of assets and classification of liabilities that might be necessary should we be unable to continue in operation.
+
+Material Definitive Agreement with NextFind AI On June 18, 2024, WarpSpeed Taxi, Inc. entered into a Material Definitive Agreement with Shafiq Rahman and Syed Rahman, doing business as Arcgen Consultants under the commercial name NextFind AI. This agreement establishes the terms for a joint venture to focus on the development 
+
+and distribution of AI-based products and services. As part of this agreement, WarpSpeed Taxi, Inc. has agreed to a corporate name change to NextFind AI, which will occur within 60 days after the completion of due diligence and the formal execution of the joint venture. Additionally, WarpSpeed will issue 15,000,000 shares to the principals of Arcgen and will take responsibility for funding the development efforts within this joint venture.
+
+Loan Provided by Corporate Secretary: Subsequent to the year ended July 31, 2024, the Corporate Secretary, Richard Specht, provided a total of $3,700 to WarpSpeed Taxi, Inc. The loan is non-interest bearing and does not have fixed terms of repayment. As this transaction involves a company officer, it is considered a related party transaction.
+
+Liquidity and Capital Resources
+
+As of July 31, 2024, our current assets consisted of $39 in cash and $15,000 in prepayments and deposits and our total liabilities were $81,265. We expect we will require additional capital to meet our long-term operating requirements. We expect to raise additional capital through, among other methods, the sale of equity or debt securities.
+
+Cash Flows from Operating Activities
+
+We have not generated positive cash flows from operating activities. For the fiscal year ended July 31, 2024, net cash flow used in operating activities was ($82,810) consisting of our net loss of ($129,123), which was offset by the non-cash portion of our accounts payable of $46,313.
+
+Cash Flows from Investing Activities
+
+For the fiscal year ended July 31, 2024, we used ($22,167) in investment activities consisting of a software development costs relating to the WarpSpeed Taxi computer application.
+
+Cash Flows from Financing Activities
+
+We have financed our operations exclusively through the sale of our common stock. For the fiscal Year Ended July 31, 2024, we did not engage in any financing activities.
+
+We have not attained profitable operations and are dependent upon obtaining financing to pursue exploration activities. For these reasons, there is substantial doubt that we will be able to continue as a going concern
+
+Since our incorporation, we have financed our operations through proceeds from the sale of our common stock. We expect to finance operations through the sale of equity for the foreseeable future, as we do not receive significant revenue from our business operations. There is no guarantee that we will be successful in arranging financing on acceptable terms.
+
+Our ability to raise additional capital is affected by trends and uncertainties beyond our control. We do not currently have any arrangements for financing and we may not be able to find such financing if required. Obtaining additional financing would be subject to a number of factors, including investor sentiment. Market factors may make the timing, amount, terms or conditions of additional financing unavailable to us.
+
+Our auditors are of the opinion that our continuation as a going concern is in doubt. Our continuation as a going concern is dependent upon continued financial support from our shareholders and other related parties.
+
+Critical Accounting Policies
+
+Our discussion and analysis of its financial condition and results of operations are based upon our financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States of America.
+
+Off-Balance Sheet Arrangements
+
+As of the date of this annual report, we do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors.
+
+Use of Estimates
+
+The preparation of financial statements in accordance with accounting principles generally accepted in the United States of America requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and disclosure of contingent assets and liabilities. On an on-going basis, we evaluate our estimates and judgments, including those related to revenue recognition, inventories, adequacy of allowances for doubtful accounts, valuation of long-lived assets and goodwill, income taxes, litigation and warranties. We base its estimates on historical and anticipated results and trends and on various other assumptions that we believe are reasonable under the circumstances, including assumptions as to future events. The policies discussed below are considered by management to be critical to an understanding of our financial statements. These estimates form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. By their nature, estimates are subject to an inherent degree of uncertainty. Actual results may differ from those estimates.
+
+Property and Equipment
+
+Property and equipment are recorded at cost. Depreciation of property and equipment are accounted for by accelerated methods over the following estimated useful lives:
+
+Evaluation of Long-Lived Assets
+
+We review property and equipment for potential impairment whenever significant events or changes in circumstances indicate the carrying value may not be recoverable in accordance with the guidance in ASC 360-15-35 “Impairment or Disposal of Long-Lived Assets”. An impairment exists when the carrying amount of the long-lived assets is not recoverable and exceeds its fair value. The carrying amount of a long-lived asset is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual disposition of the asset. If an impairment exists, the resulting write-down would be the difference between the fair market value of the long-lived asset and the related net book value.
+
+Income Taxes
+
+Deferred income tax assets or liabilities are computed based on the temporary differences between the financial statement and income tax bases of assets and liabilities using the statutory marginal income tax rate in effect for the years in which the differences are expected to reverse. Deferred income tax expenses or credits are based on the changes in the deferred income tax assets or liabilities from period to period. A valuation allowance against deferred tax assets is required if, based on the weight of available evidence, it is more likely than not that some portion or all of the deferred tax assets will not be realized. The valuation allowance should be sufficient to reduce the deferred tax asset to the amount that is more likely than not to be realized.

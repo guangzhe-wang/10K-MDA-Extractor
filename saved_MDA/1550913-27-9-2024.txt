@@ -1,0 +1,297 @@
+. | 
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+---|--- 
+
+Statements by MacKenzie Realty Capital, Inc., together with its subsidiaries as discussed in Note 1 of the financial statements included in this report (collectively, the “Company,” “we,” or “us”) contained herein, other than historical facts, may constitute “forward-looking statements.” These statements may relate to, among other things, future events or our future performance or financial condition. In some cases, stockholders can identify forward-looking statements by terminology such as “may,” “might,” “believe,” “will,” “provided,” “anticipate,” “future,” “could,” “growth,” “plan,“ “intend,” “expect,” “should,” “would,” “if,” “seek,” “possible,” “potential,” “likely” or the negative of such terms or comparable terminology. These forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, levels of activity, performance or achievements to be materially different from any anticipated results, levels of activity, performance or achievements expressed or implied by such forward-looking statements. An economic downturn could impair our ability to continue to operate, which could lead to the loss of some or all of our investments, a contraction of available credit and/or an inability to access the equity markets could impair our lending and investment activities, and interest rate volatility could adversely affect our results, particularly if we elect to use leverage as a part of our investment strategy.
+
+Further, we may experience fluctuations in our operating results due to a number of factors, including the effect of the return on our equity investments, the interest rates payable on our debt investments, the default rates on such investments, the level of our expenses, variations in and the timing of the recognition of realized and unrealized gains or losses, the degree to which we encounter competition in our markets and general economic conditions. As a result of these factors, results for any period should not be relied upon as being indicative of performance in future periods.
+
+For a discussion of additional factors that could cause our actual results to differ from forward-looking statements contained herein, please see the discussion under the heading “Risk Factors” above in Item 1A of this report.
+
+Overview
+
+Historically, we were an externally managed non-diversified closed-end management investment company that elected to be treated as a BDC under the 1940 Act, but we withdrew our election to be treated as a BDC on December 31, 2020. Our objective remains to generate both current income and capital appreciation through real estate-related investments. We have elected to be treated as a REIT under the Code and, as a REIT, we are not subject to federal income taxes on amounts that we distribute to the stockholders, provided that, on an annual basis, we generally distribute at least 90% of our REIT taxable income (determined without regard to the dividends paid deduction and excluding any net capital gain) to stockholders and meet certain other conditions. To the extent that we satisfy the annual distribution requirement but distribute less than 100% of our REIT taxable income, we will be subject to U.S. federal corporate income tax on our undistributed REIT taxable income. In addition, we will be subject to a 4% nondeductible excise tax if the actual amount that we pay to our stockholders in a calendar year is less than a minimum amount specified under U.S. federal tax laws. Our wholly owned subsidiary, MacKenzie NY Real Estate 2 Corp. (“MacKenzie NY 2”), Inc. is subject to corporate federal and state income tax on its taxable income at regular statutory rates.
+
+We are managed by the Advisers, and MacKenzie provides the non-investment management services and administrative services necessary for us to operate.
+
+Investment Plan
+
+We generally seek to invest in real estate assets. We intend to invest at least 80% of our total assets in equity or debt in real estate assets. We can invest up to 20% of our total assets in investment securities of real estate companies. A real estate company is one that (i) derives at least 50% of its revenue from the ownership, construction, financing, management or sale of commercial, industrial or residential real estate and land; or (ii) has at least 50% of its assets invested in such real estate. We will not invest in general partnerships, joint ventures, or other entities that do not afford limited liability to their security holders. However, limited liability entities in which we invest may hold interests in general partnerships, joint ventures, or other non-limited liability entities. When purchasing securities, we generally favor purchasing securities issued by entities that have (i) completed the initial offering of their securities, (ii) operated for a period of at least two years, and typically more than five years, from the completion of their initial offering, and (iii) fully invested their capital in real properties or other real estate related investments.
+
+Our investment objective is to generate current income and capital appreciation through the acquisition of real estate assets and debt and equity real estate-related investments. Our independent directors review our investment policies periodically, at least annually, to confirm that our policies are in the best interests of our stockholders. Each such determination and the basis thereof are contained in the minutes of our Board of Directors meetings.
+
+We seek to accomplish our objective by rigorously analyzing the value of and risks associated with potential acquisitions, and, for up to 20% of our total assets, by acquiring real estate securities at significant discounts to their net asset value.
+
+We intend to expand our investment strategy to include acquisition of distressed real properties. Like our other investments, we would expect to hold distressed properties and infuse funds as necessary to extract unrealized value.
+
+We will engage in various investment strategies to achieve our overall investment objectives. The strategy we select depends upon, among other things, market opportunities, the skills and experience of the Advisers’ investment team and our overall portfolio composition. We generally seek to acquire assets that produce ongoing distributable income for investors, yet with a primary focus on purchasing such assets at a discount from what the Advisers estimate to be the actual or potential value of the real estate.
+
+We intend to continue our historical activities related to launching tender offers to purchase shares of non-traded REITs in order to boost our short-term cash flow and to support our distributions, subject to the constraint that such securities will not exceed 20% of our portfolio. We believe this niche strategy will allow us to pay distributions that are supported by cash flow rather than paying back investors’ capital, although there can be no assurance that some portion of any distribution is not a return of capital.
+
+Rental and Reimbursement
+
+We generate rental revenue by leasing office space and apartment units to a building’s tenants. These tenant leases fall under the scope of Accounting Standards Codification (“ASC”) Topic 842 and are classified as operating leases. Revenues from such leases are recognized on a straight-line basis over the terms of the lease agreements.
+
+Investment Income
+
+We generate revenues in the form of operating income, capital gains and dividends on dividend-paying equity securities or other equity interests that we acquire, in addition to interest on any debt investments that we hold. Further, we may generate revenue in the form of commitment, origination, structuring or diligence fees, monitoring fees, fees for providing managerial assistance and possibly consulting fees and performance-based fees. Any such fees are generated in connection with our investments and recognized as earned.
+
+Expenses
+
+Our primary operating expenses include the payment of: (i) advisory fees to our Advisers; (ii) our allocable portion of overhead and other expenses incurred by MacKenzie in performing its obligations under the Administration Agreement; and (iii) other operating expenses as detailed below. Our investment advisory fees compensate our Investment Adviser and Real Estate Adviser for their work in identifying, evaluating, negotiating, closing, monitoring and servicing our investments. Our expenses must be billed to and paid by us, except that MacKenzie may be reimbursed for actual cost of goods and services used by us and certain necessary administrative expenses. We will bear all other expenses of our operations and transactions, including:
+
+Portfolio Investment Composition
+
+As of June 30, 2024, we owned various real estate limited partnerships and REITs that are listed in the “Investments, at fair value” in the table below. We also owned various investments in entities that own real estate which gave us enough control such that the investments are not securities for 1940 Act purposes, but not enough to consolidate the financial statements of such entities with our own; these are listed below as “Unconsolidated investments (non-securities), at fair value.” The following table summarizes the composition of our investments at fair value as of June 30, 2024 and 2023:
+
+Properties
+
+In addition to our investment securities, we currently own and manage eight commercial real estate properties: Satellite Place located in Duluth, GA, 1300 Main, First & Main and Main Street West located in Napa, CA, Woodland Corporate Center located in Woodland, CA, 220 Campus Lane and Green Valley Executive Center located in Fairfield, CA and One Harbor Center located in Suisun, CA and four residential apartments: Commodore Apartments and The Park View (f/k/a as Pon De Leo Apartments), located in Oakland, CA, Hollywood Apartments located in Los Angeles, CA, and the Shoreline Apartments in Concord, CA. 1300 Main, First & Main, Main Street West, Woodland Corporate Center, and the Hollywood Apartments are owned through our subsidiary, the Operating Partnership; the Commodore Apartments are owned through our subsidiary Madison; The Park View (f/k/a as Pon De Leo Apartments) are owned through our subsidiary PVT; and the Shoreline Apartments are owned through our subsidiary BAA-Shoreline. In August 2024, we have listed Hollywood Apartments for sale.
+
+1300 Main Office Building contains 20,145 square feet, of which approximately 13,900 square feet is office space and the remainder is designated as retail space. As of June 30, 2024, the property is 95% occupied by 7 tenants. The following table shows the largest tenants and square footage occupied:
+
+The following information pertains to lease expirations at 1300 Main Office Building:
+
+First and Main Office Building contains 27,396 square feet, of which approximately 19,000 square feet is office space and the remainder is designated as retail space. As of June 30, 2024, the property is 100% occupied by 9 tenants. The following table shows the largest tenants and square footage occupied:
+
+The following information pertains to lease expirations at First & Main Office Building:
+
+Main Street West Office Building contains 38,136 square feet, of which approximately 32,700 square feet is office space and the remainder is designated as retail space. As of June 30, 2024, the property is 89% occupied by 8 tenants. The following table shows the largest tenants and square footage occupied:
+
+The following information pertains to lease expirations at Main Street West Office Building:
+
+Satellite Place Office Building contains 134,785 square feet, all of which is office space. As of June 30, 2024, the property is approximately 71% occupied by 4 tenants. The following table shows the largest tenants and square footage occupied:
+
+The following information pertains to lease expirations at Satellite Place Office Building:
+
+Woodland Corporate Center contains 37,034 square feet, of which 7,797 square feet are laboratories and the rest is office space. All of the laboratories space is occupied by Agtech Innovation. As of June 30, 2024, the property is 100% occupied by 14 tenants. The following table shows the largest tenants and square footage occupied:
+
+The following information pertains to lease expirations at Woodland Corporate Center:
+
+Green Valley Executive Center contains 46,101 square feet, of which approximately 41,600 square feet is office space and the remainder is designated as retail space. As of June 30, 2024, the property is 100% occupied by 17 tenants. The following table shows the largest tenants and square footage occupied:
+
+The following information pertains to lease expirations at Green Valley Executive Center: 
+
+One Harbor Center Office Building contains 49,569 square feet, all of which is office space. As of June 30, 2024, the property is 93% occupied by 13 tenants. The following table shows the largest tenants and square footage occupied:
+
+The following information pertains to lease expirations at One Harbor Center Office Building: 
+
+Commodore Apartments is a mid-rise apartment building built in 1912 and has 48 units. As of June 30, 2024, Commodore Apartment building is approximately 87.5% occupied. The Park View is also a mid-rise apartment building built in 1929 and has 39 units. As of June 30, 2024, The Park View building is approximately 92.3% occupied. Hollywood Apartments, located in Los Angeles, CA, is a mid-rise apartment building built in 1917 and has 54 units. The property contains approximately 37,000 square feet of net rentable apartment area and 8,610 square feet of retail space. All of the retail space is currently occupied by restaurants and nightclubs. The apartment units are 88.9% occupied as of June 30, 2024. Shoreline Apartments is a mid-rise apartment building built in 1967 and renovated in 2015 which has 84 units. As of June 30, 2024, Shoreline Apartments building is approximately 88.1% occupied.
+
+The following table provides information regarding each of the residential properties:
+
+Our 220 Campus Lane Office building was purchased in September 2023. The office building was vacant at the time of our purchase. Currently we are in the process of renovating the building and marketing it for lease. As of June 30, 2024, one tenant is occupying 7,166 square feet or 16.6% of the building. Annualized base rent for this tenant is $249,000.
+
+In addition to our commercial and residential real estate properties, we also own two parcels of land: a vacant parcel adjacent to our 220 Campus Lane Office Building in Fairfield, California (“Campus Lane Land”), and a vacant parcel located at 5000 Wiseman Way, Fairfield, California (“Aurora Land”). We acquired the Campus Lane Land in September 2023 with the long-term objective of developing it into a multi-family residential community. The entitlement process for the vacant land is currently underway, but the financial resources to realize our goal of commencing construction in late 2025 have not been secured and will be dependent upon the City’s response to our development application that was submitted in April 2024. The development of Aurora Land is discussed below. Both parcels of land are owned by the Operating Partnership through its subsidiaries: Campus Lane Residential, LLC, and MRC Aurora, LLC.
+
+Aurora Land Development (known as Aurora at Green Valley)
+
+We have begun to build a multi-family residential community on this land which will include 72 units and a club house. The city’s planning commission approved our development project in September 2023, and we obtained all necessary building permits in August 2024. In February 2024, we commenced selling preferred units in MRC Aurora with the goal of raising $10 million in preferred capital and closed on a construction loan of $17.15 million. We commenced the site preparation and grading work in April 2024 and the building construction will begin in September 2024.
+
+There are no present plans for any major renovation or development of any property except for our 220 Campus Lane Office Building, Aurora at Green Valley and Campus Lane Land as discussed above. Each property is being held for income production and increased occupancy and/or rental rates. We have property and liability insurance policies on all properties which we believe are adequate.
+
+Current Market and Economic Conditions
+
+The markets in which our properties operate are highly competitive, and each property faces unique competitive challenges based upon local economic, political, and legal factors. Our West coast multi-family residential properties are generally restricted from raising rents significantly by local rent control laws. Rent control can result in average rents that are significantly below market, and this provides some buffer against declining rents in a recession. However, in order to encourage development, rent control usually does not apply to newer properties. Since older properties may be unable to raise rents as needed, they may be unable to make improvements that could allow them to compete with newer properties.
+
+Our consolidated office properties, 1300 Main, First and Main, Main Street West, One Harbor Center, Satellite Place, Woodland Corporate Center, 220 Campus Lane, and Green Valley Executive Center are all Class A suburban office properties and are located in Napa, Woodland, Suisun City and Fairfield, California and Duluth, Georgia. All properties must compete with every other office property in the market, as well as facing the uncertainty of workers returning to the office after COVID-19.
+
+Recently, the broader economy began experiencing increased levels of inflation, higher interest rates and tightening monetary and fiscal policies, although inflation has now moderated and interest rates have begun to come back down some. The Federal Reserve increased the federal funds rate multiple times in 2022 and 2023. We currently have fixed and variable interest rates for our loans. The rise in overall interest rates has caused an increase in our variable rate borrowing costs resulting in an increase in interest expense. The higher interest rates imposed by the Federal Reserve to address inflation may also adversely impact real estate asset values. In addition, a prolonged period of high and persistent inflation could cause an increase in our expenses. The current market and economic conditions could have a material impact on our business, cash flow and results of operations. It could also impact our ability to find suitable acquisitions, sell properties, and raise equity and debt capital.
+
+Results of Operations
+
+Comparison of the Fiscal Years Ended June 30, 2024 (“Fiscal 2024”) and June 30, 2023 (“Fiscal 2023”). The commercial and residential properties owned by us during Fiscal 2024 and 2023 are as follows:
+
+Rental and reimbursements revenues:
+
+Rental and reimbursement revenues are generated from our commercial and residential real estate properties. During the year ended June 30, 2024, we generated $15.74 million in rental and reimbursements revenues, of which $9.82 million was generated from our eight commercial properties and $5.92 million was generated from our four residential properties. During the year ended June 30, 2023, we generated $15.11 million in rental and reimbursements revenues, of which $9.10 million was generated from our six commercial properties and $6.01 million was generated from our four residential properties. The total increase in rental revenues was mainly due to the acquisition of three office buildings since June 2023 partly offset by the disposal of Addison Corporate Center in June 2023.
+
+Investment income:
+
+Investment income was made up of dividends, distributions from operations, distributions from sales/capital transactions, interest, and other investment income. Total investment income for the years ended June 30, 2024 and 2023 was $0.85 million and $11.31 million, respectively. During the year ended June 30, 2024, we received dividends, interest, and other investment income of $0.58 million as compared to $0.49 million received during the year ended June 30, 2023. This increase was mainly due to increase in interest income from our cash deposits in money market funds during the year ended June 30, 2024. During the year ended June 30, 2024 we received $0.27 million of distributions from operations, sales, and liquidations as compared to $10.82 million during the year ended June 30, 2023. The decrease was mainly due to the liquidation of Dimension 28, LP in December 2022, which had provided $10.08 of sales distributions during the year ended June 30, 2023. The remaining decrease was due to the decrease in our investment portfolio since June 30, 2023.
+
+Other income:
+
+There was no other income or loss during the year ended June 30, 2024. During the year ended June 30, 2023, we recognized net other income of $14.49 million, of which $14.84 million was gain on extinguishment of debt income resulting from the sale of Addison Property Owner offset by $0.35 million of loss on disposal of real estate of Addison Corporate Center.
+
+Expenses:
+
+Our asset management and incentive management fees are based on the advisory agreements that were effective January 1, 2021.
+
+Asset management fee:
+
+The asset management fees for the years ended June 30, 2024 and 2023 were $3.22 million and $3.00 million, respectively. The slight increase was due to total increase of $16.52 in total invested capital from $162.31 million as of June 30, 2023 to $178.83 million as of June 30, 2024.
+
+Incentive management fee:
+
+Under the Advisory Management Agreement, we pay an incentive management fee that is equal to 15% of all distributions once shareholders have received cumulative distributions equal to 6% from the effective date of the Agreement. We did not incur any incentive management fee for the years ended June 30, 2024 and 2023.
+
+Administrative cost and transfer agent reimbursements:
+
+Costs reimbursed to MacKenzie for the year ended June 30, 2024 were $0.76 million as compared to $0.73 million for the year ended June 30, 2023. The slight increase was due to an increase in the allocable portion of overhead and other expenses incurred by MacKenzie in comparison to June 30, 2023, as a result of the increase in the number of real estate assets owned by us since June 2023.
+
+Transfer agent cost reimbursements paid to MacKenzie for the years ended June 30, 2024 and 2023 were $0.07 million and $0.09 million, respectively.
+
+Property operating and maintenance expenses:
+
+Operating and maintenance expenses mainly consist of real estate taxes, utilities, repair and maintenance, cleaning, landscape, security, property management fees, insurance, and various other administrative expenses incurred in the operation of our commercial and residential real estate assets. During the year ended June 30, 2024, we incurred operating and maintenance expenses of $6.52 million, of which $3.78 million were incurred in the operation of our eight commercial properties and $2.74 million were incurred in the operation of our four residential properties. During the year ended June 30, 2023, we incurred operating and maintenance expenses of $9.03 million, of which $6.51 million were incurred in the operation of our six commercial properties and $2.52 million were incurred in the operation of our four residential properties. The decrease in the operating expenses was mainly due to the sale of Addison Property in June 2023 partly offset by the acquisitions of three new office buildings (220 Campus Lane Office Building, Green Valley Executive Center and One Harbor Center Office Building) since June 30, 2023.
+
+Depreciation and amortization:
+
+During the year ended June 30, 2024, we recorded depreciation and amortization of $7.15 million, of which $4.98 million was attributable to the depreciation and amortization of real estate and intangible assets of our eight commercial properties and $2.17 million was attributable to our four residential properties. During the year ended June 30, 2023, we recorded depreciation and amortization of $5.27 million, of which $3.01 million was attributable to the depreciation and amortization of real estate and intangible assets of our five commercial properties, which exclude Addison Corporate Center as it was held for sale and not depreciated, and $2.26 million was attributable to our four residential properties. The increase in total depreciation and amortization of $1.88 million during the year ended June 30, 2024 was due to the acquisitions of three new office buildings (220 Campus Lane Office Building, Green Valley Executive Center and One Harbor Center Office Building) since June 30, 2023.
+
+Interest expense:
+
+Interest expense for the year ended June 30, 2024 was $6.12 million, of which $3.12 million was incurred on the mortgage notes payable associated with our four residential properties and the loan on Campus Lane Residential and $3.00 million was incurred on the mortgage notes payable associated with our seven commercial properties, which exclude Satellite Place Office Building since there is no debt on the property. Interest expense for the year ended June 30, 2023 was $7.10 million, of which $4.14 million was incurred on the mortgage notes payable associated with our five commercial properties, excluding Satellite Place Office Building and $2.96 million was incurred on the mortgage notes payable associated with our four residential properties. The total decrease of $0.98 million in interest expense during year ended June 30, 2024, was primarily due to the settlement of the Addison Property Owner debt after the sale of Addison Corporate Center in June 2023.
+
+Other operating expenses:
+
+Other operating expenses include professional fees, directors’ fees, printing and mailing expense, and other general and administrative expenses. Other operating expenses for the years ended June 30, 2024 and 2023, were $1.80 million and $1.63 million, respectively. The increase in other operating expenses was mainly due to the acquisition of three commercial properties (220 Campus Lane Office Building, Green Valley Executive Center and One Harbor Center Office Building) since June 30, 2023 resulting in a higher amount of general and administrative operating expenses during the year ended June 30, 2024.
+
+Net realized gain (loss) on sale of investments:
+
+During the year ended June 30, 2024, we recorded a net realized loss of $3.02 million as compared to $0.66 million net realized gain during the year ended June 30, 2023. Total net realized loss for the year ended June 30, 2024, was realized from the write-off of two limited partnership interests (BP3 Affiliate, LLC and Capitol Hill Partners, LLC) with a realized loss of $3.06 million offset by the sale of four non-traded REIT securities with a net realized gain of $0.04 million. The total net realized gain for the year ended June 30, 2023, was realized from the sale of three limited partnership interest with net realized gain of $0.43, nine non-traded REIT securities with net realized gain of $0.17 million, one investment trust with net realized gain of $0.05 million, and one publicly traded REIT securities with total realized gains of $0.01 million.
+
+Net unrealized gain (loss) on investments:
+
+During the year ended June 30, 2024, we recorded a net unrealized gain of $0.86 million, which was net of a $2.32 million unrealized loss reclassification adjustments. The reclassification adjustments are the accumulated unrealized gains or losses as of the end of the prior period that are realized during the current period. Accordingly, the net unrealized loss excluding the reclassification adjustment for the year ended June 30, 2024 was $1.46 million, which resulted from fair value depreciations of $1.06 million from non-traded REIT securities, $0.36 million from general partnership interests and $0.04 million from limited partnership interest.
+
+During the year ended June 30, 2023, we recorded a net unrealized loss of $10.28 million, which was net of a $8.30 million unrealized gain reclassification adjustments. The reclassification adjustments are the accumulated unrealized gains or losses as of the end of the prior period that are realized during the current period. Accordingly, the net unrealized loss excluding the reclassification adjustment for the year ended June 30, 2023 was $1.98 million, which resulted from fair value depreciations of $1.80 million from non-traded REIT securities and $0.67 million from limited partnership interests, offset by a net fair value appreciation of $0.49 million from general partnership interests.
+
+Income tax provision (benefit):
+
+The Parent Company has elected to be treated as a REIT for tax purposes under the Code and, as a REIT, is not subject to federal income taxes on amounts that it distributes to the stockholders, provided that, on an annual basis, it generally distributes at least 90% of its REIT taxable income (determined without regard to the dividends paid deduction and excluding any capital gain) to the stockholders and meets certain other conditions. To the extent that it satisfies the annual distribution requirement but distributes less than 100% of its REIT taxable income, it will be subject to U.S. federal corporate income tax on its undistributed taxable income. In addition, it will be subject to a 4% excise tax if the actual amount that it pays to its stockholders in a calendar year is less than a minimum amount specified under U.S. federal tax laws.
+
+The Parent Company satisfied the annual dividend payment and other REIT requirements for the tax year ended December 31, 2023. Therefore, it did not incur any tax expense or excise tax on its income from operations during the quarterly periods within the tax year 2023. In addition, for the tax year 2024, we intend to pay the requisite amounts of dividends during the year and meet other REIT requirements such that the Parent Company will not owe any income taxes. Therefore, the Parent Company did not record any income tax provisions during any fiscal periods within the tax year 2024.
+
+MacKenzie NY 2 is subject to corporate federal and state income tax on its taxable income at regular statutory rates. As of June 30, 2024, it did not have any taxable income for tax year 2023 and 2024\. Therefore, we did not record any tax provisions during any fiscal periods within the tax year 2023 and 2024. MacKenzie Satellite is a qualified REIT subsidiary of the Parent Company. Therefore, it does not file a separate tax return.
+
+The Operating Partnership is a limited partnership. Hollywood Hillview, MacKenzie Shoreline, Madison, PVT, 220 Campus Lane, Campus Lane Residential, GV Executive Center and One Harbor Center are limited liability companies. First & Main, 1300 Main, Woodland Corporate Center Two, and Main Street West are limited partnerships. Accordingly, all income tax liabilities of these entities flow through to their partners, which ultimately is the Company. Therefore, no income tax provisions are recorded for these entities.
+
+Liquidity and Capital Resources
+
+Capital Resources:
+
+We offered to sell up to 5 million shares of common stock in our first public offering and up to 15 million shares of common stock in each of our second and third public offerings. We have raised total gross proceeds of $119.10 million from the issuance of common stock under the three public offerings, $42.46 million from our first public offering, which concluded in October 2016, $67.99 million from the second public offering, which concluded in October 2019, and $8.65 million from our third public offering, which concluded in October 2020. In addition, we have raised $15.56 million from the issuance of common shares under the DRIP as of June 30, 2024. Out of the total proceeds from DRIP, we have utilized a total of $14.28 million to repurchase common shares under the Share Repurchase Program. In November 2021, the SEC qualified our Offering Circular pursuant to Regulation A to sell up to $50,000,000 of shares of our Series A preferred stock at an initial offering price of $25.00 per share. On October 14, 2022, we amended our Offering Circular and increased the offering to sell up to $75 million of shares of our Series A preferred stock. On November 1, 2023, we further amended our Offering Circular to sell an aggregate of up to $75 million of shares of either our Series A preferred stock or our Series B preferred stock. This post-effective amendment to the Offering Circular was declared effective on November 14, 2023. We had raised $18.51 million through the sale of our Series A preferred stock and $1.26 million Series B preferred stock pursuant to the Offering Circular as of June 30, 2024. In addition, we have raised $0.25 million from the issuance of Series A and Series B preferred shares under the DRIP. We plan to fund future investments with the net proceeds raised from our preferred equity offering and any future offerings of securities and cash flows from operations, as well as interest earned from the temporary investment of cash in U.S. government securities and other high-quality debt investments that mature in one year or less. We also may fund a portion of our investments through borrowings from banks and issuances of senior securities. We also may borrow money within the underlying companies in which we have majority ownership. In addition, from time to time, we may draw on the Company’s margin line of credit on a temporary basis to bridge our investment purchases and sales or capital raising. Additional information concerning our margin borrowing activity is discussed in Note 9 - Margin Loans in the financial statements included in this report.
+
+We intend to utilize leverage to enhance the total returns of our portfolio. Historically, we were only able to access leverage at attractive costs through a credit facility, but the termination of our BDC status effective December 31, 2020 has provided us with greater flexibility in choosing among different alternatives for raising debt capital going forward.
+
+We also have greater flexibility in issuing securities with common equity participation features (such as warrants and convertible notes) and/or additional classes of stock (such as preferred) in order to facilitate capital formation now that we are no longer subject to the restrictions of the 1940 Act.
+
+Our aggregate borrowings (if any), secured and unsecured, are expected to be reasonable in relation to our net assets and will be reviewed by the Board of Directors at least quarterly.
+
+We used the funds raised from our public offerings to invest in portfolio companies and to pay operating expenses.
+
+We finished the year ended June 30, 2024, with cash and cash equivalents, and restricted cash of approximately $13.08 million. Our principal demands for cash are to fund operating and administrative expenses, debt service obligations, and dividends on our common and preferred Series A and B stocks. In addition, we may also use cash to purchase additional properties. We expect to fund our material cash requirements over the next year through a combination of cash on hand, net cash provided by our property operations, new capital raised from our preferred series A and B stocks, and new borrowings at the underlying companies and at the Parent Company level under a new line of credit.
+
+Cash Flows:
+
+Fiscal 2024:
+
+For the year ended June 30, 2024, we experienced a net decrease in cash of $5.06 million. During this year, we used cash of $0.59 million in our operating activities, $1.30 million in our investing activities and $3.17 million in our financing activities.
+
+The net cash outflow of $0.59 million from operating activities resulted from $16.73 million of cash used in operating expenses offset by cash inflow of $15.28 million of rental revenues and $0.86 million of investment income.
+
+The net cash outflow of $1.30 million from investing activities resulted from $10.23 million real estate acquisitions through our subsidiaries, $1.51 million payment on the contingent liability and $1.06 million purchases of equity investments, offset by $10.56 million sale of investments and $0.94 million distributions received from our investments that are considered return of capital.
+
+The net cash outflow of $3.17 million from financing activities resulted from $5.18 million payments of dividends, $1.40 million redemption of common stock, $1.35 million payments on existing mortgage notes payables, $0.90 million payments of syndication costs, $0.89 million payments of dividends of Series A preferred stockholders, $0.88 million payment of loan extension fee, $0.83 million capital distribution to non-controlling interest holders, $0.37 million payment on note payable, $0.34 million acquisition of below market debt, $0.24 million capital pending acceptance, $0.10 million repayments of finance lease liabilities and $0.08 million redemption of Series A preferred stock, offset by $3.29 million additional mortgage borrowings, $2.53 million capital contributions by non-controlling interests holders, $2.14 million issuance of Series A preferred stock, $1.23 million issuance of Series B preferred stock and $0.20 million proceeds from notes payable.
+
+Fiscal 2023:
+
+For the year ended June 30, 2023, we experienced a net increase in cash of $9.14 million. During this year, we used cash of $6.62 million in our operating activities and generated $15.31 million in our investing activities and $0.45 million in our financing activities.
+
+The net cash outflow of $6.62 million from operating activities resulted from $23.71 million of cash used in operating expenses offset by cash inflow of $15.19 million of rental revenues and $1.90 million of investment income.
+
+The net cash inflow of $15.31 million from investing activities resulted from $15.24 million sale of investments and distributions received from investments, $8.69 million sale of real estate and $12.96 million distributions received from our investments that are considered return of capital, offset by $18.70 million real estate acquisitions through our subsidiaries, $1.62 million purchases of equity investments, $1.16 million payment on the contingent liability and $0.10 million payment of investment acquisition advance.
+
+The net cash inflow of $0.45 million from financing activities resulted from $13.42 million issuance of preferred stock, $3.24 million additional mortgage borrowings, and $0.45 million proceeds from capital pending acceptance, offset by $8.86 million payments on existing mortgage note payables, $4.47 million payments of dividends, $1.59 million redemption of common stock, $1.21 million payments of syndication cost, $0.45 million capital distributions to non-controlling interests holders, $0.03 million redemption of preferred stock, $0.03 million payments of finance lease liabilities, and $0.02 million payment on note payable.
+
+Material Cash Obligations
+
+We have entered into two contracts under which we have material future commitments: (i) the Advisory Management Agreement, under which the Real Estate Adviser serves as our adviser, and (ii) the Administration Agreement, under which MacKenzie furnishes us with certain non-investment management services and administrative services necessary to conduct our day-to-day operations. Each of these agreements is terminable by either party upon proper notice. Payments under the Advisory Management Agreement in future periods will be (i) a percentage of the value of our Invested Capital; (ii) Acquisition Fees, and (iii) incentive fees based on our performance above specified hurdles. Payments under the Administration Agreement will occur on an ongoing basis as expenses are incurred on our behalf by MacKenzie. However, if MacKenzie withdraws as our administrator, it will be liable for any expenses we incur as a result of such withdrawal. For additional information concerning the terms of these agreements and related fees paid, see Note 8 – Related Party Transactions in the consolidated financial statements included in this report.
+
+Borrowings
+
+In August 2024, we have applied for a new line of credit at the Parent Company level. We expect to be subject to various customary covenants and restrictions on our operations, such as covenants which would (i) require us to maintain certain financial ratios, including asset coverage, debt to equity and interest coverage, and a minimum net worth, and/or (ii) restrict our ability to incur liens, additional debt, merge or sell assets, make certain investments and/or distributions or engage in transactions with affiliates. We also borrow money within the underlying companies in which we have majority ownership.
+
+The below table presents the total loan outstanding at the underlying companies as of June 30, 2024 and the fiscal years those loans mature:
+
+Three of our underlying companies: Hollywood Hillview, Woodland Corporate Center Two, and Main Street West’s debts mature during the fiscal year ending June 30, 2025. The $17.5 million note payable on Hollywood Hillview matures in October 2024. We listed the underlying property for sale in August 2024, and we are currently in negotiation with the lender for a short-term extension to allow for the property to be marketed and sold. The $7.5 million note payable on Woodland Corporate Center Two also matures in October 2024, is currently being refinanced through a new loan, which is scheduled to close in October 2024. The $14.89 million note payable on Main Street West matures in November 2024. We are currently in negotiation with the lender to extend the maturity. An appraisal has been ordered by the bank to determine the current value and a modified loan amount. It is likely that a partial principal paydown is required.
+
+Critical Accounting Policies and Estimates
+
+Below is a discussion of the accounting policies and estimates that management considers critical in that they involve significant management judgments and assumptions, require estimates about matters that are inherently uncertain and because they are important for understanding and evaluating our reported financial results. These judgments affect the reported amounts of assets and liabilities and our disclosure of contingent assets and liabilities at the dates of the consolidated financial statements and the reported amounts of revenue and expenses during the reporting periods. With different estimates or assumptions, materially different amounts could be reported in our consolidated financial statements. Additionally, other companies may utilize different estimates that may impact the comparability of our results of operations to those of companies in similar businesses. In addition to the discussion below, our critical accounting policies are discussed in Note 2 of our consolidated financial statements, which are part of this annual report beginning on page F-1.
+
+Real Estate Purchase Price Allocations
+
+In accordance with the guidance for business combinations, upon the acquisition of real estate properties, we evaluate whether the transaction is a business combination or an asset acquisition. If the transaction does not meet the definition of a business combination, we record the assets acquired, the liabilities assumed, and any non-controlling interest as of the acquisition date, measured at their relative fair values. Acquisition-related costs are capitalized in the period incurred and are added to the components of the real estate assets acquired. We assess the acquisition-date fair values of all tangible assets, identifiable intangible assets, and assumed liabilities using methods similar to those used by independent appraisers (e.g., discounted cash flow analysis) and that utilize appropriate discount and/or capitalization rates and available market information. Estimates of future cash flows are based on several factors including historical operating results, known and anticipated trends, and market and economic conditions. The fair value of tangible assets of an acquired property considers the value of the property as if it was vacant. Intangible assets include the value of in-place leases, which represents the estimated fair value of the net cash flows of leases in place at the time of acquisition, as compared to the net cash flows that would have occurred had the property been vacant at the time of acquisition and subject to lease-up. We amortize the value of in-place leases to expense over the remaining non-cancelable term of the respective leases, which is on average five years. Estimates of the fair values of the tangible assets, identifiable intangibles and assumed liabilities require us to make significant assumptions to estimate market lease rates, property operating expenses, carrying costs during lease-up periods, discount rates, market absorption periods, prevailing interest rates, and the number of years the property will be held for investment. The use of inappropriate assumptions could result in an incorrect valuation of acquired tangible assets, identifiable intangible assets, and assumed liabilities, which could impact the amount of our net income (loss). Differences in the amount attributed to the fair value estimate of the various assets acquired can be significant based upon the assumptions made in calculating these estimates.
+
+Fair Value Measurements
+
+GAAP establishes a hierarchical disclosure framework which prioritizes and ranks the level of market price observables used in measuring investments at fair value. Market price is impacted by a number of factors, including the type of investment and the characteristics specific to the investment. Investments with readily available actively quoted prices or for which fair value can be measured from actively quoted prices generally will have a higher degree of market price observables and a lesser degree of judgment used in measuring fair value.
+
+Investments measured and reported at fair value are classified and disclosed in one of the following categories:
+
+Level I – Quoted prices are available in active markets for identical investments as of the reporting date. The type of investments included in Level I are publicly traded equity securities. We do not adjust the quoted price for these investments even in situations where we hold a large position and a sale could reasonably impact the quoted price.
+
+Level II – Price inputs are quoted prices for similar financial instruments in active markets; quoted prices for identical or similar financial instruments in markets that are not active; and model-derived valuations in which all significant inputs or significant value-drivers are observable in active markets. Investments which are generally included in this category are publicly traded equity securities with restrictions.
+
+Level III – Pricing inputs are unobservable and include situations where there is little, if any, market activity for the investment. Fair values for these investments are estimated by management using valuation methodologies that consider a range of factors, including but not limited to the price at which the investment was acquired, the nature of the investment, local market conditions, trading values on public exchanges for comparable securities, current and projected operating performance, financial condition, and financing transactions subsequent to the acquisition of the investment. The inputs into the determination of fair value require significant judgment by management. Due to the inherent uncertainty of these estimates, these values may differ materially from the values that would have been used had an active market for these investments existed.
+
+In certain cases, the inputs used to measure fair value may fall into different levels of the fair value hierarchy. In such cases, an investment’s level within the fair value hierarchy is based on the lowest level of input that is significant to the fair value measurement. Management’s assessment of the significance of a particular input to the fair value measurement, in its entirety, requires judgment and considers factors specific to the investment.
+
+Valuation of Investments:
+
+Our consolidated financial statements include investments that are measured at their estimated fair values in accordance with GAAP. Our valuation procedures are summarized below:
+
+Securities for which market quotations are readily available on an exchange will be valued at such price as of the closing price on the day closest to the valuation date. Where a security is traded but in limited volume, we may instead utilize the weighted average closing price of the security over the prior 10 trading days. We may value securities that do not trade on a national exchange by using published secondary market trading information. When doing so, we first confirm that GAAP recognizes the trading price as the fair value of the security.
+
+Securities for which reliable market data is not readily available or for which the pricing source does not provide a valuation or methodology or provides a valuation or methodology that, in the judgment of the Investment Adviser or Board of Directors, does not represent fair value, are valued as follows: (i) each portfolio company or investment is initially valued by the investment professionals responsible for the portfolio investment; (ii) preliminary valuation conclusions are documented and discussed with our senior management; and (iii) the Board of Directors will discuss valuations and determine the fair value of each investment in our portfolio in good faith based on the input of the Investment Adviser and, where appropriate and necessary, the respective third‑party valuation firms. The recommendation of fair value will generally be based on the following factors, as relevant:
+
+Securities for which market data is not readily available or for which a pricing source is not sufficient may include the following:
+
+Valuation of Real Property:
+
+When property is owned directly, the valuation process includes a full review of the property financial information. An Argus model is created using all known data such as current rent rolls, escalators, expenses, market data in the area where the property is located, cap rates, discount rates, mortgages, interest rates, and other pertinent information. We estimate future leasing and costs associated, generally over a ten-year period, to determine the fair value of the property. Once the fair value is determined, and reviewed by the Board of Directors, a determination of whether any impairment is required is made and documented. In addition, we may obtain a third-party appraisal on directly owned properties.
+
+Determination of fair value involves subjective judgments and estimates and is reviewed by the Board of Directors. Accordingly, the notes to our consolidated financial statements will express the uncertainty of such valuations, and any change in such valuations, on our consolidated financial statements.
+
+Below is a discussion of additional accounting policies and estimates. While management determined these to be not critical, they are still considered to be significant and relevant for understanding and evaluating our reported financial results.
+
+Use of Estimates
+
+The preparation of consolidated financial statements requires management to make estimates and assumptions that affect reported asset values, liabilities, revenues, expenses and unrealized gains (losses) on investments during the reporting period. These estimates are susceptible to change, and actual results could differ materially from those estimates, which in turn could have material impacts on our reported financial results.
+
+Revenue Recognition
+
+Rental revenue, net of concessions, which is derived primarily from lease contracts and includes rents that each tenant pays in accordance with the terms of each lease agreement, is recognized on a straight-line basis over the term of the lease, when collectability is determined to be probable.
+
+Minimum rent, including rental abatements, lease incentives, and contractual fixed increases attributable to operating leases are recognized on a straight-line basis over the term of the related leases when collectability is probable. Amounts expected to be received in later years are recorded as deferred rent receivable. If the lease provides for tenant improvements, we determine whether the tenant improvements, for accounting purposes, are owned by the tenant or us. When we are the owner of the tenant improvements, the tenant is not considered to have taken physical possession or have control of the physical use of the leased asset until the tenant improvements are substantially completed. When the tenant is the owner of the tenant improvements, any tenant improvement allowance (including amounts that can be taken in the form of cash or a credit against the tenant’s rent) that is funded is treated as a lease incentive and amortized as a reduction of rental revenue over the lease term.
+
+Tenant improvement ownership is determined based on various factors including, but not limited to:
+
+In accordance with ASC Topic 842, we determine whether collectability of lease payments in an operating lease is probable. If we determine the lease payments are not probable of collection, we fully reserve for rent and reimbursement receivables, including deferred rent receivable, and recognize rental income on a cash basis.
+
+Distributions received from investments are evaluated by management and recorded as dividend income or a return of capital (reduction of investment) on the ex-dividend date. Operational dividends or distributions received from portfolio investments are recorded as investment income. Distributions resulting from the sale or refinance of an investee’s underlying assets are compared to the estimated value of the remaining assets and are recorded as a return of capital or as investment income as appropriate.
+
+Realized gains or losses on investments are recognized in the period of disposal, distribution, or exchange and are measured by the difference between the proceeds from the sale or distribution and the cost of the investment. Investments are disposed of on a first-in, first-out basis. Net change in unrealized gain (loss) reflects the net change in portfolio investment values during the reporting period, including the reversal of previously recorded unrealized gains or losses.
+
+Variable Interest Entities
+
+We evaluate the need to consolidate other entities in when we have invested in their securities in accordance with ASC Topic 810, Consolidation (“ASC 810”). In determining whether we have a controlling interest in a variable interest entity that requires us to consolidate the accounts of that entity, management considers factors such as ownership interest, authority to make decisions and contractual and substantive participating rights of the partners/members, as well as whether the entity is a variable interest entity for which we are the primary beneficiary.
+
+Real Estate Assets, Capital Additions, Depreciation and Amortization
+
+We capitalize costs, including certain indirect costs, incurred for capital additions, including redevelopment, development, and construction projects. We also allocate certain department costs, including payroll, at the corporate levels as “indirect costs” of capital additions, if such costs clearly relate to capital additions. We also capitalize interest, property taxes, and insurance during periods in which redevelopment, development, and construction projects are in progress. Cost capitalization begins once the development or construction activity commences and ceases when the asset is ready for its intended use. Repair and maintenance and tenant turnover costs are expensed as incurred. Repair and maintenance and tenant turnover costs include all costs that do not extend the useful life of the real estate asset. Depreciation and amortization expense are computed on the straight-line method over the asset’s estimated useful life. We consider the period of future benefit of an asset to determine its appropriate useful life and anticipate the estimated useful lives of assets by class to be generally as follows:
+
+Impairment of Real Estate Assets
+
+We continually monitor events and changes in circumstances that could indicate that the carrying value of our real estate and related intangible assets may not be recoverable. When indicators of potential impairment emerge, we assess whether we will recover the carrying value of the asset through its undiscounted future cash flows and its eventual disposition. Based on this assessment, if we do not believe that we will recover the carrying value of the real estate and related intangible assets, we will record an impairment loss to the extent that the carrying value exceeds the estimated fair value of the real estate and related intangible assets.
+
+Assets and Liabilities Held for Sale
+
+We classify long-lived assets or disposal groups to be sold as held for sale in the period in which all of the following criteria are met:
+
+On the day that these criteria are met, we suspend depreciation on the investment properties held for sale, including depreciation for tenant improvements and additions, as well as on the amortization of acquired in-place leases. The investment properties and liabilities associated with those investment properties that are held for sale are classified separately on the consolidated balance sheets for the most recent reporting period and recorded at the lesser of the carrying value or fair value less costs to sell.

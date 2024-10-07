@@ -1,0 +1,199 @@
+Item 6. [Reserved]
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The following discussion and analysis of our financial condition and results of operations should be read together with, and is qualified in its entirety by reference to, our audited financial statements and related notes included elsewhere in this Annual Report, which have been prepared in accordance with U.S. GAAP. The following discussion may contain forward-looking statements based on assumptions we believe to be reasonable. Our actual results could differ materially from those discussed in these forward-looking statements. Factors that could cause or contribute to these differences include, but are not limited to, those discussed below and elsewhere in this Annual Report, particularly in “Item 1A. Risk Factors” and “Forward-Looking Statements.”
+
+Fund Overview
+
+The Fund is a passive entity that is managed and administered by the Manager and does not have any officers, directors or employees. The Fund holds Fund Components and, from time to time on a periodic basis, issues Creation Baskets in exchange for deposits of Fund Components. As a passive investment vehicle, the Fund’s investment objective is for the value of the Shares to reflect the value of the Fund Components, determined by reference to their respective Digital Asset Reference Rates and weightings within the Fund, less the Fund’s expenses and other liabilities. While an investment in the Shares is not a direct investment in the Fund Components, the Shares are designed to provide investors with a cost-effective and convenient way to gain investment exposure to the digital assets held by the Fund. To date, the Fund has not met its investment objective and the Shares quoted on OTCQX have not reflected the value of the digital assets held by the Fund, less the Fund’s expenses and other liabilities, but instead have traded at both premiums and discounts to such value, which at times have been substantial. The Fund is not managed like a business corporation or an active investment vehicle. As of June 30, 2024, 2023, and 2022, the Fund had unlimited Shares authorized of 15,867,400 Shares issued and outstanding.
+
+Includes the total number of Shares that are not restricted securities as such term is defined under Rule 144.
+
+Includes Cede & Co. as nominee for DTC for the Shares traded on OTCQX, but not its direct participants. Therefore, this number does not include the individual holders who have bought/sold Shares on OTCQX or transferred their eligible Shares to their brokerage accounts. 
+
+Effective July 1, 2022, the Manager adopted the DLCS Methodology. In connection with the adoption of the DLCS Methodology, the Manager changed the Digital Asset Reference Rates used to value the Fund Components and as of the date of this Annual Report, each of the Digital Asset Reference Rates are Indicative Prices. Prior to the adoption of the DLCS Methodology, the Fund determined which Fund Components to hold pursuant to the Target Coverage Ratio Methodology and the Digital Asset Reference Rates used to value the Fund Components were Index Prices or an Old Indicative Price. See “Item 1. Business—Investment Objective” and “Item 1. Business—Valuation of Digital Assets and Determination of NAV” for additional information.
+
+Any references to the Digital Asset Reference Rates subsequent to July 1, 2022 are to the Digital Asset Reference Rates in effect following the adoption of the DLCS Methodology. Any references in this section to the Digital Reference Rates prior to July 1, 2022 are to the Digital Asset Reference Rates in effect prior to the adoption of the DLCS Methodology. All references to the NAV and NAV per Share of the Fund for periods subsequent to July 1, 2022 in this Annual Report have been calculated based on the digital assets held by the Fund pursuant to the DLCS Methodology and the corresponding rebalancing of the Fund on July 5, 2022. All references to the NAV and NAV per Share of the Fund for periods prior to July 1, 2022 have been calculated based on the digital assets held by the Fund pursuant to the Target Coverage Ratio Methodology prior to the adoption of the DLCS Methodology and the corresponding rebalancing of the Fund on July 5, 2022.
+
+Critical Accounting Policies and Estimates
+
+Investment Transactions and Revenue Recognition
+
+The Fund considers investment transactions to be the receipt of Fund Components for Share creations and the delivery of Fund Components for Share redemptions or for payment of expenses in Fund Components. At this time, the Fund is not accepting redemption requests from shareholders. The Fund records its investment transactions on a trade date basis and changes in fair value are reflected as net change in unrealized appreciation or depreciation on investments. Realized gains and losses are calculated using the specific identification method. Realized gains and losses are recognized in connection with transactions including settling obligations for the Manager’s Fee in the Fund Components.
+
+Principal Market and Fair Value Determination
+
+To determine which market is the Fund’s principal market for each Fund Component (or in the absence of a principal market, the most advantageous market) for purposes of calculating the Fund’s net asset value in accordance with U.S. GAAP (“Principal Market NAV”), the Fund follows Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) 820-10, which outlines the application of fair value accounting. ASC 820-10 determines fair value to be the price that would be received for each Fund Component in a current sale, which assumes an orderly transaction between market participants on the measurement date. ASC 820-10 requires the Fund to assume that each Fund Component is sold in its principal market to market participants or, in the absence of a principal market, the most advantageous market. Market participants are defined as buyers and sellers in the principal or most advantageous market that are independent, knowledgeable, and willing and able to transact.
+
+The Fund only receives Fund Components in connection with a creation order from the Authorized Participant (or a Liquidity Provider) and does not itself transact on any Digital Asset Markets. Therefore, the Fund looks to market-based volume and level of activity for Digital Asset Markets. The Authorized Participant(s), or a Liquidity Provider, may transact in a Brokered Market, a Dealer Market, Principal-to-Principal Markets and Exchange Markets (referred to as “Trading Platform Markets” in this Annual Report), each as defined in the FASB ASC Master Glossary (collectively, “Digital Asset Markets”).
+
+In determining which of the eligible Digital Asset Markets is the Fund’s principal market for each Fund Component, the Fund reviews these criteria in the following order:
+
+•
+
+First, the Fund reviews a list of each Digital Asset Market that maintain practices and policies designed to comply with anti-money laundering (“AML”) and know-your-customer (“KYC”) regulations, and non-Digital Asset Trading Platform Markets that the Fund reasonably believes are operating in compliance with applicable law, including federal and state licensing requirements, based upon information and assurances provided to it by each market. 
+
+•
+
+Second, the Fund sorts these Digital Asset Markets from high to low by market-based volume and level of activity of each Fund Component traded on each Digital Asset Market in the trailing twelve months. 
+
+•
+
+Third, the Fund then reviews pricing fluctuations and the degree of variances in price on Digital Asset Markets to identify any material notable variances that may impact the volume or price information of a particular Digital Asset Market. 
+
+•
+
+Fourth, the Fund then selects a Digital Asset Market as its principal market for such Fund Component based on the highest market-based volume, level of activity and price stability in comparison to the other Digital Asset Markets on the list. Based on information reasonably available to the Fund, Trading Platform Markets have the greatest volume and level of activity for the Fund Components. The Fund therefore looks to accessible Trading Platform Markets as opposed to the Brokered Market, Dealer Market and Principal-to-Principal Markets to determine its principal market for each Fund Component. As a result of the aforementioned analysis, a Trading Platform Market has been selected as the Fund’s principal market for each Fund Component. 
+
+The Fund determines its principal market for each Fund Component (or in the absence of a principal market the most advantageous market) annually and conducts a quarterly analysis to determine (i) if there have been recent changes to each Digital Asset Market’s trading volume and level of activity in the trailing twelve months, (ii) if any Digital Asset Markets have developed that the Fund has access to, or (iii) if recent changes to each Digital Asset Market’s price stability have occurred that would materially impact the selection of the principal market and necessitate a change in the Fund’s determination of its principal market for each Fund Component.
+
+The cost basis of each Fund Component received in connection with a creation order is recorded by the Fund at the fair value of such Fund Component at 4:00 p.m., New York time, on the creation date for financial reporting purposes. The cost basis recorded by the Fund may differ from proceeds collected by the Authorized Participant from the sale of the corresponding Shares to investors.
+
+Investment Company Considerations
+
+The Fund is an investment company for GAAP purposes and follows accounting and reporting guidance in accordance with the FASB ASC Topic 946, Financial Services—Investment Companies. The Fund uses fair value as its method of accounting for digital assets in accordance with its classification as an investment company for accounting purposes. The Fund is not a registered investment company under the Investment Company Act of 1940. GAAP requires management to make estimates and assumptions that affect the reported amounts in the financial statements and accompanying notes. Actual results could differ from those estimates and these differences could be material.
+
+Review of Financial Results
+
+Financial Highlights for the Years Ended June 30, 2024, 2023, and 2022
+
+(All amounts in the following table and the subsequent paragraphs, except Share, per Share amounts, and each Fund Component and price of each Fund Component, are in thousands)
+
+Net assets in the above table and subsequent paragraphs are calculated in accordance with U.S. GAAP based on the Digital Asset Market price of each Fund Component on the Digital Asset Trading Platforms that the Fund considered each Fund Component’s principal market, as of 4:00 p.m., New York time, on the valuation date.
+
+Net realized and unrealized gain on investments in digital assets for the year ended June 30, 2024 was $264,196, which includes a realized gain of $6,714 on the transfer of digital assets to pay the Manager’s Fee, a realized gain of $789 as a result of the quarterly rebalance of digital assets, and net change in unrealized appreciation on investments in digital assets of $256,693. Net increase in net assets resulting from operations was $254,324 for the year ended June 30, 2024, which consisted of the net realized and unrealized gain on investments in digital assets, less the Manager’s Fee of $9,872. Net assets increased to $526,956 at June 30, 2024, a 93% increase for the year. The increase in net assets resulted from the price appreciation of Fund Components for the year, partially offset by the withdrawal of approximately 153 Bitcoin, 942 Ether, 210,014 ADA, 3,292 SOL, 38,180 MATIC, 1,385 AVAX, 203,318 XRP to pay the foregoing Manager’s Fee.
+
+Net realized and unrealized gain on investments in digital assets for the year ended June 30, 2023 was $104,153, which includes a realized gain of $2,124 on the transfer of digital assets to pay the Manager’s Fee, a realized loss of ($20,838) as a result of the quarterly rebalance of digital assets, and net change in unrealized appreciation on investments in digital assets of $122,867. Net increase in net assets resulting from operations was $98,780 for the year ended June 30, 2023, which consisted of the net realized and unrealized gain on investments in digital assets, less the Manager’s Fee of $5,373. Net assets increased to $272,632 at June 30, 2023, a 57% increase for the year. The increase in net assets resulted from the price appreciation of Fund Components for the year, partially offset by the withdrawal of approximately 157 Bitcoin, 1,002 Ether, 281,296 ADA, 2,966 SOL, 53,165 MATIC, 135 DOT, 1,228 AVAX, 10 LTC, 96 UNI, 65 LINK and 3 BCH to pay the foregoing Manager’s Fee.
+
+Net realized and unrealized loss on investments in digital assets for the year ended June 30, 2022 was ($183,177), which includes a realized gain of $7,780 on the transfer of digital assets to pay the Manager’s Fee, a realized gain of $39,069 as a result of the quarterly rebalance of digital assets, and net change in unrealized depreciation on investments in digital assets of ($230,026). Net decrease in net assets resulting from operations was ($194,391) for the year ended June 30, 2022, which consisted of the net realized and unrealized loss on investments in digital assets, plus the Manager’s Fee of $11,214. Net assets decreased to $173,852 at June 30, 2022, a 53% decrease for the year. The decrease in net assets resulted from the price depreciation of Fund Components for the year and the withdrawal of approximately 166 Bitcoin, 1,015 Ether, 282,861 ADA, 2,007 SOL, 1,962 DOT, 532 AVAX, 606 LTC, 4,091 UNI, 4,042 LINK, and 172 BCH to pay the foregoing Manager’s Fee, partially offset by the contribution of approximately 13 Bitcoin, 77 Ether, 20,953 ADA, 47 LTC, 310 LINK, and 13 BCH with a total value of $935 to the Fund, in connection with Share creations.
+
+Cash Resources and Liquidity
+
+The Fund has not had a cash balance at any time since inception. When selling Fund Components and/or Forked Assets to pay Additional Fund Expenses on behalf of the Fund, the Manager endeavors to sell the exact amount of Fund Components and/or Forked Assets needed to pay expenses in order to minimize the Fund’s holdings of assets other than the Fund Components. As a consequence, the Manager expects that the Fund will not record any cash flow from its operations and that its cash balance will be zero at the end of each reporting period. Furthermore, the Fund is not a party to any off-balance sheet arrangements.
+
+In exchange for the Manager’s Fee, the Manager has agreed to assume most of the expenses incurred by the Fund. As a result, the only ordinary expense of the Fund during the periods covered by this Annual Report was the Manager’s Fee. The Fund is not aware of any trends, demands, conditions or events that are reasonably likely to result in material changes to its liquidity needs.
+
+Selected Operating Data
+
+Effective October 1, 2021, the Manager adjusted the Fund’s portfolio by selling the existing Fund Components in proportion to their respective weightings and using the cash proceeds to purchase SOL and UNI in accordance with the Target Coverage Ratio Methodology.
+
+Effective January 4, 2024, the Manager removed MATIC from the Fund’s portfolio and used the cash proceeds to purchase AVAX and XRP and adjusted the existing Fund Components in proportion to their respective weightings in accordance with the DLCS Methodology.
+
+Effective April 5, 2022, the Manager adjusted the Fund’s portfolio by selling the existing Fund Components in proportion to their respective weightings and using the cash proceeds to purchase DOT and AVAX in accordance with the Target Coverage Ratio Methodology.
+
+Prior to July 1, 2022, the Digital Asset Reference Rates were all Index Prices except DOT and AVAX, which were Old Indicative Prices. Effective July 1, 2022, the Digital Asset Reference Rate for each Fund Component is an Indicative Price. As a result, the Digital Asset Reference Rates as of June 30, 2024 and June 30, 2023 are not directly comparable to the Digital Asset Reference Rates as of June 30, 2022.
+
+Effective January 5, 2023, the Fund removed AVAX from the Fund’s portfolio and sold the AVAX holdings to purchase additional tokens of the remaining Fund Components in proportion to their respective weightings in accordance with the DLCS Methodology.
+
+Effective July 1, 2021, the Manager adjusted the Fund’s portfolio by selling the existing Fund Components in proportion to their respective weightings and using the cash proceeds to purchase ADA in accordance with the Target Coverage Ratio Methodology.
+
+Effective April 3, 2024, the Manager adjusted the Fund’s portfolio by selling ADA and used the cash proceeds to purchase the existing Fund Components in proportion to their respective weightings in accordance with the DLCS Methodology.
+
+Effective October 5, 2022, the Manager adjusted the Fund’s portfolio by selling the existing Fund Components in proportion to their respective weightings and using the cash proceeds to purchase MATIC in accordance with the DLCS Methodology.
+
+Effective July 7, 2022, following adoption of the DLCS Methodology, the Fund removed DOT, LTC, UNI, LINK and BCH from the Fund’s portfolio and sold the DOT, LTC, UNI, LINK and BCH holdings to purchase additional tokens of the remaining Fund Components in proportion to their respective weightings in accordance with the DLCS Methodology.
+
+Prior to February 7, 2024, Principal Market NAV was referred to as NAV and Principal Market NAV per Share was referred to as NAV per Share. Prior to February 7, 2024, NAV was referred to as Digital Asset Holdings and NAV per Share was referred to as Digital Asset Holdings per Share.
+
+Prior to July 1, 2022, the NAV per Share was calculated based on the Fund Components held by the Fund pursuant to the Target Coverage Ratio Methodology. Effective July 1, 2022, NAV per Share is calculated based on the Fund Components held by the Fund pursuant to the DLCS Methodology. As a result, the NAV per Share for periods subsequent to July 1, 2022 are not directly comparable to the NAV per Share as of June 30, 2022. See “Item 1. Business—Investment Objective” and “Item 1. Business—Valuation of Digital Assets and Determination of NAV” for additional information.
+
+For accounting purposes, the Fund reflects creations and the Fund Components receivable with respect to such creations on the date of receipt of a notification of a creation but does not issue Shares until the requisite amount of Fund Components is received. At this time, the Fund is not accepting redemption requests from shareholders. Subject to receipt of regulatory approval from the SEC and approval by the Manager in its sole discretion, the Fund may in the future operate a redemption program. The Fund currently has no intention of seeking regulatory approval to operate an ongoing redemption program.
+
+As of June 30, 2024, the Fund had a net closing balance with a value of $526,722,342, based on the Digital Asset Reference Rates in effect under the DLCS Methodology (non-GAAP methodology). As of June 30, 2024, the Fund had a total market value of $526,955,720, based on the principal market prices of the Fund Components.
+
+As of June 30, 2023, the Fund had a net closing balance with a value of $272,757,436, based on the Digital Asset Reference Rates in effect under the DLCS Methodology (non-GAAP methodology). As of June 30, 2023, the Fund had a total market value of $272,631,615, based on the principal market prices of the Fund Components.
+
+As of June 30, 2022, the Fund had a net closing balance with a value of $173,776,387, based on the Digital Asset Reference Rates in effect under the Target Coverage Ratio Methodology (non-GAAP methodology). As of June 30, 2022, the Fund had a total market value of $173,851,817, based on the principal market prices of the Fund Components.
+
+Historical Fund Component Prices
+
+As movements in the price of each Fund Component will directly affect the price of the Shares, investors should understand recent movements in the price of each Fund Component. Investors, however, should also be aware that past movements in each of the Fund Component prices are not indicators of future movements. Movements may be influenced by various factors, including, but not limited to, government regulation, security breaches experienced by service providers, as well as political and economic uncertainties around the world.
+
+The following chart illustrates the movement in the Fund’s NAV per Share versus the Fund’s Principal Market NAV per Share from February 1, 2018 (the inception of the Fund’s operations) to June 30, 2024. For more information on the determination of the Fund’s NAV, see “Item 1. Business—Overview of the Digital Asset Industry and Market—Fund Component Value—Digital Asset Trading Platform Valuation.”
+
+NAV per Share of the Fund prior to and after July 1, 2022 are not comparable due to the change in the fund construction criteria on July 1, 2022. See “Item 1. Business—Investment Objective” for further details. 
+
+Bitcoin
+
+The following table illustrates the movements in the Digital Asset Reference Rate for Bitcoin from July 1, 2019 to June 30, 2024. Prior to July 1, 2022, the Digital Asset Reference Rate for Bitcoin was an Index Price for Bitcoin. Effective July 1, 2022, the Digital Asset Reference Rate for Bitcoin is an Indicative Price for Bitcoin. As a result, the Digital Asset Reference Rates for Bitcoin for periods subsequent to July 1, 2022 are not directly comparable to the Digital Asset Reference Rates for Bitcoin for periods prior to July 1, 2022. During the period from July 1, 2019 to June 30, 2024, the Digital Asset Reference Rate has ranged from $4,941.00 to $73,128.99, with the straight average being $29,948.16 through June 30, 2024. The Manager has not observed a material difference between the Digital Asset Reference Rate and average prices from the constituent Digital Asset Trading Platforms included in the relevant reference rate individually or as a group.
+
+The following table illustrates the movements in the Digital Asset Market price of Bitcoin, as reported on the Fund’s principal market for Bitcoin, from July 1, 2019 to June 30, 2024. During such period, the price of Bitcoin has ranged from $4,950.39 to $73,517.19, with the straight average being $29,946.19.
+
+Ether
+
+The following table illustrates the movements in the Digital Asset Reference Rate for Ether from July 1, 2019 to June 30, 2024. Prior to July 1, 2022, the Digital Asset Reference Rate for Ether was an Index Price for Ether. Effective July 1, 2022, the Digital Asset Reference Rate for Ether is an Indicative Price for Ether. As a result, the Digital Asset Reference Rates for Ether for periods subsequent to July 1, 2022 are not directly comparable to the Digital Asset Reference Rates for Ether for periods prior to July 1, 2022. During the period from July 1, 2019 to June 30, 2024, the Digital Asset Reference Rate has ranged from $109.83 to $4,776.32, with the straight average being $1,703.18 through June 30, 2024. The Manager has not observed a material difference between the Digital Asset Reference Rate and average prices from the constituent Digital Asset Trading Platforms included in the relevant reference rate individually or as a group.
+
+The following table illustrates the movements in the Digital Asset Market price of Ether, as reported on the Fund’s principal market for Ether, from July 1, 2019 to June 30, 2024. During such period, the price of Ether has ranged from $110.29 to $4,776.95, with the straight average being $1,703.36.
+
+Solana
+
+The following table illustrates the movements in the Digital Asset Reference Rate from the addition of the token to the Fund’s portfolio on October 1, 2021 to June 30, 2024. Prior to July 1, 2022, the Digital Asset Reference Rate for SOL was an Index Price for SOL. Effective July 1, 2022, the Digital Asset Reference Rate for SOL is an Indicative Price for SOL. As a result, the Digital Asset Reference Rates for SOL for periods subsequent to July 1, 2022 are not directly comparable to the Digital Asset Reference Rates for SOL for periods prior to July 1, 2022. Since the token was added to the Fund’s portfolio, the Digital Asset Reference Rate for SOL has ranged from $8.37 to $254.78, with the straight average being $74.68 through June 30, 2024. The Manager has not observed a material difference between the Digital Asset Reference Rate for SOL and average prices from the constituent Digital Asset Trading Platforms included in the relevant reference rate individually or as a group.
+
+The following table illustrates the movements in the Digital Asset Market price of SOL, as reported on the Fund’s principal market for SOL, from the addition of the token to the Fund’s portfolio on October 1, 2021 to June 30, 2024. During such period, the price of SOL has ranged from $8.29 to $254.44, with the straight average being $74.67.
+
+Effective October 1, 2021, the Manager adjusted the Fund’s portfolio in connection with its quarterly review by selling the existing Fund Components in proportion to their respective weightings and using the cash proceeds to purchase SOL in accordance with the Target Coverage Ratio Methodology.
+
+XRP
+
+Effective January 3, 2024, the Manager adjusted the Fund’s portfolio in connection with its quarterly review by selling the existing Fund Components in proportion to their respective weightings and using the cash proceeds to purchase XRP in accordance with the DLCS Methodology.
+
+The following table illustrates the movements in the Digital Asset Reference Rate during the period from July 1, 2019 to January 3, 2021 and during the period from January 4, 2024 (when XRP was subsequently re-added to the Fund) to June 30, 2024. The Digital Asset Reference Rate for XRP is an Indicative Price for XRP. The Digital Asset Reference Rate for XRP has ranged from $0.14 to $0.73, with the straight average being $0.33 for the periods July 1, 2019 through January 3, 2021 and January 4, 2024 through June 30, 2024. The Manager has not observed a material difference between the Digital Asset Reference Rate for XRP and average prices from the constituent Digital Asset Trading Platforms included in the relevant reference rate individually or as a group.
+
+The following table illustrates the movements in the Digital Asset Market price of XRP, as reported on the Fund’s principal market for XRP, during the period from July 1, 2019 to January 3, 2021 and during the period from January 4, 2024 (when XRP was subsequently re-added to the Fund) to June 30, 2024. The price of XRP has ranged from $0.14 to $0.73, with the straight average being $0.33 for the periods July 1, 2019 through January 3, 2021 and January 4, 2024 through June 30, 2024.
+
+Effective January 3, 2021, the Manager adjusted the Fund’s portfolio by selling XRP and using the cash proceeds to purchase certain amounts of the other existing Fund Components in proportion to their respective weightings, in accordance with the Target Coverage Ratio Methodology. As a result of the rebalancing, XRP was removed from the Fund. Effective January 4, 2024, the Manager
+
+adjusted the Fund’s portfolio in connection with its quarterly review by selling the existing Fund Components in proportion to their respective weightings and using the cash proceeds to purchase XRP in accordance with the DLCS Methodology.
+
+Avalanche
+
+The following table illustrates the movements in the Digital Asset Reference Rate from the addition of the token to the Fund’s portfolio on April 5, 2022 (when AVAX was initially added to the Fund) to January 4, 2023, and during the period from January 4, 2024 (when AVAX was subsequently re-added to the Fund) to June 30, 2024. Prior to July 1, 2022, the Digital Asset Reference Rate for AVAX was an Old Indicative Price for AVAX. Effective July 1, 2022, the Digital Asset Reference Rate for AVAX is an Indicative Price for AVAX. As a result, the Digital Asset Reference Rates for AVAX for periods subsequent to July 1, 2022 are not directly comparable to the Digital Asset Reference Rates for AVAX for periods prior to July 1, 2022. The Digital Asset Reference Rate for AVAX has ranged from $10.79 to $95.06, with the straight average being $30.83 for the periods April 5, 2022 through January 4, 2023 and January 4, 2024 through June 30, 2024. The Manager has not observed a material difference between the Digital Asset Reference Rate for AVAX and average prices from the constituent Digital Asset Trading Platforms included in the relevant reference rate individually or as a group.
+
+The following table illustrates the movements in the Digital Asset Market price of AVAX, as reported on the Fund’s principal market for AVAX, during the period from April 5, 2022 (when AVAX was initially added to the Fund) to January 4, 2023 and during the period from January 4, 2024 (when AVAX was subsequently re-added to the Fund) to June 30, 2024. The price of AVAX has ranged from $10.76 to $93.01, with the straight average being $30.74 for the periods April 5, 2022 through January 4, 2023 and January 4, 2024 through June 30, 2024.
+
+Effective April 5, 2022, the Manager adjusted the Fund’s portfolio in connection with its quarterly review by selling the existing Fund Components in proportion to their respective weightings and using the cash proceeds to purchase AVAX in accordance with the Target Coverage Ratio Methodology. Effective January 4, 2023, the Manager adjusted the Fund’s portfolio by selling AVAX and using the cash proceeds to purchase certain amounts of the other existing Fund Components in proportion to their respective weightings, in accordance with the DLCS Methodology. As a result of the rebalancing, AVAX was removed from the Fund. Effective January 4, 2024, the Manager adjusted the Fund’s portfolio in connection with its quarterly review by selling the existing Fund Components in proportion to their respective weightings and using the cash proceeds to purchase AVAX in accordance with the DLCS Methodology.
+
+Cardano
+
+The following table illustrates the movements in the Digital Asset Reference Rate from the addition of the token to the Fund’s portfolio on July 1, 2021 to April 2, 2024, the date of the token’s removal from the Fund’s portfolio. Prior to July 1, 2022, the Digital Asset Reference Rate for ADA was an Index Price for ADA. Effective July 1, 2022, the Digital Asset Reference Rate for ADA is an Indicative Price for ADA. As a result, the Digital Asset Reference Rates for ADA for periods subsequent to July 1, 2022 are not directly
+
+comparable to the Digital Asset Reference Rates for ADA for periods prior to July 1, 2022. Since the token was added to the Fund’s portfolio, the Digital Asset Reference Rate for ADA has ranged from $0.24 to $2.99, with the straight average being $0.76 through April 2, 2024, the date of the token’s removal from the Fund’s portfolio. The Manager has not observed a material difference between the Digital Asset Reference Rate for ADA and average prices from the constituent Digital Asset Trading Platforms included in the relevant reference rate individually or as a group.
+
+The following table illustrates the movements in the Digital Asset Market price of ADA, as reported on the Fund’s principal market for ADA, from the addition of the token to the Fund’s portfolio on July 1, 2021 to April 2, 2024, the date of the token’s removal from the Fund’s portfolio. During such period, the price of ADA has ranged from $0.24 to $2.99, with the straight average being $0.76 through April 2, 2024.
+
+Effective July 1, 2021, the Manager adjusted the Fund’s portfolio in connection with its quarterly review by selling the existing Fund Components in proportion to their respective weightings and using the cash proceeds to purchase ADA in accordance with the Target Coverage Ratio Methodology. Effective April 2, 2024, the Manager adjusted the Fund’s portfolio by selling ADA and using the cash proceeds to purchase certain amounts of the other existing Fund Components in proportion to their respective weightings, in accordance with the DLCS Methodology. As a result of the rebalancing, ADA was removed from the Fund.
+
+Polygon
+
+The following table illustrates the movements in the Digital Asset Reference Rate from the addition of the token to the Fund’s portfolio on October 5, 2022 to January 3, 2024, the date of the token’s removal from the Fund’s portfolio. The Digital Asset Reference Rate for MATIC is an Indicative Price for MATIC. Since the token was added to the Fund’s portfolio, the Digital Asset Reference Rate for MATIC has ranged from $0.50 to $1.52, with the straight average being $0.85 through January 3, 2024, the date of the token’s removal from the Fund’s portfolio. The Manager has not observed a material difference between the Digital Asset Reference Rate for MATIC and average prices from the constituent Digital Asset Trading Platforms included in the relevant reference rate individually or as a group.
+
+The following table illustrates the movements in the Digital Asset Market price of MATIC, as reported on the Fund’s principal market for MATIC, from the addition of the token to the Fund’s portfolio on October 5, 2022 to January 3, 2024, the date of the token’s removal from the Fund’s portfolio. During such period, the price of MATIC has ranged from $0.50 to $1.52, with the straight average being $0.85 through January 3, 2024.
+
+Effective January 3, 2024, the Manager adjusted the Fund’s portfolio by selling MATIC and using the cash proceeds to purchase certain amounts of the other existing Fund Components in proportion to their respective weightings, in accordance with the DLCS Methodology. As a result of the rebalancing, MATIC was removed from the Fund.
+
+Secondary Market Trading
+
+The Fund’s Shares have been quoted on OTCQX under the symbol “GDLC” since November 22, 2019. The Fund’s previous trading symbol was “GDLCF” on OTCQX and was changed to “GDLC” on April 14, 2020. The price of the Shares as quoted on OTCQX has varied significantly from the NAV per Share.
+
+For example, from July 1, 2022 to June 30, 2024, the Shares quoted on OTCQX traded at a discount to the value of the Fund’s NAV per Share based on the DLCS Methodology. From July 1, 2022 to June 30, 2024, the maximum discount of the closing price of the Shares quoted on OTCQX below the value of the Fund’s NAV per Share was 63% based on the DLCS Methodology and the average discount was 43% based on the DLCS Methodology. The closing price of the Shares, as quoted on OTCQX at 4:00 p.m., New York time, on each business day, between July 1, 2022 and June 30, 2024, has been quoted at a discount on 501 days. As of June 28, 2024, the last business day of the period, the Fund’s Shares were quoted on OTCQX at a discount of 31% to the Fund’s NAV per Share.
+
+From November 22, 2019 to June 30, 2022, the maximum premium of the closing price of the Shares quoted on OTCQX over the value of the Fund’s NAV per Share was 294% based on the Target Coverage Ratio Methodology and the average premium was 52% based on the Target Coverage Ratio Methodology. Over the same period, the maximum discount of the closing price of the Shares quoted on OTCQX below the value of the Fund’s NAV per Share was 42% based on the Target Coverage Ratio Methodology and the average discount was 22% based on the Target Coverage Ratio Methodology. Moreover, the closing price of the Shares, as quoted on OTCQX at 4:00 p.m., New York time, on each business day between November 22, 2019 to June 30, 2022, was quoted at a discount on 211 days, as calculated under the Target Coverage Ratio Methodology.
+
+The following table sets out the range of high and low closing prices for the Shares as reported by OTCQX, the Fund’s Principal Market NAV per Share calculated in accordance with GAAP and the Fund’s NAV per Share for each of the quarters of the prior three years.
+
+The Principal Market NAV is calculated using the fair value of the Fund Components based on the price provided by the Digital Asset Market that the Fund considers each Fund Component’s principal market. Prior to February 7, 2024, Principal Market NAV was referred to as NAV and Principal Market NAV per Share was referred to as NAV per Share. See “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Critical Accounting Policies and Estimates—Principal Market and Fair Value Determination.”
+
+The Fund’s NAV per Share is derived from the Digital Reference Rate of each Fund Component as of 4:00 p.m., New York time, on the valuation date. The Reference Rate Price is calculated using non-GAAP methodology and is not used in the Fund’s financial statements. Prior to February 7, 2024, NAV was referred to as Digital Asset Holdings and NAV per Share was referred to as Digital Asset Holdings per Share. See “Item 1. Business—Valuation of Digital Assets and Determination of NAV.” NAV per Share of the Fund prior to and after July 1, 2022 are not comparable due to the change in the fund construction criteria on July 1, 2022. See “Item 1. Business—Investment Objective” for further details.
+
+The following chart sets out the historical closing prices for the Shares as reported by OTCQX and the Fund’s NAV per Share from November 22, 2019 to June 30, 2024.
+
+GDLC Premium/(Discount): GDLC Share Price vs. NAV per Share (Non-GAAP) ($)
+
+The following chart sets out the historical premium and discount for the Shares as reported by OTCQX and the Fund’s NAV per Share from November 22, 2019 to June 30, 2024.
+
+GDLC Premium/(Discount): GDLC Share Price vs. NAV per Share (Non-GAAP) (%)
+
+NAV per Share of the Fund prior to and after July 1, 2022 are not comparable due to the change in the fund construction criteria on July 1, 2022. See “Item 1. Business—Investment Objective” for further details.
+
+Item 7A. Quantitative and Qualitative

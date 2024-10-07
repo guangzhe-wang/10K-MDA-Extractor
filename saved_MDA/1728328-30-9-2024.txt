@@ -1,0 +1,340 @@
+ITEM 6. [RESERVED]
+
+ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+This discussion and analysis contains certain forward-looking statements within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act, and is subject to the safe harbor created by those sections. For more information, see “Special Note Regarding Forward-Looking Statements.” When reviewing the discussion below, you should keep in mind the substantial risks and uncertainties that impact our business. In particular, we strongly encourage you to review the risks and uncertainties described in “Risk Factors” in this Annual Report, and other filings we make from time to time with the SEC. These risks and uncertainties could cause actual results to differ materially from those projected or implied by our forward-looking statements contained in this report. These forward-looking statements are made as of the date of this report, and we do not intend, and do not assume any obligation, to update these forward-looking statements, except as required by law.
+
+The following discussion and analysis should be read in conjunction with our audited consolidated financial statements for the year ended June 30, 2024, and the related notes thereto, which have been prepared in accordance with U.S. GAAP. Additionally, the following discussion and analysis should be read in conjunction with our audited consolidated financial statements included in this Annual Report. Throughout this discussion, unless the context specifies or implies otherwise the terms “InMed,” “Company,” “we,” “us,” and “our” refer to InMed Pharmaceuticals Inc.
+
+All dollar amounts stated herein are in U.S. dollars unless specified otherwise.
+
+Overview
+
+We are a clinical stage pharmaceutical company developing a pipeline of proprietary small molecule drug candidates that are preferential signaling ligands of the endogenous CB1and CB2 receptors as well as other receptor targets linked to human disease. CB1 and CB2 receptors are each part of the endocannabinoid system that is found throughout the human body and is responsible for many homeostatic functions. CB1 receptors are primarily located in the brain and central nervous system, while CB2 receptors are involved in modulating neuroinflammation and immune responses. Our research efforts target the treatment of diseases with high unmet medical needs. Together with BayMedica, we also have significant know-how in developing proprietary manufacturing approaches to produce and sell bulk rare cannabinoids as ingredients for various market sectors.
+
+
+InMed has sought to focus on the research and development of preferential signaling ligands of CB1 and CB2 and has produced a library of novel, proprietary drug candidates (“Product Candidates”). These Product Candidates are patentable new chemical entities (“NCEs”) for pharmaceutical development, aimed at targeting diverse clinical indications. Our current pharmaceutical pipeline consists of three programs, with drug candidates targeting Alzheimer’s disease, dry age-related macular degeneration, and Epidermolysis Bullosa. InMed’s INM-901 is a proprietary small molecule, disease modifying drug candidate being developed as a potential treatment for Alzheimer’s disease. INM-901 has multiple potential mechanisms of action as a preferential signaling agonist for both CB1 and CB2 receptors, as well as impacting the peroxisome proliferator-activated receptor (“PPAR”) signaling pathway. Combined, these mechanisms of action may offer a unique treatment approach targeting several biological pathways associated with Alzheimer’s disease. Our ocular research, based on the proprietary small molecule INM-089, indicates potentially promising neuroprotective effects in the back of the eye, which may lead to the preservation of the retinal function. Neuroprotection in dry Aged-related Macular Degeneration (“dry AMD”) remains an unmet medical need and a new treatment option may help solve this multifactorial disease.
+
+InMed has also completed a Phase 2 clinical trial of INM-755 (cannabinol) cream studying its safety and efficacy in treating symptoms related to Epidermolysis Bullosa (“EB”). Results from the Phase 2 clinical trial showed a positive indication of enhanced anti-itch activity for INM-755 cream versus the control cream alone in an exploratory clinical evaluation. The Company is also pursuing strategic partnership opportunities for INM-755 in epidermolysis bullosa and other itch-related skin conditions.
+
+Together with BayMedica, our manufacturing capabilities include traditional approaches such as chemical synthesis and biosynthesis, as well as a proprietary, integrated manufacturing approach called IntegraSyn. With multiple manufacturing approaches, InMed has sought to maintain enhanced flexibility to select the most cost-effective method to deliver high quality, high purity Products and Product Candidates fit for their intended use. BayMedica’s commercial business specializes in the B2B commercialization of bulk rare, non-intoxicating cannabinoids as raw materials for the Health and Wellness sector that are bioidentical to those found in nature.
+
+Recent Developments
+
+NASDAQ Delisting Notice
+
+As previously reported by the Company, on March 19, 2024, the Company received written notification from the Listing Qualifications Department of Nasdaq that the Company has been granted an additional 180-day compliance period, or until September 16, 2024 (the “Extended Compliance Period”), to regain compliance with Nasdaq’s minimum bid price requirement for the continued listing on the Nasdaq Capital Market, as set forth in Nasdaq Listing Rule 5550(a) (the “Minimum Bid Price Rule”). Nasdaq’s determination was based on the Company meeting the continued listing requirement for market value of publicly held shares and all other applicable requirements for initial listing on the Nasdaq Capital Market, with the exception of the bid price requirement, and the Company’s written notice of its intention to consider all available options to regain compliance during the Extended Compliance Period, including, if necessary, effecting a reverse stock split. The Company was unable to regain compliance during the Extended Compliance Period and, on September 17, 2024, the Company received an additional notification from the Listing Qualifications Department stating that due to the deficiency, the Company’s securities would be delisted from Nasdaq on September 26, 2024, unless the Company appealed Nasdaq’s determination to a Hearings Panel (the “Panel”). A hearing request would stay the suspension of the Company’s securities pending the Panel’s discussion. On September 17, 2024, the Company submitted the hearing request to appeal (the “Appeal Request”) Nasdaq’s determination before the Panel. The hearing will take place on October 31, 2024 and it is anticipated that the Panel’s decision will follow shortly thereafter. The pendency of the Appeal Request does not have an immediate effect on the listing of our Common Shares and our Common Shares will continue to trade on Nasdaq under the symbol “INM”.
+
+While the Company has filed the Appeal Request, there can be no assurances, however, that we will be successful in regaining compliance with the continued listing requirements and maintaining the listing of our Common Shares on Nasdaq. Delisting from Nasdaq could materially and adversely affect our ability to raise additional financing through the public or private sale of equity securities, would significantly affect the ability of investors to trade our securities and would negatively affect the value and liquidity of our securities, including our Common Shares. The actual or threatened delisting of our securities could also have other material and adverse consequences, including the potential loss of confidence by employees and other stakeholders, the loss of institutional investor interest and fewer business development opportunities, limited availability of market quotations for our securities, reduced liquidity with respect to our securities, a determination that our Common Shares is “penny stock,” which will require brokers trading in our Common Shares to adhere to more stringent rules, possibly resulting in a reduced level of trading activity in the secondary trading market for our Common Shares, and limited amount of news and analyst coverage of the Company. To the extent that our Common Shares became eligible to trade on the OTC Bulletin Board, another over-the-counter quotation system, or on the pink sheets, an investor may find it more difficult to dispose of their Common Shares or obtain accurate quotations as to the market value of our Common Shares.
+
+
+Renewal of ATM Program
+
+On June 27, 2024, the Company entered into an amendment (the “ATM Amendment”) to its At-the-Market Offering Agreement, dated April 7, 2022 (the “Original ATM Agreement” and together with the ATM Amendment, the “Amended ATM Agreement”), by and between the Company and H.C. Wainwright & Co., LLC (the “Agent”), as sales agent, pursuant to which the Company may offer and sell shares of our Common Shares, from time to time, in “at the market” offerings through the Agent. The Original ATM Agreement was previously filed with the Securities and Exchange Commission on April 7, 2022 on the Company’s Current Report on Form 8-K. The ATM Amendment amends the Original ATM Agreement to reflect, among other provisions, updates to certain sales settlement provisions and reimbursement terms, and to supplement the representations being made by the Company to the Agent. Our Common Shares sold under the Amended ATM Agreement will be offered and sold pursuant to the Company’s shelf registration statement on Form S-3, which was initially filed on February 4, 2022 and amended on February 9, 2022, and was declared effective by the SEC on February 11, 2022. The foregoing description of the terms of the ATM Amendment does not purport to be complete and is qualified in its entirety by reference to the full text of the ATM Amendment, a copy of which is filed as Exhibit 10.1 to the Company’s Current Report on Form 8-K filed with the SEC on June 28, 2024 and is incorporated herein by reference.
+
+Appointments to the Scientific Advisory Board (“SAB”)
+
+On September 5, 2024, the Company appointed Dr. Barry Greenberg to its Scientific Advisory Board (“SAB”). Dr. Greenberg is an Associate Professor in the Department of Neurology and Director of the Alzheimer’s Disease Translational Center at the Johns Hopkins University School of Medicine. He serves on several committees and advisory boards for NIA-funded initiatives focused on genetics, model development and clinical trials in AD, and has recently been selected as Editor-in-Chief of the journal “Alzheimer’s & Dementia: Translational Research and Clinical Interventions”
+
+On April 18, 2024, the Company announced the addition of Dr. David G. Morgan, a renowned leader in neurodegenerative disease, to its SAB reinforcing the Company’s commitment to advancing it’s INM-901 program in the treatment of Alzheimer’s disease.
+
+Ocular Research Program
+
+On April 16, 2024, the Company announced additional preclinical data for INM-089 further demonstrating positive pharmacological effects targeting dry AMD. In vivo preclinical studies in AMD disease models demonstrated significant outcomes for INM-089 including neuroprotection of photoreceptors as well as improved photoreceptor’s function, improved integrity of retinal pigment epithelium and reduction in extracellular autofluorescent deposits, a hallmark of dry AMD. Additionally, data indicates that INM-089 may be more effective as a therapeutic treatment for dry AMD compared to neovascular, or wet, AMD. More specifically, data suggests INM-089 may be an important candidate for geographic atrophy (“GA”) which is common in more advanced cases of dry AMD, affecting the center of the macula.
+
+The Company has strategically prioritized the utilization of its proprietary small molecule drug candidates in its drug development initiatives, resulting in the advancement of the INM-089 program in the treatment of dry AMD taking precedence over the INM-088 program in the treatment of glaucoma. Therefore, the Company will not be advancing INM-088 in the immediate future. Notably, the initial research and data from the INM-088 program have played an instrumental role in shaping the development of INM-089 program.
+
+Additional Preclinical Data for INM-901’s Pharmacological Effects
+
+On April 4, 2024, the Company announced additional preclinical data demonstrating INM-901’s positive pharmacological effects in the potential treatment of Alzheimer’s disease (“AD”). Several preclinical studies were conducted in well-characterized in vivo AD models demonstrating that INM-901 is a preferential signaling agonist of the CB1/CB2 receptors and impacts the PPAR signaling pathway, reduces neuroinflammation and improves neuronal function. Analysis of mRNA data supports the observations made in the previously released behavioral studies results showing improvement of locomotor activity, cognition and memory in diseased animals.
+
+
+Other Personnel Matters
+
+On February 20, 2024, Ms. Netta Jagpal joined the Company as Chief Financial Officer and Corporate Secretary. In conjunction with this appointment, Mr. Jonathan Tegge stepped down as interim Chief Financial Officer and currently holds the position of Corporate Controller.
+
+On May 10, 2024, Ms. Alexandra D.J. Mancini, Senior Vice President, Clinical & Regulatory Affairs, provided notice to the Company and the Company’s Board of Directors of her intention to retire from her position, effective June 30, 2024. In connection with Ms. Mancini’s retirement and eventual departure, and to ensure a smooth transition, the Company retained Ms. Mancini under the terms of a Consulting Agreement (the “Consulting Agreement”), pursuant to which Ms. Mancini will provide certain consulting services to the Company for a period to be mutually agreed upon by both the Company, on the one hand, and Ms. Mancini, on the other. The foregoing description of the Consulting Agreement does not purport to be complete and is subject, and qualified by reference, to the full text of the Consulting Agreement, which has been filed as Exhibit 10.19 attached hereto.
+
+Notice of Termination with Respect to the Technology Licensing Agreement
+
+On May 10, 2024, the Company delivered a 90-day notice of termination to EyeCRO LLC with respect to the Technology Licensing Agreement, specifying an effective date of termination of August 8, 2024. 
+
+Components of Results of Operations
+
+Revenue
+
+Our revenue consists of manufacturing and distribution sales of bulk rare cannabinoid Products, which are generally recognized at a point in time. The Company recognizes revenue when control over the products have been transferred to the customer and the Company has a present right to payment.
+
+Cost of Sales
+
+Cost of sales consist primarily of the purchase price of goods and cost of services rendered, freight costs, warehousing costs, and purchasing costs. Cost of sales also includes production and labor costs for our manufacturing business.
+
+Operating Expenses
+
+Research and Development and Patent Expenses
+
+Research and development and patent expenses represent costs incurred by us for the discovery, development, and manufacture of our Products and Product Candidates and include:
+
+| ● | external research and development expenses incurred under agreements with contract research organizations (“CROs”), CDMOs and consultants; 
+---|---|--- 
+
+| ● | salaries, payroll taxes, employee benefits expenses for individuals involved in research and development efforts; 
+---|---|--- 
+| | 
+| ● | research supplies; and 
+| | 
+| ● | legal and patent office fees related to patent and intellectual property matters. 
+
+We expense research and development costs as incurred. We recognize expenses for certain development activities, such as preclinical studies and manufacturing, based on an evaluation of the progress to completion of specific tasks using data or other information provided to us by our vendors. Payments for these activities are based on the terms of the individual agreements, which may differ from the pattern of expenses incurred. Non-refundable advance payments for goods or services to be received in the future for use in research and development activities are recorded as prepaid expenses. These amounts are recognized as an expense as the goods are delivered or the related services are performed, or until it is no longer expected that the goods will be delivered, or the services rendered.
+
+External costs represent a significant portion of our research and development expenses, which we track on a program-by-program basis following the nomination of a development candidate. Our internal research and development expenses consist primarily of personnel-related expenses, including salaries, benefits and stock-based compensation expense. We do not track our internal research and development expenses on a program-by-program basis as the resources are deployed across multiple projects.
+
+
+The successful development of our Products and Product Candidates is highly uncertain. At this time, we cannot reasonably estimate or know the nature, timing, and estimated costs of the efforts that will be necessary to complete the remainder of the development of our Product Candidates or to develop and commercialize additional Products. We are also unable to predict when, if ever, material net cash inflows will commence from our Product Candidates, if approved. This is due to the numerous risks and uncertainties associated with development, including the uncertainty related to:
+
+| ● | the timing and progress of preclinical and clinical development activities; 
+---|---|--- 
+
+| ● | the number and scope of preclinical and clinical programs we decide to pursue; 
+---|---|--- 
+
+| ● | our ability to raise additional funds necessary to complete preclinical and clinical development and commercialization of our Product Candidates, to further advance the development of our manufacturing technologies, and to develop and commercialize additional Products, if any; 
+---|---|--- 
+
+| ● | our ability to maintain our current research and development programs and to establish new ones; 
+---|---|--- 
+
+| ● | our ability to establish sales, licensing or collaboration arrangements; 
+---|---|--- 
+
+| ● | the progress of the development efforts of parties with whom we may enter into collaboration arrangements; 
+---|---|--- 
+
+| ● | the successful initiation and completion of clinical trials with safety, tolerability and efficacy profiles that are satisfactory to the FDA or any comparable foreign regulatory authority; 
+---|---|--- 
+
+| ● | the receipt and related terms of regulatory approvals from applicable regulatory authorities; 
+---|---|--- 
+
+| ● | the availability of materials for use in production of our Products and Product Candidates; 
+---|---|--- 
+
+| ● | our ability to secure manufacturing supply through relationships with third parties or establish and operate a manufacturing facility; 
+---|---|--- 
+
+| ● | our ability to consistently manufacture our Product Candidates in quantities sufficient for use in clinical trials; 
+---|---|--- 
+
+| ● | our ability to obtain and maintain intellectual property protection and regulatory exclusivity, both in the United States and internationally; 
+---|---|--- 
+
+| ● | our ability to maintain, enforce, defend and protect our rights in our intellectual property portfolio; 
+---|---|--- 
+
+| ● | the commercialization of our Product Candidates, if and when approved, and of new Products; 
+---|---|--- 
+
+| ● | our ability to obtain and maintain third-party payor coverage and adequate reimbursement for our Product Candidates, if approved; 
+---|---|--- 
+
+| ● | the acceptance of our Product Candidates, if approved, by patients, the medical community and third-party payors; 
+---|---|--- 
+
+| ● | competition with other products; and 
+---|---|--- 
+
+| ● | a continued acceptable safety profile of our Product Candidates following receipt of any regulatory approvals. 
+---|---|--- 
+
+
+A change in the outcome of any of these variables with respect to the development of any of our Products or Product Candidates would significantly change the costs and timing associated with the development of those Products or Product Candidates.
+
+Research and development activities account for a significant portion of our operating expenses. Research and development expenses decreased in fiscal 2024 as compared to fiscal 2023, largely due to high start-up costs associated with the multicenter Phase 2 clinical trial in our INM-755 program during fiscal 2022. However, we expect our research and development expenses to increase significantly in future periods as we continue to implement our business strategy, which includes advancing our drug candidates and our manufacturing technologies into and through clinical development, expanding our research and development efforts, including hiring additional personnel to support our research and development efforts, ultimately seeking regulatory approvals for our drug candidates that successfully complete clinical trials, and further developing selected R&D and commercial BayMedica activities. In addition, drug candidates in later stages of clinical development generally incur higher development costs than those in earlier stages of clinical development, primarily due to the increased size and duration of later-stage clinical trials. Accordingly, although we expect our research and development expenses to increase as our drug candidates advance into later stages of clinical development, we do not believe that it is possible, at this time, to accurately project total program-specific expenses through to commercialization. There are numerous factors associated with the successful commercialization of any of our Product Candidates, including future trial design and various regulatory requirements, many of which cannot be determined with accuracy at this time based on our stage of development.
+
+General and Administrative Expenses
+
+General and administrative expenses consist of personnel-related costs, including salaries, benefits and stock-based compensation expense, for our personnel in executive, finance and accounting, human resources, business operations and other administrative functions, investor relations activities, legal fees related to corporate matters, fees paid for accounting and tax services, consulting fees and facility-related costs.
+
+Amortization and Depreciation
+
+Intangible assets are comprised of intellectual property that we acquired in 2014 and 2015 and trade secrets, product formulation knowledge, patents that we acquired in October 2021. The acquired intellectual property and patents are amortized on a straight-line basis based on their estimated useful lives. Equipment and leasehold improvements are depreciated using the straight-line method based on their estimated useful lives.
+
+Share-based Payments
+
+Share-based payments is the stock-based compensation expense related to our granting of stock options to employees and others. The fair value, at the grant date, of equity-settled share awards is charged to our loss over the period for which the benefits of employees and others providing similar services are expected to be received. The vesting components of graded vesting employee awards are measured separately and expensed over the related tranche’s vesting period. The amount recognized as an expense is adjusted to reflect the number of share options expected to vest. The fair value of awards is calculated using the Black-Scholes option pricing model, which considers the exercise price, current market price of the underlying shares, expected life of the award, risk-free interest rate, expected volatility and the dividend yield.
+
+Other Income
+
+Other income consists primarily of interest income earned on our cash, cash equivalents and short-term investments.
+
+Results of Operations
+
+The Company has two operating and reportable segments based on the management approach which designates the internal reporting used by the Chief Operating Decision Maker (“CODM”), which is the Company’s Chief Executive Officer and the senior management team, for making decisions and assessing performance as the source of the Company’s reportable segments. The CODM allocates resources and assesses the performance of each operating segment based on potential licensing opportunities, historical and potential future product sales, operating expenses, and operating income (loss) before interest and taxes. The Company has determined its reportable segments to be InMed Pharmaceuticals (“InMed Pharma”) and BayMedica Commercial based on the information used by the CODM.
+
+
+Comparison of the year ended June 30, 2024 and 2023 for InMed Segment
+
+Research and Development and Patents Expenses
+
+Research and development and patents expenses increased by less than $0.1 million in our InMed segment, or 1%, for the year ended June 30, 2024 as compared to the year ended June 30, 2023\. The increase in research and development and patents expenses was due primarily to an increase in patent fees and compensation. This was offset by a decrease in research supplies. However, we expect our research and development expenses to increase significantly in future periods as we continue to implement our business strategy.
+
+General and administrative expenses
+
+General and administrative expenses decreased by $0.5 million in our InMed segment, or 10%, for the year ended June 30, 2024 as compared to the year ended June 30, 2023. The decrease results primarily from a combination of changes including lower office and administrative expenses, investor relation expenses, and personnel expenses.
+
+Foreign exchange loss
+
+The Company’s functional currency is the US dollar and our foreign exchange loss is predominantly due to transactions with foreign currency. Foreign exchange loss increased by less than $0.1 million in our InMed segment, or 29% for the year ended June 30, 2024, as compared to the year ended June 30, 2023, as a consequence of holding non-US denominated assets and liabilities combined with fluctuations in foreign exchange rates.
+
+Comparison of the year ended June 30, 2024 and 2023 for the BayMedica Segment
+
+
+Sales
+
+Sales increased by $0.5 million in our BayMedica segment, or 11%, for the year ended June 30, 2024 as compared to the year ended June 30, 2023. The increase in sales results from expanded marketing efforts and increased demand in certain cannabinoid products. BayMedica will continue to evaluate opportunities for potential structured supply arrangements and collaborations for the commercial business. Sales and marketing efforts will remain focused on products that contribute highest margins, where BayMedica continues to hold a strong competitive position.
+
+Cost of Sales
+
+Cost of goods sold increased by $0.8 million in our BayMedica segment, or 28%, for the year ended June 30, 2024 as compared to the year ended June 30, 2023. The increase in cost of goods sold is primarily the result of hiring a full-time resource to support the cost of goods function, leading to higher personnel costs, as well as an increase in sales mentioned above, during the year ended June 30, 2024.
+
+Research and Development and Patents Expenses
+
+Research and development and patents expenses decreased by less than $0.1 million in our BayMedica segment, or 10%, for the year ended June 30, 2024 as compared to the year ended June 30, 2023. The decrease in research and development and patents expenses was primarily due to research supplies. This was offset by an increase in external contractors.
+
+General and administrative expenses
+
+General and administrative expenses decreased by less than $0.1 million in our BayMedica segment, or 11%, for the year ended June 30, 2024 as compared to the year ended June 30, 2023. The decrease results primarily from a combination of changes including lower personnel expenses, accounting fees and, legal fees. This was offset by an increase in sales and marketing expenses.
+
+Liquidity and Capital Resources
+
+Since our inception, we have generated revenue from BayMedica product sales and no sales from any other sources and have incurred significant operating losses and negative cash flows from our operations. We have not yet commercialized any of our Product Candidates and we do not expect to generate revenue from sales of any Product Candidates for several years, if at all. We have funded our operations to date primarily with proceeds from the sale of Common Shares.
+
+As of June 30, 2024, we had cash, cash equivalents and short-term investments of $6.6 million.
+
+The following table summarizes our cash flows for each of the periods presented:
+
+
+Operating Activities
+
+During the year ended June 30, 2024, we used cash in operating activities of $7.0 million, primarily resulting from our net loss of $7.7 million combined with $0.4 million used in changes in our non-cash working capital, partially offset by non-cash share-based compensation expenses and inventory write-down.
+
+During the year ended June 30, 2023, we used cash in operating activities of $7.3 million, primarily resulting from our net loss of $7.9 million combined with $0.6 million used in changes in our non-cash working capital, partially offset by non-cash share-based compensation expenses and inventory write-down.
+
+Investing Activities
+
+During the year ended June 30, 2024, cash used in investing activities of less than $0.01 million resulted from the purchases of property and equipment.
+
+During the year ended June 30, 2023, cash used in investing activities of $0.7 million resulted from escrow payments made to BayMedica’s historical equity and convertible debt holders and purchase of property and equipment.
+
+Financing Activities
+
+During the year ended June 30, 2024, cash provided by financing activities of $4.7 million consisted of $5.2 million in gross proceeds derived from the 2023 Private Placement, offset by total transaction costs of $0.5 million.
+
+During the year ended June 30, 2023, cash provided by financing activities of $10.7 million consisted of $12.0 million of gross proceeds from private placements of our Common Shares, offset by total transaction costs of $1.3 million.
+
+Funding Requirements
+
+We expect our expenses to increase substantially in connection with our ongoing research and development activities, particularly as we continue the research and development of and the clinical trials for our Product Candidates. In addition, we expect to incur additional costs associated with operating as a US-listed public company and associated with any required investment into BayMedica’s R&D efforts targeting cannabinoid analogs. As a result, we expect to incur substantial operating losses and negative operating cash flows for the foreseeable future. 
+
+In accordance with the Financial Accounting Standards Board (“FASB”) Accounting Standards Update (“ASU”) 2014-15, Disclosure of Uncertainties about an Entity’s Ability to Continue as a Going Concern (Subtopic 205-40), we have evaluated whether there are conditions and events, considered in the aggregate, that raise substantial doubt about the Company’s ability to continue as a going concern within one year after the date that the consolidated financial statements are issued.
+
+Through June 30, 2024, we have funded our operations primarily with proceeds from the sale of our Common Shares. We have incurred recurring losses and negative cash flows from operations since its inception, including net losses of $7.7 million and $7.9 million for the years ended June 30, 2024 and 2023, respectively. In addition, we have an accumulated deficit of $109.1 million as of June 30, 2024.
+
+As of the issuance date of these consolidated annual financial statements, the Company expects its cash, cash equivalents and short-term investments of $6.6 million as of June 30, 2024 will be sufficient to fund its operating expenses and capital expenditure requirements to the end of the fourth quarter of calendar 2024, depending on the level and timing of realizing BayMedica revenues from the sale of bulk rare cannabinoids in the health & wellness sector as well as the level and timing of the Company operating expenses. The future viability of the Company is dependent on its ability to raise additional capital to finance its operations. The Company has concluded that there is substantial doubt about its ability to continue as a going concern within one year after the date that the consolidated financial statements are issued.
+
+
+We expect to continue to seek additional funding through equity financings, debt financings or other capital sources, including collaborations with other companies, government contracts or other strategic transactions. We may not be able to obtain financing on acceptable terms, or at all. The terms of any financing may adversely affect the holdings or the rights of our existing stockholders.
+
+Our funding requirements and timing and amount of our operating expenditures will depend largely on:
+
+| ● | the scope, progress, results and costs of discovery research, preclinical development, laboratory testing and clinical trials for our Product Candidates; 
+---|---|--- 
+
+| ● | the scope, progress, results and costs of development of our manufacturing technologies; 
+---|---|--- 
+
+| ● | the number of and development requirements for other Products and Product Candidates that we pursue; 
+---|---|--- 
+
+| ● | the costs, timing and outcome of regulatory review of our Product Candidates; 
+---|---|--- 
+
+| ● | our ability to enter into contract manufacturing arrangements for supply of materials and manufacture of our Products and Product Candidates and the terms of such arrangements; 
+---|---|--- 
+
+| ● | the impact of any acquired, or in-licensed, externally developed product(s) and/or technologies; 
+---|---|--- 
+
+| ● | our ability to establish and maintain strategic collaborations, licensing or other arrangements, including sales arrangements, and the financial terms of such arrangements; 
+---|---|--- 
+
+| ● | the sales, costs and timing of future commercialization activities, including product manufacturing, sales, marketing and distribution, for any of our Products and for Product Candidates for which we may receive marketing approval; 
+---|---|--- 
+
+| ● | the costs and timing of preparing, filing and prosecuting patent applications, maintaining and enforcing our intellectual property and proprietary rights and defending any intellectual property- related claims; 
+---|---|--- 
+
+| ● | expansion costs of our operational, financial and management systems and increases to our personnel, including personnel to support our clinical development, manufacturing and commercialization efforts and our operations as a dual listed company; 
+---|---|--- 
+
+| ● | the costs to obtain, maintain, expand and protect our intellectual property portfolio; and 
+---|---|--- 
+
+| ● | the level and timing of realizing revenues from the BayMedica commercial operations. 
+---|---|--- 
+
+A change in the outcome of any of these, or other variables with respect to the development of any of our Products and Product Candidates, could significantly change the costs and timing associated with their development. We will need to continue to rely on additional financing to achieve our business objectives.
+
+In addition to the variables described above, if and when any of our Product Candidates successfully complete development, we will incur substantial additional costs associated with regulatory filings, marketing approval, post-marketing requirements, maintaining our intellectual property rights, and regulatory protection, in addition to other commercial costs. We cannot reasonably estimate these costs at this time.
+
+Until such time, if ever, as we can generate substantial revenues from either our Products or Product Candidates, we expect to finance our cash needs through a combination of equity or debt financings and collaboration arrangements. We currently have no credit facility or committed sources of capital. To the extent that we raise additional capital through the future sale of equity securities, the ownership interests of our shareholders will be diluted, and the terms of these securities may include liquidation or other preferences that adversely affect the rights of our existing common shareholders. If we raise additional funds through the issuance of debt securities, these securities could contain covenants that would restrict our operations. We may require additional capital beyond our currently anticipated amounts, and additional capital may not be available on reasonable terms, or at all. If we raise additional funds through collaboration arrangements or other strategic transactions in the future, we may have to relinquish valuable rights to our technologies, future revenue streams, Products or Product Candidates, or grant licenses on terms that may not be favorable to us. If we are unable to raise additional funds through equity or debt financings when needed, we may be required to delay, limit, reduce or terminate development or future commercialization efforts or grant rights to develop and market Products or Product Candidates that we would otherwise prefer to develop and market ourselves.
+
+
+Off-Balance Sheet Arrangements
+
+During the periods presented, we did not have, and we do not currently have, any off-balance sheet arrangements, as defined in the rules and regulations promulgated by the SEC.
+
+Critical Accounting Policies and Significant Judgments and Estimates
+
+We periodically review our financial reporting and disclosure practices and accounting policies to ensure that they provide accurate and transparent information relative to the current economic and business environment. As part of this process, we have reviewed our selection, application and communication of critical accounting policies and financial disclosures. Management has discussed the development and selection of the critical accounting policies with the Audit Committee of the Board of Directors and the Audit Committee has reviewed the disclosure relating to critical accounting policies in this Management’s Discussion and Analysis. 
+
+This discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements included as part of this report, which have been prepared in accordance with U.S. GAAP. The preparation of our consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the revenue and expenses incurred during the reported periods. We base estimates on our historical experience, known trends and various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions. 
+
+The full details of our accounting policies are presented in Note 2 of our audited consolidated financial statements for the year ended June 30, 2024. These policies are considered by management to be essential to understanding the processes and reasoning that go into the preparation of our consolidated financial statements and the uncertainties that could have a bearing on its financial results. The significant accounting policies that we believe to be most critical in fully understanding and evaluating our financial results are research and development costs and share based payments.
+
+Use of Estimates
+
+The preparation of financial statements in compliance with US GAAP requires management to make estimates and assumptions that affect the reported amount of assets and liabilities as of the balance sheet date, and the corresponding revenues and expenses for the periods reported. It also requires management to exercise judgment in applying the Company’s accounting policies. In the future, actual experience may differ from these estimates and assumptions. The areas involving a higher degree of judgment or complexity, or areas where assumptions and estimates are significant to these consolidated financial statements are the application of the going concern assumptions, determining the fair value of share-based payments, income tax provisions, write-down of inventories to net realizable value, warrant valuations, and the assumptions used in the determination of research & development accruals. Actual results could differ from those estimates.
+
+Research & Development and Patents costs:
+
+Research and development and patents costs is a critical accounting estimate due to the magnitude and nature of the assumptions that are required to calculate third-party accrued and prepaid research and development expenses. Research and development costs are charged to expense as incurred and include, but are not limited to, personnel compensation, including salaries and benefits, services provided by CROs that conduct preclinical and clinical studies, costs of filing and prosecuting patent applications, and lab supplies.
+
+The amount of expenses recognized in a period related to service agreements is based on estimates of the work performed using an accrual basis of accounting. These estimates are based on services provided and goods delivered, contractual terms and experience with similar contracts. We monitor these factors and adjust our estimates accordingly.
+
+
+Share-based payments:
+
+The fair value, at the grant date, of equity share awards is charged to income or loss over the period for which the benefits of employees and others providing similar services are expected to be received, generally the vesting period. The corresponding accrued entitlement is recorded in contributed surplus. The amount recognized as an expense is adjusted to reflect the number of share options expected to vest. The fair value of awards is calculated using the Black-Scholes option pricing model which considers the following factors: 
+
+| ● | Exercise price; 
+---|---|--- 
+
+| ● | Current market price of the underlying shares; 
+---|---|--- 
+
+| ● | Expected life of the award; 
+---|---|--- 
+
+| ● | Risk-free interest rate; 
+---|---|--- 
+
+| ● | Expected volatility; and 
+---|---|--- 
+
+| ● | Dividend yield. 
+---|---|--- 
+
+Management determines costs for share-based payments using market-based valuation techniques. The fair value of the market-based and performance-based share awards are determined at the date of grant using generally accepted valuation techniques. Assumptions are made and judgment used in applying valuation techniques. These assumptions and judgments include estimating the future volatility of the stock price, expected dividend yield, forfeiture rates and corporate performance. For employee awards, we use the “simplified method” to determine the expected term of options. Under this method, the expected term represents the average of the vesting period and the contractual term. Such judgments and assumptions are inherently uncertain. Changes in these assumptions affect the fair value estimates. If we had made different judgments and assumptions than those described previously, the amount of our share-based payments expense, net loss and net loss per common shares amounts could have been materially different.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE

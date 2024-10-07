@@ -1,0 +1,325 @@
+. | MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS. 
+---|--- 
+
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations contains forward-looking statements regarding our business development plans, timing, strategies, expectations, anticipated expenses levels, business prospects and positioning with respect to market, demographic and pricing trends, business outlook, technology spending and various other matters (including contingent liabilities and obligations and changes in accounting policies, standards and interpretations) and express our current intentions, beliefs, expectations, strategies or predictions. These forward-looking statements are based on a number of assumptions and currently available information and are subject to a number of risks and uncertainties. Our actual results could differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth under “Special Note Regarding Forward-Looking Statements” and under “Risk Factors” and elsewhere in this annual report. The following discussion should be read in conjunction with our financial statements and related notes thereto included elsewhere in this annual report.
+
+Our Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is provided in addition to the accompanying consolidated financial statements and notes to assist readers in understanding our results of operations, financial condition, and cash flows. MD&A is organized as follows:
+
+Executive Overview
+
+For the years ended December 31, 2022 and 2021, total revenue was $27,859,000 and $26,707,000, respectively. Revenues increased from the prior year by $1,152,000 or 4.31%.
+
+Cash, cash equivalents, and marketable securities at December 31, 2022 and 2021, were $9,193,000 and $16,965,000, respectively. Cash, cash equivalents and marketable securities decreased from the prior year by $7,772,000 or 45.81%. The Company continues to sell its marketable securities to meet working capital requirements.
+
+Reportable Segments
+
+We have a single operating and business segment, Sequire, which is comprised of two reporting units; Sequire and LD Micro.
+
+Our Sequire segment includes the licensing of our SaaS based Sequire platform and related services, and our LD Micro, Inc. event and conference operations. The segment amounts included in MD&A are presented on a basis consistent with our internal management reporting. All differences between our internal management reporting basis and accounting principles generally accepted in the United States of America (“GAAP”), along with certain corporate-level and other activity, are included in Corporate and Other. Our management, along with our Chief Executive Officer, who acts as our Chief Operating Decision Maker (as such term is defined accounting segment reporting guidance), review financial information presented on a consolidated basis for purposes of allocating resources and evaluating performance and do not evaluate using asset information.
+
+Deconsolidation of BIGToken, Inc.
+
+On December 29, 2021, we deconsolidated our majority owned subsidiary BIG Token, Inc. (“BIGToken”) (formerly known as Force Protection Video Equipment Corporation). After the deconsolidation, we did not beneficially own a controlling interest in BIGToken, and no longer consolidated BIGToken into our financial results for periods ending after December 31, 2021.
+
+The financial results of BIGToken for the year ended December 31, 2021 are presented as income (loss) from discontinued operations, net of taxes on the consolidated statements of operations and its assets and liabilities as of December 31, 2021 are presented as assets and liabilities of discontinued operations on the consolidated balance sheets. The historical consolidated statement of cash flows reflects the effect of the deconsolidation.
+
+Unless noted otherwise, discussion in the notes to the consolidated financial statements pertain to continuing operations.
+
+See Note 4 – Discontinued Operations.
+
+Business Focus
+
+During 2022, we have focused on: (i) the continued growth of our Sequire platform’s functionality and user base and (ii) the expansion of LD Micro events and offerings. Subsequent to year end, we disposed of LD Micro.
+
+Business
+
+We are a technology firm focused on enhancing communications between public companies and their shareholders and investors. We currently have two distinct business units; however we operate in one business segment:
+
+| ● | Our unique SaaS platform, Sequire, which allows issuers to track their shareholders’ behaviors and trends, then use data-driven insights to engage with shareholders across marketing channels. Through Sequire, we offer tools and related data and insight services to allow issuers of publicly traded securities to better understand their position in the market. 
+---|---|--- 
+| | 
+| ● | LD Micro, Inc. organizes and hosts investor conference for micro and small-cap companies. LD Micro, Inc. was disposed of on March 3, 2023\. See the accompanying financial consolidated financial statements for additional information. 
+
+We derive our revenues from the following sources:
+
+| ● | Licensing of our proprietary SaaS platform; 
+---|---|--- 
+| | 
+| ● | Sales of proprietary data; 
+| | 
+| ● | Attendance and sponsorship fees from investor conferences and events; and 
+| | 
+| ● | Sales of insight and consulting services. 
+
+Sequire
+
+The Sequire platform is a central hub where companies can manage certain administrative functions, reach out and engage with shareholders as well as identify potential new investors. The platform utilizes machine learning and advanced analytics to bring our clients actionable information that we believe can be used to maximize ROI through better investor and stockholder communications. Clients then can engage with targeted shareholder groups across marketing channels including email, social media, programmatic, and hyperlocal.
+
+When interpreting data, clients can see gains and losses over time, buying/selling trends, total outstanding shares, new shareholders, and shareholders broken out by percentage. Based on this data, we can assist our users in developing customized communications campaign utilizing targeted ads and messaging.
+
+Among other features, the Sequire platform provides its users tools to monitor investor sentiment and activities and simplify back office administration such as:
+
+● | real-time level-two trading data, 
+---|--- 
+| 
+● | the ability to monitor the activities of competitive public companies of the user, 
+| 
+● | news alerts, 
+| 
+● | custom survey feature to enhance shareholder communications, 
+| 
+● | real-time and searchable warrant and option ledgers; and 
+| 
+● | integrated communication between investor relations programs and corporate communication firms. 
+
+Data Targeting
+
+We help our clients build an investor base through targeted advertising and marketing campaigns, tailored to their needs. Using data-driven insights, we help clients meet their unique marketing objectives when messaging existing investors, new investors, or consumers.
+
+Our team of experts takes a deep dive into each company, building out unique messaging to suit their target investors. Once media campaigns are built, they are run through the Sequire platform across multiple target segments. We then track performance and modify the campaign for the best possible results. Our clients have needs to target particular sectors and exchanges, and the value we deliver lies in the hyper-specific investor insights necessary for that kind of focused outreach.
+
+We are maximizing the efficacy of our media campaigns by providing our clients with custom-built landing pages that are crafted to educate, engage, and convert new investors. When a new investor clicks through an ad, they will land on a story-driven page with data-tracking software embedded to collect analytics for later use.
+
+Virtual Events and LD Micro
+
+LD Micro is the premier event platform for micro-cap and small cap companies. We are currently planning to expand the number and subject matter of our conferences and events. Through the events platform, we have the ability to host a variety of virtual events and conferences including investor conferences, earnings calls, shareholder meetings, annual, investor/analyst days, corporate town halls, roadshows, and more. We believe that our ability to offer users a seamless, centrally managed virtual events solution that can be customized to any industry will help transform our platform into the premier investor event tool. LD Micro, Inc. was disposed of on March 3, 2023. See the accompanying financial consolidated financial statements for additional information.
+
+Marketing and sales
+
+We market our services through our in-house sales and marketing team. Our team focuses on social media, including Facebook, LinkedIn and Twitter, public relations (PR), industry events and the creation of white papers which assist in our marketing efforts and are used as lead generation tools.
+
+Intellectual property
+
+We currently rely on a combination of patents, trade secret laws and restrictions on disclosure to protect our intellectual property rights. Our success depends on the protection of the proprietary aspects of our technology as well as our ability to operate without infringing on the proprietary rights of others. We also enter into proprietary information and confidentiality agreements with our employees, consultants and commercial partners and control access to, and distribution of, our software documentation and other proprietary information. We currently have eight US patent applications filed.
+
+Financial Condition
+
+Liquidity and Going Concern
+
+As reflected in the accompanying consolidated financial statements, for the year ended December 31, 2022, the Company had:
+
+● | Net loss of $31,638,000; and 
+---|--- 
+| 
+● | Net cash used in operations was $12,327,000 
+
+Additionally, at December 31, 2022, the Company had:
+
+● | Accumulated deficit of $61,993,000 
+---|--- 
+| 
+● | Stockholders’ deficit of $9,294,000; and 
+| 
+● | Working capital deficit of $12,866,000 
+
+The Company anticipates that it will need to raise additional capital immediately in order to continue to fund its operations. The Company has relied on third parties for debt based funding of its operations. There is no assurance that the Company will be able to obtain additional funds on commercially acceptable terms, if at all. There is also no assurance that the amount of funds the Company might raise will enable the Company to complete its initiatives or attain profitable operations.
+
+The Company’s operating needs include the planned costs to operate its business, including amounts required to fund working capital and capital expenditures. The Company’s future capital requirements and the adequacy of its available funds will depend on many factors, including the Company’s ability to successfully expand to new markets, competition, and the need to enter into collaborations with other companies or acquire other companies to enhance or complement its product and service offerings.
+
+There can be no assurances that financing will be available on terms which are favorable, or at all. If the Company is unable to raise additional funding to meet its working capital needs in the future, it will be forced to delay, reduce, or cease its operations.
+
+The Company is heavily reliant on its ability to convert its marketable securities into cash. The ability to sell these investments have inherent limitations such as legal restrictions/holding periods and illiquid markets.
+
+In making this assessment we performed a comprehensive analysis of our current circumstances including: our financial position, our cash flows and cash usage forecasts for the twelve months ended December 31, 2023, and our current capital structure including equity-based instruments, obligations and debts. Additionally, this assessment was made as of the date of these consolidated financial statements.
+
+We manage liquidity risk by reviewing, on an ongoing basis, our sources of liquidity and capital requirements. The Company had cash on hand of $7,000 at December 31, 2022.
+
+The Company has historically incurred significant losses since inception and has not demonstrated an ability to generate sufficient revenues from the sales of its products and services to achieve profitable operations.
+
+These factors create substantial doubt about the Company’s ability to continue as a going concern within the twelve-month period subsequent to the date that these financial statements are issued.
+
+The consolidated financial statements do not include any adjustments that might be necessary if the Company is unable to continue as a going concern. Accordingly, the financial statements have been prepared on a basis that assumes the Company will continue as a going concern and which contemplates the realization of assets and satisfaction of liabilities and commitments in the ordinary course of business.
+
+Cash, cash equivalents and marketable securities
+
+Cash consist primarily of highly liquid investments such as money market funds and deposits held at major banks. Certain of such unused amounts are subject to satisfying specified conditions prior to draw-down (such as pledging to our lenders sufficient subscriptions and customer contracts).
+
+Our cash, cash equivalents and marketable securities were as follows for the years ended December 31, 2022 and 2021 as follows:
+
+Results of Operations
+
+Revenues
+
+Sequire Platform: We recognize revenue from the licensing of our Sequire platform, data, marketing and insight services performed in conjunction with the Sequire platform. We recognize revenue using the percentage of completion method based primarily on time.
+
+Conference Revenue: We recognize revenue from hosting conferences and associated sponsorships. We receive payment from presenting companies and sponsors of the conferences.
+
+The following table presents revenues by type for the years ended December 31, 2022 and 2021 as follows:
+
+Sequire SaaS platform revenues remained consistent year over year as operations for this portion of the business were relatively unchanged. Sequire’s customer base did not grow further in 2022, this primarily has to do with the Company switching to cash as compensation for services rendered as compared to accepting marketable securities, which was the more common form of payment earlier in 2022 and 2021.
+
+LD Micro conference revenues increased primarily due to additional events in 2022.
+
+Operating Costs and Expenses
+
+Cost of revenue. Our cost of revenue consists primarily of expenses associated with the cost of media from third parties, such as costs we incur to market our products, data service fees and third-party selling costs as well as certain employee related and platform costs (salaries, technology and content hosting for Sequire). If the estimated consideration expected to be received under a revenue contract less than the estimated cost to fulfill our obligations under the contract, the Company will record a liability for the estimated cost in excess of estimated consideration in the period this is known.
+
+Depreciation and Amortization. Depreciation and Amortization cost represent an allocation of the costs incurred to acquire the long-lived assets used in our business over their estimated useful lives. Our long-lived assets consist of computers, office equipment, and furniture.
+
+General and administrative. General and administrative expense consists primarily of human resources, information technology, professional fees, IT and facility overhead, and other general corporate expenses. We expect our general and administrative expense to increase primarily as a result of the increased costs associated with being a stand-alone public company, specifically, our professional fees. However, we also expect our general and administrative expense to fluctuate as a percentage of our revenue in future periods based on fluctuations in our revenue and the timing of related expenses.
+
+The following table represents our operating expenses for the years ended December 31, 2022 and 2021, respectively.
+
+Cost of revenues increased in 2022 from 2021 primarily due to an increase in data and media costs required to support the Company’s growth and expected expansion.
+
+Depreciation and amortization decreased in 2022 from 2021 primarily due to property and equipment having a lower net book value as well as an impairment loss of $41,000 sustained in 2022.
+
+General and administrative expenses decreased due to employee benefits, officer compensation, professional fees and advertising as well as other general corporate overhead expenses.
+
+Other Income (Expense)
+
+During the years ended December 31, 2022 and 2021, the Company incurred various one-time charges related to impairments, as well as changes to the Company’s marketable securities related to realized losses and changes in fair value (unrealized gains/losses).
+
+The following table represents our operating expenses for the years ended December 31, 2022 and 2021, respectively.
+
+Interest expense decreased to ($4,391,000) in 2022 from ($10,295,000) in 2021 with less debt outstanding. Additionally, the majority of the change in interest costs related to a warrant inducement expense totalling $7,737,000.
+
+Impairment of goodwill ($10,200,000) and intangible assets ($1,481,000) in 2022 related to the disposal and related discontinued operations of the Company’s legacy businesses Steel Media and Five Delta.
+
+Impairment of property and equipment ($41,000) in 2022 related to certain items of equipment identified as no longer having any future economic benefit.
+
+Impairment of marketable securities of $3,664,000 in 2022 relate to those securities whose fair value has declined on an other than temporary basis and deemed permanent. The Company analyzes all of its holdings at least annually, or sooner if circumstances require an assessment to ascertain fair value, and with the assistance of a third party independent valuation specialist concluded that there was sufficient evidence to support the impairment loss.
+
+Loss on note receivable of $47,000 in 2022 related to an investment that the Company elected to receive cash proceeds for, which were less than the carrying amount of the note receivable, in order to settle the outstanding amount due.
+
+Realized gains and losses on marketable securities are determined by comparing the basis of these financial instruments to their exit price. The sale of these securities may be influenced by market timing as well as the Company’s need for additional capital.
+
+Unrealized gains and losses on marketable securities is a measure of the change in fair value at each reporting period.
+
+Contract assets represent securities that are due to the Company as payment for services to be rendered, but have not yet been sent to the Company for deposit. The value of these securities is known on the commitment date, and are subject to mark to market adjustments while held.
+
+Realized gains and losses on designated assets for return of capital are determined by comparing the basis of these financial instruments to their exit price. The sale of these securities may be influenced by market timing as well as the Company’s need for additional capital. Additionally,
+
+Unrealized gains and losses on designated assets for return of capital is a measure of the change in fair value at each reporting period.
+
+Change in fair value of preferred stock is a measure of the change in fair value at each reporting period.
+
+Make-whole provision of $240,000 in 2022 related to an additional amount due to a vendor in connection with an agreement requiring payment in the event certain conditions of that agreement were not satisfied timely.
+
+Interest income for both 2022 and 2021 are insignificant.
+
+Other income (expense) relates to items not otherwise classified above.
+
+Net Loss
+
+The following table represents our net loss (including non-controlling interest) for the years ended December 31, 2022 and 2021, respectively.
+
+As further discussed above, the net loss decreased by $9,589,000 or 23.26% from 2021 to 2022. The decrease primarily included significant amounts for impairment of goodwill, intangibles, property and equipment, and marketable securities aggregating $15,386,000, offset largely by a reduction of interest expense of $5,904,000. However, in 2022, the Company had income from operations of $4,003,000 compared to a loss from operations of ($85,000) in 2021.
+
+Finally, in 2022, the Company had a net loss of $31,638,000. In 2021, and the largest component of the change from 2021 to 2022 was the Company reflected a net loss of $41,227,000, which included a loss from discontinued operations of $25,060,000 (See Note 2 to the consolidated financial statements). This loss was comprised of a loss on discontinued operations of $14,376,000 combined with a loss on disposal of subsidiary of $10,684,000.
+
+Discontinued Operations represent the results from operations of BIGToken. Upon the deconsolidation of BIGToken, its operating results, assets, liabilities and cash flows for all periods presented have been classified as discontinued operations within the Consolidated Financial Statements.
+
+Cash Flows
+
+Our cash, cash equivalents and marketable securities on hand at December 31, 2022 and 2021 were as follows:
+
+The Company actively liquidates its marketable securities to meet its current obligations.
+
+The following table represents our net cash flows for the years ended December 31, 2022 and 2021, respectively.
+
+Cash Flows from Operating Activities
+
+The primary use of cash used in operations is to pay our media, data and platform vendors, employees, and others for a wide range of services. Cash flows used in continuing operating activities decreased by 11,108,000 in 2022 to $12,327,000 from 2021 net cash used in operations of $23,435,000.
+
+Net cash used in operations decreased for one time charges related to impairments of goodwill, intangibles, property and equipment, and marketable securities aggregating $15,386,000.
+
+Other significant changes include:
+
+● | net increases in 2022 of realized and unrealized losses of marketable securities totaling $7,719,000, 
+---|--- 
+| 
+● | net decrease in forgiveness of payroll protection loan of $1,106,000, 
+| 
+● | net decrease in stock based compensation of $1,162,000, 
+| 
+● | net decrease in depreciation and amortization of intangible assets of $502,000, 
+| 
+● | the net change in cash used in operations in 2022 was $12,327,000, a decrease of $2,990,000 from 2021 and consisted of changes affecting items previously mentioned as well as operating assets and liabilities as follows: 
+
+| ● | accounts receivable ($1,135,000), 
+---|---|--- 
+| | 
+| ● | contracts receivable (988,000), 
+| | 
+| ● | due from related party ($263,000), 
+| | 
+| ● | prepaid and other current assets of $1,219,000, 
+| | 
+| ● | designated assets for return of capital of $684,000, 
+| | 
+| ● | note receivable (accrued interest receivable) of $30,000, 
+| | 
+| ● | accounts payable and accrued expenses of $2,815,000, 
+| | 
+| ● | accounts payable and accrued expenses – related party of $159,000, 
+| | 
+| ● | deferred revenue ($2,096,000), 
+| | 
+| ● | deferred income tax liability of $131,000, 
+| | 
+| ● | other current liabilities of $468,000; and 
+| | 
+| ● | operating lease liability of $53,000. 
+
+In 2021, the Company had net cash used in discontinued operations of $8,118,000 as compared to $0 in 2022.
+
+Total net cash used in operating activities for 2022 was $12,327,000 as compared to $23,435,000 in 2021.
+
+The Company expects to continue to use cash in excess of receipts generated from operations for the foreseeable future as accepting cash in lieu of marketable securities for services rendered is lower, with no potential for capital appreciation.
+
+Cash Flows from Investing Activities
+
+For the year ended December 31, 2022, we generated $6,186,000 of net cash provided by investing activities as compared to $4,839,000 in 2021.
+
+The primary driver of our investing activities relates to our proceeds from the sale of marketable securities of $5,221,000 in 2022 as compared to $8,666,000 in 2021. Additionally, in 2021 we purchased marketable securities of $1,450,000 as well as made our deferred payments in connection with the acquisition of LD Micro totaling $3,004,000. There were no such comparative amounts in 2022. In 2022, we received proceeds from the sale of a note receivable for $900,000 as compared to $0 in 2021.
+
+Cash Flows from Financing Activities
+
+For the year ended December 31, 2022 we generated net cash from financing activities of $4,800,000 as compared to $15,443,000 in 2021.
+
+The primary reasons for the change were as follows:
+
+In 2022, we received net proceeds of $5,450,000 from a senior secured revolving credit facility as compared to $0 in 2021.
+
+In 2021, we received net proceeds of $15,952,000 from the exercise of commons stock warrants, as compared to $0 in 2022.
+
+Off Balance Sheet Arrangements
+
+As of the date of this report, we do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors.
+
+The term “off-balance sheet arrangement” generally means any transaction, agreement or other contractual arrangement to which an entity unconsolidated with us is a party, under which we have any obligation arising under a guarantee contract, derivative instrument or variable interest or a retained or contingent interest in assets transferred to such entity or similar arrangement that serves as credit, liquidity or market risk support for such assets.
+
+Liquidity and Capital Resource Requirements
+
+We believe that our current sources of funds will not provide us with adequate liquidity including the ability to repay our remaining debt obligations within one year from the issuance date of these consolidated financial statements.
+
+Our future capital requirements will depend on many factors; however, the Company’s current primary source of capital is the sale of marketable securities it has received as consideration for the licensing of our Sequire platform and the associated services.
+
+The Company’s sales of marketable securities are primarily through sale transactions that qualify for exemptions pursuant to Rule 144 of the Securities Act of 1933. The conditions required to be met to qualify for the exemptions under Rule 144 are often difficult to predict, making it difficult to predict the timing of the associated cash flows from the sales of these securities.
+
+The Company’s holdings of marketable securities are subject to risks and uncertainties such as fluctuations in pricing in the primary market, and legal restrictions that create uncertainty around realization and timing of cash flows.
+
+Additionally, other factors contribute to uncertainty of our cash flows, such as our subscription growth rate, subscription renewal activity, including the timing and the amount of cash received from customers, the expansion of sales and marketing activities, the timing and extent of spending to support development efforts, the introduction of new and enhanced products, the continuing market adoption of Sequire.
+
+The Company projects the sale of its marketable security holding will represent a substantial portion of the cash required for operations for the foreseeable future, consequently creating substantial doubt about the Company’s ability to continue as a going concern.
+
+We continually evaluate our cash needs and may decide it is best to raise additional capital or seek alternative financing sources to fund our operations. However, due to our delisting from NASDAQ, raising capital through the sale of our equity or debt securities will be more challenging as investors are historically less likely to purchase securities that are not listed on a national exchange.
+
+Financing Arrangements
+
+See Notes 6, 12 and 20 in the accompanying consolidated financial statements for a discussion of relevant financing arrangements.
+
+Capital Allocation Framework
+
+As noted above, after cash utilization required for working capital, capital expenditures, and required debt service, we expect that our primary usage of cash will be for business combinations, repayment of outstanding indebtedness, and/or stock repurchases under repurchase programs that may be in place from time to time (subject to the terms of our 2020 Credit Agreement). For further information regarding our recent stock repurchase program, see above.
+
+Critical Accounting Policies and Estimates
+
+There have been no changes to our critical accounting policies during the year ended December 31, 2022. Critical accounting policies and the significant estimates in accordance with such policies are regularly discussed with our Audit Committee.
+
+Those policies are discussed under Note 3—Summary of Significant Accounting Policies, in the notes to Consolidated Financial Statements included in Part II, Item 8, “Financial Statements and Supplementary Data” of our Annual Report on Form 10-K filed with the SEC on September 20, 2024 for the fiscal year ended December 31, 2022.
+
+Recently Issued Accounting Pronouncements
+
+For further information on recently issued accounting pronouncements, see Note 3—Summary of Significant Accounting Policies in the accompanying notes to Consolidated Financial Statements included in Part II, Item 8, “Financial Statements and Supplementary Data” of our Annual Report on Form 10-K filed with the SEC.
